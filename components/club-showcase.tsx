@@ -34,7 +34,7 @@ function ClubCard({ club, onOpen }: { club: Club; onOpen: (club: Club) => void }
         <ArrowUpRight className="club-arrow" aria-hidden="true" />
       </div>
       <div className="club-card-copy">
-        <span className="club-card-category">{club.category}</span>
+        <span className="club-card-category">{club.division}</span>
         <h3>{club.name}</h3>
         <p>{club.description}</p>
       </div>
@@ -80,7 +80,7 @@ function DetailDialog({ club, onClose }: { club: Club | null; onClose: () => voi
           <span className="dialog-index">{String(clubs.findIndex((item) => item.id === club.id) + 1).padStart(2, '0')} / {clubs.length}</span>
         </div>
         <div className="dialog-body">
-          <span className="eyebrow">{club.category} club</span>
+          <span className="eyebrow">{club.division}</span>
           <h2 id="club-dialog-title">{club.name}</h2>
           {club.description && <p className="dialog-description">{club.description}</p>}
 
@@ -129,22 +129,31 @@ function DetailDialog({ club, onClose }: { club: Club | null; onClose: () => voi
 
 export function ClubShowcase() {
   const [category, setCategory] = useState<(typeof categories)[number]>('All')
+  const [division, setDivision] = useState<string>('All')
   const [query, setQuery] = useState('')
   const [visible, setVisible] = useState(false)
   const [selectedClub, setSelectedClub] = useState<Club | null>(null)
   const [order, setOrder] = useState(() => clubs.map((_, index) => index).sort(() => Math.random() - 0.5))
 
+  const availableDivisions = useMemo(() => {
+    if (category === 'All') return []
+    const divs = Array.from(new Set(clubs.filter(c => c.category === category).map(c => c.division)))
+    return divs.sort()
+  }, [category])
+
   const filteredClubs = useMemo(() => {
     const normalizedQuery = query.trim().toLowerCase()
     return order.map((index) => clubs[index]).filter((club) => {
       const matchesCategory = category === 'All' || club.category === category
+      const matchesDivision = division === 'All' || club.division === division
       const matchesQuery = !normalizedQuery || `${club.name} ${club.shortName}`.toLowerCase().includes(normalizedQuery)
-      return matchesCategory && matchesQuery
+      return matchesCategory && matchesDivision && matchesQuery
     })
-  }, [category, order, query])
+  }, [category, division, order, query])
 
   const openClubs = (nextCategory: ClubCategory | 'All') => {
     setCategory(nextCategory)
+    setDivision('All')
     setVisible(true)
     window.setTimeout(() => document.getElementById('club-grid')?.scrollIntoView({ behavior: 'smooth', block: 'start' }), 20)
   }
@@ -190,8 +199,18 @@ export function ClubShowcase() {
           <p className="directory-intro">Browse the student-led communities shaping life at RVCE, one curious idea at a time.</p>
         </div>
         <div className="directory-toolbar">
-          <div className="category-tabs" role="tablist" aria-label="Filter clubs by category">
-            {categories.map((item) => <button key={item} className={category === item ? 'active' : ''} onClick={() => { setCategory(item); setVisible(true) }} type="button" role="tab" aria-selected={category === item}>{item}</button>)}
+          <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
+            <div className="category-tabs" role="tablist" aria-label="Filter clubs by category">
+              {categories.map((item) => <button key={item} className={category === item ? 'active' : ''} onClick={() => { setCategory(item); setDivision('All'); setVisible(true) }} type="button" role="tab" aria-selected={category === item}>{item}</button>)}
+            </div>
+            {availableDivisions.length > 0 && (
+              <div className="division-tabs" role="tablist" aria-label="Filter clubs by division">
+                <button className={division === 'All' ? 'active' : ''} onClick={() => setDivision('All')} type="button" role="tab" aria-selected={division === 'All'}>All Divisions</button>
+                {availableDivisions.map(div => (
+                  <button key={div} className={division === div ? 'active' : ''} onClick={() => setDivision(div)} type="button" role="tab" aria-selected={division === div}>{div}</button>
+                ))}
+              </div>
+            )}
           </div>
           <div className="toolbar-actions">
             <label className="search-field"><Search size={16} /><span className="sr-only">Search clubs</span><input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Search clubs" /></label>

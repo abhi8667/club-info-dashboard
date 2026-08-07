@@ -126,6 +126,9 @@ h2 { margin-bottom: 0; font-size: clamp(40px, 6vw, 72px); line-height: .94; lett
 .category-tabs { display: flex; gap: 3px; padding: 4px; background: #eeeee9; border-radius: 999px; }
 .category-tabs button { border: 0; background: transparent; border-radius: 999px; color: var(--muted-foreground); padding: 8px 15px; font-size: 12px; transition: all .2s ease; }
 .category-tabs button.active { color: var(--primary-foreground); background: var(--primary); }
+.division-tabs { display: flex; flex-wrap: wrap; gap: 4px; }
+.division-tabs button { border: 1px solid #e1e3e4; background: #fbfbf9; border-radius: 999px; color: var(--muted-foreground); padding: 4px 10px; font-size: 10px; transition: all .2s ease; cursor: pointer; }
+.division-tabs button.active { color: var(--primary-foreground); background: var(--primary); border-color: var(--primary); }
 .toolbar-actions { display: flex; align-items: center; gap: 15px; }
 .search-field { display: flex; align-items: center; gap: 8px; color: #92928c; padding: 0 0 7px; border-bottom: 1px solid var(--border); }
 .search-field input { width: 125px; border: 0; outline: 0; color: var(--foreground); background: transparent; font-size: 12px; }

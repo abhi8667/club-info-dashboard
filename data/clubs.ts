@@ -15,6 +15,7 @@ export type Club = {
   name: string
   shortName: string
   category: ClubCategory
+  division: string
   description: string
   color: string
   accent: string

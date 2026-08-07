@@ -24,7 +24,8 @@
         "venue": "TBD",
         "detail": "Introduction to our club activities and roadmap for the year."
       }
-    ]
+    ],
+    "division": "Racing & Automotive"
   },
   {
     "id": "team-helios-racing",
@@ -58,7 +59,8 @@
         "time": "TBD",
         "venue": "TBD"
       }
-    ]
+    ],
+    "division": "Racing & Automotive"
   },
   {
     "id": "team-chimera",
@@ -120,7 +122,8 @@
         "time": "TBD",
         "venue": "TBD"
       }
-    ]
+    ],
+    "division": "Racing & Automotive"
   },
   {
     "id": "project-garuda",
@@ -168,7 +171,8 @@
         "time": "TBD",
         "venue": "TBD"
       }
-    ]
+    ],
+    "division": "Racing & Automotive"
   },
   {
     "id": "coding-club-rvce",
@@ -216,7 +220,8 @@
         "time": "TBD",
         "venue": "TBD"
       }
-    ]
+    ],
+    "division": "Computer Science, Software & AI"
   },
   {
     "id": "gdg-rvce",
@@ -278,7 +283,8 @@
         "time": "TBD",
         "venue": "TBD"
       }
-    ]
+    ],
+    "division": "Computer Science, Software & AI"
   },
   {
     "id": "acm-rvce",
@@ -326,7 +332,8 @@
         "time": "TBD",
         "venue": "TBD"
       }
-    ]
+    ],
+    "division": "Computer Science, Software & AI"
   },
   {
     "id": "rvce-women-in-cloud-insider-circle",
@@ -374,7 +381,8 @@
         "time": "TBD",
         "venue": "TBD"
       }
-    ]
+    ],
+    "division": "Computer Science, Software & AI"
   },
   {
     "id": "team-frequency",
@@ -422,7 +430,8 @@
         "time": "TBD",
         "venue": "TBD"
       }
-    ]
+    ],
+    "division": "Computer Science, Software & AI"
   },
   {
     "id": "project-jatayu",
@@ -456,7 +465,8 @@
         "time": "TBD",
         "venue": "TBD"
       }
-    ]
+    ],
+    "division": "Space, Drone & Aerospace"
   },
   {
     "id": "team-antariksh",
@@ -483,7 +493,8 @@
         "venue": "TBD",
         "detail": "Introduction to our club activities and roadmap for the year."
       }
-    ]
+    ],
+    "division": "Space, Drone & Aerospace"
   },
   {
     "id": "team-vyoma",
@@ -510,7 +521,8 @@
         "venue": "TBD",
         "detail": "Introduction to our club activities and roadmap for the year."
       }
-    ]
+    ],
+    "division": "Space, Drone & Aerospace"
   },
   {
     "id": "team-astra-robotics",
@@ -551,7 +563,8 @@
         "time": "TBD",
         "venue": "TBD"
       }
-    ]
+    ],
+    "division": "Robotics, Electronics & Core Tech"
   },
   {
     "id": "ham-club",
@@ -599,7 +612,8 @@
         "time": "TBD",
         "venue": "TBD"
       }
-    ]
+    ],
+    "division": "Robotics, Electronics & Core Tech"
   },
   {
     "id": "team-elektra",
@@ -626,7 +640,8 @@
         "venue": "TBD",
         "detail": "Introduction to our club activities and roadmap for the year."
       }
-    ]
+    ],
+    "division": "Robotics, Electronics & Core Tech"
   },
   {
     "id": "quantum-club-rvce",
@@ -653,7 +668,8 @@
         "venue": "TBD",
         "detail": "Introduction to our club activities and roadmap for the year."
       }
-    ]
+    ],
+    "division": "Robotics, Electronics & Core Tech"
   },
   {
     "id": "accelerate-club-rvce",
@@ -680,7 +696,8 @@
         "venue": "TBD",
         "detail": "Introduction to our club activities and roadmap for the year."
       }
-    ]
+    ],
+    "division": "Robotics, Electronics & Core Tech"
   },
   {
     "id": "ieee-rvce",
@@ -707,7 +724,8 @@
         "venue": "TBD",
         "detail": "Introduction to our club activities and roadmap for the year."
       }
-    ]
+    ],
+    "division": "Robotics, Electronics & Core Tech"
   },
   {
     "id": "team-dhruva",
@@ -762,7 +780,8 @@
         "time": "TBD",
         "venue": "TBD"
       }
-    ]
+    ],
+    "division": "Astronomy & Interdisciplinary Engineering"
   },
   {
     "id": "team-krushi",
@@ -789,7 +808,8 @@
         "time": "TBD",
         "venue": "TBD"
       }
-    ]
+    ],
+    "division": "Astronomy & Interdisciplinary Engineering"
   },
   {
     "id": "spark-the-iucee-student-chapter",
@@ -851,7 +871,8 @@
         "time": "TBD",
         "venue": "TBD"
       }
-    ]
+    ],
+    "division": "Astronomy & Interdisciplinary Engineering"
   },
   {
     "id": "team-dhi",
@@ -878,7 +899,8 @@
         "venue": "TBD",
         "detail": "Introduction to our club activities and roadmap for the year."
       }
-    ]
+    ],
+    "division": "Astronomy & Interdisciplinary Engineering"
   },
   {
     "id": "alaap",
@@ -933,7 +955,8 @@
         "time": "TBD",
         "venue": "TBD"
       }
-    ]
+    ],
+    "division": "Cultural, Dramatics & Music"
   },
   {
     "id": "carv-hindi",
@@ -967,7 +990,8 @@
         "time": "TBD",
         "venue": "TBD"
       }
-    ]
+    ],
+    "division": "Cultural, Dramatics & Music"
   },
   {
     "id": "carv-english",
@@ -1064,7 +1088,8 @@
         "time": "TBD",
         "venue": "TBD"
       }
-    ]
+    ],
+    "division": "Cultural, Dramatics & Music"
   },
   {
     "id": "evoke",
@@ -1126,7 +1151,8 @@
         "time": "TBD",
         "venue": "TBD"
       }
-    ]
+    ],
+    "division": "Cultural, Dramatics & Music"
   },
   {
     "id": "studio-zero",
@@ -1174,7 +1200,8 @@
         "time": "TBD",
         "venue": "TBD"
       }
-    ]
+    ],
+    "division": "Cultural, Dramatics & Music"
   },
   {
     "id": "f-6-3-photography",
@@ -1201,7 +1228,8 @@
         "venue": "TBD",
         "detail": "Introduction to our club activities and roadmap for the year."
       }
-    ]
+    ],
+    "division": "Cultural, Dramatics & Music"
   },
   {
     "id": "debate-society",
@@ -1242,7 +1270,8 @@
         "time": "TBD",
         "venue": "TBD"
       }
-    ]
+    ],
+    "division": "Literary, Quizzing & Public Speaking"
   },
   {
     "id": "quizcorp",
@@ -1269,7 +1298,8 @@
         "venue": "TBD",
         "detail": "Introduction to our club activities and roadmap for the year."
       }
-    ]
+    ],
+    "division": "Literary, Quizzing & Public Speaking"
   },
   {
     "id": "tedxrvce",
@@ -1317,7 +1347,8 @@
         "time": "TBD",
         "venue": "TBD"
       }
-    ]
+    ],
+    "division": "Literary, Quizzing & Public Speaking"
   },
   {
     "id": "kannada-sangha",
@@ -1344,7 +1375,8 @@
         "venue": "TBD",
         "detail": "Introduction to our club activities and roadmap for the year."
       }
-    ]
+    ],
+    "division": "Regional, Social Service & Youth Leadership"
   },
   {
     "id": "kannada-carv",
@@ -1371,7 +1403,8 @@
         "venue": "TBD",
         "detail": "Introduction to our club activities and roadmap for the year."
       }
-    ]
+    ],
+    "division": "Regional, Social Service & Youth Leadership"
   },
   {
     "id": "raag",
@@ -1398,7 +1431,8 @@
         "time": "TBD",
         "venue": "TBD"
       }
-    ]
+    ],
+    "division": "Regional, Social Service & Youth Leadership"
   },
   {
     "id": "rotaract-club-of-r-v-c-e-",
@@ -1425,7 +1459,8 @@
         "venue": "TBD",
         "detail": "Introduction to our club activities and roadmap for the year."
       }
-    ]
+    ],
+    "division": "Regional, Social Service & Youth Leadership"
   },
   {
     "id": "nss-rvce",
@@ -1459,7 +1494,8 @@
         "time": "TBD",
         "venue": "TBD"
       }
-    ]
+    ],
+    "division": "Regional, Social Service & Youth Leadership"
   },
   {
     "id": "sattva",
@@ -1486,7 +1522,8 @@
         "venue": "TBD",
         "detail": "Introduction to our club activities and roadmap for the year."
       }
-    ]
+    ],
+    "division": "Regional, Social Service & Youth Leadership"
   },
   {
     "id": "ecell",
@@ -1513,6 +1550,7 @@
         "time": "TBD",
         "venue": "TBD"
       }
-    ]
+    ],
+    "division": "Entrepreneurship & Innovation"
   }
 ]
