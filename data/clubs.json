@@ -577,7 +577,7 @@
     "symbol": "G",
     "lead": "Student Lead",
     "email": "+91 7349096003",
-    "instagram": "@gdg_rvce",
+    "instagram": "https://www.instagram.com/gdg_rvce",
     "venue": "ISE Seminar Hall",
     "images": [
       "https://lh3.googleusercontent.com/d/1GOtSIXEGS0ZrAE8p-jPd0KzXKH7es5PN",
@@ -614,7 +614,7 @@
       }
     ],
     "division": "Computer Science, Software & AI",
-    "logo": "https://lh3.googleusercontent.com/d/1l6CYFX7vK_i4v33cC3t2TrAqMUm2JM74"
+    "logo": "/clubs/gdg-rvce/logo.jpg"
   },
   {
     "id": "ham-club",

@@ -232,7 +232,18 @@ function DetailDialog({ club, onClose }: { club: Club | null; onClose: () => voi
             <div className="dialog-section-heading"><span>Find the club</span><span>Lead · {club.lead}</span></div>
             <div className="contact-links">
               {club.email && <a href={`mailto:${club.email}`}><Mail size={16} />Email club</a>}
-              {club.instagram && <a href={`https://instagram.com/${club.instagram.slice(1)}`} target="_blank" rel="noreferrer"><AtSign size={16} />{club.instagram}</a>}
+              {club.instagram && (
+                <a 
+                  href={club.instagram.startsWith('http://') || club.instagram.startsWith('https://') ? club.instagram : `https://instagram.com/${club.instagram.replace(/^@/, '')}`} 
+                  target="_blank" 
+                  rel="noreferrer"
+                >
+                  <AtSign size={16} />
+                  {club.instagram.startsWith('http://') || club.instagram.startsWith('https://')
+                    ? (club.instagram.match(/instagram\.com\/([a-zA-Z0-9._]+)/)?.[1] ? `@${club.instagram.match(/instagram\.com\/([a-zA-Z0-9._]+)/)![1]}` : club.instagram)
+                    : (club.instagram.startsWith('@') ? club.instagram : `@${club.instagram}`)}
+                </a>
+              )}
             </div>
           </div>}
         </div>
