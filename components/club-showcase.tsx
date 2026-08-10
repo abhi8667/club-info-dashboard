@@ -13,6 +13,7 @@ export interface DivisionMeta {
   color: string
   accent: string
   symbol: string
+  icon?: string
   description: string
 }
 
@@ -24,6 +25,7 @@ export const DIVISION_META: { [key: string]: DivisionMeta } = {
     color: '#fee2e2',
     accent: '#991b1b',
     symbol: '🏎️',
+    icon: '/divisions/Racing & Automotive.png',
     description: 'Formula Student, Hybrid prototypes, and BAJA ATV motorsport teams driving global innovation.',
   },
   'Computer Science, Software & AI': {
@@ -33,6 +35,7 @@ export const DIVISION_META: { [key: string]: DivisionMeta } = {
     color: '#dbeafe',
     accent: '#1e40af',
     symbol: '💻',
+    icon: '/divisions/Computer Science, Software & AI.png',
     description: 'Competitive coding, open-source engineering, AI models, cloud computing & developer guilds.',
   },
   'Space, Drone & Aerospace': {
@@ -42,6 +45,7 @@ export const DIVISION_META: { [key: string]: DivisionMeta } = {
     color: '#e0f2fe',
     accent: '#075985',
     symbol: '🚀',
+    icon: '/divisions/Space, Drone & Aerospace.png',
     description: 'Rocketry prototypes, autonomous drone swarms, and CubeSat satellite mission design.',
   },
   'Robotics, Electronics & Core Tech': {
@@ -51,6 +55,7 @@ export const DIVISION_META: { [key: string]: DivisionMeta } = {
     color: '#f3e8ff',
     accent: '#6b21a8',
     symbol: '🤖',
+    icon: '/divisions/Robotics, Electronics & Core Tech.png',
     description: 'Autonomous robotics, embedded hardware, HAM radio, quantum physics & IEEE chapters.',
   },
   'Astronomy & Interdisciplinary Engineering': {
@@ -60,6 +65,7 @@ export const DIVISION_META: { [key: string]: DivisionMeta } = {
     color: '#fef3c7',
     accent: '#92400e',
     symbol: '🔭',
+    icon: '/divisions/Astronomy & Interdisciplinary Engineering.png',
     description: 'Stargazing expeditions, smart agriculture automation & multidisciplinary student research.',
   },
   'Cultural, Dramatics & Music': {
@@ -69,6 +75,7 @@ export const DIVISION_META: { [key: string]: DivisionMeta } = {
     color: '#fce7f3',
     accent: '#9d174d',
     symbol: '🎭',
+    icon: '/divisions/Cultural, Dramatics & Music.png',
     description: 'Classical & western music bands, contemporary street dance, theatrical drama & photography.',
   },
   'Literary, Quizzing & Public Speaking': {
@@ -78,6 +85,7 @@ export const DIVISION_META: { [key: string]: DivisionMeta } = {
     color: '#d1fae5',
     accent: '#065f46',
     symbol: '🎙️',
+    icon: '/divisions/Literary, Quizzing & Public Speaking.png',
     description: 'Parliamentary debate, trivia quizzing, creative writing & official TEDxRVCE events.',
   },
   'Regional, Social Service & Youth Leadership': {
@@ -87,6 +95,7 @@ export const DIVISION_META: { [key: string]: DivisionMeta } = {
     color: '#ffedd5',
     accent: '#9a3412',
     symbol: '🤝',
+    icon: '/divisions/Regional, Social Service & Youth Leadership.png',
     description: 'Rotaract, NSS social welfare, Kannada cultural heritage & youth leadership forums.',
   },
   'Entrepreneurship & Innovation': {
@@ -96,6 +105,7 @@ export const DIVISION_META: { [key: string]: DivisionMeta } = {
     color: '#fef9c3',
     accent: '#854d0e',
     symbol: '💡',
+    icon: '/divisions/Entrepreneurship & Innovation.png',
     description: 'Startup incubator, angel investment bootcamps & student venture pitch competitions.',
   },
 }
@@ -301,7 +311,15 @@ function DivisionDrawer({
                 margin: 0,
               } as React.CSSProperties}
             >
-              <span>{meta.symbol}</span>
+              {meta.icon ? (
+                <img
+                  src={meta.icon}
+                  alt={meta.name}
+                  style={{ width: '100%', height: '100%', objectFit: 'contain', padding: '6px' }}
+                />
+              ) : (
+                <span>{meta.symbol}</span>
+              )}
             </div>
 
             <div>
@@ -507,7 +525,15 @@ export function ClubShowcase() {
                     '--div-accent': meta.accent,
                   } as React.CSSProperties}
                 >
-                  <span>{meta.symbol}</span>
+                  {meta.icon ? (
+                    <img
+                      src={meta.icon}
+                      alt={name}
+                      style={{ width: '100%', height: '100%', objectFit: 'contain', padding: '6px' }}
+                    />
+                  ) : (
+                    <span>{meta.symbol}</span>
+                  )}
                 </div>
 
                 <h3>{name}</h3>
