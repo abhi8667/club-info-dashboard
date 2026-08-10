@@ -192,58 +192,67 @@ h2 { margin-bottom: 0; font-size: clamp(40px, 6vw, 72px); line-height: .94; lett
 .division-cards-grid {
   display: grid !important;
   grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
-  gap: 12px;
-  margin-top: 24px;
+  gap: 20px;
+  margin-top: 32px;
 }
 
 .division-large-card {
   border: 1px solid var(--border);
   background: var(--card);
-  border-radius: 24px;
-  padding: 28px 18px 20px;
+  border-radius: 28px;
+  padding: 36px 20px 30px;
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
   text-align: center;
   cursor: pointer;
   transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.25s ease, border-color 0.25s ease;
   position: relative;
   min-width: 0;
   width: 100%;
+  box-shadow: 0 4px 16px rgba(20, 20, 20, 0.04);
 }
+
 .division-large-card:hover {
   transform: translateY(-6px);
-  border-color: #c5c5be;
-  box-shadow: 0 16px 32px rgba(20, 20, 20, 0.08);
+  border-color: #bbbbb4;
+  box-shadow: 0 16px 36px rgba(20, 20, 20, 0.08);
 }
 
-.division-large-mark {
-  width: 104px;
-  height: 104px;
-  border-radius: 24px;
+.division-icon-container {
+  width: 96px;
+  height: 96px;
   display: grid;
   place-items: center;
+  margin-bottom: 24px;
   position: relative;
-  overflow: hidden;
-  font-size: 42px;
-  margin-bottom: 18px;
-  background: #ffffff;
-  border: 1px solid var(--border);
-  box-shadow: 0 4px 14px rgba(20, 20, 20, 0.06);
-}
-.division-large-mark img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
 }
 
-.division-large-card h3 {
-  font-size: 15px;
+.division-icon-img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.division-icon-symbol {
+  font-size: 48px;
+}
+
+.division-card-title {
+  font-size: 16px;
   font-weight: 700;
-  margin: 0 0 14px;
+  margin: 0 0 10px;
   letter-spacing: -.03em;
   color: var(--foreground);
   line-height: 1.25;
+  max-width: 220px;
+}
+
+.division-card-count {
+  font: 12px 'DM Sans', sans-serif;
+  color: var(--muted-foreground);
+  font-weight: 500;
 }
 
 .division-preview-stack {

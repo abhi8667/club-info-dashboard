@@ -518,53 +518,23 @@ export function ClubShowcase() {
                 onClick={() => setActiveDivisionDrawer(name)}
                 aria-label={`Open ${name} drawer`}
               >
-                <div
-                  className="division-large-mark"
-                  style={{
-                    '--div-color': meta.color,
-                    '--div-accent': meta.accent,
-                  } as React.CSSProperties}
-                >
+                <div className="division-icon-container">
                   {meta.icon ? (
                     <img
                       src={meta.icon}
                       alt={name}
-                      style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+                      className="division-icon-img"
                     />
                   ) : (
-                    <span>{meta.symbol}</span>
+                    <span className="division-icon-symbol">{meta.symbol}</span>
                   )}
                 </div>
 
-                <h3>{name}</h3>
+                <h3 className="division-card-title">{name}</h3>
 
-                <div className="division-preview-stack">
-                  {divClubs.slice(0, 4).map((c) => (
-                    <div key={c.id} className="avatar-mini" title={c.name}>
-                      {c.logo && c.logo.startsWith('http') ? (
-                        <img
-                          src={c.logo}
-                          alt={c.shortName}
-                          style={{ width: '100%', height: '100%', objectFit: 'cover' }}
-                          onError={(e) => {
-                            e.currentTarget.style.display = 'none'
-                          }}
-                        />
-                      ) : (
-                        <span>{c.symbol || c.shortName.charAt(0)}</span>
-                      )}
-                    </div>
-                  ))}
-                  {divClubs.length > 4 && (
-                    <div className="avatar-mini" style={{ fontSize: '9px', background: '#e2e8f0', color: '#475569' }}>
-                      +{divClubs.length - 4}
-                    </div>
-                  )}
-                </div>
-
-                <div className="division-explore-btn">
-                  Explore {divClubs.length} {divClubs.length === 1 ? 'club' : 'clubs'} <ArrowUpRight size={14} />
-                </div>
+                <span className="division-card-count">
+                  {divClubs.length} {divClubs.length === 1 ? 'Club' : 'Clubs'}
+                </span>
               </button>
             ))}
           </div>
