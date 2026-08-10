@@ -444,8 +444,6 @@ export function ClubShowcase() {
         <a className="wordmark" href="#top" aria-label="The clubs of RVCE home"><span>RVCE</span><i>Clubs</i></a>
         <nav className="main-nav" aria-label="Main navigation">
           <a href="#clubs">Clubs <span>{clubs.length}</span></a>
-          <a href="#about">Events <span>Soon</span></a>
-          <a href="#about">About</a>
           <a href="#clubs">Wall</a>
         </nav>
         <button className="header-action" onClick={() => openClubs('All')} type="button" aria-label="Open club wall"><Search size={17} /><span>Explore clubs</span><ArrowUpRight size={16} /></button>
