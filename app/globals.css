@@ -41,6 +41,13 @@ button, a { -webkit-tap-highlight-color: transparent; }
 button { cursor: pointer; }
 
 .site-header { max-width: 1280px; margin: 0 auto; padding: 25px 32px; display: flex; align-items: center; justify-content: space-between; gap: 24px; }
+.header-brand-group { display: flex; align-items: center; gap: 14px; }
+.rvce-top-logo { height: 42px; width: auto; object-fit: contain; }
+.header-brand-divider { width: 1px; height: 26px; background: var(--border); }
+@media (max-width: 640px) {
+  .rvce-top-logo { height: 32px; }
+  .header-brand-group { gap: 10px; }
+}
 .wordmark { color: var(--foreground); display: inline-flex; align-items: baseline; gap: 5px; text-decoration: none; letter-spacing: -.06em; font-weight: 700; font-size: 20px; }
 .wordmark i { font-size: 12px; font-style: normal; font-weight: 500; letter-spacing: -.03em; color: var(--muted-foreground); }
 .main-nav { display: flex; gap: 28px; margin-left: auto; margin-right: 24px; }
@@ -49,8 +56,13 @@ button { cursor: pointer; }
 .header-action, .primary-action { background: var(--primary); color: var(--primary-foreground); border: 0; border-radius: 999px; display: inline-flex; align-items: center; gap: 14px; padding: 11px 16px 11px 18px; font-size: 13px; transition: transform .2s ease, opacity .2s ease; }
 .header-action:hover, .primary-action:hover { transform: translateY(-2px); opacity: .86; }
 
-.hero { max-width: 1280px; min-height: 540px; margin: 0 auto; padding: 80px 32px 90px; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; }
+.hero { max-width: 1280px; min-height: 540px; margin: 0 auto; padding: 60px 32px 90px; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; }
 .hero-copy { max-width: 800px; display: flex; flex-direction: column; align-items: center; text-align: center; }
+.hero-logo-wrapper { margin-bottom: 20px; display: flex; justify-content: center; }
+.hero-rvce-logo { height: 68px; width: auto; object-fit: contain; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.06)); }
+@media (max-width: 640px) {
+  .hero-rvce-logo { height: 48px; }
+}
 .eyebrow { color: var(--muted-foreground); text-transform: uppercase; letter-spacing: .14em; font: 10px/1.4 'DM Mono', monospace; }
 .hero-eyebrow { margin: 0 0 24px; text-align: center; }
 h1, h2, h3, p { margin-top: 0; }

@@ -451,7 +451,15 @@ export function ClubShowcase() {
   return (
     <main>
       <header className="site-header">
-        <a className="wordmark" href="#top" aria-label="The clubs of RVCE home"><span>RVCE</span><i>Clubs</i></a>
+        <div className="header-brand-group">
+          <a href="#top" className="rvce-logo-link" title="RV College of Engineering">
+            <img src="/rvce-logo.png" alt="RV College of Engineering" className="rvce-top-logo" />
+          </a>
+          <div className="header-brand-divider" />
+          <a className="wordmark" href="#top" aria-label="The clubs of RVCE home">
+            <span>RVCE</span><i>Clubs</i>
+          </a>
+        </div>
         <nav className="main-nav" aria-label="Main navigation">
           <a href="#clubs">Clubs <span>{clubs.length}</span></a>
           <a href="#clubs">Wall</a>
@@ -461,6 +469,9 @@ export function ClubShowcase() {
 
       <section className="hero" id="top">
         <div className="hero-copy">
+          <div className="hero-logo-wrapper">
+            <img src="/rvce-logo.png" alt="RV College of Engineering Logo" className="hero-rvce-logo" />
+          </div>
           <p className="eyebrow hero-eyebrow">RV College of Engineering · Bengaluru</p>
           <h1>A collection of iconic<br /><em>campus clubs.</em></h1>
           <p className="hero-description">A living directory of the people, practices, and communities that make campus feel like more than a campus.</p>
