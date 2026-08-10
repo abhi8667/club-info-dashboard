@@ -315,7 +315,7 @@ function DivisionDrawer({
                 <img
                   src={meta.icon}
                   alt={meta.name}
-                  style={{ width: '100%', height: '100%', objectFit: 'contain', padding: '6px' }}
+                  style={{ width: '100%', height: '100%', objectFit: 'cover' }}
                 />
               ) : (
                 <span>{meta.symbol}</span>
@@ -529,7 +529,7 @@ export function ClubShowcase() {
                     <img
                       src={meta.icon}
                       alt={name}
-                      style={{ width: '100%', height: '100%', objectFit: 'contain', padding: '6px' }}
+                      style={{ width: '100%', height: '100%', objectFit: 'cover' }}
                     />
                   ) : (
                     <span>{meta.symbol}</span>
@@ -541,10 +541,17 @@ export function ClubShowcase() {
                 <div className="division-preview-stack">
                   {divClubs.slice(0, 4).map((c) => (
                     <div key={c.id} className="avatar-mini" title={c.name}>
-                      {c.logo ? (
-                        <img src={c.logo} alt={c.shortName} style={{ width: '100%', height: '100%', objectFit: 'contain' }} />
+                      {c.logo && c.logo.startsWith('http') ? (
+                        <img
+                          src={c.logo}
+                          alt={c.shortName}
+                          style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+                          onError={(e) => {
+                            e.currentTarget.style.display = 'none'
+                          }}
+                        />
                       ) : (
-                        <span>{c.symbol}</span>
+                        <span>{c.symbol || c.shortName.charAt(0)}</span>
                       )}
                     </div>
                   ))}
