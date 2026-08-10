@@ -25,7 +25,7 @@ export const DIVISION_META: { [key: string]: DivisionMeta } = {
     color: '#fee2e2',
     accent: '#991b1b',
     symbol: '🏎️',
-    icon: '/divisions/Racing & Automotive.png',
+    icon: '/divisions/Racing and Automotive.png',
     description: 'Formula Student, Hybrid prototypes, and BAJA ATV motorsport teams driving global innovation.',
   },
   'Computer Science, Software & AI': {
@@ -35,7 +35,7 @@ export const DIVISION_META: { [key: string]: DivisionMeta } = {
     color: '#dbeafe',
     accent: '#1e40af',
     symbol: '💻',
-    icon: '/divisions/Computer Science, Software & AI.png',
+    icon: '/divisions/CS and AI.png',
     description: 'Competitive coding, open-source engineering, AI models, cloud computing & developer guilds.',
   },
   'Space, Drone & Aerospace': {
@@ -45,7 +45,7 @@ export const DIVISION_META: { [key: string]: DivisionMeta } = {
     color: '#e0f2fe',
     accent: '#075985',
     symbol: '🚀',
-    icon: '/divisions/Space, Drone & Aerospace.png',
+    icon: '/divisions/Space and Drone.png',
     description: 'Rocketry prototypes, autonomous drone swarms, and CubeSat satellite mission design.',
   },
   'Robotics, Electronics & Core Tech': {
@@ -55,18 +55,28 @@ export const DIVISION_META: { [key: string]: DivisionMeta } = {
     color: '#f3e8ff',
     accent: '#6b21a8',
     symbol: '🤖',
-    icon: '/divisions/Robotics, Electronics & Core Tech.png',
+    icon: '/divisions/Robotics and core tech.png',
     description: 'Autonomous robotics, embedded hardware, HAM radio, quantum physics & IEEE chapters.',
   },
-  'Astronomy & Interdisciplinary Engineering': {
-    name: 'Astronomy & Interdisciplinary Engineering',
-    shortName: 'Astronomy & AgriTech',
+  'Astronomy & Space Sciences': {
+    name: 'Astronomy & Space Sciences',
+    shortName: 'Astronomy & Stargazing',
     category: 'Technical',
     color: '#fef3c7',
     accent: '#92400e',
     symbol: '🔭',
-    icon: '/divisions/Astronomy & Interdisciplinary Engineering.png',
-    description: 'Stargazing expeditions, smart agriculture automation & multidisciplinary student research.',
+    icon: '/divisions/Astronomy.png',
+    description: 'Stargazing expeditions, space science research & celestial observational projects.',
+  },
+  'Industry Connect and Interdisciplinary Engineering': {
+    name: 'Industry Connect and Interdisciplinary Engineering',
+    shortName: 'Industry & R&D',
+    category: 'Technical',
+    color: '#e0e7ff',
+    accent: '#3730a3',
+    symbol: '⚙️',
+    icon: '/divisions/Industry connect.png',
+    description: 'IUCEE education chapters, AgriTech automation, and multidisciplinary student research.',
   },
   'Cultural, Dramatics & Music': {
     name: 'Cultural, Dramatics & Music',
@@ -75,7 +85,7 @@ export const DIVISION_META: { [key: string]: DivisionMeta } = {
     color: '#fce7f3',
     accent: '#9d174d',
     symbol: '🎭',
-    icon: '/divisions/Cultural, Dramatics & Music.png',
+    icon: '/divisions/Cultural and Dramatics.png',
     description: 'Classical & western music bands, contemporary street dance, theatrical drama & photography.',
   },
   'Literary, Quizzing & Public Speaking': {
@@ -85,7 +95,7 @@ export const DIVISION_META: { [key: string]: DivisionMeta } = {
     color: '#d1fae5',
     accent: '#065f46',
     symbol: '🎙️',
-    icon: '/divisions/Literary, Quizzing & Public Speaking.png',
+    icon: '/divisions/Quizzing and Public Speaking.png',
     description: 'Parliamentary debate, trivia quizzing, creative writing & official TEDxRVCE events.',
   },
   'Regional, Social Service & Youth Leadership': {
@@ -95,7 +105,7 @@ export const DIVISION_META: { [key: string]: DivisionMeta } = {
     color: '#ffedd5',
     accent: '#9a3412',
     symbol: '🤝',
-    icon: '/divisions/Regional, Social Service & Youth Leadership.png',
+    icon: '/divisions/Social service and Leadership.png',
     description: 'Rotaract, NSS social welfare, Kannada cultural heritage & youth leadership forums.',
   },
   'Entrepreneurship & Innovation': {
@@ -105,7 +115,7 @@ export const DIVISION_META: { [key: string]: DivisionMeta } = {
     color: '#fef9c3',
     accent: '#854d0e',
     symbol: '💡',
-    icon: '/divisions/Entrepreneurship & Innovation.png',
+    icon: '/divisions/Entrepreneurship and Innovation.png',
     description: 'Startup incubator, angel investment bootcamps & student venture pitch competitions.',
   },
 }
