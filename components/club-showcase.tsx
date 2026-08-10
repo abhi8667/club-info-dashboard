@@ -58,8 +58,8 @@ export const DIVISION_META: { [key: string]: DivisionMeta } = {
     icon: '/divisions/Robotics and core tech.png',
     description: 'Autonomous robotics, embedded hardware, HAM radio, quantum physics & IEEE chapters.',
   },
-  'Astronomy & Space Sciences': {
-    name: 'Astronomy & Space Sciences',
+  'Astronomy & Interdisciplinary Engineering': {
+    name: 'Astronomy & Interdisciplinary Engineering',
     shortName: 'Astronomy & Stargazing',
     category: 'Technical',
     color: '#fef3c7',
