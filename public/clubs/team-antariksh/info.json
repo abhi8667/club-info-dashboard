@@ -1,0 +1,28 @@
+{
+  "id": "team-antariksh",
+  "name": "Team Antariksh",
+  "shortName": "TA",
+  "category": "Technical",
+  "description": "Team Antariksh is a student space technology club dedicated to advancing innovation in aerospace engineering. The team designs and builds CanSats and experimental sounding rockets, combining innovation with technical expertise. Each project shows commitment to inspire students to challenge boundaries and invoke curiosity in the field of space technology.",
+  "color": "#e4d9ff",
+  "accent": "#543c8c",
+  "symbol": "A",
+  "lead": "Student Lead",
+  "email": "contact@ta.rvce.edu.in",
+  "instagram": "@ta_rvce",
+  "venue": "Seminar Hall",
+  "images": [
+    "https://picsum.photos/seed/TA1/800/400",
+    "https://picsum.photos/seed/TA2/800/400"
+  ],
+  "events": [
+    {
+      "name": "Team Antariksh Orientation",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD",
+      "detail": "Introduction to our club activities and roadmap for the year."
+    }
+  ],
+  "division": "Space, Drone & Aerospace"
+}

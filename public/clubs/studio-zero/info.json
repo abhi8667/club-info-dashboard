@@ -1,0 +1,49 @@
+{
+  "id": "studio-zero",
+  "name": "Studio Zero",
+  "shortName": "SZ",
+  "category": "Non-Technical",
+  "description": "Welcome to STUDIO ZERO, RVCE's filmmaking club! We're a passionate community of movie enthusiasts who bring stories to life through collaborative filmmaking. Whether you're interested in acting, directing, cinematography, editing, music composition, or any other aspect of film production, there's a place for you here.",
+  "color": "#d9e9ed",
+  "accent": "#2f616c",
+  "symbol": "0",
+  "lead": "Student Lead",
+  "email": "contact@sz.rvce.edu.in",
+  "instagram": "@sz_rvce",
+  "venue": "Seminar Hall",
+  "images": [
+    "https://picsum.photos/seed/SZ1/800/400",
+    "https://picsum.photos/seed/SZ2/800/400"
+  ],
+  "events": [
+    {
+      "name": "From LeNS TO CUt",
+      "detail": "A peek into the filmmaking process — from capturing shots to editing them into something cinematic. Learn how framing, camera angles, and edits transform raw footage into a story. . Welcome to STUDIO ZERO, RVCE's filmmaking club! We're a passionate community of movie enthusiasts who bring stories to life through collaborative filmmaking. Whether you're interested in acting, directing, cinematography, editing, music composition, or any other aspect of film production, there's a place for you here. “Stories Unveiled, Films Crafted”",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD"
+    },
+    {
+      "name": "Endless Juggle - Don’t Drop It!",
+      "detail": "Think you’ve got balance and focus? Time to prove it! Keep the bat, ball, and football going endlessly—drop it, and you’re out. Simple? Wait till you try it.",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD"
+    },
+    {
+      "name": "Ask Seniors Anything - NO Filter",
+      "detail": "All Answers Your chance to spill those burning questions—anonymously! From college hacks to untold stories, our seniors are here to answer it all, straight and unfiltered.",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD"
+    },
+    {
+      "name": "RAAG Presents Open Mic-Your",
+      "detail": "Stage. Your Vibe. The spotlight’s yours—sing, rap, recite, or just grab the mic and vibe. Whether you’re performing or cheering, it’s going to be an evening of raw talent and pure energy.",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD"
+    }
+  ],
+  "division": "Cultural, Dramatics & Music"
+}

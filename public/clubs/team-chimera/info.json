@@ -1,0 +1,63 @@
+{
+  "id": "team-chimera",
+  "name": "Team Chimera",
+  "shortName": "TC",
+  "category": "Technical",
+  "description": "Chimera Racing Electric is RVCE’s official Formula Student Electric team, driven by innovation, CHIMERA CORSA RAMPAGE precision, and teamwork. Combining advanced engineering, strategic design, and a passion for EVENT 1: 11:15AM-12:15PM & 12:20 PM- 1:35 PM performance, the team develops high‑efficiency electric race cars to compete at the highest level, embodying excellence in technology, sustainability, and competitive spirit",
+  "color": "#dcd7ff",
+  "accent": "#4c3d91",
+  "symbol": "C",
+  "lead": "Student Lead",
+  "email": "contact@tc.rvce.edu.in",
+  "instagram": "@tc_rvce",
+  "venue": "Seminar Hall",
+  "images": [
+    "https://picsum.photos/seed/TC1/800/400",
+    "https://picsum.photos/seed/TC2/800/400"
+  ],
+  "events": [
+    {
+      "name": "& 12:20 PM- 1:35 PM",
+      "detail": "CHIMERA PIT BIDS",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD"
+    },
+    {
+      "name": "SKETCH TO SPEED",
+      "detail": "",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD"
+    },
+    {
+      "name": "CHIMERA RACING",
+      "detail": "ELECTRIC Design the next official Chimera T-shirt and make your mark as our merchandise icon! DESIGN CHALLENGE RVCE Ham Club is the amateur radio club in RVCE. It was inaugurated on 27th August We aim to popularize Amateur Radio as a hobby among students while exploring technical innovations in the communication domain. RVCE HAM club shall have international collaborations with HAM units across the globe through its activities and aims to have talks with esteemed professionals across the globe through radio communication.",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD"
+    },
+    {
+      "name": "Crack the CODE-Morse Code Quiz",
+      "detail": "Can you talk in dots and dashes? Test your skills of codebreaking in our Morse code quiz!",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD"
+    },
+    {
+      "name": "Antenna Design Made Simple",
+      "detail": "Learn to design, simulate and optimize simple antennas. Just practical steps to start your journey into the world of wireless designs.",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD"
+    },
+    {
+      "name": "Test your basics of Basic Electronics",
+      "detail": "From circuit fundamentals to communication principles, challenge yourself in this competitive quiz specially designed for quick thinkers. Race against time and your peers to prove you’ve got the spark.",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD"
+    }
+  ],
+  "division": "Racing & Automotive"
+}

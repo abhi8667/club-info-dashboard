@@ -1,0 +1,36 @@
+{
+  "id": "carv-hindi",
+  "name": "CARV Hindi",
+  "shortName": "CH",
+  "category": "Non-Technical",
+  "description": "CARV-Hindi promotes impactful storytelling through theatre and street plays. The club nurtures creativity, teamwork, and public speaking while raising social awareness. Representing RVCE at national competitions, CARV-Hindi has earned accolades at IIT Madras, IIT Bombay, BITS Goa, IIIT Bangalore, and many other national and inter-college events.",
+  "color": "#ffe0c5",
+  "accent": "#825025",
+  "symbol": "H",
+  "lead": "Student Lead",
+  "email": "contact@ch.rvce.edu.in",
+  "instagram": "@carv_hindi",
+  "venue": "BT Quadrangle",
+  "images": [
+    "https://lh3.googleusercontent.com/d/1yBRrX7kEzK5SW5HGUFEgKpDdiqUkA5rv",
+    "https://lh3.googleusercontent.com/d/17sfkGtHTZYweLltOONRkC_uOaEAy4GtN"
+  ],
+  "events": [
+    {
+      "name": "“CURTAINS UP : WELCOME TO THE DRAMA”",
+      "detail": "The Nukkad Natak team of Carv Hindi will be presenting to you a performance full of chaos, tackling real issues with raw and loud emotion, powerful dialogue, and unmissable energy. And we’re not stopping there, get ready to participate in some on the spot theatrical games: Questions Only (speak only in questions or you’re out) , One Word Story Chain (spiral out a story with only one word per player),etc.",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD"
+    },
+    {
+      "name": "“AAPKA MANCH (A TALENT HUNT)”",
+      "detail": "Carv Hindi is on the hunt for voices that move and performances that refuse to be forgotten. YOU’LL PERFORM theatrical skits, monologues, mono-acts, stand-up comedy, mimicry, music, dance or any other expressive art forms****. We’re here not just to watch, but to celebrate your craft. PS : A GUARANTEED DIRECT ENTRY INTO THE 2nd ROUND OF CARV HINDI AUDITIONS CARV Hindi CARV Hindi isn't just a Dramatics club, We are a Storm with a Script. We bring together creative minds to explore acting, scriptwriting, stage performance and direction. Through Street Plays, Theatre, Mono-acts, Mime and much more, we aim to showcase our artistic expression, put forth social issues and channel the chaos we’re all born with. Till date we have been to the country's largest fests like at IIT Bombay, Bits Goa, IIT Madras, IIT Kharagpur, IISC and brought back trophies along with stories. KALAKAR KO KALA SE AUR SHOR KO AWAAZ SE YAHAN PEHCHAAN MILTI HAI ASHWA RACING Ashwa Racing, India’s first Formula Student team, has been driving innovation since 2003. From building its first prototype in 2005 to competing at FSAE Australasia, FS Germany, and FS Italy, the team has proudly represented India on the global stage. In 2015, Ashwa ventured into hybrid technology, earning a world top-10 rank in its very first attempt. Today, with over 20 years of legacy, the team builds multiple prototypes annually across combustion and hybrid categories, backed by strong industry collaborations and a vision to shape the future of mobility.",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD"
+    }
+  ],
+  "division": "Cultural, Dramatics & Music",
+  "logo": "https://lh3.googleusercontent.com/d/1t2Cz7WEpej756np1qqPvkb_gFIWHPcx8"
+}

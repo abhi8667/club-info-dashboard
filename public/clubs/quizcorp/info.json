@@ -1,0 +1,50 @@
+{
+  "id": "quizcorp",
+  "name": "Quizcorp",
+  "shortName": "QC",
+  "category": "Non-Technical",
+  "description": "RV QuizCorp is the official quizzing club of RV College of Engineering, dedicated to fostering curiosity, knowledge and intellectual engagement.As a club, we are dedicated to mentoring new quizzers, fostering a love for lifelong learning and creating an environment where every question leads to a new discovery and a fun time for the members. Our vision is to make quizzing not just a competition but something people would love to participate in as a hobby.",
+  "color": "#dcebcf",
+  "accent": "#55723b",
+  "symbol": "Q",
+  "lead": "Student Lead",
+  "email": "Adithya - 8660251694, Nithyasree - 9632361789",
+  "instagram": "@rvquizcorp",
+  "venue": "ISE Classroom",
+  "images": [
+    "https://lh3.googleusercontent.com/d/1TWp0VSpZ8M8wFPRnG2cHRkIKl00cAWm8",
+    "https://lh3.googleusercontent.com/d/1Uebr-94Ig304VW2mSt131Z_wkqaik3nW"
+  ],
+  "events": [
+    {
+      "name": "India Quiz",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "ISE Classroom",
+      "detail": "A quiz on the rich culture, history and heritage of our nation."
+    },
+    {
+      "name": "Literature and Entertainment Quiz",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "ISE Classroom",
+      "detail": "A quiz on movies, music, literature and the world of entertainment."
+    },
+    {
+      "name": "Sports Quiz",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "ISE Classroom",
+      "detail": "A quiz on quite literally every sport on earth."
+    },
+    {
+      "name": "Science Business Technology Quiz",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "ISE Classroom",
+      "detail": "A quiz on the world of science, business and technology"
+    }
+  ],
+  "division": "Literary, Quizzing & Public Speaking",
+  "logo": "https://lh3.googleusercontent.com/d/16KWSb2CjSmP-4DfUCNFZxsXKhy2rqOsk"
+}

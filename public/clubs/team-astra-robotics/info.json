@@ -1,0 +1,42 @@
+{
+  "id": "team-astra-robotics",
+  "name": "Team Astra Robotics",
+  "shortName": "AR",
+  "category": "Technical",
+  "description": "Team ASTRA Robotics is a student-led club dedicated to advancing robotics innovation. We design intelligent, autonomous systems for global competitions and lead STEM outreach to inspire future innovators. Founded under the IEEE RVCE Chapter, we continue to collaborate with its Robotics and Automation chapter. Our members gain hands-on experience tackling real-world technical, organizational, and engineering challenges in a collaborative yet competitive environment. From autonomous mobility to AI- driven systems and industrial automation, we foster creativity, leadership, and technical excellence.",
+  "color": "#d6e2ff",
+  "accent": "#2d54a0",
+  "symbol": "A",
+  "lead": "Student Lead",
+  "email": "contact@ar.rvce.edu.in",
+  "instagram": "@ar_rvce",
+  "venue": "Seminar Hall",
+  "images": [
+    "https://picsum.photos/seed/AR1/800/400",
+    "https://picsum.photos/seed/AR2/800/400"
+  ],
+  "events": [
+    {
+      "name": "ROBOTICS SOFTWARE PROTOTYPING",
+      "detail": "FUNDAMENTALS Learn basics of robotics prototyping by designing in Tinkercad. club logo 23",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD"
+    },
+    {
+      "name": "Lights, Camera, Fashion!",
+      "detail": "In this fun and interactive contest, freshers will create their own “Outfit of the Day” (OOTD) reel using their own phones during the event. Whether it’s chic, quirky, minimal, or bold — we want to see you bring your fashion personality to life. Once your reel is ready, you’ll submit it to us through a simple QR code/link provided at the venue. Our panel will review all entries and select the most creative, confident, and stylish reel to be featured on Evoke’s official Instagram page.",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD"
+    },
+    {
+      "name": "Step Up: Style in Motion",
+      "detail": "Juniors will team up to create their own high-energy choreography and strut their style on the runway. To kick things off, our seniors will set the vibe with a slick 1-minute performance to spark creativity and confidence. It's your time to shine—bring the moves, bring the attitude, and most importantly, bring the style.",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD"
+    }
+  ],
+  "division": "Robotics, Electronics & Core Tech"
+}

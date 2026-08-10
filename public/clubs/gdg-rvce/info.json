@@ -1,0 +1,50 @@
+{
+  "id": "gdg-rvce",
+  "name": "GDG RVCE",
+  "shortName": "GDG",
+  "category": "Technical",
+  "description": "GDG RVCE is an On-Campus chapter of the global Google Developer Groups. Our mission is to foster a passionate community of strong student developers, and empower them to tackle meaningful challenges to make a difference in society.",
+  "color": "#d7ebff",
+  "accent": "#2362a0",
+  "symbol": "G",
+  "lead": "Student Lead",
+  "email": "+91 7349096003",
+  "instagram": "@gdg_rvce",
+  "venue": "ISE Seminar Hall",
+  "images": [
+    "https://lh3.googleusercontent.com/d/1GOtSIXEGS0ZrAE8p-jPd0KzXKH7es5PN",
+    "https://lh3.googleusercontent.com/d/1oQaoneJyKQo3I1Y3qBofSi7i3MBFtGcv"
+  ],
+  "events": [
+    {
+      "name": "Beat Gemini: The Turing Challenge",
+      "date": "Aug 28",
+      "time": "Showcase Day 1",
+      "venue": "ISE Seminar Hall",
+      "detail": "An event inspired by the Turing Test where participants compete to identify whether the content they're seeing was created by a human or by Gemini. Through multiple rounds, participants experience AI capabilities while learning about both its strengths and limitations."
+    },
+    {
+      "name": "Open Source Odyssey",
+      "date": "Aug 28",
+      "time": "Showcase Day 1",
+      "venue": "ISE Seminar Hall",
+      "detail": "A puzzle trail where participants solve a series of challenges inspired by real open-source workflows. Each waypoint unlocks the next, offering a fun introduction to collaboration, problem-solving, and open source skills."
+    },
+    {
+      "name": "Google Arsenal: Bid & Build",
+      "date": "Aug 28",
+      "time": "Showcase Day 1",
+      "venue": "ISE Seminar Hall",
+      "detail": "An interactive strategy challenge where teams bid with a fixed budget to acquire Google developer tools before building and pitching a solution using only what they win. Through fast-paced rounds, participants explore the capabilities of Google's developer ecosystem."
+    },
+    {
+      "name": "Under the Floodlights",
+      "date": "Aug 28",
+      "time": "Showcase Day 1",
+      "venue": "ISE Seminar Hall",
+      "detail": "A World Cup-inspired competition where participants alternate between describing and recreating hidden images using Gemini, testing their communication, creativity, and AI skills"
+    }
+  ],
+  "division": "Computer Science, Software & AI",
+  "logo": "https://lh3.googleusercontent.com/d/1l6CYFX7vK_i4v33cC3t2TrAqMUm2JM74"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "alaap",
+  "name": "Alaap",
+  "shortName": "AL",
+  "category": "Non-Technical",
+  "description": "Alaap – The Music Club of RVCE is a vibrant hub that has been uniting students through music for decades, fostering a sense of belonging and community on campus. With a rich legacy and numerous success stories, Alaap has been the cradle of emerging bands like Project Mishram and Dastaan, who have gone on to shine on larger stages. The club continues to blossom into a dynamic center of creativity, inspiring artistic expression, nurturing innovation, and cultivating talent. By providing a platform to hone skills, fuel passion, and celebrate the transformative power of music, Alaap remains a space where ideas flourish and lifelong connections are built.",
+  "color": "#f5d8df",
+  "accent": "#823f55",
+  "symbol": "A",
+  "lead": "Student Lead",
+  "email": "contact@al.rvce.edu.in",
+  "instagram": "@al_rvce",
+  "venue": "Seminar Hall",
+  "images": [
+    "https://picsum.photos/seed/AL1/800/400",
+    "https://picsum.photos/seed/AL2/800/400"
+  ],
+  "events": [
+    {
+      "name": "MASTERCLASSES ON VARIOUS TOPICS",
+      "detail": "Interactive sessions exploring vocal versatility, textures, and techniques to enhance creativity and improvisation (manodharma). These classes provide students with tools to refine their voice, experiment with styles, and develop a deeper musical expression.",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD"
+    },
+    {
+      "name": "CLUB INTRODUCTION AND OPEN MIC",
+      "detail": "An introduction to Alaap, the Music Club of RVCE, showcasing its legacy, activities, and opportunities for students. The session will be followed by an engaging Open Mic, where participants can freely perform and share their musical talents.",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD"
+    },
+    {
+      "name": "MASTERCLASSES ON VARIOUS TOPICS",
+      "detail": "Engaging sessions by the club that explore advanced musical concepts such as vocal harmonies, smooth scale transitions on instruments, and the intricacies of polyrhythms. These classes aim to refine skills, inspire creativity, and deepen musical understanding.",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD"
+    },
+    {
+      "name": "CLUB PERFORMANCES",
+      "detail": "A showcase of the club’s versatility, featuring performances that highlight a range of musical styles and talents. This event celebrates the creativity, skill, and collaborative spirit of the club’s members.",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD"
+    },
+    {
+      "name": "IEM - Improv,",
+      "detail": "Expressions and Mime ( not the dept.) 1. Do you have mood swings too? : Actors practice different emotions (joy, fear, sadness, anger) using both facial expressions and vocal tone. 2. An improverisation (by Michael G Scott) : Random prompts given; participants must create short, fun unscripted performances. 3. It’s Mime time to shine– Perform silent scenes; audience guesses the exact scenario.",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD"
+    }
+  ],
+  "division": "Cultural, Dramatics & Music"
+}

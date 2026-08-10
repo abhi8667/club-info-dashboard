@@ -1,0 +1,28 @@
+{
+  "id": "team-dhi",
+  "name": "Team Dhi",
+  "shortName": "TD",
+  "category": "Technical",
+  "description": "Welcome to Team Dhi! We are a dynamic community of students passionate about our field. Join us to explore, learn, and grow through our various activities and projects.",
+  "color": "#d8e8ef",
+  "accent": "#285a70",
+  "symbol": "D",
+  "lead": "Student Lead",
+  "email": "contact@td.rvce.edu.in",
+  "instagram": "@td_rvce",
+  "venue": "Seminar Hall",
+  "images": [
+    "https://picsum.photos/seed/TD1/800/400",
+    "https://picsum.photos/seed/TD2/800/400"
+  ],
+  "events": [
+    {
+      "name": "Team Dhi Orientation",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD",
+      "detail": "Introduction to our club activities and roadmap for the year."
+    }
+  ],
+  "division": "Astronomy & Interdisciplinary Engineering"
+}

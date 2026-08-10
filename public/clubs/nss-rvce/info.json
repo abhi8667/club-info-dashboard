@@ -1,0 +1,35 @@
+{
+  "id": "nss-rvce",
+  "name": "NSS RVCE",
+  "shortName": "NSS",
+  "category": "Non-Technical",
+  "description": "NSS RVCE is a vibrant student organization dedicated to community service and social responsibility. Guided by the motto 'Not Me But You' , it has over 200 active volunteers who take part in various activities like marathons, blood donation camps, cleanliness drives, awareness programs, and rural outreach projects. The unit also organizes special events such as village visits, school improvement drives, and cultural parades to promote social welfare and national pride. Through its continuous efforts, NSS RVCE works towards creating a positive impact on society while developing leadership and empathy among students.",
+  "color": "#f2e1ba",
+  "accent": "#795d1d",
+  "symbol": "N",
+  "lead": "Student Lead",
+  "email": "contact@nss.rvce.edu.in",
+  "instagram": "@nss_rvce",
+  "venue": "Seminar Hall",
+  "images": [
+    "https://picsum.photos/seed/NSS1/800/400",
+    "https://picsum.photos/seed/NSS2/800/400"
+  ],
+  "events": [
+    {
+      "name": "“AAJ, ABHI, ISI WAKT : THE UNSCRIPTED STAGE ”",
+      "detail": "Improv is the heart of theatre , it helps artists to think on their feet and adapt at the moment. We will demonstrate and then you will participate along with us, to explore your inner performer. A few of the many activities include: Emotional Switch – Change emotions on cue Prop se Kahani – Random props drive a story 30 Seconds In & Out – New character every 30 seconds 1-2-3-4 – Speak your dialogue in exactly assigned words",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD"
+    },
+    {
+      "name": "“THE FILMY TICKLE”",
+      "detail": "Silent drama in dumb charades , a (rather) melodious round of antakshari, on spot theatrical games of movies with expression and intensity, all designed to involve our freshers. Join us and we will surprise you with jamming sesh at the end.Through this we will also hold workshops for editing, writing and acting to hone up your skills too!",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD"
+    }
+  ],
+  "division": "Regional, Social Service & Youth Leadership"
+}

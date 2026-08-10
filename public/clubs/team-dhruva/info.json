@@ -1,0 +1,50 @@
+{
+  "id": "team-dhruva",
+  "name": "Team dhRuVa",
+  "shortName": "DR",
+  "category": "Technical",
+  "description": "dhRuVa is the astrophysics club at RV College of Engineering. What began as a quest to explore the secrets of the universe is now a growing team of amateur astrophysics enthusiasts. We at dhRuVa host stargazing events, astrophysics-related coding competitions and engage in discussions on latest observations made by the astrophysics community all over the globe. We share our understanding through informative videos, blogs and journals. We constantly try to keep up with the happenings of the universe through telescopes, radio telescopes and analysis. Join us on our journey to unravel the stars.",
+  "color": "#e3dcff",
+  "accent": "#554590",
+  "symbol": "D",
+  "lead": "Student Lead",
+  "email": "Nithyashree - 9482164838 Abhinav - 8618924089",
+  "instagram": "@dhruva_rvce",
+  "venue": "DTH",
+  "images": [
+    "https://lh3.googleusercontent.com/d/10fVNWA17qCVRnbGMlL11VH1gsPPj7q3O",
+    "https://lh3.googleusercontent.com/d/18X9xyvoP0oQ85Gcx0UlD9b-u1JDxcf1J"
+  ],
+  "events": [
+    {
+      "name": "Cosmic Mystery",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "DTH",
+      "detail": "A series of space-themed puzzles where teams collaborate to uncover clues. The clues combine to solve one final overarching mystery."
+    },
+    {
+      "name": "Cosmic Mystery",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "DTH",
+      "detail": "A series of space-themed puzzles where teams collaborate to uncover clues. The clues combine to solve one final overarching mystery."
+    },
+    {
+      "name": "Cosmic Mystery",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "DTH",
+      "detail": "A series of space-themed puzzles where teams collaborate to uncover clues. The clues combine to solve one final overarching mystery."
+    },
+    {
+      "name": "Cosmic Mystery",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "DTH",
+      "detail": "A series of space-themed puzzles where teams collaborate to uncover clues. The clues combine to solve one final overarching mystery."
+    }
+  ],
+  "division": "Astronomy & Interdisciplinary Engineering",
+  "logo": "https://lh3.googleusercontent.com/d/12pTrloMWC-vWAx_O24B8l4JvOThBykIR"
+}

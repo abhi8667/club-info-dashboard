@@ -1,0 +1,28 @@
+{
+  "id": "kannada-carv",
+  "name": "Kannada CARV",
+  "shortName": "KC",
+  "category": "Non-Technical",
+  "description": "Welcome to Kannada CARV! We are a dynamic community of students passionate about our field. Join us to explore, learn, and grow through our various activities and projects.",
+  "color": "#e5d8ee",
+  "accent": "#69457b",
+  "symbol": "K",
+  "lead": "Student Lead",
+  "email": "contact@kc.rvce.edu.in",
+  "instagram": "@kc_rvce",
+  "venue": "Seminar Hall",
+  "images": [
+    "https://picsum.photos/seed/KC1/800/400",
+    "https://picsum.photos/seed/KC2/800/400"
+  ],
+  "events": [
+    {
+      "name": "Kannada CARV Orientation",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD",
+      "detail": "Introduction to our club activities and roadmap for the year."
+    }
+  ],
+  "division": "Regional, Social Service & Youth Leadership"
+}

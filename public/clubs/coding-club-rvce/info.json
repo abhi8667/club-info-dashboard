@@ -1,0 +1,52 @@
+{
+  "id": "coding-club-rvce",
+  "name": "Coding Club RVCE",
+  "shortName": "CC",
+  "category": "Technical",
+  "description": "The Coding Club at RVCE is a student led coding community focused on bridging the gap between academic theory and practical industry skills. Through hands-on workshops, hackathons, and collaborative projects, the club provides a space for students to build real-world engineering solutions.",
+  "color": "#e1e6ff",
+  "accent": "#384993",
+  "symbol": "{}",
+  "lead": "Student Lead",
+  "email": "9113516891",
+  "instagram": "@codingclubrvce",
+  "venue": "Civil Seminar Hall",
+  "images": [
+    "https://lh3.googleusercontent.com/d/1JZfKzhJx95A1eECsQIryTb_O2-xhxDu9",
+    "https://lh3.googleusercontent.com/d/1l7bvZ4567BA-RLuEXVLM6cL_gXCHKN1F",
+    "https://lh3.googleusercontent.com/d/1g-v56-0sHoMtIRwQUYn0iaNwJuMm7zze",
+    "https://lh3.googleusercontent.com/d/18y9LIeDUd5vMtZ9IJ58VQ2wSB9eEFyBu"
+  ],
+  "events": [
+    {
+      "name": "The Human Neural Network",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "Civil Seminar Hall",
+      "detail": "Turn 70 students into a living neural network and experience how information flows through layers to make predictions. Watch the network learn from its mistakes through forward propagation, backpropagation, and weight updates—without writing a single line of code."
+    },
+    {
+      "name": "Black Box Bazaar",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "Civil Seminar Hall",
+      "detail": "Decode hidden functions from input-output clues, then buy, sell, trade, or bluff your way to the top. A fast-paced marketplace that turns pattern recognition, algorithmic thinking, and strategy into a competitive game."
+    },
+    {
+      "name": "Lethal Dose of Tokens (CTF)",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "Civil Seminar Hall",
+      "detail": "Capture the Flag Event - Players infiltrate a deliberately vulnerable code repository, uncovering hidden secrets by exploiting prompt injection and poor security practices. Navigate the repo, manipulate the AI, and extract what you're not supposed to see in this AI-powered cybersecurity challenge."
+    },
+    {
+      "name": "The Predictive Engine",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "Civil Seminar Hall",
+      "detail": "Transform 70+ students into an ensemble learning system that analyzes clues, makes confidence-weighted predictions, and learns from every mistake. Teams compete to build the most accurate predictive model while experiencing ensemble learning, adaptive weighting, and real-time model updates."
+    }
+  ],
+  "division": "Computer Science, Software & AI",
+  "logo": "https://lh3.googleusercontent.com/d/10d7_LoH5jAvFuO5lhz78FVYGZyQPIB1L"
+}

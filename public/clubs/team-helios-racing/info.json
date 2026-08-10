@@ -1,0 +1,36 @@
+{
+  "id": "team-helios-racing",
+  "name": "Team Helios Racing",
+  "shortName": "TH",
+  "category": "Technical",
+  "description": "Founded in 2006 at RV College of Engineering,\nBengaluru, Team Helios Racing is built on over 18 years of relentless engineering excellence, having designed and fabricated 12+ high-performance ATVs and earned top honours on both national and international stages.\nAfter making the bold transition from mBAJA to\neBAJA in 2023, we now stand at the threshold of our fourth season in electric racing. Backed by\nexperience, driven by innovation, and united by an unyielding will to win, we are here with a single purpose: not merely to compete, but to set the benchmark and lead the charge.",
+  "color": "#ffe0c7",
+  "accent": "#843918",
+  "symbol": "H",
+  "lead": "Student Lead",
+  "email": "contact@th.rvce.edu.in",
+  "instagram": "@th_rvce",
+  "venue": "Seminar Hall",
+  "images": [
+    "https://lh3.googleusercontent.com/d/1u2F3M2Q0Emx0Plh7Axokrd_A0MMbEXla",
+    "https://lh3.googleusercontent.com/d/1oLsa1fZ6PiDxyJxyU-8ooFoSdjemLIWV"
+  ],
+  "events": [
+    {
+      "name": "Reaction Grid – Where Milliseconds",
+      "detail": "Matter",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD"
+    },
+    {
+      "name": "The Helios Trials: Survival of the",
+      "detail": "Sharpest Test your reflexes in a fast-paced challenges just like in racing, every fraction of a second counts. A series of quick games will check if you’ve got the instincts of a race car driver. Race through a relay of high-speed, racing- themed challenges where teamwork, speed, and precision decide your fate. From assembling parts to cracking automotive puzzles - each stage brings you closer to victory.....or elimination.",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD"
+    }
+  ],
+  "division": "Racing & Automotive",
+  "logo": "https://lh3.googleusercontent.com/d/1k3bBu0EnqYWzKFCQnpbJy87M6Q2gF01_"
+}

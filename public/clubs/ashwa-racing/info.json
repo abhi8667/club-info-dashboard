@@ -1,0 +1,28 @@
+{
+  "id": "ashwa-racing",
+  "name": "ASHWA RACING",
+  "shortName": "AR",
+  "category": "Technical",
+  "description": "Ashwa Racing, India’s first Formula Student team, has been driving innovation since 2003. From building its first prototype in 2005 to competing at FSAE Australasia, FS Germany, and FS Italy, the team has proudly represented India on the global stage. In 2015, Ashwa ventured into hybrid technology, earning a world top-10 rank in its very first attempt. Today, with over 20 years of legacy, the team builds multiple prototypes annually across combustion and hybrid categories, backed by strong industry collaborations and a vision to shape the future of mobility.",
+  "color": "#d9e5ff",
+  "accent": "#214a9a",
+  "symbol": "A",
+  "lead": "Student Lead",
+  "email": "contact@ar.rvce.edu.in",
+  "instagram": "@ar_rvce",
+  "venue": "Seminar Hall",
+  "images": [
+    "https://picsum.photos/seed/AR1/800/400",
+    "https://picsum.photos/seed/AR2/800/400"
+  ],
+  "events": [
+    {
+      "name": "ASHWA RACING Orientation",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD",
+      "detail": "Introduction to our club activities and roadmap for the year."
+    }
+  ],
+  "division": "Racing & Automotive"
+}

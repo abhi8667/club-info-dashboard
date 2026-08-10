@@ -1,0 +1,28 @@
+{
+  "id": "team-vyoma",
+  "name": "Team Vyoma",
+  "shortName": "TV",
+  "category": "Technical",
+  "description": "Welcome to Team Vyoma! We are a dynamic community of students passionate about our field. Join us to explore, learn, and grow through our various activities and projects.",
+  "color": "#d6eff3",
+  "accent": "#256a75",
+  "symbol": "V",
+  "lead": "Student Lead",
+  "email": "contact@tv.rvce.edu.in",
+  "instagram": "@tv_rvce",
+  "venue": "Seminar Hall",
+  "images": [
+    "https://picsum.photos/seed/TV1/800/400",
+    "https://picsum.photos/seed/TV2/800/400"
+  ],
+  "events": [
+    {
+      "name": "Team Vyoma Orientation",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD",
+      "detail": "Introduction to our club activities and roadmap for the year."
+    }
+  ],
+  "division": "Space, Drone & Aerospace"
+}

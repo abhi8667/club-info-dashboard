@@ -1,0 +1,53 @@
+{
+  "id": "ecell",
+  "name": "Ecell",
+  "shortName": "E",
+  "category": "Non-Technical",
+  "description": "Entrepreneurship Cell (E-Cell)\n\nThe Entrepreneurship Cell (E-Cell) is a student-driven institutional platform committed to cultivating a culture of innovation, entrepreneurship, leadership, and experiential learning among students. The Cell provides a structured ecosystem that encourages young innovators and aspiring entrepreneurs to transform ideas into impactful initiatives while developing the skills required to navigate real-world challenges.\n\nE-Cell functions through five specialized verticals—Corporate Partnerships, Events & Operations, Department of Startup & Innovation, Media & Tech, and Marketing & Public Relations. Each vertical plays a strategic role in advancing the Cell’s objectives while offering students opportunities to gain practical exposure through workshops, industry interactions, project-based learning, and collaborative initiatives.\n\nThrough a diverse portfolio of entrepreneurial workshops, business competitions, techno-cultural events, industry interactions, and entrepreneur talks, E-Cell bridges the gap between academic learning and professional practice. These initiatives enable students to develop competencies in areas such as business strategy, market analysis, communication, leadership, networking, marketing, and problem-solving, thereby fostering an entrepreneurial mindset across the campus.\n\nKey Milestones and Flagship Initiatives\n\n8th Mile – The Flagship Fest of RVCE\nE-Cell plays a significant role in the successful execution of 8th Mile, RVCE’s annual techno-cultural fest that brings together students and clubs across the institution. The Cell contributes extensively to sponsorship acquisition, corporate outreach, funding, marketing, and event operations, supporting the fest’s scale, visibility, and overall impact.\n\nE-Summit – A Premier Entrepreneurial Platform\nE-Summit is one of Bengaluru’s prominent collegiate entrepreneurial fests, attracting 10,000+ participants and attendees. The event integrates cultural vibrancy with techno-entrepreneurial competitions, providing students with a platform to showcase innovative ideas, engage in business challenges, interact with industry professionals, and develop entrepreneurial acumen.\n\nHult Prize – Fostering Global Impact\nE-Cell facilitates the campus-level Hult Prize, a globally recognised platform that challenges students to develop innovative and sustainable solutions to pressing social and environmental challenges. Participants pitch their ideas before experienced entrepreneurs and distinguished judges. The winning team receives a cash prize and the opportunity to progress towards the global Hult Prize Summit in Dubai, providing a pathway to international exposure and impact.\n\nExuberance & Embark – Experiential Business Challenges\nExuberance and Embark are flagship business-oriented initiatives designed to provide participants with hands-on exposure to real-world entrepreneurial scenarios. Through activities involving product pitching, market analysis, strategic decision-making, business planning, and growth strategies, these events enable students to understand the complexities of building, managing, and sustaining a venture.\n\nThrough its sustained initiatives and flagship programmes, E-Cell contributes to the development of a dynamic entrepreneurial ecosystem at RVCE, empowering students to innovate, collaborate, assume leadership, and translate ideas into meaningful solutions with real-world relevance.",
+  "color": "#d9e2ff",
+  "accent": "#3c5798",
+  "symbol": "E",
+  "lead": "Student Lead",
+  "email": "Convenors 1.Mahi Warde - 9461229176  2.Ashish R Biradar -  79758 28533",
+  "instagram": "ecell_rvce",
+  "venue": "MCA Seminar Hall",
+  "images": [
+    "https://lh3.googleusercontent.com/d/1hnoBJryfzmuELZii3t7zWP2KrA1_la6F",
+    "https://lh3.googleusercontent.com/d/1iFt4qSZgbSJa2oN1LW2him_OjKAMXA5G",
+    "https://lh3.googleusercontent.com/d/1LKPUv8IOuIgqLpLWZtv-BXW29Fb-1bQc",
+    "https://lh3.googleusercontent.com/d/1UrNoWsNTPlLob4SB9X1x8wLgfvGZufJu",
+    "https://lh3.googleusercontent.com/d/1a43h0h4m50lZanEY9GM85jPUAep_fxc3"
+  ],
+  "events": [
+    {
+      "name": "Fund my Failure",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "MCA Seminar Hall",
+      "detail": ""
+    },
+    {
+      "name": "Ecell’s got latent",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "MCA Seminar Hall",
+      "detail": ""
+    },
+    {
+      "name": "Startup 101",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "MCA Seminar Hall",
+      "detail": ""
+    },
+    {
+      "name": "Startup Trivia",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "MCA Seminar Hall",
+      "detail": ""
+    }
+  ],
+  "division": "Entrepreneurship & Innovation",
+  "logo": "https://lh3.googleusercontent.com/d/1de-RKqBOMg9q1uQ8NWz1oRgDt9qP47NG"
+}

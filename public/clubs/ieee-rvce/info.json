@@ -1,0 +1,53 @@
+{
+  "id": "ieee-rvce",
+  "name": "IEEE RVCE",
+  "shortName": "IEEE",
+  "category": "Technical",
+  "description": "Established in 2017 with the support of the IEEE Bangalore Section. The IEEE RVCE Student Branch has grown from a small group of passionate students to a thriving community of over 250 members. Over the years, we have consistently fostered technical excellence, innovation, and professional development through a wide range of high-quality events and initiatives.\nFrom organising workshops, seminars, and technical talks to seamlessly transitioning to webinars and virtual learning experiences during the pandemic, we have remained committed to our belief that learning should never stop. At IEEE RVCE, we encourage students to explore research, work on impactful projects, and develop practical skills that extend beyond the classroom. Through our activities, leadership opportunities, and collaborative environment, we strive to empower members to become skilled engineers, innovative thinkers, and future technology leaders.\nThe student Chapter of RVCE currently comprises of the following Societies and Affinity Groups:\nComputer Society [CompSoc]\nGeoscience and Remote Sensing Society [GRSS]\nPower and Energy Society\nCommunications Society\nSignal Processing Society\nAntennas and Propagation Society\nRobotics and Automation Society\nCircuits and Systems Society\nSensor Council\nMicrowave Theory and Technology Society\nAerospace and Electronic Systems Society\nSpecial Interest Group on Humanitarian Technology\nWomen in Engineering",
+  "color": "#d4e7ff",
+  "accent": "#24548d",
+  "symbol": "I",
+  "lead": "Student Lead",
+  "email": "ieeervce@rvce.edu.in",
+  "instagram": "@ieee_rvce",
+  "venue": "CSE - CRB - 001",
+  "images": [
+    "https://lh3.googleusercontent.com/d/1E19zzxFCCM67ma07hHL9EGfzlu60RI50",
+    "https://lh3.googleusercontent.com/d/1f6lZpBG0ScGbHbRiQdqFHUNJ0V29560W",
+    "https://lh3.googleusercontent.com/d/1EP6afqhSeyKbVx9Hn-VIWvel6fiAkVYp",
+    "https://lh3.googleusercontent.com/d/1Y3BOOv0_ufubyDB-5rbJ0Le0CX8CcpDW",
+    "https://lh3.googleusercontent.com/d/1pXHj0Y0YfCef1EAmM6xjc3n0zl7gw-us"
+  ],
+  "events": [
+    {
+      "name": "CompSoc Connect",
+      "date": "Aug 28",
+      "time": "Showcase Day 1",
+      "venue": "CSE - CRB - 001",
+      "detail": "A 60-minute interactive session that begins with engaging Mentimeter polls and quizzes to understand their interests and spark curiosity. We then showcase the society’s key initiatives, including Hack4SOC, Prompt-a-thon, technical sessions and workshops. Finally, juniors form teams of four and are given realistic constraints such as budget, audience, and time to design their own technical event. Three teams are randomly selected to pitch their ideas, followed by audience voting. The session concludes by encouraging juniors to join, contribute, and eventually lead future IEEE CS initiatives."
+    },
+    {
+      "name": "CompSoc Connect",
+      "date": "Aug 28",
+      "time": "Showcase Day 1",
+      "venue": "CSE - CRB - 001",
+      "detail": "A 60-minute interactive session that begins with engaging Mentimeter polls and quizzes to understand their interests and spark curiosity. We then showcase the society’s key initiatives, including Hack4SOC, Prompt-a-thon, technical sessions and workshops. Finally, juniors form teams of four and are given realistic constraints such as budget, audience, and time to design their own technical event. Three teams are randomly selected to pitch their ideas, followed by audience voting. The session concludes by encouraging juniors to join, contribute, and eventually lead future IEEE CS initiatives."
+    },
+    {
+      "name": "Climate Escape Room",
+      "date": "Aug 28",
+      "time": "Showcase Day 1",
+      "venue": "CSE - CRB - 001",
+      "detail": "A smartphone-based, story-driven puzzle challenge where participants must save a city facing catastrophic flooding in 2040. Teams solve progressively difficult challenges using rainfall maps, satellite imagery, elevation data, and tide charts to unlock clues. Along the way, they experience how remote sensing, geospatial analysis, and environmental data support disaster prediction and decision-making."
+    },
+    {
+      "name": "Powering the Future – Introduction to IEEE PES RVCE",
+      "date": "Aug 28",
+      "time": "Showcase Day 1",
+      "venue": "CSE - CRB - 001",
+      "detail": "This session serves as the official induction for freshers into the IEEE PES RVCE chapter. It is structured into two main segments: a brief introduction to the society’s goals, events, and membership benefits, followed by a technical demonstration. The technical showcase aims to expose new students to practical electrical engineering by walking them through relevant projects and essential design/simulation software, including MATLAB and KiCad."
+    }
+  ],
+  "division": "Robotics, Electronics & Core Tech",
+  "logo": "https://lh3.googleusercontent.com/d/1CCKYwTvoYq4JnCofaGN2IqpP9mbJ48Q_"
+}

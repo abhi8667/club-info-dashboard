@@ -1,0 +1,28 @@
+{
+  "id": "accelerate-club-rvce",
+  "name": "Accelerate Club RVCE",
+  "shortName": "AC",
+  "category": "Technical",
+  "description": "Welcome to Accelerate Club RVCE! We are a dynamic community of students passionate about our field. Join us to explore, learn, and grow through our various activities and projects.",
+  "color": "#d9f0d5",
+  "accent": "#3d7134",
+  "symbol": "A",
+  "lead": "Student Lead",
+  "email": "contact@ac.rvce.edu.in",
+  "instagram": "@ac_rvce",
+  "venue": "Seminar Hall",
+  "images": [
+    "https://picsum.photos/seed/AC1/800/400",
+    "https://picsum.photos/seed/AC2/800/400"
+  ],
+  "events": [
+    {
+      "name": "Accelerate Club RVCE Orientation",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD",
+      "detail": "Introduction to our club activities and roadmap for the year."
+    }
+  ],
+  "division": "Robotics, Electronics & Core Tech"
+}

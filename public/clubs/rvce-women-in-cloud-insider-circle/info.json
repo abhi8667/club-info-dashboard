@@ -1,0 +1,52 @@
+{
+  "id": "rvce-women-in-cloud-insider-circle",
+  "name": "RVCE Women in Cloud Insider Circle",
+  "shortName": "WIC",
+  "category": "Technical",
+  "description": "First of its kind socio-technical team at RVCE which emerged as student chapter of Women in Cloud centre of excellence,India. The mission of the Women in Cloud Insider Circle is to create a vibrant community that empowers women in cloud computing and technology through mentorship, education, and networking opportunities.By fostering inclusivity, collaboration, and professional growth, we aim to shape a future where women are integral to the evolution of the tech industry and society in overall.",
+  "color": "#d8f0ef",
+  "accent": "#276c6b",
+  "symbol": "W",
+  "lead": "Student Lead",
+  "email": "7259224222- Nidhi, 9632361789-Nithyasree",
+  "instagram": "@rvce_wic_insidercircle",
+  "venue": "ISE 110",
+  "images": [
+    "https://lh3.googleusercontent.com/d/11uhRizJapAfLHZNEq1IKdZtlgv530r90",
+    "https://lh3.googleusercontent.com/d/1WASfkSh-yy0XEi8oGvj4d6aHwsTugVlQ",
+    "https://lh3.googleusercontent.com/d/1pt8wOLqYzh1xP3B6O2RH1buk01F0SYzX",
+    "https://lh3.googleusercontent.com/d/1cgdDHyqZIbTmNswWP-zHGBfBGUjJlabI"
+  ],
+  "events": [
+    {
+      "name": "Networking Nexus",
+      "date": "Aug 28",
+      "time": "Showcase Day 1",
+      "venue": "ISE 110",
+      "detail": "An interactive session on building a strong professional network, with a focus on effective LinkedIn profiles, personal branding, meaningful connections, and leveraging LinkedIn for career and internship opportunities."
+    },
+    {
+      "name": "Introduction to Cloud and Internships",
+      "date": "Aug 28",
+      "time": "Showcase Day 1",
+      "venue": "ISE 110",
+      "detail": "An introductory session on cloud computing, its industry applications, and how students can explore internship opportunities in the cloud domain."
+    },
+    {
+      "name": "Vision 2030- From Freshman to Final Year",
+      "date": "Aug 28",
+      "time": "Showcase Day 1",
+      "venue": "ISE 110",
+      "detail": "A guidance session helping students plan their academic and professional journey from freshman year to final year, with a focus on skills, opportunities, and career growth."
+    },
+    {
+      "name": "From Pen to Publish",
+      "date": "Aug 28",
+      "time": "Showcase Day 1",
+      "venue": "ISE 110",
+      "detail": "A session introducing students to the research and publication process, covering how to develop ideas, write research papers, and successfully publish them."
+    }
+  ],
+  "division": "Computer Science, Software & AI",
+  "logo": "https://lh3.googleusercontent.com/d/11uail8ncL48gPBQnkipSE2k_f2jpnkHF"
+}

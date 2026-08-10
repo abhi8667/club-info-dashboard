@@ -1,0 +1,53 @@
+{
+  "id": "spark-the-iucee-student-chapter",
+  "name": "SPARK : The IUCEE Student Chapter",
+  "shortName": "SPARK",
+  "category": "Technical",
+  "description": "SPARK – IUCEE RVCE Student Chapter\n\nSPARK (Study through Projects & Activities for Renewing Knowledge) is the official IUCEE Student Chapter at RV College of Engineering (RVCE). The chapter promotes project-based learning, innovation, research, leadership, and interdisciplinary collaboration, enabling students to apply classroom knowledge to real-world engineering challenges. Through technical events, industrial exposure, research initiatives, and outreach activities, SPARK nurtures future-ready engineers with strong technical, professional, and leadership skills.\n\n## Verticals\n\n1. Industrial Connect: Industrial visits to organizations such as Indian Coach Factory (ICF), Chennai and U R Rao Satellite Centre (URSC), Bengaluru, providing practical exposure, industry interaction, and networking opportunities.\n\n2. Activities & Events: Workshops, hackathons, AI-focused competitions, design festivals, technical workshops, and student engagement programs that strengthen technical and professional competencies.\n\n3. Projects & Research: Research initiatives, prototyping, project development, technical symposiums, and project exhibitions that encourage innovation and hands-on learning.\n\n4. Women Empowerment: Outreach initiatives including \"Shakti Shiksha\" that promote inclusivity, awareness, and participation of women in engineering and technology.\n\n5. Social Media & Podcast: The \"Insight Podcast*\" features conversations with institutional leaders, faculty members, alumni, and student organizations, serving as a platform for knowledge sharing and professional interaction. The podcast has achieved over \"30,000 cumulative views\" and contributes to SPARK’s digital outreach and student engagement.\n\n## Major Activities\n\nSPARK regularly organizes events that foster technical, leadership, and professional growth, including:\n\n1. EduAIthon – AI Innovation Hackathon\n2. Mystery.EXE – Technical Treasure Hunt\n3. Razz Cybersecurity Workshop\n4. ML by Hand Workshop\n5. IEEE Mini Project Symposium\n6. Design Fest and Creative Workshops\n7. Faculty & Club Talks through the Insight Podcast\n8. Industrial Visits\n9. Model United Nations (MUN)\n10. STEM Outreach Programs\n\nThe chapter currently consists of  72 Active Members, 31 Prefects, and 14 Core Members, creating a vibrant community of innovators and student leaders.\n\n## Achievements & Recognitions (Academic Year 2025–2026)\n\n1. Best Student Chapter – IUCEE Award at IASF 2025 (VN-RVJIET)** for outstanding contributions to technical learning, innovation, and student engagement.\n2. First Prize among 128 participating teams at the Ambition National Hackathon.\n3. 1st Place – Ideathon at Aavishkar Manthan.\n4. 3rd Place – Ideathon at Aavishkar Manthan.\n5. 1st Place – Elocution at Aavishkar Manthan.\n6. First Place at the Srujana Science Exhibition, JSS Academy, Mysore.\n7. Special Mentions across all themes at AUNSF 3.0.\n8. Successfully exhibited projects at the BIT National Project Expo.\n9. Presented innovative projects at the IEEE Mini Project Symposium.\n10. Participated in the HDSE Leadership Workshop, Mysore, enhancing leadership and professional development.\n\n## Research Contributions\n\nSPARK actively promotes a strong research culture through conference publications, technical innovation, and student-led research projects. The chapter has presented research work at national and international conferences, reflecting its commitment to innovation, sustainable engineering solutions, and academic excellence.",
+  "color": "#ffe0af",
+  "accent": "#825216",
+  "symbol": "S",
+  "lead": "Student Lead",
+  "email": "1. Kavin Krishnan C  9513344481 kavinkrishnanc.cs24@rvce.edu.in  2. A S S S Koundinya  8686251633  assskoundinya.cs24@rvce.edu.in",
+  "instagram": "spark_rvce",
+  "venue": "CE 205 : Department of Civil Engineering",
+  "images": [
+    "https://lh3.googleusercontent.com/d/1rcfWRaMTw8G5geNEflCaYG8Q-mwkgxo2",
+    "https://lh3.googleusercontent.com/d/1S0D4TMfBHYMVWqS-r33NOgNSmEGFWY_L",
+    "https://lh3.googleusercontent.com/d/16cMxUIPdT1-HAvQU9A-lZPaNoVe5uasE",
+    "https://lh3.googleusercontent.com/d/1P1Yjd2WdH8t3yeOXtn9iS2VUD0mAslp8",
+    "https://lh3.googleusercontent.com/d/1MfzSS0sav-LyiPj1CdFLfXU2-zLKClqY"
+  ],
+  "events": [
+    {
+      "name": "Mission: Impossible? – Build. Adapt. Pitch.",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "CE 205 : Department of Civil Engineering",
+      "detail": "“Every twist changes the game.”  Mission: Impossible? is a 2-hour innovation challenge where teams build a startup from randomly assigned problems, technologies, audiences, revenue models, and features. As the challenge progresses, teams must engineer their solution, adapt to unexpected constraints, tackle an ethical dilemma, and finally pitch their startup in a randomly assigned creative format.  Event Flow  * Team Formation – 10 min: Participants are randomly grouped into teams of 4–5. * Round 1: Startup DNA – 20 min: Teams draw random startup elements and create a logically connected business idea. * Round 2: Engineering Buildathon – 25 min: Teams receive random hardware/component cards and integrate every assigned component into their solution. * Round 3: The Twist – 15 min: A surprise constraint forces teams to redesign and adapt their solution. * Round 4: Ethics Override – 10 min: Teams face a real-world ethical dilemma, make a decision, and justify their approach. * Round 5: Final Pitch – 40 min: Teams present their final solution through a randomly assigned format such as Shark Tank, skit, advertisement, news report, customer testimonial, or Human Machine.  AI can be used throughout the event for brainstorming, research, visualisation, UI mockups, posters, and system diagrams.  Judges will also randomly question individual team members after each pitch to evaluate understanding, adaptability, and equal participation."
+    },
+    {
+      "name": "Digital Launchpad Masterclass: LinkedIn, College Email Benefits & Leveraging AI",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "CE 205 : Department of Civil Engineering",
+      "detail": "Build a professional LinkedIn profile, unlock exclusive software and learning benefits through your college email ID, and learn to leverage AI tools for research, productivity, and academic workflows. This hands-on session equips you with practical skills to enhance your digital presence and work smarter throughout your college journey."
+    },
+    {
+      "name": "Stations of an Innovator",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "CE 205 : Department of Civil Engineering",
+      "detail": "Experience the Journey from Idea to Impact  Duration: 2 Hours  Concept: “Stations of an Innovator” is an interactive showcase designed to give participants a glimpse into the journey of an innovator. Instead of simply displaying our club’s activities, visitors actively experience the different stages involved in identifying problems, generating ideas, building solutions, communicating them effectively, and understanding the impact of innovation. Participants will spend approximately 15–20 minutes at each station before moving to the next.  Station 1: Idea Ignition (15–20 minutes)  Participants will be presented with a real-world or campus-based problem. Working individually or in small groups, they will brainstorm innovative solutions and present their ideas to the station mentors. The objective is to encourage creative thinking and problem-solving.  Materials Required:  * Problem statement cards * Pens * A4 sheets * Timer  Station 2: Prototype Playground (15–20 minutes)  Participants will build a simple prototype using everyday materials such as paper cups, straws, ice cream sticks, tape, and rubber bands. The challenge is to transform an idea into a tangible model within the given time.  Materials Required:  * Paper cups * Straws * Ice cream sticks * Masking tape * Rubber bands * String * Scissors  Station 3: Pitch Arena (15–20 minutes)  Participants will deliver a short startup-style pitch explaining their solution, its impact, target users, and why it is unique. Volunteers will play the role of judges and ask questions, simulating a real innovation or entrepreneurship pitch.  Materials Required:  * Timer * Score sheets * Whiteboard (optional)  Station 4: Impact Wall (15–20 minutes)  Participants will reflect on the experience by writing down a real-world problem they believe should be solved or an innovation they wish existed. These ideas will be displayed on the “Impact Wall,” creating a collective vision of future innovations.  Materials Required:  * Sticky notes * Chart paper or display board * Markers * Tape  Station 5: Club Showcase (15–20 minutes)  The final station introduces visitors to our club’s activities and achievements. It will feature project displays, research initiatives, industry visits, workshops, competitions, social impact initiatives, and entrepreneurship opportunities. Visitors can interact with club members, ask questions, and register their interest in joining the club.  Display Includes:  * Club banner * Event photographs * Research and innovation projects * Awards and achievements * Posters * Membership QR code"
+    },
+    {
+      "name": "Decode.exe",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "CE 205 : Department of Civil Engineering",
+      "detail": "Several decoding stations set up in one room. Clues at each station resolve to numbers, which add up to determine the final winning prize. First team to crack all clues wins.  Tests: Logic, ciphers, aptitude Duration: 1 – 1.5 hrs  Station 1: Death Registry Puzzle Teams get a list of 10–12 death entries (name, age, occupation, cause, place, date). Spotting the anomaly reveals a number tied to that entry — the clue.  Station 2: Mystery.exe (2 Levels) Level 1: A custom letter↔️number chart converts a word into numbers, then a sequence of operations (per color block) transforms it into a final number. Level 2: 24 true/false statements → convert to 1s and 0s → 24-bit binary string → split into three 8-bit blocks → convert each to decimal → map numbers to a location.  Station 3: TBD Still deciding between astronomy-based or tech-based questions."
+    }
+  ],
+  "division": "Astronomy & Interdisciplinary Engineering",
+  "logo": "https://lh3.googleusercontent.com/d/1Zj7vdEAYlf-RRr4SuAHvSgBeDQ4kGRYB"
+}

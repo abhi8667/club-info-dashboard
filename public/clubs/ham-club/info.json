@@ -1,0 +1,49 @@
+{
+  "id": "ham-club",
+  "name": "HAM Club",
+  "shortName": "HAM",
+  "category": "Technical",
+  "description": "RVCE Ham Club is the amateur radio club in RVCE. It was inaugurated on 27th August 2019. We aim to popularize Amateur Radio as a hobby among students while exploring technical innovations in the communication domain. RVCE HAM club shall have international collaborations with HAM units across the globe through its activities and aims to have talks with esteemed professionals across the globe through radio communication.",
+  "color": "#f6ddb7",
+  "accent": "#74501c",
+  "symbol": "H",
+  "lead": "Student Lead",
+  "email": "contact@ham.rvce.edu.in",
+  "instagram": "@ham_rvce",
+  "venue": "Seminar Hall",
+  "images": [
+    "https://picsum.photos/seed/HAM1/800/400",
+    "https://picsum.photos/seed/HAM2/800/400"
+  ],
+  "events": [
+    {
+      "name": "Step into Radiowaves with SDR",
+      "detail": "Unleash the power of technology that turns your computer into a versatile radio receiver and transmitter.",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD"
+    },
+    {
+      "name": "Group Ideathon — Problem → PrototypeD",
+      "detail": "",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD"
+    },
+    {
+      "name": "Agri-Tech Quiz & Learning Lab",
+      "detail": "",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD"
+    },
+    {
+      "name": "TEDx Talk — How Agriculture Depends",
+      "detail": "on New Technology",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD"
+    }
+  ],
+  "division": "Robotics, Electronics & Core Tech"
+}

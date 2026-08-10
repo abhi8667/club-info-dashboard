@@ -1,0 +1,28 @@
+{
+  "id": "raag",
+  "name": "RAAG",
+  "shortName": "RAAG",
+  "category": "Non-Technical",
+  "description": "Welcome to RAAG! We are a dynamic community of students passionate about our field. Join us to explore, learn, and grow through our various activities and projects.",
+  "color": "#f2d8e7",
+  "accent": "#863c62",
+  "symbol": "R",
+  "lead": "Student Lead",
+  "email": "contact@raag.rvce.edu.in",
+  "instagram": "@raag_rvce",
+  "venue": "Seminar Hall",
+  "images": [
+    "https://picsum.photos/seed/RAAG1/800/400",
+    "https://picsum.photos/seed/RAAG2/800/400"
+  ],
+  "events": [
+    {
+      "name": "Ice Breaker Games- Laugh. Connect.",
+      "detail": "Repeat. Kick things off with laughter and chaos! Fun, quirky games to help you vibe with your batchmates and make instant connections—no awkward intros, just pure fun. . RAAG, the youth club of RVCE, adds energy and creativity to campus life. Through its five verticals and events like 8th Mile, Matrubhasha Divas, and Night Cricket, it fosters leadership, collaboration, and the true spirit of youth. It is a platform for students to explore talents, innovate, and create unforgettable experiences. With unity and diversity at its core, RAAG truly reflects the vibrant spirit of RVCE. We Create Culture, We Redefine Youth, We Make A Difference!",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD"
+    }
+  ],
+  "division": "Regional, Social Service & Youth Leadership"
+}

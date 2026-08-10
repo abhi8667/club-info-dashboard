@@ -1,0 +1,49 @@
+{
+  "id": "team-frequency",
+  "name": "Team Frequency",
+  "shortName": "TF",
+  "category": "Technical",
+  "description": "We are the “To Be Engineers” — dreamers, builders, and problem-solvers on a mission to turn bold ideas into real-world impact. At Frequency Club, we don’t just talk about the future, we create it — exploring AI, Machine Learning, AR/VR, IoT, Robotics, Automation, and beyond. From tackling everyday challenges to shaping industry breakthroughs, we’re where curiosity meets technology, and passion sparks innovation. If you can imagine it, we’ll engineer it.",
+  "color": "#ffe3b8",
+  "accent": "#85521c",
+  "symbol": "F",
+  "lead": "Student Lead",
+  "email": "contact@tf.rvce.edu.in",
+  "instagram": "@tf_rvce",
+  "venue": "Seminar Hall",
+  "images": [
+    "https://picsum.photos/seed/TF1/800/400",
+    "https://picsum.photos/seed/TF2/800/400"
+  ],
+  "events": [
+    {
+      "name": "11:15 AM TO 12:15 PM",
+      "detail": "PROMPT TO PRODUCT In this session, you’ll learn to craft effective prompts and watch them bring a fully responsive, functional web app to life — all within 90 minutes. No prior coding experience needed! We are the “To Be Engineers” — dreamers, builders, and problem-solvers on a mission to turn bold ideas into real-world impact. At Frequency Club , we don’t just talk about the future, we create it — exploring AI, Machine Learning, AR/VR, IoT, Robotics, Automation , and beyond. From tackling everyday challenges to shaping industry breakthroughs, we’re where curiosity meets technology, and passion sparks innovation. If you can imagine it, we’ll engineer it.",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD"
+    },
+    {
+      "name": "Squid Game",
+      "detail": "Gamification of technical skills of participants to showcase their talent.",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD"
+    },
+    {
+      "name": "Frontend Foundation",
+      "detail": "Your first step into Web Dev , a beginner friendly workshop to build your first interactive web pages.",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD"
+    },
+    {
+      "name": "CTRL+ Survive-The final round",
+      "detail": "part two of the squid game saga with all new games and unexpected twist",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD"
+    }
+  ],
+  "division": "Computer Science, Software & AI"
+}

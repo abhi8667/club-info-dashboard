@@ -1,0 +1,50 @@
+{
+  "id": "acm-rvce",
+  "name": "ACM RVCE",
+  "shortName": "ACM",
+  "category": "Technical",
+  "description": "What if your college journey could begin with building and shipping products, competing in national hackathons, exploring AI and cybersecurity, publishing top-tier research, and learning directly from people in industry?\n\nThat’s what ACM RVCE is all about.\n\nWe are a community of passionate developers, designers, researchers, and innovators who love building things that matter. Whether you’re someone who has been coding for years or someone who is just curious about technology, ACM RVCE gives you the space to learn, experiment, and grow.\n\nOur members don’t just attend events: they build projects, participate in Capture The Flag (CTF) competitions, work on AI and machine learning initiatives, contribute to open-source, explore research and publications, and collaborate with students across different domains. We regularly organize workshops, technical bootcamps, hackathons, founder talks, and industry sessions that focus on practical learning rather than passive lectures.\n\nSome of our flagship initiatives include TechTank, a national innovation hackathon inspired by real-world problem solving and entrepreneurship; ACM CTF, our cybersecurity competition; Build with GenAI, a hands-on AI hackathon; and industry-focused sessions featuring engineers, founders, researchers, and alumni from leading organizations.\n\nWhat makes ACM RVCE different is the community. You’ll find people interested in various realms across domains of computers, electrical/electronics and research-oriented learning: all working together, learning from each other, and pushing one another to improve.\n\nAs a member, you’ll have opportunities to:\n\n* Build real-world projects\n* Explore AI, ML, cybersecurity, and emerging technologies\n* Participate in national hackathons and technical competitions\n* Learn from industry experts and alumni\n* Work on research and publication-oriented initiatives\n* Develop leadership, teamwork, and communication skills\n* Become part of the global ACM network\n\nMany of our members have gone on to secure internships, win competitions, lead technical initiatives, and contribute to impactful projects. But more importantly, they found a community that helped them grow.\n\nIf you’re looking for a place where curiosity turns into skills, ideas turn into projects, and students turn into builders, ACM RVCE is the place to start.\n\nLearn. Build. Compete. Research. Lead.\n\nYour journey starts here.",
+  "color": "#f0d9ff",
+  "accent": "#713d90",
+  "symbol": "A",
+  "lead": "Student Lead",
+  "email": "Gauri Dhanakshirur (+91 8861492072) and Kartik Shekhar (+91 9113906099)",
+  "instagram": "@acm.rvce",
+  "venue": "BT Seminar Hall (BioTech Department Seminar Hall)",
+  "images": [
+    "https://lh3.googleusercontent.com/d/1ZSaL35MO0wGHwlKDVVRq56ZSD3LycETi",
+    "https://lh3.googleusercontent.com/d/1Hzvnj_lPrjQeaQpb_4SAx4PpMBhgDdeD"
+  ],
+  "events": [
+    {
+      "name": "Reverse Research Engineering",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "BT Seminar Hall (BioTech Department Seminar Hall)",
+      "detail": "An event that gamifies academic writing by challenging teams to decode computer science papers, either inventing an abstract based solely on a descriptive title or engineering a professional title from a redacted abstract. Guided by structural clue sheets and evaluated against the actual published papers, students strip away the intimidation of research while learning how cutting-edge technology is structurally presented."
+    },
+    {
+      "name": "ByteStorm – CS Ideathon",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "BT Seminar Hall (BioTech Department Seminar Hall)",
+      "detail": "Teams will be given a set of technology-related keywords and must brainstorm an innovative idea around them. Like Shark Tank, participants will pitch their concept to a panel of judges—no coding or prototypes required, just creativity, logic, and a compelling vision."
+    },
+    {
+      "name": "Tech-Trap: The Tech-Bluff Tournament",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "BT Seminar Hall (BioTech Department Seminar Hall)",
+      "detail": "The event challenges teams to construct a plausible technical paragraph using a given set of terms while intentionally concealing a logical or structural engineering fallacy. Presenting teams attempt to deliver their pitch with absolute confidence, while competing audience members act as rigorous code-reviewers racing to spot the hidden trap and claim the points."
+    },
+    {
+      "name": "Tech Time Capsule",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "BT Seminar Hall (BioTech Department Seminar Hall)",
+      "detail": "Travel through time by stepping into a randomly assigned era of computing, from the early days of personal computers to a futuristic AI-powered world. Teams must analyze the technological landscape of their timeline and pitch an innovative solution that fits its possibilities and limitations."
+    }
+  ],
+  "division": "Computer Science, Software & AI",
+  "logo": "https://lh3.googleusercontent.com/d/1QcTx8BjVSNrQEr8BOegQYL79cB2fvUoU"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "kannada-sangha",
+  "name": "Kannada Sangha",
+  "shortName": "KS",
+  "category": "Non-Technical",
+  "description": "Kannada Sangha is a vibrant student association dedicated to celebrating and preserving the rich heritage of Kannada language, literature, and culture. Guided by the vision to become a leading platform for promoting Kannada art and diversity within an engineering environment, the Sanghaorganizes a wide range of cultural, literary, and artistic events that reflect the essence of Karnataka’s traditions.The mission of the club extends beyond cultural promotion—it strives to uphold the integrity and prominence of the Kannada language while fostering inclusivity and respect for all other languages.",
+  "color": "#ffe1b8",
+  "accent": "#84551e",
+  "symbol": "K",
+  "lead": "Student Lead",
+  "email": "contact@ks.rvce.edu.in",
+  "instagram": "@kannadasangharvce",
+  "venue": "CS Ground",
+  "images": [
+    "https://lh3.googleusercontent.com/d/1bEtaOel9Jyqt_53uGV4va5UcKGWqdvqR",
+    "https://lh3.googleusercontent.com/d/1N3I26W_8DojVVAUDOij-aIeue93tmxDC",
+    "https://lh3.googleusercontent.com/d/1RgPc5DQ-mbdc4Lg9tLPZYaFwr8UL2BSH",
+    "https://lh3.googleusercontent.com/d/1vDa4Aea0ThOMGinEh38F7VboDm5ia6hG",
+    "https://lh3.googleusercontent.com/d/1b_J21QPcmWOx8-md5ZsMZC9hvvUW5ezu"
+  ],
+  "events": [
+    {
+      "name": "Kannada Habba",
+      "date": "Aug 28",
+      "time": "Showcase Day 1",
+      "venue": "CS Ground",
+      "detail": ""
+    },
+    {
+      "name": "Drums",
+      "date": "Aug 28",
+      "time": "Showcase Day 1",
+      "venue": "CS Ground",
+      "detail": ""
+    },
+    {
+      "name": "Sports Tournaments",
+      "date": "Aug 28",
+      "time": "Showcase Day 1",
+      "venue": "CS Ground",
+      "detail": ""
+    },
+    {
+      "name": "Social Activites",
+      "date": "Aug 28",
+      "time": "Showcase Day 1",
+      "venue": "CS Ground",
+      "detail": ""
+    }
+  ],
+  "division": "Regional, Social Service & Youth Leadership",
+  "logo": "https://lh3.googleusercontent.com/d/1bays54xP_geEjRwVq8yVYLVtwBUs7uQT"
+}

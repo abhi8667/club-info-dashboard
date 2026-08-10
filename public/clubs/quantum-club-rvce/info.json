@@ -1,0 +1,28 @@
+{
+  "id": "quantum-club-rvce",
+  "name": "Quantum Club RVCE",
+  "shortName": "QC",
+  "category": "Technical",
+  "description": "Welcome to Quantum Club RVCE! We are a dynamic community of students passionate about our field. Join us to explore, learn, and grow through our various activities and projects.",
+  "color": "#dedbff",
+  "accent": "#4b4591",
+  "symbol": "Q",
+  "lead": "Student Lead",
+  "email": "contact@qc.rvce.edu.in",
+  "instagram": "@qc_rvce",
+  "venue": "Seminar Hall",
+  "images": [
+    "https://picsum.photos/seed/QC1/800/400",
+    "https://picsum.photos/seed/QC2/800/400"
+  ],
+  "events": [
+    {
+      "name": "Quantum Club RVCE Orientation",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD",
+      "detail": "Introduction to our club activities and roadmap for the year."
+    }
+  ],
+  "division": "Robotics, Electronics & Core Tech"
+}

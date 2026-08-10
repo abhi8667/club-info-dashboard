@@ -1,0 +1,28 @@
+{
+  "id": "team-krushi",
+  "name": "Team Krushi",
+  "shortName": "TK",
+  "category": "Technical",
+  "description": "Welcome to Team Krushi! We are a dynamic community of students passionate about our field. Join us to explore, learn, and grow through our various activities and projects.",
+  "color": "#d9efc5",
+  "accent": "#4f7624",
+  "symbol": "K",
+  "lead": "Student Lead",
+  "email": "contact@tk.rvce.edu.in",
+  "instagram": "@tk_rvce",
+  "venue": "Seminar Hall",
+  "images": [
+    "https://picsum.photos/seed/TK1/800/400",
+    "https://picsum.photos/seed/TK2/800/400"
+  ],
+  "events": [
+    {
+      "name": "Team Krushi Project Showcase",
+      "detail": "Team KRUSHI brings together engineering students to design and prototype field-ready agri-tech solutions that improve productivity, safety, and affordability. Using the TORQUE framework, the club conducts hands-on development, field testing, and farmer collaboration. With two patents to its name, Team KRUSHI welcomes partnerships with industry, researchers, and farming communities to scale and deploy its innovations. A demonstration of the tractor module presenting project origin, design methodology, and system architecture, followed by a live operational demo and a brief interactive question-and-answer session. Participants will form small teams to analyse a real farmer’s problem, generate rapid solution concepts under mentor supervision, and deliver a concise, feasibility-focused pitch. A structured, interactive quiz assessing understanding of the showcased project and core agri-tech principles; each question will be accompanied by a short explanatory discussion and practical demonstration. A keynote examining the lifecycle of agri- tech innovations — from needs assessment through prototyping and deployment — illustrated with case studies and actionable guidance, concluding with an invitation to join Team Krushi.",
+      "date": "Aug 28",
+      "time": "TBD",
+      "venue": "TBD"
+    }
+  ],
+  "division": "Astronomy & Interdisciplinary Engineering"
+}

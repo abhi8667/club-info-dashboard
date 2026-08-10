@@ -1,0 +1,53 @@
+{
+  "id": "debate-society",
+  "name": "Debate Society",
+  "shortName": "DS",
+  "category": "Non-Technical",
+  "description": "The RVCE Debate Society (DebSoc) is more than just a debating society, it's a place where ideas are challenged, confidence is built and lifelong friendships are made. Whether you've never debated before or have years of experience, there's a place for you here. We believe that every voice deserves to be heard and we're here to help you find yours.\n\nThrough weekly practice sessions, workshops, events and tournaments across the nation and internationally, you'll learn to think critically, speak confidently and tackle ideas from every perspective. DebSoc isn't just about winning debates. It's about growing as a communicator, being an active listener and learning how to think on your feet.\n\nFrom late-night prep sessions and tournament trips to unforgettable memories with teammates, RV DebSoc offers an experience that goes far beyond the podium. If you're looking for a community that challenges you, supports you, and pushes you to become the best version of yourself, you've just found it. We can't wait to welcome and hear what you have to say!",
+  "color": "#e3dcf3",
+  "accent": "#5c4d7c",
+  "symbol": "D",
+  "lead": "Student Lead",
+  "email": "Sri Vishnu PV - +91 9740934681 Diya Manu - +91 96329 20021",
+  "instagram": "@rvcedebsoc",
+  "venue": "Reel Room, 4th Floor, New Library",
+  "images": [
+    "https://lh3.googleusercontent.com/d/1E9zc3EWaOWGLAt-3b4IMozgebp2wWBqU",
+    "https://lh3.googleusercontent.com/d/1A-wMPI8bgpR9OpMHA6Hjx3AlywwHZBNj",
+    "https://lh3.googleusercontent.com/d/1zh5g8wpeVuMhbm-8o7NBaXDenaiEeZta",
+    "https://lh3.googleusercontent.com/d/1u-4lrXT9fvY6dWPGW6IQ1bzB03nFjp4r",
+    "https://lh3.googleusercontent.com/d/1CRsTW7hw7bdmDVvG6q-WpfnG9UDtiKV3"
+  ],
+  "events": [
+    {
+      "name": "The Great Debatsby",
+      "date": "Aug 28",
+      "time": "Showcase Day 1",
+      "venue": "Reel Room, 4th Floor, New Library",
+      "detail": "A fiery 2v2 British Parliamentary debate with sharp speeches, rebuttals and a flow that spans politics, ethics, science and culture."
+    },
+    {
+      "name": "Catch Me If You Can",
+      "date": "Aug 28",
+      "time": "Showcase Day 1",
+      "venue": "Reel Room, 4th Floor, New Library",
+      "detail": "A 4 player mystery debate where one player does not know the motion.  They must figure out the motion with context clues before they get voted out."
+    },
+    {
+      "name": "Knives Out",
+      "date": "Aug 28",
+      "time": "Showcase Day 1",
+      "venue": "Reel Room, 4th Floor, New Library",
+      "detail": "Judges take a hard stance on real-world issues, and it’s on you to argue, persuade and flip their position."
+    },
+    {
+      "name": "Devil’s Advocate",
+      "date": "Aug 28",
+      "time": "Showcase Day 1",
+      "venue": "Reel Room, 4th Floor, New Library",
+      "detail": "Given a motion and stance, you prep fast, dive in, and survive the chaos, adaptability wins the day."
+    }
+  ],
+  "division": "Literary, Quizzing & Public Speaking",
+  "logo": "https://lh3.googleusercontent.com/d/1nWKIhvyzmBGPyWBfsrbGn6z9XuUHoFqS"
+}

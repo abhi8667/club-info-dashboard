@@ -1,0 +1,53 @@
+{
+  "id": "tedxrvce",
+  "name": "TEDxRVCE",
+  "shortName": "TEDx",
+  "category": "Non-Technical",
+  "description": "TEDxRVCE is RVCE's independently organized TED event. We bring in cool speakers, fresh ideas, and unforgettable moments, bringing together changemakers, storytellers, and innovators to share ideas worth spreading. Our events are planned and executed entirely by a student team, recreating the global TED experience on campus, amplifying diverse voices, creativity, and meaningful connections.",
+  "color": "#f3d3d3",
+  "accent": "#873d3d",
+  "symbol": "T",
+  "lead": "Student Lead",
+  "email": "Lakshana Jeevanandan  - 8939361051",
+  "instagram": "@tedxrvce_bengaluru",
+  "venue": "The Reel Room",
+  "images": [
+    "https://lh3.googleusercontent.com/d/1x4pU_2p3Y0ztFwKMAL-NGDZUnT__EPdq",
+    "https://lh3.googleusercontent.com/d/16JM5-Tpk4D1vBYXthQuBniZVdfAgm2bk",
+    "https://lh3.googleusercontent.com/d/1svcSywIxBlDXLw642S06auEa5Yo0WgU5",
+    "https://lh3.googleusercontent.com/d/1ghuYykuJwM4G-RPD6i18u1m2x4n7RMlf",
+    "https://lh3.googleusercontent.com/d/1z223iiHkECFbDj5Sw-SJwtq6YT_nqMdc"
+  ],
+  "events": [
+    {
+      "name": "Color Fusion Challenge (or) Hue & Create",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "The Reel Room",
+      "detail": "This activity combines colour accuracy with creative thinking. Participants must first recreate randomly generated target colours using a digital colour picker. The colours they successfully match become the only colours they can use to complete a creative circle illustration challenge."
+    },
+    {
+      "name": "Ad-Absurdum",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "The Reel Room",
+      "detail": "Students will be made into teams of 2–3, and they will be asked to sell an unsellable product (for example, a broken umbrella or an empty pen). Once that’s done, the teams will be asked to make a reel on their product as an advertisement."
+    },
+    {
+      "name": "Headline & Emoji Challenge",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "The Reel Room",
+      "detail": "Participants guess a movie from emojis displayed on a laptop and then create a creative newspaper headline for it. The activity encourages teamwork and creativity, requiring only a laptop, paper, and pens."
+    },
+    {
+      "name": "Pictogram Puzzle & Guess the Imposter",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "The Reel Room",
+      "detail": "Participants are given images representing themes of previous TEDx events and asked to guess them in a fun Pictionary-style game. Following that, in “Guess the Imposter,” participants are shown titles or headlines of absurd TED talks, with one being fake, and must identify the imposter."
+    }
+  ],
+  "division": "Literary, Quizzing & Public Speaking",
+  "logo": "https://lh3.googleusercontent.com/d/181fBndtnKi4LEUym83yXCJnQ60V5UxOV"
+}
