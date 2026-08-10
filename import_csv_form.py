@@ -1,3 +1,5 @@
+import os
+import sys
 import csv
 import json
 import re
@@ -12,10 +14,12 @@ def convert_drive_url(url):
         return f"https://lh3.googleusercontent.com/d/{file_id}"
     return url
 
-# Direct explicit map from CSV "Club Name" to clubs.json "id"
+# Comprehensive mapping dictionary from CSV "Club Name" to clubs.json "id"
 EXPLICIT_MAP = {
     'team helios racing': 'team-helios-racing',
     'carv hindi': 'carv-hindi',
+    'carv english': 'carv-english',
+    'kannada carv': 'kannada-carv',
     'google developer groups': 'gdg-rvce',
     'association of computing machinery (acm rvce)': 'acm-rvce',
     'team dhruva': 'team-dhruva',
@@ -34,19 +38,59 @@ EXPLICIT_MAP = {
     'entrepreneurship cell': 'ecell',
     'ieee - rvce : student branch chapter': 'ieee-rvce',
     'sattva art club of rvce': 'sattva',
+    'accelerate club rvce': 'accelerate-club-rvce',
+    'quantum club rvce': 'quantum-club-rvce',
+    'team dhi': 'team-dhi',
+    'team krushi': 'team-krushi',
+    'team vyoma': 'team-vyoma',
+    'studio zero': 'studio-zero',
+    'raag': 'raag',
+    'alaap': 'alaap',
+    'evoke': 'evoke',
+    'ashwa racing': 'ashwa-racing',
+    'team chimera': 'team-chimera',
+    'project garuda': 'project-garuda',
+    'team antariksh': 'team-antariksh',
+    'team astra robotics': 'team-astra-robotics',
+    'ham club': 'ham-club',
+    'nss rvce': 'nss-rvce'
 }
 
 def main():
-    with open('data/clubs.json', 'r', encoding='utf-8') as f:
+    # 1. Locate the CSV file to import
+    if len(sys.argv) > 1:
+        csv_file = sys.argv[1]
+    else:
+        # Find any CSV file in current directory
+        candidates = [f for f in os.listdir('.') if f.lower().endswith('.csv')]
+        if not candidates:
+            print("Error: No CSV file found in the project directory.")
+            print("Usage: python import_csv_form.py <path_to_form_responses.csv>")
+            sys.exit(1)
+        csv_file = candidates[0]
+
+    if not os.path.exists(csv_file):
+        print(f"Error: File '{csv_file}' not found.")
+        sys.exit(1)
+
+    print(f"Reading Google Form CSV response file: '{csv_file}'...\n")
+
+    # 2. Read existing data/clubs.json
+    clubs_path = os.path.join('data', 'clubs.json')
+    with open(clubs_path, 'r', encoding='utf-8') as f:
         clubs = json.load(f)
 
-    csv_file = 'Club Information Submission Form (Responses) - Form responses 1.csv'
-    
+    updated_count = 0
+
+    # 3. Parse CSV rows
     with open(csv_file, 'r', encoding='utf-8') as f:
         reader = csv.reader(f)
-        headers = next(reader)
-        updated_count = 0
-        
+        try:
+            headers = next(reader)
+        except StopIteration:
+            print("Error: CSV file is empty.")
+            sys.exit(1)
+            
         for row in reader:
             if not row or len(row) < 3 or not row[2].strip():
                 continue
@@ -60,7 +104,6 @@ def main():
             desc_raw = row[8].strip() if len(row) > 8 else ''
             
             events = []
-            # Slots 1-4
             for slot in range(4):
                 idx_name = 9 + slot * 2
                 idx_desc = 10 + slot * 2
@@ -88,16 +131,15 @@ def main():
                 match = next((c for c in clubs if c['id'] == target_id), None)
             
             if not match:
-                # Fallback to fuzzy match
                 norm_form_name = re.sub(r'[^a-z0-9]', '', name.lower())
                 for c in clubs:
                     c_norm = re.sub(r'[^a-z0-9]', '', (c['name'] + ' ' + c.get('shortName', '')).lower())
-                    if norm_form_name == c_norm:
+                    if norm_form_name == c_norm or norm_form_name in c_norm or c_norm in norm_form_name:
                         match = c
                         break
 
             if match:
-                print(f"MATCHED: '{name}' -> '{match['name']}' (id: {match['id']})")
+                print(f"[MATCHED] '{name}' -> '{match['name']}' (ID: {match['id']})")
                 if desc_raw:
                     match['description'] = desc_raw
                 if venue_raw:
@@ -124,12 +166,22 @@ def main():
                     match['email'] = contact_raw
                 updated_count += 1
             else:
-                print(f"WARNING: Could not match '{name}'")
+                print(f"[WARNING] Could not find match for '{name}'")
 
-    with open('data/clubs.json', 'w', encoding='utf-8') as f:
+    # 4. Save updated data/clubs.json
+    with open(clubs_path, 'w', encoding='utf-8') as f:
         json.dump(clubs, f, indent=2, ensure_ascii=False)
+
+    # 5. Sync individual public/clubs/<club-id>/info.json files
+    base_dir = os.path.join('public', 'clubs')
+    for c in clubs:
+        cid = c['id']
+        info_file = os.path.join(base_dir, cid, 'info.json')
+        if os.path.exists(os.path.dirname(info_file)):
+            with open(info_file, 'w', encoding='utf-8') as f:
+                json.dump(c, f, indent=2, ensure_ascii=False)
         
-    print(f"\nSuccessfully updated {updated_count} clubs in data/clubs.json!")
+    print(f"\nSuccessfully updated {updated_count} clubs in 'data/clubs.json' and 'public/clubs/'!")
 
 if __name__ == '__main__':
     main()
