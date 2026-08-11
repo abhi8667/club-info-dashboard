@@ -4,17 +4,20 @@
     "name": "Accelerate Club RVCE",
     "shortName": "AC",
     "category": "Technical",
-    "description": "Welcome to Accelerate Club RVCE! We are a dynamic community of students passionate about our field. Join us to explore, learn, and grow through our various activities and projects.",
+    "description": "Established in 2022, the Accelerate Club is the premier computing club of RVCE's Computer Science & Engineering Department. Founded with a vision to create a dynamic platform for aspiring technologists, we have rapidly evolved into a catalyst for innovation and learning in the ever-expanding digital landscape.",
     "color": "#d9f0d5",
     "accent": "#3d7134",
     "symbol": "A",
     "lead": "Student Lead",
     "email": "contact@ac.rvce.edu.in",
     "instagram": "@ac_rvce",
-    "venue": "Seminar Hall",
+    "venue": "Chemical Seminar Hall",
     "images": [
-      "https://picsum.photos/seed/AC1/800/400",
-      "https://picsum.photos/seed/AC2/800/400"
+      "https://lh3.googleusercontent.com/d/19D6_ftw2R7RtTVMI2NrG2aLJzArn3RHf",
+      "https://lh3.googleusercontent.com/d/1D_OHW4GdILTFEtfHI43ZrjJHK_Yl2o2m",
+      "https://lh3.googleusercontent.com/d/1afvuhUM1U-7525SJL9AwUv9us5b56M8C",
+      "https://lh3.googleusercontent.com/d/1K7BoMhzfSQaBElfFprhjBxem8-SbLx3b",
+      "https://lh3.googleusercontent.com/d/10jkyRL2C_OjBoJCWFARzp9tRm5xnj2cc"
     ],
     "events": [
       {
@@ -25,7 +28,8 @@
         "detail": "Introduction to our club activities and roadmap for the year."
       }
     ],
-    "division": "Computer Science, Software & AI"
+    "division": "Computer Science, Software & AI",
+    "logo": "Accelerate"
   },
   {
     "id": "acm-rvce",
@@ -47,29 +51,29 @@
     "events": [
       {
         "name": "Reverse Research Engineering",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
+        "date": "Aug 28/29",
+        "time": "Showcase Day BT Seminar Hall (BioTech Department Seminar Hall)",
         "venue": "BT Seminar Hall (BioTech Department Seminar Hall)",
         "detail": "An event that gamifies academic writing by challenging teams to decode computer science papers, either inventing an abstract based solely on a descriptive title or engineering a professional title from a redacted abstract. Guided by structural clue sheets and evaluated against the actual published papers, students strip away the intimidation of research while learning how cutting-edge technology is structurally presented."
       },
       {
         "name": "ByteStorm – CS Ideathon",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
+        "date": "Aug 28/29",
+        "time": "Showcase Day BT Seminar Hall (BioTech Department Seminar Hall)",
         "venue": "BT Seminar Hall (BioTech Department Seminar Hall)",
         "detail": "Teams will be given a set of technology-related keywords and must brainstorm an innovative idea around them. Like Shark Tank, participants will pitch their concept to a panel of judges—no coding or prototypes required, just creativity, logic, and a compelling vision."
       },
       {
         "name": "Tech-Trap: The Tech-Bluff Tournament",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
+        "date": "Aug 28/29",
+        "time": "Showcase Day BT Seminar Hall (BioTech Department Seminar Hall)",
         "venue": "BT Seminar Hall (BioTech Department Seminar Hall)",
         "detail": "The event challenges teams to construct a plausible technical paragraph using a given set of terms while intentionally concealing a logical or structural engineering fallacy. Presenting teams attempt to deliver their pitch with absolute confidence, while competing audience members act as rigorous code-reviewers racing to spot the hidden trap and claim the points."
       },
       {
         "name": "Tech Time Capsule",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
+        "date": "Aug 28/29",
+        "time": "Showcase Day BT Seminar Hall (BioTech Department Seminar Hall)",
         "venue": "BT Seminar Hall (BioTech Department Seminar Hall)",
         "detail": "Travel through time by stepping into a randomly assigned era of computing, from the early days of personal computers to a futuristic AI-powered world. Teams must analyze the technological landscape of their timeline and pitch an innovative solution that fits its possibilities and limitations."
       }
@@ -82,56 +86,53 @@
     "name": "Alaap",
     "shortName": "AL",
     "category": "Non-Technical",
-    "description": "Alaap – The Music Club of RVCE is a vibrant hub that has been uniting students through music for decades, fostering a sense of belonging and community on campus. With a rich legacy and numerous success stories, Alaap has been the cradle of emerging bands like Project Mishram and Dastaan, who have gone on to shine on larger stages. The club continues to blossom into a dynamic center of creativity, inspiring artistic expression, nurturing innovation, and cultivating talent. By providing a platform to hone skills, fuel passion, and celebrate the transformative power of music, Alaap remains a space where ideas flourish and lifelong connections are built.",
+    "description": "Alaap is the music club of RVCE. Vocalists, instrumentalists, rappers, beatboxers, composers, producers and sound engineers gather here to create music, compete, and entertain self and other. With over 100 members, you will find someone to share your interests in music with, regardless of taste or skill level. There is no single sound that can be ascribed to the club; we are constantly surprising ourselves with experiments across styles of music, and their confluence.\n\nAlaap is an active part of RVCE's cultural calendar. You can find us performing at the college's flagship events: E-Summit and 8th Mile, as well as other significant occasions such as Kannada Habba, Matrubhasha Divas, Kannada Rajyotsava , etc. We have also performed at events such as the IEEE conference held in IIIT Bangalore, and for your enjoyment during the SIP (28th August @ Civil Seminar Hall - don't miss out, we have some fun stuff planned). \n\nCompetition is a core aspect of Alaap's culture. Participation in individual and band competitions across the country - and winning -  is a monthly occurrence. We also host Clash of Chords, a battle of bands for college bands across Bengaluru during 8th Mile.\n\nWe are always learning and teaching about music. Masterclasses, album listening sessions, internal competitions and open mics are staples in the club calendar.\n\nIf you play, sing, write, produce, or simply enjoy being around people who care about music, come find us at the SIP or an open mic. We look forward to seeing you at auditions later this year.",
     "color": "#f5d8df",
     "accent": "#823f55",
     "symbol": "A",
     "lead": "Student Lead",
-    "email": "contact@al.rvce.edu.in",
-    "instagram": "@al_rvce",
-    "venue": "Seminar Hall",
+    "email": "Chinmay Pathak - 7306601343",
+    "instagram": "@alaap_rvce",
+    "venue": "Civil Seminar Hall",
     "images": [
-      "https://picsum.photos/seed/AL1/800/400",
-      "https://picsum.photos/seed/AL2/800/400"
+      "https://lh3.googleusercontent.com/d/19MRlzvDUuaZXvGsYc1OyI6Vza0VY91zV",
+      "https://lh3.googleusercontent.com/d/18xaXwYpeN8FP60rphWTM2f99Fw2TqzpQ",
+      "https://lh3.googleusercontent.com/d/1a4IwOy2LXsUicmPotwadPXH2cKGiKLOI",
+      "https://lh3.googleusercontent.com/d/1Hcx7g95LzXScNuLNpRbqRRd-WJyMMuyW",
+      "https://lh3.googleusercontent.com/d/1CzpbINWuDOiHogY8kpJ-xLM6a9qUnHaw"
     ],
     "events": [
       {
-        "name": "MASTERCLASSES ON VARIOUS TOPICS",
-        "detail": "Interactive sessions exploring vocal versatility, textures, and techniques to enhance creativity and improvisation (manodharma). These classes provide students with tools to refine their voice, experiment with styles, and develop a deeper musical expression.",
+        "name": "A Day with Alaap — Live & Interactive Music | Session 1",
         "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
+        "time": "Showcase Day 1",
+        "venue": "Civil Seminar Hall",
+        "detail": "Alaap will present two live band performances, interspersed by music quizzes with questions unique to this slot. The session will also include an interactive musical activity inspired by the improvisational performances of artists such as Jacob Collier and Bobby McFerrin, where the audience gets to participate in creating music."
       },
       {
-        "name": "CLUB INTRODUCTION AND OPEN MIC",
-        "detail": "An introduction to Alaap, the Music Club of RVCE, showcasing its legacy, activities, and opportunities for students. The session will be followed by an engaging Open Mic, where participants can freely perform and share their musical talents.",
+        "name": "A Day with Alaap — Live & Interactive Music | Session 2",
         "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
+        "time": "Showcase Day 1",
+        "venue": "Civil Seminar Hall",
+        "detail": "Alaap will present two live band performances, interspersed by music quizzes with questions unique to this slot. The session will also include an interactive musical activity inspired by the improvisational performances of artists such as Jacob Collier and Bobby McFerrin, where the audience gets to participate in creating music."
       },
       {
-        "name": "MASTERCLASSES ON VARIOUS TOPICS",
-        "detail": "Engaging sessions by the club that explore advanced musical concepts such as vocal harmonies, smooth scale transitions on instruments, and the intricacies of polyrhythms. These classes aim to refine skills, inspire creativity, and deepen musical understanding.",
+        "name": "A Day with Alaap — Live & Interactive Music | Session 3",
         "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
+        "time": "Showcase Day 1",
+        "venue": "Civil Seminar Hall",
+        "detail": "Alaap will present two live band performances, interspersed by music quizzes with questions unique to this slot. The session will also include an interactive musical activity inspired by the improvisational performances of artists such as Jacob Collier and Bobby McFerrin, where the audience gets to participate in creating music."
       },
       {
-        "name": "CLUB PERFORMANCES",
-        "detail": "A showcase of the club’s versatility, featuring performances that highlight a range of musical styles and talents. This event celebrates the creativity, skill, and collaborative spirit of the club’s members.",
+        "name": "A Day with Alaap — Live & Interactive Music | Session 4",
         "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
-      },
-      {
-        "name": "IEM - Improv,",
-        "detail": "Expressions and Mime ( not the dept.) 1. Do you have mood swings too? : Actors practice different emotions (joy, fear, sadness, anger) using both facial expressions and vocal tone. 2. An improverisation (by Michael G Scott) : Random prompts given; participants must create short, fun unscripted performances. 3. It’s Mime time to shine– Perform silent scenes; audience guesses the exact scenario.",
-        "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
+        "time": "Showcase Day 1",
+        "venue": "Civil Seminar Hall",
+        "detail": "Alaap will present two live band performances, interspersed by music quizzes with questions unique to this slot. The session will also include an interactive musical activity inspired by the improvisational performances of artists such as Jacob Collier and Bobby McFerrin, where the audience gets to participate in creating music."
       }
     ],
-    "division": "Cultural, Dramatics & Music"
+    "division": "Cultural, Dramatics & Music",
+    "logo": "https://lh3.googleusercontent.com/d/1n2dobUbTELiAEktH1bsCrutlUGzMmqiH"
   },
   {
     "id": "ashwa-racing",
@@ -269,7 +270,7 @@
     "accent": "#825025",
     "symbol": "H",
     "lead": "Student Lead",
-    "email": "contact@ch.rvce.edu.in",
+    "email": "Ekaksh Agrawal - 9885084095",
     "instagram": "@carv_hindi",
     "venue": "BT Quadrangle",
     "images": [
@@ -278,18 +279,32 @@
     ],
     "events": [
       {
-        "name": "“CURTAINS UP : WELCOME TO THE DRAMA”",
-        "detail": "The Nukkad Natak team of Carv Hindi will be presenting to you a performance full of chaos, tackling real issues with raw and loud emotion, powerful dialogue, and unmissable energy. And we’re not stopping there, get ready to participate in some on the spot theatrical games: Questions Only (speak only in questions or you’re out) , One Word Story Chain (spiral out a story with only one word per player),etc.",
-        "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
+        "name": "CARV-Hindi Showcase",
+        "date": "Aug 29",
+        "time": "Showcase Day 2",
+        "venue": "BT Quadrangle",
+        "detail": "A short showcase performance by CARV Hindi, experience the energy and expression of street play through a glimpse of what CARV Hindi does on stage."
       },
       {
-        "name": "“AAPKA MANCH (A TALENT HUNT)”",
-        "detail": "Carv Hindi is on the hunt for voices that move and performances that refuse to be forgotten. YOU’LL PERFORM theatrical skits, monologues, mono-acts, stand-up comedy, mimicry, music, dance or any other expressive art forms****. We’re here not just to watch, but to celebrate your craft. PS : A GUARANTEED DIRECT ENTRY INTO THE 2nd ROUND OF CARV HINDI AUDITIONS CARV Hindi CARV Hindi isn't just a Dramatics club, We are a Storm with a Script. We bring together creative minds to explore acting, scriptwriting, stage performance and direction. Through Street Plays, Theatre, Mono-acts, Mime and much more, we aim to showcase our artistic expression, put forth social issues and channel the chaos we’re all born with. Till date we have been to the country's largest fests like at IIT Bombay, Bits Goa, IIT Madras, IIT Kharagpur, IISC and brought back trophies along with stories. KALAKAR KO KALA SE AUR SHOR KO AWAAZ SE YAHAN PEHCHAAN MILTI HAI ASHWA RACING Ashwa Racing, India’s first Formula Student team, has been driving innovation since 2003. From building its first prototype in 2005 to competing at FSAE Australasia, FS Germany, and FS Italy, the team has proudly represented India on the global stage. In 2015, Ashwa ventured into hybrid technology, earning a world top-10 rank in its very first attempt. Today, with over 20 years of legacy, the team builds multiple prototypes annually across combustion and hybrid categories, backed by strong industry collaborations and a vision to shape the future of mobility.",
-        "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
+        "name": "Improv",
+        "date": "Aug 29",
+        "time": "Showcase Day 2",
+        "venue": "BT Quadrangle",
+        "detail": "An interactive improv session where you take the stage and create scenes, characters, and stories on the spot. No scripts, no rehearsals, just spontaneity, creativity, and a lot of fun."
+      },
+      {
+        "name": "Mad Ads",
+        "date": "Aug 29",
+        "time": "Showcase Day 2",
+        "venue": "BT Quadrangle",
+        "detail": "A fun and chaotic activity where you’ll create and perform your own hilarious advertisements on the spot. Think crazy products, catchy slogans, and over-the-top acting."
+      },
+      {
+        "name": "Music & Jamming",
+        "date": "Aug 29",
+        "time": "Showcase Day 2",
+        "venue": "BT Quadrangle",
+        "detail": "A relaxed, open jamming session where music takes the lead. Bring your instruments, your voice, or just your vibe, and come together to create something spontaneous and fun."
       }
     ],
     "division": "Cultural, Dramatics & Music",
@@ -458,63 +473,52 @@
     "name": "EVOKE",
     "shortName": "EV",
     "category": "Non-Technical",
-    "description": "The Fashion Club of RVCE is the ultimate hub for style, creativity, and self-expression. From dazzling runway shows to quirky styling challenges, we bring fashion to life on campus. Our events let you explore everything from modeling and choreography to design and styling, no matter your experience level. It’s a space to learn, experiment, and shine with a supportive and stylish community. Whether you’re here to slay the stage or simply explore your love for fashion, this is your moment to own it.",
+    "description": "Evoke is the official fashion club of RV College of Engineering (RVCE), providing a dynamic platform for students to explore and express their creativity through fashion, modelling, styling, and visual arts.\n\nThe club brings together students with different talents and gives them opportunities to showcase their creativity, build confidence, and represent RVCE at various college events and competitions.\n\n*Fashion Shows & Modelling – Organising and participating in fashion shows, ramp walks, and inter-college competitions.\n* 🎨 Styling & Design – Creating concepts, themes, outfits, makeup, props, and overall visual aesthetics for performances.\n* 📸 Content & Social Media – Creating promotional content, photoshoots, reels, posters, and managing the club’s digital presence.\n* 🎭 Event Performances – Representing RVCE at fests, cultural events, club showcases, and competitions.\n *  🏆 Competitions – Participating in inter-collegiate fashion events and bringing recognition to RVCE.\n\nBeyond modelling and fashion, Evoke encompasses a wide range of creative and organisational activities, including styling and costume design, makeup and grooming, choreography, photography, videography, content creation, social media, event planning, and production. Members work collaboratively to conceptualise themes, develop visual narratives, coordinate performances, and execute events from conception to completion.",
     "color": "#f5d7eb",
     "accent": "#823e71",
     "symbol": "E",
     "lead": "Student Lead",
-    "email": "contact@ev.rvce.edu.in",
-    "instagram": "@ev_rvce",
-    "venue": "Seminar Hall",
+    "email": "8003622469- Prachi Singh, 7975422397- Arnav Gowda",
+    "instagram": "Evoke_rvce",
+    "venue": "ETE seminar hall",
     "images": [
-      "https://picsum.photos/seed/EV1/800/400",
-      "https://picsum.photos/seed/EV2/800/400"
+      "https://lh3.googleusercontent.com/d/1bmjiDlG0HcVtJypyi-LvINR5QmWdNBRp",
+      "https://lh3.googleusercontent.com/d/1n2m5byVm1ohVQp1S0LaG2pvYAbpKqy8v",
+      "https://lh3.googleusercontent.com/d/1uuzHDHl7awRzF0gEgR4jABktOPZnjkpL",
+      "https://lh3.googleusercontent.com/d/1ZP5eR_UhNdY0iI_7lXWFjxqgEUGjqWOg"
     ],
     "events": [
       {
-        "name": "Design Dash:",
-        "detail": "The ultimate speed-styling showdown where creativity is your only currency. Teams will be handed a surprise fashion theme, think \"Met Gala on a Budget,\" \"Thrift Queen Energy,\" or \"Retro Rewind\" — and a chaotic mix of thrifted clothes, fabric scraps, funky accessories, and props. You’ll have 15 minutes to style one team member into a total fashion slay using only the materials provided, no sewing, no prep, just pure imagination and vibes. The most innovative look will win the title of “ Stylist of the Day”. The Fashion Club of RVCE is the ultimate hub for style, creativity, and self-expression. From dazzling runway shows to quirky styling challenges, we bring fashion to life on campus. Our events let you explore everything from modeling and choreography to design and styling, no matter your experience level. It’s a space to learn, experiment, and shine with a supportive and stylish community. Whether you’re here to slay the stage or simply explore your love for fashion, this is your moment to own it.",
-        "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
+        "name": "Design Dash",
+        "date": "Aug 29",
+        "time": "Showcase Day 2",
+        "venue": "ETE seminar hall",
+        "detail": "Unleash your inner designer in 15 minutes Turn thrifted chaos into a fashion queen! Race the clock with surprise themes, Create fierce looks and rule the scene AND CLAIM THE TITLE OF “STYLIST OF THE DAY"
       },
       {
-        "name": "Walk the talk: Runway 101",
-        "detail": "In this fun, interactive mini runway session where fashion meets confidence! Watch our in-house models give you a glimpse of basic runway techniques, set to upbeat music and killer energy. Then, it's your turn! Freshers are invited to try a quick, coached walk, guided by our team to help you strut with style, attitude, and flair. Whether you're here to slay or just vibe, this session is all about owning your moment and feeling fabulous while doing it.",
-        "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
+        "name": "Lights, camera and fashion",
+        "date": "Aug 29",
+        "time": "Showcase Day 2",
+        "venue": "ETE seminar hall",
+        "detail": "Think you’ve got the OOTD game on point? This is your moment to shine! In this fun & interactive contest, freshers will create their own “Outfit of the Day” reel using nothing but their creativity, confidence, and unique style. Whether it’s quirky, minimal, or bold – we want to see YOU bring your personality to life on screen. Submit your reel through the link/QR at the venue and get a chance to be featured on Evoke’s official Instagram page as the ultimate  “style icon of the day!’"
       },
       {
-        "name": "“PAINT IT FORWARD”",
-        "detail": "Kick off the day with Paint It Forward — a creative battle where your team’s imagination meets the true spirit of NSS! You’ll get a big poster and a simple mission: draw and paint what NSS means to you. Sounds easy? Here’s the twist — resources like paints and brushes will be limited on purpose. That means you’ll need to share, cooperate, and think together, just like real-life volunteers do when serving the community. The best artwork with the most powerful concept will win, but remember — this challenge isn’t just about colors on paper... it’s about the colors you bring to society through teamwork and selflessness.",
-        "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
+        "name": "Walk the talk Runway: 101",
+        "date": "Aug 29",
+        "time": "Showcase Day 2",
+        "venue": "ETE seminar hall",
+        "detail": "Always wanted to try a runway walk? Here’s your chance!  Our models will show you how it’s done and help you practice your walk, poses, and confidence on stage.  Girls can bring heels if they want – it’s the perfect time to try them out! Come join us and let your modeling dreams come true with Team Evoke"
       },
       {
-        "name": "“ACT AND SOLVE”",
-        "detail": "Act and Solve is an exciting and thought-provoking activity where each team will be given a theme like littering, discrimination, or hunger — but here’s the twist: one member of the team must act it out without speaking for 30 seconds while the rest of their team guesses the theme. Once they guess it correctly, the same team must immediately suggest a quick and practical solution to that problem. Points are awarded for both correct guesses and impactful solutions. The team with the highest score at the end wins. It’s fun, competitive, and will make you realize that sometimes silent actions spark the loudest ideas for change.",
-        "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
-      },
-      {
-        "name": "“SHOUT IT OUT”",
-        "detail": "Rapid-Fire NSS Quiz: Shout It Out! – Get ready for a fast-paced, high-energy challenge where your knowledge and reflexes will be put to the test! We’ll throw out quick NSS and social awareness questions, and the moment you know the answer, shout it out before anyone else does. Every correct shout earns a point for your team, so stay sharp, think fast, and let your voice be heard. It’s lively, competitive, and packed with fun — the perfect way to see who’s got the quickest mind and the strongest NSS spirit!",
-        "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
-      },
-      {
-        "name": "“Link It for Good”",
-        "detail": "Link It for Good is a fast, fun, and inspiring team challenge where your creativity takes the spotlight! The moderator will call out a random everyday object — from a water bottle to an old pair of shoes — and your team will have just 10 seconds to connect it to a meaningful NSS cause. Can you think on your feet and turn simple things into tools for change? This game proves that opportunities to serve society are hidden in plain sight — all it takes is a sharp mind, a big heart, and a little imagination!",
-        "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
+        "name": "Style in motion",
+        "date": "Aug 29",
+        "time": "Showcase Day 2",
+        "venue": "ETE seminar hall",
+        "detail": "Get ready to bring the energy on stage! In this event, juniors will team up to create their own quick choreography and show off their style on the runway.  Your seniors will kick things off with a performance, and then it’s your turn to shine  Let your creativity flow and own the spotlight with Team Evoke."
       }
     ],
-    "division": "Cultural, Dramatics & Music"
+    "division": "Cultural, Dramatics & Music",
+    "logo": "https://lh3.googleusercontent.com/d/10Ou8enz8dOCZZyhXGZWC9Fa-WqvQWMb9"
   },
   {
     "id": "f-6-3-photography",
@@ -577,7 +581,7 @@
     "symbol": "G",
     "lead": "Student Lead",
     "email": "+91 7349096003",
-    "instagram": "https://www.instagram.com/gdg_rvce",
+    "instagram": "@gdg_rvce",
     "venue": "ISE Seminar Hall",
     "images": [
       "https://lh3.googleusercontent.com/d/1GOtSIXEGS0ZrAE8p-jPd0KzXKH7es5PN",
@@ -621,49 +625,53 @@
     "name": "HAM Club",
     "shortName": "HAM",
     "category": "Technical",
-    "description": "RVCE Ham Club is the amateur radio club in RVCE. It was inaugurated on 27th August 2019. We aim to popularize Amateur Radio as a hobby among students while exploring technical innovations in the communication domain. RVCE HAM club shall have international collaborations with HAM units across the globe through its activities and aims to have talks with esteemed professionals across the globe through radio communication.",
+    "description": "Inaugurated on August 27, 2019, under the Department of ECE, we are a student-led community built for amateur radio enthusiasts who love getting hands-on with wireless communication. Whether you want to master Morse code, build custom antennas, or learn about radio electronics, we offer the tools, mentoring, and workshops to help you level up your tech skills.\n\nHere is a glimpse of what we do:\n\n1.Get Licensed: We guide you through the Amateur Station Operator's Certificate (ASOC) exam governed by the Ministry of Communications, Govt. of India, with mentoring sessions covering radio regulations, basic radio electronics, and atmospheric propagation.\n\n2.Hands-on Workshops: Dive into practical builds and advanced electronics, from Antenna Design and Software Defined Radio (SDR + MATLAB) to Phase Locked Loop (PLL) circuits and Attenuator Building.\n\n3.Exciting Radio Events: Test your direction-finding techniques in Fox Hunting events to track down hidden transmitters, decode secret Morse signals, and construct custom antennas like the MOXON and Yagi-Uda.",
     "color": "#f6ddb7",
     "accent": "#74501c",
     "symbol": "H",
     "lead": "Student Lead",
-    "email": "contact@ham.rvce.edu.in",
-    "instagram": "@ham_rvce",
-    "venue": "Seminar Hall",
+    "email": "Email - hamclub@rvce.edu.in, Vijay sudarshan - 70194 91572, Vrinda V Katti - 63640 97979",
+    "instagram": "rvcehamclub",
+    "venue": "BT Quadrangle",
     "images": [
-      "https://picsum.photos/seed/HAM1/800/400",
-      "https://picsum.photos/seed/HAM2/800/400"
+      "https://lh3.googleusercontent.com/d/14VUI-QmI9iY3_fueTimGROehhPQ5YsAL",
+      "https://lh3.googleusercontent.com/d/1NghsV5PP5mTrqr6Wr11AWJzRwQgtEQ8r",
+      "https://lh3.googleusercontent.com/d/1Y3Mc5lzgFXmHNAwEYi8utrJ2oQ0SDOqr",
+      "https://lh3.googleusercontent.com/d/1YF5UCNsUqgTpwgcbDLoA93Q8Srg3BqwG",
+      "https://lh3.googleusercontent.com/d/1FObCVI5SEta70p0WBQq25YhMhCDeJ3Ph"
     ],
     "events": [
       {
-        "name": "Step into Radiowaves with SDR",
-        "detail": "Unleash the power of technology that turns your computer into a versatile radio receiver and transmitter.",
+        "name": "Waves in Action: The Amateur Radio Showcase",
         "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
+        "time": "Showcase Day 1",
+        "venue": "BT Quadrangle",
+        "detail": "Get up close and personal with real-world wireless hardware! In this hands-on session, you’ll explore various antennas and radio equipment, discover how they transmit signals across distances, and see the science of radio communication live in action."
       },
       {
-        "name": "Group Ideathon — Problem → PrototypeD",
-        "detail": "",
+        "name": "Operation: Lost Signal",
         "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
+        "time": "Showcase Day 1",
+        "venue": "BT Quadrangle",
+        "detail": "In this team-based challenge, you’ll navigate multiple stations, crack amateur radio puzzles—from decoding Morse code and faint signals to mastering callsigns—and hunt down authorization tokens to unlock the final codeword."
       },
       {
-        "name": "Agri-Tech Quiz & Learning Lab",
-        "detail": "",
+        "name": "Waves in Action: The Amateur Radio Showcase",
         "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
+        "time": "Showcase Day 1",
+        "venue": "BT Quadrangle",
+        "detail": "Get up close and personal with real-world wireless hardware! In this hands-on session, you’ll explore various antennas and radio equipment, discover how they transmit signals across distances, and see the science of radio communication live in action."
       },
       {
-        "name": "TEDx Talk — How Agriculture Depends",
-        "detail": "on New Technology",
+        "name": "Operation: Lost Signal",
         "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
+        "time": "Showcase Day 1",
+        "venue": "BT Quadrangle",
+        "detail": "In this team-based challenge, you’ll navigate multiple stations, crack amateur radio puzzles—from decoding Morse code and faint signals to mastering callsigns—and hunt down authorization tokens to unlock the final codeword."
       }
     ],
-    "division": "Robotics, Electronics & Core Tech"
+    "division": "Robotics, Electronics & Core Tech",
+    "logo": "https://lh3.googleusercontent.com/d/1ALdNbCBPLO23vDFx-bWHEI4qPhsQosYM"
   },
   {
     "id": "ieee-rvce",
@@ -716,35 +724,60 @@
       }
     ],
     "division": "Robotics, Electronics & Core Tech",
-    "logo": "https://lh3.googleusercontent.com/d/1CCKYwTvoYq4JnCofaGN2IqpP9mbJ48Q_"
+    "logo": "IEEE - RVCE : Student Branch Chapter"
   },
   {
     "id": "kannada-carv",
     "name": "Kannada CARV",
     "shortName": "KC",
     "category": "Non-Technical",
-    "description": "Welcome to Kannada CARV! We are a dynamic community of students passionate about our field. Join us to explore, learn, and grow through our various activities and projects.",
+    "description": "Kannada CARV is RVCE's theatre club, where thoughts turn into vision through writing, acting, production design, music, and technical artistry. We tell stories through centre-stage productions, street plays, mad ads, and mime that have earned recognition across campuses. With initiatives like Rangataranga, Rangaparva, CARV Lekha, and Carvinal we provide every member a platform to learn, create, perform and grow in the direction they desire.",
     "color": "#e5d8ee",
     "accent": "#69457b",
     "symbol": "K",
     "lead": "Student Lead",
-    "email": "contact@kc.rvce.edu.in",
-    "instagram": "@kc_rvce",
-    "venue": "Seminar Hall",
+    "email": "Prasanna Naik - 9380092279 , Megha - +91 99028 01304",
+    "instagram": "@kannadacarv",
+    "venue": "Bio tech seminar hall",
     "images": [
-      "https://picsum.photos/seed/KC1/800/400",
-      "https://picsum.photos/seed/KC2/800/400"
+      "https://lh3.googleusercontent.com/d/1Nim7XGV5VTTle-Zcq2mYY9f7q2BxWK0x",
+      "https://lh3.googleusercontent.com/d/1AhySGUR6cAM2-FPFZjGZg8A4toc8eUfJ",
+      "https://lh3.googleusercontent.com/d/1b2XxD4b34gv8cXfEmRmzOBhEpFSgiExB",
+      "https://lh3.googleusercontent.com/d/1kuKDOAYfivXuMOQg0R3hmPVF6W5FdMR5",
+      "https://lh3.googleusercontent.com/d/1ypplsv8quHtAfqdjRJAkBicbX0I2u7zk"
     ],
     "events": [
       {
-        "name": "Kannada CARV Orientation",
+        "name": "​🎭 Mad Ads",
         "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD",
-        "detail": "Introduction to our club activities and roadmap for the year."
+        "time": "Showcase Day 1",
+        "venue": "Bio tech seminar hall",
+        "detail": "Pitching products with a punchline! Watch our creative minds blend brilliant marketing strategies with instant, unscripted comedy. It’s hilarious, smart, and hands-down the most entertaining sales pitch you’ll ever see."
+      },
+      {
+        "name": "Video Showcase",
+        "date": "Aug 28",
+        "time": "Showcase Day 1",
+        "venue": "Bio tech seminar hall",
+        "detail": "Take a trip down memory lane. Grab a seat and check out this exclusive visual showcase of our club's past masterpieces, boldest projects, and proudest achievements. See what we're all about!"
+      },
+      {
+        "name": "​🎤 Open Mic: Jam Session",
+        "date": "Aug 28",
+        "time": "Showcase Day 1",
+        "venue": "Bio tech seminar hall",
+        "detail": "Grab the mic or just vibe with the crowd! This is a laid-back, open-floor jamming session featuring theatrical hits, soulful folklore, and everything in between. Whether you're a seasoned singer or just want to sing along, the floor is open—come blend in!"
+      },
+      {
+        "name": "Interactive Improv",
+        "date": "Aug 28",
+        "time": "Showcase Day 1",
+        "venue": "Bio tech seminar hall",
+        "detail": "Zero acting experience? No problem! Jump into the madness where the topics are instant, the scenarios change constantly, and the laughter never stops. It’s wild, highly interactive, unpredictable, and guarantees unlimited fun for everyone involved."
       }
     ],
-    "division": "Cultural, Dramatics & Music"
+    "division": "Cultural, Dramatics & Music",
+    "logo": "https://lh3.googleusercontent.com/d/1SwPEEdqbLW41p3FowxoeTQ4flA8DMKMy"
   },
   {
     "id": "kannada-sangha",
@@ -804,35 +837,50 @@
     "name": "NSS RVCE",
     "shortName": "NSS",
     "category": "Non-Technical",
-    "description": "NSS RVCE is a vibrant student organization dedicated to community service and social responsibility. Guided by the motto 'Not Me But You' , it has over 200 active volunteers who take part in various activities like marathons, blood donation camps, cleanliness drives, awareness programs, and rural outreach projects. The unit also organizes special events such as village visits, school improvement drives, and cultural parades to promote social welfare and national pride. Through its continuous efforts, NSS RVCE works towards creating a positive impact on society while developing leadership and empathy among students.",
+    "description": "The National Service Scheme (NSS) is a public service programme sponsored by the Ministry of Youth Affairs and Sports, Government of India, established with the aim of developing the personality and character of student volunteers through community service. Launched in 1969, NSS remains one of India's largest and longest-running student volunteer programmes, active across colleges and universities nationwide.\n\nThe NSS unit at RV College of Engineering (RVCE) operates under this national framework, guided by the motto \"Not Me, But You,\" and provides students with a structured platform to engage in social welfare and community development activities alongside their academic pursuits. NSS RVCE volunteers participate in both Regular Activities, conducted through the academic year, and Special Camps, typically held annually in rural or underserved areas with support from the Government of India. Reported areas of engagement for the unit include village outreach and camp-based service, environmental initiatives such as tree plantation and cleanliness drives, and social awareness campaigns on themes such as health, hygiene, and civic responsibility. These activities are designed to give volunteers direct exposure to community needs while building a habit of consistent, documented social service.\n\nIn keeping with the broader objectives of the National Service Scheme, NSS RVCE volunteers work on themes spanning literacy and education support, public health awareness, environmental conservation, and disaster preparedness, depending on the specific activity or camp. Volunteers typically log service hours toward the scheme's Regular Activity and Special Camp requirements, with active participation opening pathways to state- and national-level NSS recognition, including national integration camps and youth leadership programmes coordinated by the scheme at the state and central government levels.\n\nMembership is open to students across departments and years of study, with no prior volunteering experience required. Volunteers are typically guided by faculty programme officers who coordinate activity planning, camp logistics, and liaison with local government bodies and community partners, ensuring that the unit's initiatives are properly organized and aligned with NSS guidelines at the state level.\n\nAs with NSS units nationally, participation is intended to build empathy, social responsibility, and leadership qualities in volunteers while contributing tangible service to the communities RVCE engages with. For students looking to complement their engineering education with a structured, service-oriented experience, NSS RVCE offers a long-established and officially recognized way to do so.",
     "color": "#f2e1ba",
     "accent": "#795d1d",
     "symbol": "N",
     "lead": "Student Lead",
-    "email": "contact@nss.rvce.edu.in",
-    "instagram": "@nss_rvce",
-    "venue": "Seminar Hall",
+    "email": "Sachin NSS President  +91 91108 85768, NEHA NSS President +91 96866 88957",
+    "instagram": "nss_rvce_",
+    "venue": "ECE Seminar Hall",
     "images": [
-      "https://picsum.photos/seed/NSS1/800/400",
-      "https://picsum.photos/seed/NSS2/800/400"
+      "https://lh3.googleusercontent.com/d/1W3AYnae6IxQ5OOba4mq8z1GICcMwBzEz",
+      "https://lh3.googleusercontent.com/d/1GmL7k3ux3l3czwmCyucnXq7uwkJBLE5Z"
     ],
     "events": [
       {
-        "name": "“AAJ, ABHI, ISI WAKT : THE UNSCRIPTED STAGE ”",
-        "detail": "Improv is the heart of theatre , it helps artists to think on their feet and adapt at the moment. We will demonstrate and then you will participate along with us, to explore your inner performer. A few of the many activities include: Emotional Switch – Change emotions on cue Prop se Kahani – Random props drive a story 30 Seconds In & Out – New character every 30 seconds 1-2-3-4 – Speak your dialogue in exactly assigned words",
-        "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
+        "name": "🎨 Scribble",
+        "date": "Aug 29",
+        "time": "Showcase Day 2",
+        "venue": "ECE Seminar Hall",
+        "detail": "Draw it, don't say it! Participants sketch NSS-themed words while their team races to guess the answer."
       },
       {
-        "name": "“THE FILMY TICKLE”",
-        "detail": "Silent drama in dumb charades , a (rather) melodious round of antakshari, on spot theatrical games of movies with expression and intensity, all designed to involve our freshers. Join us and we will surprise you with jamming sesh at the end.Through this we will also hold workshops for editing, writing and acting to hone up your skills too!",
-        "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
+        "name": "🎭 Reverse Charades",
+        "date": "Aug 29",
+        "time": "Showcase Day 2",
+        "venue": "ECE Seminar Hall",
+        "detail": "Only one person guesses while the entire team acts out the given NSS-related activity or situation."
+      },
+      {
+        "name": "🧩 Community Puzzle",
+        "date": "Aug 29",
+        "time": "Showcase Day 2",
+        "venue": "ECE Seminar Hall",
+        "detail": "Work together to assemble a jumbled NSS message, logo, or social awareness poster before other teams."
+      },
+      {
+        "name": "🕵️ Imposter",
+        "date": "Aug 29",
+        "time": "Showcase Day 2",
+        "venue": "ECE Seminar Hall",
+        "detail": "Everyone receives the same NSS-related word except one player. Discuss, observe, and identify the imposter before time runs out."
       }
     ],
-    "division": "Regional, Social Service & Youth Leadership"
+    "division": "Regional, Social Service & Youth Leadership",
+    "logo": "https://lh3.googleusercontent.com/d/1OjNXBCt9TJ6Ei3mIgQsmDAjtXMsb_HiG"
   },
   {
     "id": "project-garuda",
@@ -1056,12 +1104,12 @@
     "accent": "#32664d",
     "symbol": "R",
     "lead": "Student Lead",
-    "email": "President - Rtr. Pavana  Phone no: 9398810642",
+    "email": "President - Rtr. Pavana, Mobile No:9398810642",
     "instagram": "rotaractrvce",
     "venue": "ECE Seminar Hall",
     "images": [
-      "https://lh3.googleusercontent.com/d/1_v9PMtFC8HRGU21YwQRRZKnUoi7aDPZM",
-      "https://lh3.googleusercontent.com/d/17McNje4wF6ewHlWAheTk6fK_fz97ADUd"
+      "https://lh3.googleusercontent.com/d/11f6T5LM06dbEiFjIElXR4C82IiBBn9Oh",
+      "https://lh3.googleusercontent.com/d/1Kra_TNpC95QD0IE1AASxyVFOdl2ZzoNj"
     ],
     "events": [
       {
@@ -1072,14 +1120,14 @@
         "detail": "An interactive icebreaker where participants receive a mystery word and interact with others to identify it. They can converse with one person only for 30 seconds with Yes/No/Maybe questions only, encouraging them to meet more people. With Rotaract-themed words included, the activity introduces freshers to the club’s values of communication, networking, teamwork, and leadership."
       },
       {
-        "name": "Agent X – Rotaract Edition",
+        "name": "Agent X - Rotaract Edition",
         "date": "Aug 28",
         "time": "Showcase Day 1",
         "venue": "ECE Seminar Hall",
         "detail": "A strategy-based social deduction game where teams work together to complete a common mission while one hidden Traitor secretly tries to mislead them. Participants must observe behaviour, communicate, discuss, and identify the Traitor through voting. The game promotes teamwork, critical thinking, leadership, trust, and effective communication in an engaging setting."
       },
       {
-        "name": "Task Card Chaos – Complete, Connect & Conquer",
+        "name": "Task Card Chaos - Complete, Connect & Conquer",
         "date": "Aug 28",
         "time": "Showcase Day 1",
         "venue": "ECE Seminar Hall",
@@ -1094,7 +1142,7 @@
       }
     ],
     "division": "Regional, Social Service & Youth Leadership",
-    "logo": "https://lh3.googleusercontent.com/d/1sed4S_qqvXtr5gxT2qYUDC8Znd5k6IvT"
+    "logo": "https://lh3.googleusercontent.com/d/1uaOSlJzrsXMevzCcXcajA-Yo5FQ3UWDu"
   },
   {
     "id": "rvce-women-in-cloud-insider-circle",
@@ -1170,11 +1218,32 @@
     ],
     "events": [
       {
-        "name": "Sattva Orientation",
+        "name": "Pictorial Chinese Whisper",
         "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD",
-        "detail": "Introduction to our club activities and roadmap for the year."
+        "time": "Showcase Day 1",
+        "venue": "BT217 Classroom",
+        "detail": "Instead of having people pass a long expression, we let them pass a picture via each person drawing."
+      },
+      {
+        "name": "Starter pack",
+        "date": "Aug 28",
+        "time": "Showcase Day 1",
+        "venue": "BT217 Classroom",
+        "detail": "We have a standard template that everyone fills it with their own unique elements"
+      },
+      {
+        "name": "Back where we started",
+        "date": "Aug 28",
+        "time": "Showcase Day 1",
+        "venue": "BT217 Classroom",
+        "detail": "Write a pice or story or poem where the first and last lines are the same"
+      },
+      {
+        "name": "Dream Author",
+        "date": "Aug 28",
+        "time": "Showcase Day 1",
+        "venue": "BT217 Classroom",
+        "detail": "Write the summary of your dream novel or book if you were a famous author"
       }
     ],
     "division": "Regional, Social Service & Youth Leadership",
@@ -1315,59 +1384,73 @@
     "name": "Team Astra Robotics",
     "shortName": "AR",
     "category": "Technical",
-    "description": "Team ASTRA Robotics is a student-led club dedicated to advancing robotics innovation. We design intelligent, autonomous systems for global competitions and lead STEM outreach to inspire future innovators. Founded under the IEEE RVCE Chapter, we continue to collaborate with its Robotics and Automation chapter. Our members gain hands-on experience tackling real-world technical, organizational, and engineering challenges in a collaborative yet competitive environment. From autonomous mobility to AI- driven systems and industrial automation, we foster creativity, leadership, and technical excellence.",
+    "description": "Astra Robotics is the interdisciplinary robotics club of RVCE — a team of thinkers, builders, and dreamers who use robotics to solve real-world problems, one smart solution at a time. The club works across domains like embedded systems, ROS2, computer vision, IoT, and machine learning, and has built notable projects such as Tara (a Mars Rover prototype competing internationally in the Rover Challenge Series across the USA, Poland, Turkey, and India), ARES (an autonomous recon and elimination system with target tracking capability), and Doggo (a quadruped robot for R&D in locomotion and control systems). Astra Robotics has earned recognition including 1st Place at IIT Bombay's E-Yantra Innovation Award (2024), 2nd Runner-up at the Indian Rover Design Challenge (2023), and PDRA qualification at the University Rover Challenge (2024).",
     "color": "#d6e2ff",
     "accent": "#2d54a0",
     "symbol": "A",
     "lead": "Student Lead",
-    "email": "contact@ar.rvce.edu.in",
-    "instagram": "@ar_rvce",
-    "venue": "Seminar Hall",
+    "email": "Varshini - 6364504658, Samyak - 7338392243",
+    "instagram": "@astra_robotics",
+    "venue": "MCA Seminar Hall",
     "images": [
-      "https://picsum.photos/seed/AR1/800/400",
-      "https://picsum.photos/seed/AR2/800/400"
+      "https://lh3.googleusercontent.com/d/1GqQIr7eVkbsfS7vW9gXG_gmcyk2wMaII",
+      "https://lh3.googleusercontent.com/d/1kk0bLlOxBcJgfVSMC-F2nbrEsJpYvLEr",
+      "https://lh3.googleusercontent.com/d/17mEW1TfSrkE98Rnt6jcbP4zXLRmzWdOS",
+      "https://lh3.googleusercontent.com/d/1NsggPL6t7whHGrrZMWAekKQIpox6HHB1",
+      "https://lh3.googleusercontent.com/d/1ryoyQ2-KcCaocFRa610dmD-FnX_T3K6J"
     ],
     "events": [
       {
-        "name": "ROBOTICS SOFTWARE PROTOTYPING",
-        "detail": "FUNDAMENTALS Learn basics of robotics prototyping by designing in Tinkercad. club logo 23",
+        "name": "ROS2 Intro and Rover Simulation on RViz",
         "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
+        "time": "Showcase Day 1",
+        "venue": "MCA Seminar Hall",
+        "detail": "Get to learn ROS2, the backbone of modern robotics, by visualizing a rover's sensors, movement, and navigation in RViz. See how real robots \"think\" and move, right from your screen."
       },
       {
-        "name": "Lights, Camera, Fashion!",
-        "detail": "In this fun and interactive contest, freshers will create their own “Outfit of the Day” (OOTD) reel using their own phones during the event. Whether it’s chic, quirky, minimal, or bold — we want to see you bring your fashion personality to life. Once your reel is ready, you’ll submit it to us through a simple QR code/link provided at the venue. Our panel will review all entries and select the most creative, confident, and stylish reel to be featured on Evoke’s official Instagram page.",
+        "name": "Gazebo Simulations: ARES, HAL and Mbot",
         "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
+        "time": "Showcase Day 1",
+        "venue": "MCA Seminar Hall",
+        "detail": "Step into realistic robot simulations powered by Gazebo's physics engine. Drive and navigate our very own bots — HAL, Mbot, and ARES — autonomously through simulated environments and experience robotics come to life."
       },
       {
-        "name": "Step Up: Style in Motion",
-        "detail": "Juniors will team up to create their own high-energy choreography and strut their style on the runway. To kick things off, our seniors will set the vibe with a slick 1-minute performance to spark creativity and confidence. It's your time to shine—bring the moves, bring the attitude, and most importantly, bring the style.",
+        "name": "TinkerCAD",
         "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
+        "time": "Showcase Day 1",
+        "venue": "MCA Seminar Hall",
+        "detail": "Design and simulate Arduino-based electronic circuits virtually before bringing them to life in hardware. A perfect first step into the world of embedded systems and electronics."
+      },
+      {
+        "name": "Robotic Arm Challenge",
+        "date": "Aug 28",
+        "time": "Showcase Day 1",
+        "venue": "MCA Seminar Hall",
+        "detail": "Take control of a robotic arm and put your precision to the test in an exciting pick-and-place challenge. Program it, move it, and master the art of robotic manipulation."
       }
     ],
-    "division": "Robotics, Electronics & Core Tech"
+    "division": "Robotics, Electronics & Core Tech",
+    "logo": "https://lh3.googleusercontent.com/d/1ENKI-F0O-KCXh7yc4NOor4L8_9JPz10O"
   },
   {
     "id": "team-chimera",
     "name": "Team Chimera",
     "shortName": "TC",
     "category": "Technical",
-    "description": "Chimera Racing Electric is RVCE’s official Formula Student Electric team, driven by innovation, CHIMERA CORSA RAMPAGE precision, and teamwork. Combining advanced engineering, strategic design, and a passion for EVENT 1: 11:15AM-12:15PM & 12:20 PM- 1:35 PM performance, the team develops high‑efficiency electric race cars to compete at the highest level, embodying excellence in technology, sustainability, and competitive spirit",
+    "description": "Established in 2006, Team Chimera is the official electric racing team of RV College of Engineering (RVCE), Bengaluru. Over the years, the team has evolved from developing hybrid powertrains to engineering high-performance electric race cars that embody the principles of sustainable mobility and innovation. With a strong focus on design, simulation, testing, and manufacturing, Team Chimera develops custom-built vehicles and competes at national and international Formula Student events.\n\nRooted in RVCE’s legacy of engineering excellence, the team continues to push the boundaries of electric vehicle technology, performance, and sustainable transportation. Building on its achievements, Team Chimera participated in Formula Bharat 2026, held in Coimbatore in January 2026, and has already begun rigorous preparations for Formula Bharat 2027. As a testament to the team’s consistent performance and competitive standing, Team Chimera currently ranks 2nd among 45 teams, reflecting its strong technical capabilities and commitment to excellence.",
     "color": "#dcd7ff",
     "accent": "#4c3d91",
     "symbol": "C",
     "lead": "Student Lead",
-    "email": "contact@tc.rvce.edu.in",
-    "instagram": "@tc_rvce",
-    "venue": "Seminar Hall",
+    "email": "Lalith Karthikeyan MP- 7022054999 Prahlad SP- 9500066429",
+    "instagram": "@team_chimera",
+    "venue": "EE112",
     "images": [
-      "https://picsum.photos/seed/TC1/800/400",
-      "https://picsum.photos/seed/TC2/800/400"
+      "https://lh3.googleusercontent.com/d/1V0CXMNtXrxfXVDEjhGeIru1ZSChRvIzx",
+      "https://lh3.googleusercontent.com/d/1cZ9fhoYPRkHgt2IrSOiIcHIyq03QkCAI",
+      "https://lh3.googleusercontent.com/d/1ryOKGG6ooYwMOqoRTS_knyjckMZNVRBP",
+      "https://lh3.googleusercontent.com/d/1iJ2wksajXmjL1xszMiQdLYWIPsYoobLX",
+      "https://lh3.googleusercontent.com/d/1zV77A0YcLYs2Fa4cEbMFCYlxB99hciAb"
     ],
     "events": [
       {
@@ -1413,7 +1496,8 @@
         "venue": "TBD"
       }
     ],
-    "division": "Racing & Automotive"
+    "division": "Racing & Automotive",
+    "logo": "https://lh3.googleusercontent.com/d/17KIb6wxj_Tp5x8FdTvwB5iLDkw-g6W_J"
   },
   {
     "id": "team-dhi",
@@ -1602,8 +1686,8 @@
     "accent": "#843918",
     "symbol": "H",
     "lead": "Student Lead",
-    "email": "contact@th.rvce.edu.in",
-    "instagram": "@th_rvce",
+    "email": "9686432617",
+    "instagram": "@teamheliosracing",
     "venue": "Seminar Hall",
     "images": [
       "https://lh3.googleusercontent.com/d/1u2F3M2Q0Emx0Plh7Axokrd_A0MMbEXla",
@@ -1611,18 +1695,32 @@
     ],
     "events": [
       {
-        "name": "Reaction Grid – Where Milliseconds",
-        "detail": "Matter",
-        "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
+        "name": "Meet the Machine",
+        "date": "Aug 29",
+        "time": "Showcase Day 2",
+        "venue": "",
+        "detail": "Before anything else, come see what we actually build. This session is a walkthrough of Team Helios Racing and GT27, our current eBAJA vehicle - the systems that go into it, the subsystems the team is divided into, and what it actually takes to get a car onto the track. Consider it your first look under the hood of the club: no jargon overload, just a straight introduction to who we are, what we're building, and where you'd fit in."
       },
       {
-        "name": "The Helios Trials: Survival of the",
-        "detail": "Sharpest Test your reflexes in a fast-paced challenges just like in racing, every fraction of a second counts. A series of quick games will check if you’ve got the instincts of a race car driver. Race through a relay of high-speed, racing- themed challenges where teamwork, speed, and precision decide your fate. From assembling parts to cracking automotive puzzles - each stage brings you closer to victory.....or elimination.",
-        "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
+        "name": "The Helios Trails",
+        "date": "Aug 29",
+        "time": "Showcase Day 2",
+        "venue": "",
+        "detail": "This activity is a fast-paced, Squid Game-inspired engineering relay race where teams of 5 to 6 compete to solve four technical challenges in the shortest time. To build teamwork and strategy, members must navigate the course in the shortest time possible and strategically delegate exactly one specialist to tackle each puzzle."
+      },
+      {
+        "name": "Assembly Line",
+        "date": "Aug 29",
+        "time": "Showcase Day 2",
+        "venue": "",
+        "detail": "This high-speed, pit-crew style challenge tests teamwork, precision, and technical efficiency as teams split up to race against the clock. While one half of the team races to mount and secure the tires onto the chassis, the other half takes on the intricate task of assembling the gearbox. The team that demonstrates the best coordination and clocks the absolute fastest combined assembly time takes the win"
+      },
+      {
+        "name": "Baja Beyond Borders",
+        "date": "Aug 29",
+        "time": "Showcase Day 2",
+        "venue": "",
+        "detail": "Teams are given a random challenge card with a unique environment or mission. They have 2–3 minutes to brainstorm how they would redesign the Helios Baja car to survive that scenario. Afterward, each team gives a 1-minute pitch explaining their design."
       }
     ],
     "division": "Racing & Automotive",
@@ -1633,28 +1731,53 @@
     "name": "Team Krushi",
     "shortName": "TK",
     "category": "Technical",
-    "description": "Welcome to Team Krushi! We are a dynamic community of students passionate about our field. Join us to explore, learn, and grow through our various activities and projects.",
+    "description": "Team KRUSHI is the multidisciplinary agricultural innovation team of RV College of Engineering (RVCE). We bring together students from diverse engineering branches to develop practical, affordable, and sustainable solutions for real-world farming challenges. Through research, design, prototyping, IoT, AI, robotics, and field testing, members gain hands-on technical experience while creating meaningful social impact. Join us to innovate, collaborate, learn from experts, and transform ideas into technologies that empower farmers and promote sustainable agriculture.",
     "color": "#d9efc5",
     "accent": "#4f7624",
     "symbol": "K",
     "lead": "Student Lead",
-    "email": "contact@tk.rvce.edu.in",
-    "instagram": "@tk_rvce",
-    "venue": "Seminar Hall",
+    "email": "teamkrushi@rvce.edu.in",
+    "instagram": "@teamkrushi",
+    "venue": "EE Classroom",
     "images": [
-      "https://picsum.photos/seed/TK1/800/400",
-      "https://picsum.photos/seed/TK2/800/400"
+      "https://lh3.googleusercontent.com/d/18MOtkRsJ1_FbHzFlvVdQxRLluQL-EpSY",
+      "https://lh3.googleusercontent.com/d/1SP6kwdv9iEVr-vlYLP0gwXbXEbeZAdgA",
+      "https://lh3.googleusercontent.com/d/1KcuvbEDshVDbRRFRUTVtqVe1Msab7_eC",
+      "https://lh3.googleusercontent.com/d/1DgJ7HnBzmfiCq46oyF9MXbLb576fkegY",
+      "https://lh3.googleusercontent.com/d/1hDYZvL5YJQhizUE0LsJcvIc1cZowhq-i"
     ],
     "events": [
       {
-        "name": "Team Krushi Project Showcase",
-        "detail": "Team KRUSHI brings together engineering students to design and prototype field-ready agri-tech solutions that improve productivity, safety, and affordability. Using the TORQUE framework, the club conducts hands-on development, field testing, and farmer collaboration. With two patents to its name, Team KRUSHI welcomes partnerships with industry, researchers, and farming communities to scale and deploy its innovations. A demonstration of the tractor module presenting project origin, design methodology, and system architecture, followed by a live operational demo and a brief interactive question-and-answer session. Participants will form small teams to analyse a real farmer’s problem, generate rapid solution concepts under mentor supervision, and deliver a concise, feasibility-focused pitch. A structured, interactive quiz assessing understanding of the showcased project and core agri-tech principles; each question will be accompanied by a short explanatory discussion and practical demonstration. A keynote examining the lifecycle of agri- tech innovations — from needs assessment through prototyping and deployment — illustrated with case studies and actionable guidance, concluding with an invitation to join Team Krushi.",
-        "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
+        "name": "Krushi Kickstart  :  (Ideathon)",
+        "date": "Aug 29",
+        "time": "Showcase Day 2",
+        "venue": "EE Classroom",
+        "detail": "What if your random idea could solve a real farming problem? Step into a fast-paced challenge where you'll brainstorm, build, and pitch innovative solutions—even if you've never done it before. No experience needed, just curiosity!"
+      },
+      {
+        "name": "Tractor Unlocked (Tractor Workshop)",
+        "date": "Aug 29",
+        "time": "Showcase Day 2",
+        "venue": "EE Classroom",
+        "detail": "Ever wondered what's hidden beneath the hood of a tractor? Get hands-on with the machine that powers agriculture and discover how engineering meets farming in the real world."
+      },
+      {
+        "name": "Pitch. Build. Disrupt. (Agri Startup Pitch)",
+        "date": "Aug 29",
+        "time": "Showcase Day 2",
+        "venue": "EE Classroom",
+        "detail": "Imagine you're the founder of the next big agritech startup. Can you convince investors in just a few minutes? Turn bold ideas into business pitches and experience the startup world firsthand."
+      },
+      {
+        "name": "Tractor Unlocked (Tractor Workshop)",
+        "date": "Aug 29",
+        "time": "Showcase Day 2",
+        "venue": "EE Classroom",
+        "detail": "Ever wondered what's hidden beneath the hood of a tractor? Get hands-on with the machine that powers agriculture and discover how engineering meets farming in the real world."
       }
     ],
-    "division": "Astronomy & Interdisciplinary Engineering"
+    "division": "Astronomy & Interdisciplinary Engineering",
+    "logo": "https://lh3.googleusercontent.com/d/1XBsJlVO-koH-CrtFpX45lsT8AiXvryqh"
   },
   {
     "id": "team-vyoma",

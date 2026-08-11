@@ -3,47 +3,51 @@
   "name": "HAM Club",
   "shortName": "HAM",
   "category": "Technical",
-  "description": "RVCE Ham Club is the amateur radio club in RVCE. It was inaugurated on 27th August 2019. We aim to popularize Amateur Radio as a hobby among students while exploring technical innovations in the communication domain. RVCE HAM club shall have international collaborations with HAM units across the globe through its activities and aims to have talks with esteemed professionals across the globe through radio communication.",
+  "description": "Inaugurated on August 27, 2019, under the Department of ECE, we are a student-led community built for amateur radio enthusiasts who love getting hands-on with wireless communication. Whether you want to master Morse code, build custom antennas, or learn about radio electronics, we offer the tools, mentoring, and workshops to help you level up your tech skills.\n\nHere is a glimpse of what we do:\n\n1.Get Licensed: We guide you through the Amateur Station Operator's Certificate (ASOC) exam governed by the Ministry of Communications, Govt. of India, with mentoring sessions covering radio regulations, basic radio electronics, and atmospheric propagation.\n\n2.Hands-on Workshops: Dive into practical builds and advanced electronics, from Antenna Design and Software Defined Radio (SDR + MATLAB) to Phase Locked Loop (PLL) circuits and Attenuator Building.\n\n3.Exciting Radio Events: Test your direction-finding techniques in Fox Hunting events to track down hidden transmitters, decode secret Morse signals, and construct custom antennas like the MOXON and Yagi-Uda.",
   "color": "#f6ddb7",
   "accent": "#74501c",
   "symbol": "H",
   "lead": "Student Lead",
-  "email": "contact@ham.rvce.edu.in",
-  "instagram": "@ham_rvce",
-  "venue": "Seminar Hall",
+  "email": "Email - hamclub@rvce.edu.in, Vijay sudarshan - 70194 91572, Vrinda V Katti - 63640 97979",
+  "instagram": "rvcehamclub",
+  "venue": "BT Quadrangle",
   "images": [
-    "https://picsum.photos/seed/HAM1/800/400",
-    "https://picsum.photos/seed/HAM2/800/400"
+    "https://lh3.googleusercontent.com/d/14VUI-QmI9iY3_fueTimGROehhPQ5YsAL",
+    "https://lh3.googleusercontent.com/d/1NghsV5PP5mTrqr6Wr11AWJzRwQgtEQ8r",
+    "https://lh3.googleusercontent.com/d/1Y3Mc5lzgFXmHNAwEYi8utrJ2oQ0SDOqr",
+    "https://lh3.googleusercontent.com/d/1YF5UCNsUqgTpwgcbDLoA93Q8Srg3BqwG",
+    "https://lh3.googleusercontent.com/d/1FObCVI5SEta70p0WBQq25YhMhCDeJ3Ph"
   ],
   "events": [
     {
-      "name": "Step into Radiowaves with SDR",
-      "detail": "Unleash the power of technology that turns your computer into a versatile radio receiver and transmitter.",
+      "name": "Waves in Action: The Amateur Radio Showcase",
       "date": "Aug 28",
-      "time": "TBD",
-      "venue": "TBD"
+      "time": "Showcase Day 1",
+      "venue": "BT Quadrangle",
+      "detail": "Get up close and personal with real-world wireless hardware! In this hands-on session, you’ll explore various antennas and radio equipment, discover how they transmit signals across distances, and see the science of radio communication live in action."
     },
     {
-      "name": "Group Ideathon — Problem → PrototypeD",
-      "detail": "",
+      "name": "Operation: Lost Signal",
       "date": "Aug 28",
-      "time": "TBD",
-      "venue": "TBD"
+      "time": "Showcase Day 1",
+      "venue": "BT Quadrangle",
+      "detail": "In this team-based challenge, you’ll navigate multiple stations, crack amateur radio puzzles—from decoding Morse code and faint signals to mastering callsigns—and hunt down authorization tokens to unlock the final codeword."
     },
     {
-      "name": "Agri-Tech Quiz & Learning Lab",
-      "detail": "",
+      "name": "Waves in Action: The Amateur Radio Showcase",
       "date": "Aug 28",
-      "time": "TBD",
-      "venue": "TBD"
+      "time": "Showcase Day 1",
+      "venue": "BT Quadrangle",
+      "detail": "Get up close and personal with real-world wireless hardware! In this hands-on session, you’ll explore various antennas and radio equipment, discover how they transmit signals across distances, and see the science of radio communication live in action."
     },
     {
-      "name": "TEDx Talk — How Agriculture Depends",
-      "detail": "on New Technology",
+      "name": "Operation: Lost Signal",
       "date": "Aug 28",
-      "time": "TBD",
-      "venue": "TBD"
+      "time": "Showcase Day 1",
+      "venue": "BT Quadrangle",
+      "detail": "In this team-based challenge, you’ll navigate multiple stations, crack amateur radio puzzles—from decoding Morse code and faint signals to mastering callsigns—and hunt down authorization tokens to unlock the final codeword."
     }
   ],
-  "division": "Robotics, Electronics & Core Tech"
+  "division": "Robotics, Electronics & Core Tech",
+  "logo": "https://lh3.googleusercontent.com/d/1ALdNbCBPLO23vDFx-bWHEI4qPhsQosYM"
 }

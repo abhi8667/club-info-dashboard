@@ -3,26 +3,51 @@
   "name": "Team Krushi",
   "shortName": "TK",
   "category": "Technical",
-  "description": "Welcome to Team Krushi! We are a dynamic community of students passionate about our field. Join us to explore, learn, and grow through our various activities and projects.",
+  "description": "Team KRUSHI is the multidisciplinary agricultural innovation team of RV College of Engineering (RVCE). We bring together students from diverse engineering branches to develop practical, affordable, and sustainable solutions for real-world farming challenges. Through research, design, prototyping, IoT, AI, robotics, and field testing, members gain hands-on technical experience while creating meaningful social impact. Join us to innovate, collaborate, learn from experts, and transform ideas into technologies that empower farmers and promote sustainable agriculture.",
   "color": "#d9efc5",
   "accent": "#4f7624",
   "symbol": "K",
   "lead": "Student Lead",
-  "email": "contact@tk.rvce.edu.in",
-  "instagram": "@tk_rvce",
-  "venue": "Seminar Hall",
+  "email": "teamkrushi@rvce.edu.in",
+  "instagram": "@teamkrushi",
+  "venue": "EE Classroom",
   "images": [
-    "https://picsum.photos/seed/TK1/800/400",
-    "https://picsum.photos/seed/TK2/800/400"
+    "https://lh3.googleusercontent.com/d/18MOtkRsJ1_FbHzFlvVdQxRLluQL-EpSY",
+    "https://lh3.googleusercontent.com/d/1SP6kwdv9iEVr-vlYLP0gwXbXEbeZAdgA",
+    "https://lh3.googleusercontent.com/d/1KcuvbEDshVDbRRFRUTVtqVe1Msab7_eC",
+    "https://lh3.googleusercontent.com/d/1DgJ7HnBzmfiCq46oyF9MXbLb576fkegY",
+    "https://lh3.googleusercontent.com/d/1hDYZvL5YJQhizUE0LsJcvIc1cZowhq-i"
   ],
   "events": [
     {
-      "name": "Team Krushi Project Showcase",
-      "detail": "Team KRUSHI brings together engineering students to design and prototype field-ready agri-tech solutions that improve productivity, safety, and affordability. Using the TORQUE framework, the club conducts hands-on development, field testing, and farmer collaboration. With two patents to its name, Team KRUSHI welcomes partnerships with industry, researchers, and farming communities to scale and deploy its innovations. A demonstration of the tractor module presenting project origin, design methodology, and system architecture, followed by a live operational demo and a brief interactive question-and-answer session. Participants will form small teams to analyse a real farmer’s problem, generate rapid solution concepts under mentor supervision, and deliver a concise, feasibility-focused pitch. A structured, interactive quiz assessing understanding of the showcased project and core agri-tech principles; each question will be accompanied by a short explanatory discussion and practical demonstration. A keynote examining the lifecycle of agri- tech innovations — from needs assessment through prototyping and deployment — illustrated with case studies and actionable guidance, concluding with an invitation to join Team Krushi.",
-      "date": "Aug 28",
-      "time": "TBD",
-      "venue": "TBD"
+      "name": "Krushi Kickstart  :  (Ideathon)",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "EE Classroom",
+      "detail": "What if your random idea could solve a real farming problem? Step into a fast-paced challenge where you'll brainstorm, build, and pitch innovative solutions—even if you've never done it before. No experience needed, just curiosity!"
+    },
+    {
+      "name": "Tractor Unlocked (Tractor Workshop)",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "EE Classroom",
+      "detail": "Ever wondered what's hidden beneath the hood of a tractor? Get hands-on with the machine that powers agriculture and discover how engineering meets farming in the real world."
+    },
+    {
+      "name": "Pitch. Build. Disrupt. (Agri Startup Pitch)",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "EE Classroom",
+      "detail": "Imagine you're the founder of the next big agritech startup. Can you convince investors in just a few minutes? Turn bold ideas into business pitches and experience the startup world firsthand."
+    },
+    {
+      "name": "Tractor Unlocked (Tractor Workshop)",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "EE Classroom",
+      "detail": "Ever wondered what's hidden beneath the hood of a tractor? Get hands-on with the machine that powers agriculture and discover how engineering meets farming in the real world."
     }
   ],
-  "division": "Astronomy & Interdisciplinary Engineering"
+  "division": "Astronomy & Interdisciplinary Engineering",
+  "logo": "https://lh3.googleusercontent.com/d/1XBsJlVO-koH-CrtFpX45lsT8AiXvryqh"
 }

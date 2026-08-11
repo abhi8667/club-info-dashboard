@@ -3,54 +3,51 @@
   "name": "Alaap",
   "shortName": "AL",
   "category": "Non-Technical",
-  "description": "Alaap – The Music Club of RVCE is a vibrant hub that has been uniting students through music for decades, fostering a sense of belonging and community on campus. With a rich legacy and numerous success stories, Alaap has been the cradle of emerging bands like Project Mishram and Dastaan, who have gone on to shine on larger stages. The club continues to blossom into a dynamic center of creativity, inspiring artistic expression, nurturing innovation, and cultivating talent. By providing a platform to hone skills, fuel passion, and celebrate the transformative power of music, Alaap remains a space where ideas flourish and lifelong connections are built.",
+  "description": "Alaap is the music club of RVCE. Vocalists, instrumentalists, rappers, beatboxers, composers, producers and sound engineers gather here to create music, compete, and entertain self and other. With over 100 members, you will find someone to share your interests in music with, regardless of taste or skill level. There is no single sound that can be ascribed to the club; we are constantly surprising ourselves with experiments across styles of music, and their confluence.\n\nAlaap is an active part of RVCE's cultural calendar. You can find us performing at the college's flagship events: E-Summit and 8th Mile, as well as other significant occasions such as Kannada Habba, Matrubhasha Divas, Kannada Rajyotsava , etc. We have also performed at events such as the IEEE conference held in IIIT Bangalore, and for your enjoyment during the SIP (28th August @ Civil Seminar Hall - don't miss out, we have some fun stuff planned). \n\nCompetition is a core aspect of Alaap's culture. Participation in individual and band competitions across the country - and winning -  is a monthly occurrence. We also host Clash of Chords, a battle of bands for college bands across Bengaluru during 8th Mile.\n\nWe are always learning and teaching about music. Masterclasses, album listening sessions, internal competitions and open mics are staples in the club calendar.\n\nIf you play, sing, write, produce, or simply enjoy being around people who care about music, come find us at the SIP or an open mic. We look forward to seeing you at auditions later this year.",
   "color": "#f5d8df",
   "accent": "#823f55",
   "symbol": "A",
   "lead": "Student Lead",
-  "email": "contact@al.rvce.edu.in",
-  "instagram": "@al_rvce",
-  "venue": "Seminar Hall",
+  "email": "Chinmay Pathak - 7306601343",
+  "instagram": "@alaap_rvce",
+  "venue": "Civil Seminar Hall",
   "images": [
-    "https://picsum.photos/seed/AL1/800/400",
-    "https://picsum.photos/seed/AL2/800/400"
+    "https://lh3.googleusercontent.com/d/19MRlzvDUuaZXvGsYc1OyI6Vza0VY91zV",
+    "https://lh3.googleusercontent.com/d/18xaXwYpeN8FP60rphWTM2f99Fw2TqzpQ",
+    "https://lh3.googleusercontent.com/d/1a4IwOy2LXsUicmPotwadPXH2cKGiKLOI",
+    "https://lh3.googleusercontent.com/d/1Hcx7g95LzXScNuLNpRbqRRd-WJyMMuyW",
+    "https://lh3.googleusercontent.com/d/1CzpbINWuDOiHogY8kpJ-xLM6a9qUnHaw"
   ],
   "events": [
     {
-      "name": "MASTERCLASSES ON VARIOUS TOPICS",
-      "detail": "Interactive sessions exploring vocal versatility, textures, and techniques to enhance creativity and improvisation (manodharma). These classes provide students with tools to refine their voice, experiment with styles, and develop a deeper musical expression.",
+      "name": "A Day with Alaap — Live & Interactive Music | Session 1",
       "date": "Aug 28",
-      "time": "TBD",
-      "venue": "TBD"
+      "time": "Showcase Day 1",
+      "venue": "Civil Seminar Hall",
+      "detail": "Alaap will present two live band performances, interspersed by music quizzes with questions unique to this slot. The session will also include an interactive musical activity inspired by the improvisational performances of artists such as Jacob Collier and Bobby McFerrin, where the audience gets to participate in creating music."
     },
     {
-      "name": "CLUB INTRODUCTION AND OPEN MIC",
-      "detail": "An introduction to Alaap, the Music Club of RVCE, showcasing its legacy, activities, and opportunities for students. The session will be followed by an engaging Open Mic, where participants can freely perform and share their musical talents.",
+      "name": "A Day with Alaap — Live & Interactive Music | Session 2",
       "date": "Aug 28",
-      "time": "TBD",
-      "venue": "TBD"
+      "time": "Showcase Day 1",
+      "venue": "Civil Seminar Hall",
+      "detail": "Alaap will present two live band performances, interspersed by music quizzes with questions unique to this slot. The session will also include an interactive musical activity inspired by the improvisational performances of artists such as Jacob Collier and Bobby McFerrin, where the audience gets to participate in creating music."
     },
     {
-      "name": "MASTERCLASSES ON VARIOUS TOPICS",
-      "detail": "Engaging sessions by the club that explore advanced musical concepts such as vocal harmonies, smooth scale transitions on instruments, and the intricacies of polyrhythms. These classes aim to refine skills, inspire creativity, and deepen musical understanding.",
+      "name": "A Day with Alaap — Live & Interactive Music | Session 3",
       "date": "Aug 28",
-      "time": "TBD",
-      "venue": "TBD"
+      "time": "Showcase Day 1",
+      "venue": "Civil Seminar Hall",
+      "detail": "Alaap will present two live band performances, interspersed by music quizzes with questions unique to this slot. The session will also include an interactive musical activity inspired by the improvisational performances of artists such as Jacob Collier and Bobby McFerrin, where the audience gets to participate in creating music."
     },
     {
-      "name": "CLUB PERFORMANCES",
-      "detail": "A showcase of the club’s versatility, featuring performances that highlight a range of musical styles and talents. This event celebrates the creativity, skill, and collaborative spirit of the club’s members.",
+      "name": "A Day with Alaap — Live & Interactive Music | Session 4",
       "date": "Aug 28",
-      "time": "TBD",
-      "venue": "TBD"
-    },
-    {
-      "name": "IEM - Improv,",
-      "detail": "Expressions and Mime ( not the dept.) 1. Do you have mood swings too? : Actors practice different emotions (joy, fear, sadness, anger) using both facial expressions and vocal tone. 2. An improverisation (by Michael G Scott) : Random prompts given; participants must create short, fun unscripted performances. 3. It’s Mime time to shine– Perform silent scenes; audience guesses the exact scenario.",
-      "date": "Aug 28",
-      "time": "TBD",
-      "venue": "TBD"
+      "time": "Showcase Day 1",
+      "venue": "Civil Seminar Hall",
+      "detail": "Alaap will present two live band performances, interspersed by music quizzes with questions unique to this slot. The session will also include an interactive musical activity inspired by the improvisational performances of artists such as Jacob Collier and Bobby McFerrin, where the audience gets to participate in creating music."
     }
   ],
-  "division": "Cultural, Dramatics & Music"
+  "division": "Cultural, Dramatics & Music",
+  "logo": "https://lh3.googleusercontent.com/d/1n2dobUbTELiAEktH1bsCrutlUGzMmqiH"
 }

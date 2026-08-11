@@ -20,11 +20,32 @@
   ],
   "events": [
     {
-      "name": "Sattva Orientation",
+      "name": "Pictorial Chinese Whisper",
       "date": "Aug 28",
-      "time": "TBD",
-      "venue": "TBD",
-      "detail": "Introduction to our club activities and roadmap for the year."
+      "time": "Showcase Day 1",
+      "venue": "BT217 Classroom",
+      "detail": "Instead of having people pass a long expression, we let them pass a picture via each person drawing."
+    },
+    {
+      "name": "Starter pack",
+      "date": "Aug 28",
+      "time": "Showcase Day 1",
+      "venue": "BT217 Classroom",
+      "detail": "We have a standard template that everyone fills it with their own unique elements"
+    },
+    {
+      "name": "Back where we started",
+      "date": "Aug 28",
+      "time": "Showcase Day 1",
+      "venue": "BT217 Classroom",
+      "detail": "Write a pice or story or poem where the first and last lines are the same"
+    },
+    {
+      "name": "Dream Author",
+      "date": "Aug 28",
+      "time": "Showcase Day 1",
+      "venue": "BT217 Classroom",
+      "detail": "Write the summary of your dream novel or book if you were a famous author"
     }
   ],
   "division": "Regional, Social Service & Youth Leadership",

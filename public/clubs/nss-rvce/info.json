@@ -3,33 +3,48 @@
   "name": "NSS RVCE",
   "shortName": "NSS",
   "category": "Non-Technical",
-  "description": "NSS RVCE is a vibrant student organization dedicated to community service and social responsibility. Guided by the motto 'Not Me But You' , it has over 200 active volunteers who take part in various activities like marathons, blood donation camps, cleanliness drives, awareness programs, and rural outreach projects. The unit also organizes special events such as village visits, school improvement drives, and cultural parades to promote social welfare and national pride. Through its continuous efforts, NSS RVCE works towards creating a positive impact on society while developing leadership and empathy among students.",
+  "description": "The National Service Scheme (NSS) is a public service programme sponsored by the Ministry of Youth Affairs and Sports, Government of India, established with the aim of developing the personality and character of student volunteers through community service. Launched in 1969, NSS remains one of India's largest and longest-running student volunteer programmes, active across colleges and universities nationwide.\n\nThe NSS unit at RV College of Engineering (RVCE) operates under this national framework, guided by the motto \"Not Me, But You,\" and provides students with a structured platform to engage in social welfare and community development activities alongside their academic pursuits. NSS RVCE volunteers participate in both Regular Activities, conducted through the academic year, and Special Camps, typically held annually in rural or underserved areas with support from the Government of India. Reported areas of engagement for the unit include village outreach and camp-based service, environmental initiatives such as tree plantation and cleanliness drives, and social awareness campaigns on themes such as health, hygiene, and civic responsibility. These activities are designed to give volunteers direct exposure to community needs while building a habit of consistent, documented social service.\n\nIn keeping with the broader objectives of the National Service Scheme, NSS RVCE volunteers work on themes spanning literacy and education support, public health awareness, environmental conservation, and disaster preparedness, depending on the specific activity or camp. Volunteers typically log service hours toward the scheme's Regular Activity and Special Camp requirements, with active participation opening pathways to state- and national-level NSS recognition, including national integration camps and youth leadership programmes coordinated by the scheme at the state and central government levels.\n\nMembership is open to students across departments and years of study, with no prior volunteering experience required. Volunteers are typically guided by faculty programme officers who coordinate activity planning, camp logistics, and liaison with local government bodies and community partners, ensuring that the unit's initiatives are properly organized and aligned with NSS guidelines at the state level.\n\nAs with NSS units nationally, participation is intended to build empathy, social responsibility, and leadership qualities in volunteers while contributing tangible service to the communities RVCE engages with. For students looking to complement their engineering education with a structured, service-oriented experience, NSS RVCE offers a long-established and officially recognized way to do so.",
   "color": "#f2e1ba",
   "accent": "#795d1d",
   "symbol": "N",
   "lead": "Student Lead",
-  "email": "contact@nss.rvce.edu.in",
-  "instagram": "@nss_rvce",
-  "venue": "Seminar Hall",
+  "email": "Sachin NSS President  +91 91108 85768, NEHA NSS President +91 96866 88957",
+  "instagram": "nss_rvce_",
+  "venue": "ECE Seminar Hall",
   "images": [
-    "https://picsum.photos/seed/NSS1/800/400",
-    "https://picsum.photos/seed/NSS2/800/400"
+    "https://lh3.googleusercontent.com/d/1W3AYnae6IxQ5OOba4mq8z1GICcMwBzEz",
+    "https://lh3.googleusercontent.com/d/1GmL7k3ux3l3czwmCyucnXq7uwkJBLE5Z"
   ],
   "events": [
     {
-      "name": "“AAJ, ABHI, ISI WAKT : THE UNSCRIPTED STAGE ”",
-      "detail": "Improv is the heart of theatre , it helps artists to think on their feet and adapt at the moment. We will demonstrate and then you will participate along with us, to explore your inner performer. A few of the many activities include: Emotional Switch – Change emotions on cue Prop se Kahani – Random props drive a story 30 Seconds In & Out – New character every 30 seconds 1-2-3-4 – Speak your dialogue in exactly assigned words",
-      "date": "Aug 28",
-      "time": "TBD",
-      "venue": "TBD"
+      "name": "🎨 Scribble",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "ECE Seminar Hall",
+      "detail": "Draw it, don't say it! Participants sketch NSS-themed words while their team races to guess the answer."
     },
     {
-      "name": "“THE FILMY TICKLE”",
-      "detail": "Silent drama in dumb charades , a (rather) melodious round of antakshari, on spot theatrical games of movies with expression and intensity, all designed to involve our freshers. Join us and we will surprise you with jamming sesh at the end.Through this we will also hold workshops for editing, writing and acting to hone up your skills too!",
-      "date": "Aug 28",
-      "time": "TBD",
-      "venue": "TBD"
+      "name": "🎭 Reverse Charades",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "ECE Seminar Hall",
+      "detail": "Only one person guesses while the entire team acts out the given NSS-related activity or situation."
+    },
+    {
+      "name": "🧩 Community Puzzle",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "ECE Seminar Hall",
+      "detail": "Work together to assemble a jumbled NSS message, logo, or social awareness poster before other teams."
+    },
+    {
+      "name": "🕵️ Imposter",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "ECE Seminar Hall",
+      "detail": "Everyone receives the same NSS-related word except one player. Discuss, observe, and identify the imposter before time runs out."
     }
   ],
-  "division": "Regional, Social Service & Youth Leadership"
+  "division": "Regional, Social Service & Youth Leadership",
+  "logo": "https://lh3.googleusercontent.com/d/1OjNXBCt9TJ6Ei3mIgQsmDAjtXMsb_HiG"
 }

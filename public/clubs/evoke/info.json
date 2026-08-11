@@ -3,61 +3,50 @@
   "name": "EVOKE",
   "shortName": "EV",
   "category": "Non-Technical",
-  "description": "The Fashion Club of RVCE is the ultimate hub for style, creativity, and self-expression. From dazzling runway shows to quirky styling challenges, we bring fashion to life on campus. Our events let you explore everything from modeling and choreography to design and styling, no matter your experience level. It’s a space to learn, experiment, and shine with a supportive and stylish community. Whether you’re here to slay the stage or simply explore your love for fashion, this is your moment to own it.",
+  "description": "Evoke is the official fashion club of RV College of Engineering (RVCE), providing a dynamic platform for students to explore and express their creativity through fashion, modelling, styling, and visual arts.\n\nThe club brings together students with different talents and gives them opportunities to showcase their creativity, build confidence, and represent RVCE at various college events and competitions.\n\n*Fashion Shows & Modelling – Organising and participating in fashion shows, ramp walks, and inter-college competitions.\n* 🎨 Styling & Design – Creating concepts, themes, outfits, makeup, props, and overall visual aesthetics for performances.\n* 📸 Content & Social Media – Creating promotional content, photoshoots, reels, posters, and managing the club’s digital presence.\n* 🎭 Event Performances – Representing RVCE at fests, cultural events, club showcases, and competitions.\n *  🏆 Competitions – Participating in inter-collegiate fashion events and bringing recognition to RVCE.\n\nBeyond modelling and fashion, Evoke encompasses a wide range of creative and organisational activities, including styling and costume design, makeup and grooming, choreography, photography, videography, content creation, social media, event planning, and production. Members work collaboratively to conceptualise themes, develop visual narratives, coordinate performances, and execute events from conception to completion.",
   "color": "#f5d7eb",
   "accent": "#823e71",
   "symbol": "E",
   "lead": "Student Lead",
-  "email": "contact@ev.rvce.edu.in",
-  "instagram": "@ev_rvce",
-  "venue": "Seminar Hall",
+  "email": "8003622469- Prachi Singh, 7975422397- Arnav Gowda",
+  "instagram": "Evoke_rvce",
+  "venue": "ETE seminar hall",
   "images": [
-    "https://picsum.photos/seed/EV1/800/400",
-    "https://picsum.photos/seed/EV2/800/400"
+    "https://lh3.googleusercontent.com/d/1bmjiDlG0HcVtJypyi-LvINR5QmWdNBRp",
+    "https://lh3.googleusercontent.com/d/1n2m5byVm1ohVQp1S0LaG2pvYAbpKqy8v",
+    "https://lh3.googleusercontent.com/d/1uuzHDHl7awRzF0gEgR4jABktOPZnjkpL",
+    "https://lh3.googleusercontent.com/d/1ZP5eR_UhNdY0iI_7lXWFjxqgEUGjqWOg"
   ],
   "events": [
     {
-      "name": "Design Dash:",
-      "detail": "The ultimate speed-styling showdown where creativity is your only currency. Teams will be handed a surprise fashion theme, think \"Met Gala on a Budget,\" \"Thrift Queen Energy,\" or \"Retro Rewind\" — and a chaotic mix of thrifted clothes, fabric scraps, funky accessories, and props. You’ll have 15 minutes to style one team member into a total fashion slay using only the materials provided, no sewing, no prep, just pure imagination and vibes. The most innovative look will win the title of “ Stylist of the Day”. The Fashion Club of RVCE is the ultimate hub for style, creativity, and self-expression. From dazzling runway shows to quirky styling challenges, we bring fashion to life on campus. Our events let you explore everything from modeling and choreography to design and styling, no matter your experience level. It’s a space to learn, experiment, and shine with a supportive and stylish community. Whether you’re here to slay the stage or simply explore your love for fashion, this is your moment to own it.",
-      "date": "Aug 28",
-      "time": "TBD",
-      "venue": "TBD"
+      "name": "Design Dash",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "ETE seminar hall",
+      "detail": "Unleash your inner designer in 15 minutes Turn thrifted chaos into a fashion queen! Race the clock with surprise themes, Create fierce looks and rule the scene AND CLAIM THE TITLE OF “STYLIST OF THE DAY"
     },
     {
-      "name": "Walk the talk: Runway 101",
-      "detail": "In this fun, interactive mini runway session where fashion meets confidence! Watch our in-house models give you a glimpse of basic runway techniques, set to upbeat music and killer energy. Then, it's your turn! Freshers are invited to try a quick, coached walk, guided by our team to help you strut with style, attitude, and flair. Whether you're here to slay or just vibe, this session is all about owning your moment and feeling fabulous while doing it.",
-      "date": "Aug 28",
-      "time": "TBD",
-      "venue": "TBD"
+      "name": "Lights, camera and fashion",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "ETE seminar hall",
+      "detail": "Think you’ve got the OOTD game on point? This is your moment to shine! In this fun & interactive contest, freshers will create their own “Outfit of the Day” reel using nothing but their creativity, confidence, and unique style. Whether it’s quirky, minimal, or bold – we want to see YOU bring your personality to life on screen. Submit your reel through the link/QR at the venue and get a chance to be featured on Evoke’s official Instagram page as the ultimate  “style icon of the day!’"
     },
     {
-      "name": "“PAINT IT FORWARD”",
-      "detail": "Kick off the day with Paint It Forward — a creative battle where your team’s imagination meets the true spirit of NSS! You’ll get a big poster and a simple mission: draw and paint what NSS means to you. Sounds easy? Here’s the twist — resources like paints and brushes will be limited on purpose. That means you’ll need to share, cooperate, and think together, just like real-life volunteers do when serving the community. The best artwork with the most powerful concept will win, but remember — this challenge isn’t just about colors on paper... it’s about the colors you bring to society through teamwork and selflessness.",
-      "date": "Aug 28",
-      "time": "TBD",
-      "venue": "TBD"
+      "name": "Walk the talk Runway: 101",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "ETE seminar hall",
+      "detail": "Always wanted to try a runway walk? Here’s your chance!  Our models will show you how it’s done and help you practice your walk, poses, and confidence on stage.  Girls can bring heels if they want – it’s the perfect time to try them out! Come join us and let your modeling dreams come true with Team Evoke"
     },
     {
-      "name": "“ACT AND SOLVE”",
-      "detail": "Act and Solve is an exciting and thought-provoking activity where each team will be given a theme like littering, discrimination, or hunger — but here’s the twist: one member of the team must act it out without speaking for 30 seconds while the rest of their team guesses the theme. Once they guess it correctly, the same team must immediately suggest a quick and practical solution to that problem. Points are awarded for both correct guesses and impactful solutions. The team with the highest score at the end wins. It’s fun, competitive, and will make you realize that sometimes silent actions spark the loudest ideas for change.",
-      "date": "Aug 28",
-      "time": "TBD",
-      "venue": "TBD"
-    },
-    {
-      "name": "“SHOUT IT OUT”",
-      "detail": "Rapid-Fire NSS Quiz: Shout It Out! – Get ready for a fast-paced, high-energy challenge where your knowledge and reflexes will be put to the test! We’ll throw out quick NSS and social awareness questions, and the moment you know the answer, shout it out before anyone else does. Every correct shout earns a point for your team, so stay sharp, think fast, and let your voice be heard. It’s lively, competitive, and packed with fun — the perfect way to see who’s got the quickest mind and the strongest NSS spirit!",
-      "date": "Aug 28",
-      "time": "TBD",
-      "venue": "TBD"
-    },
-    {
-      "name": "“Link It for Good”",
-      "detail": "Link It for Good is a fast, fun, and inspiring team challenge where your creativity takes the spotlight! The moderator will call out a random everyday object — from a water bottle to an old pair of shoes — and your team will have just 10 seconds to connect it to a meaningful NSS cause. Can you think on your feet and turn simple things into tools for change? This game proves that opportunities to serve society are hidden in plain sight — all it takes is a sharp mind, a big heart, and a little imagination!",
-      "date": "Aug 28",
-      "time": "TBD",
-      "venue": "TBD"
+      "name": "Style in motion",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "ETE seminar hall",
+      "detail": "Get ready to bring the energy on stage! In this event, juniors will team up to create their own quick choreography and show off their style on the runway.  Your seniors will kick things off with a performance, and then it’s your turn to shine  Let your creativity flow and own the spotlight with Team Evoke."
     }
   ],
-  "division": "Cultural, Dramatics & Music"
+  "division": "Cultural, Dramatics & Music",
+  "logo": "https://lh3.googleusercontent.com/d/10Ou8enz8dOCZZyhXGZWC9Fa-WqvQWMb9"
 }

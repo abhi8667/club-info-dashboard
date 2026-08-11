@@ -3,17 +3,20 @@
   "name": "Team Chimera",
   "shortName": "TC",
   "category": "Technical",
-  "description": "Chimera Racing Electric is RVCE’s official Formula Student Electric team, driven by innovation, CHIMERA CORSA RAMPAGE precision, and teamwork. Combining advanced engineering, strategic design, and a passion for EVENT 1: 11:15AM-12:15PM & 12:20 PM- 1:35 PM performance, the team develops high‑efficiency electric race cars to compete at the highest level, embodying excellence in technology, sustainability, and competitive spirit",
+  "description": "Established in 2006, Team Chimera is the official electric racing team of RV College of Engineering (RVCE), Bengaluru. Over the years, the team has evolved from developing hybrid powertrains to engineering high-performance electric race cars that embody the principles of sustainable mobility and innovation. With a strong focus on design, simulation, testing, and manufacturing, Team Chimera develops custom-built vehicles and competes at national and international Formula Student events.\n\nRooted in RVCE’s legacy of engineering excellence, the team continues to push the boundaries of electric vehicle technology, performance, and sustainable transportation. Building on its achievements, Team Chimera participated in Formula Bharat 2026, held in Coimbatore in January 2026, and has already begun rigorous preparations for Formula Bharat 2027. As a testament to the team’s consistent performance and competitive standing, Team Chimera currently ranks 2nd among 45 teams, reflecting its strong technical capabilities and commitment to excellence.",
   "color": "#dcd7ff",
   "accent": "#4c3d91",
   "symbol": "C",
   "lead": "Student Lead",
-  "email": "contact@tc.rvce.edu.in",
-  "instagram": "@tc_rvce",
-  "venue": "Seminar Hall",
+  "email": "Lalith Karthikeyan MP- 7022054999 Prahlad SP- 9500066429",
+  "instagram": "@team_chimera",
+  "venue": "EE112",
   "images": [
-    "https://picsum.photos/seed/TC1/800/400",
-    "https://picsum.photos/seed/TC2/800/400"
+    "https://lh3.googleusercontent.com/d/1V0CXMNtXrxfXVDEjhGeIru1ZSChRvIzx",
+    "https://lh3.googleusercontent.com/d/1cZ9fhoYPRkHgt2IrSOiIcHIyq03QkCAI",
+    "https://lh3.googleusercontent.com/d/1ryOKGG6ooYwMOqoRTS_knyjckMZNVRBP",
+    "https://lh3.googleusercontent.com/d/1iJ2wksajXmjL1xszMiQdLYWIPsYoobLX",
+    "https://lh3.googleusercontent.com/d/1zV77A0YcLYs2Fa4cEbMFCYlxB99hciAb"
   ],
   "events": [
     {
@@ -59,5 +62,6 @@
       "venue": "TBD"
     }
   ],
-  "division": "Racing & Automotive"
+  "division": "Racing & Automotive",
+  "logo": "https://lh3.googleusercontent.com/d/17KIb6wxj_Tp5x8FdTvwB5iLDkw-g6W_J"
 }

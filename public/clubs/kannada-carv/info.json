@@ -3,26 +3,51 @@
   "name": "Kannada CARV",
   "shortName": "KC",
   "category": "Non-Technical",
-  "description": "Welcome to Kannada CARV! We are a dynamic community of students passionate about our field. Join us to explore, learn, and grow through our various activities and projects.",
+  "description": "Kannada CARV is RVCE's theatre club, where thoughts turn into vision through writing, acting, production design, music, and technical artistry. We tell stories through centre-stage productions, street plays, mad ads, and mime that have earned recognition across campuses. With initiatives like Rangataranga, Rangaparva, CARV Lekha, and Carvinal we provide every member a platform to learn, create, perform and grow in the direction they desire.",
   "color": "#e5d8ee",
   "accent": "#69457b",
   "symbol": "K",
   "lead": "Student Lead",
-  "email": "contact@kc.rvce.edu.in",
-  "instagram": "@kc_rvce",
-  "venue": "Seminar Hall",
+  "email": "Prasanna Naik - 9380092279 , Megha - +91 99028 01304",
+  "instagram": "@kannadacarv",
+  "venue": "Bio tech seminar hall",
   "images": [
-    "https://picsum.photos/seed/KC1/800/400",
-    "https://picsum.photos/seed/KC2/800/400"
+    "https://lh3.googleusercontent.com/d/1Nim7XGV5VTTle-Zcq2mYY9f7q2BxWK0x",
+    "https://lh3.googleusercontent.com/d/1AhySGUR6cAM2-FPFZjGZg8A4toc8eUfJ",
+    "https://lh3.googleusercontent.com/d/1b2XxD4b34gv8cXfEmRmzOBhEpFSgiExB",
+    "https://lh3.googleusercontent.com/d/1kuKDOAYfivXuMOQg0R3hmPVF6W5FdMR5",
+    "https://lh3.googleusercontent.com/d/1ypplsv8quHtAfqdjRJAkBicbX0I2u7zk"
   ],
   "events": [
     {
-      "name": "Kannada CARV Orientation",
+      "name": "​🎭 Mad Ads",
       "date": "Aug 28",
-      "time": "TBD",
-      "venue": "TBD",
-      "detail": "Introduction to our club activities and roadmap for the year."
+      "time": "Showcase Day 1",
+      "venue": "Bio tech seminar hall",
+      "detail": "Pitching products with a punchline! Watch our creative minds blend brilliant marketing strategies with instant, unscripted comedy. It’s hilarious, smart, and hands-down the most entertaining sales pitch you’ll ever see."
+    },
+    {
+      "name": "Video Showcase",
+      "date": "Aug 28",
+      "time": "Showcase Day 1",
+      "venue": "Bio tech seminar hall",
+      "detail": "Take a trip down memory lane. Grab a seat and check out this exclusive visual showcase of our club's past masterpieces, boldest projects, and proudest achievements. See what we're all about!"
+    },
+    {
+      "name": "​🎤 Open Mic: Jam Session",
+      "date": "Aug 28",
+      "time": "Showcase Day 1",
+      "venue": "Bio tech seminar hall",
+      "detail": "Grab the mic or just vibe with the crowd! This is a laid-back, open-floor jamming session featuring theatrical hits, soulful folklore, and everything in between. Whether you're a seasoned singer or just want to sing along, the floor is open—come blend in!"
+    },
+    {
+      "name": "Interactive Improv",
+      "date": "Aug 28",
+      "time": "Showcase Day 1",
+      "venue": "Bio tech seminar hall",
+      "detail": "Zero acting experience? No problem! Jump into the madness where the topics are instant, the scenarios change constantly, and the laughter never stops. It’s wild, highly interactive, unpredictable, and guarantees unlimited fun for everyone involved."
     }
   ],
-  "division": "Cultural, Dramatics & Music"
+  "division": "Cultural, Dramatics & Music",
+  "logo": "https://lh3.googleusercontent.com/d/1SwPEEdqbLW41p3FowxoeTQ4flA8DMKMy"
 }

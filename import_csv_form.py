@@ -53,7 +53,9 @@ EXPLICIT_MAP = {
     'team antariksh': 'team-antariksh',
     'team astra robotics': 'team-astra-robotics',
     'ham club': 'ham-club',
-    'nss rvce': 'nss-rvce'
+    'nss rvce': 'nss-rvce',
+    'national service scheme (nss)': 'nss-rvce',
+    'national service scheme': 'nss-rvce'
 }
 
 def main():

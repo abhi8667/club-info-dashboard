@@ -3,17 +3,20 @@
   "name": "Accelerate Club RVCE",
   "shortName": "AC",
   "category": "Technical",
-  "description": "Welcome to Accelerate Club RVCE! We are a dynamic community of students passionate about our field. Join us to explore, learn, and grow through our various activities and projects.",
+  "description": "Established in 2022, the Accelerate Club is the premier computing club of RVCE's Computer Science & Engineering Department. Founded with a vision to create a dynamic platform for aspiring technologists, we have rapidly evolved into a catalyst for innovation and learning in the ever-expanding digital landscape.",
   "color": "#d9f0d5",
   "accent": "#3d7134",
   "symbol": "A",
   "lead": "Student Lead",
   "email": "contact@ac.rvce.edu.in",
   "instagram": "@ac_rvce",
-  "venue": "Seminar Hall",
+  "venue": "Chemical Seminar Hall",
   "images": [
-    "https://picsum.photos/seed/AC1/800/400",
-    "https://picsum.photos/seed/AC2/800/400"
+    "https://lh3.googleusercontent.com/d/19D6_ftw2R7RtTVMI2NrG2aLJzArn3RHf",
+    "https://lh3.googleusercontent.com/d/1D_OHW4GdILTFEtfHI43ZrjJHK_Yl2o2m",
+    "https://lh3.googleusercontent.com/d/1afvuhUM1U-7525SJL9AwUv9us5b56M8C",
+    "https://lh3.googleusercontent.com/d/1K7BoMhzfSQaBElfFprhjBxem8-SbLx3b",
+    "https://lh3.googleusercontent.com/d/10jkyRL2C_OjBoJCWFARzp9tRm5xnj2cc"
   ],
   "events": [
     {
@@ -24,5 +27,6 @@
       "detail": "Introduction to our club activities and roadmap for the year."
     }
   ],
-  "division": "Computer Science, Software & AI"
+  "division": "Computer Science, Software & AI",
+  "logo": "Accelerate"
 }

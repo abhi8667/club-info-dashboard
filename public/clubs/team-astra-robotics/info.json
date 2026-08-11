@@ -3,40 +3,51 @@
   "name": "Team Astra Robotics",
   "shortName": "AR",
   "category": "Technical",
-  "description": "Team ASTRA Robotics is a student-led club dedicated to advancing robotics innovation. We design intelligent, autonomous systems for global competitions and lead STEM outreach to inspire future innovators. Founded under the IEEE RVCE Chapter, we continue to collaborate with its Robotics and Automation chapter. Our members gain hands-on experience tackling real-world technical, organizational, and engineering challenges in a collaborative yet competitive environment. From autonomous mobility to AI- driven systems and industrial automation, we foster creativity, leadership, and technical excellence.",
+  "description": "Astra Robotics is the interdisciplinary robotics club of RVCE — a team of thinkers, builders, and dreamers who use robotics to solve real-world problems, one smart solution at a time. The club works across domains like embedded systems, ROS2, computer vision, IoT, and machine learning, and has built notable projects such as Tara (a Mars Rover prototype competing internationally in the Rover Challenge Series across the USA, Poland, Turkey, and India), ARES (an autonomous recon and elimination system with target tracking capability), and Doggo (a quadruped robot for R&D in locomotion and control systems). Astra Robotics has earned recognition including 1st Place at IIT Bombay's E-Yantra Innovation Award (2024), 2nd Runner-up at the Indian Rover Design Challenge (2023), and PDRA qualification at the University Rover Challenge (2024).",
   "color": "#d6e2ff",
   "accent": "#2d54a0",
   "symbol": "A",
   "lead": "Student Lead",
-  "email": "contact@ar.rvce.edu.in",
-  "instagram": "@ar_rvce",
-  "venue": "Seminar Hall",
+  "email": "Varshini - 6364504658, Samyak - 7338392243",
+  "instagram": "@astra_robotics",
+  "venue": "MCA Seminar Hall",
   "images": [
-    "https://picsum.photos/seed/AR1/800/400",
-    "https://picsum.photos/seed/AR2/800/400"
+    "https://lh3.googleusercontent.com/d/1GqQIr7eVkbsfS7vW9gXG_gmcyk2wMaII",
+    "https://lh3.googleusercontent.com/d/1kk0bLlOxBcJgfVSMC-F2nbrEsJpYvLEr",
+    "https://lh3.googleusercontent.com/d/17mEW1TfSrkE98Rnt6jcbP4zXLRmzWdOS",
+    "https://lh3.googleusercontent.com/d/1NsggPL6t7whHGrrZMWAekKQIpox6HHB1",
+    "https://lh3.googleusercontent.com/d/1ryoyQ2-KcCaocFRa610dmD-FnX_T3K6J"
   ],
   "events": [
     {
-      "name": "ROBOTICS SOFTWARE PROTOTYPING",
-      "detail": "FUNDAMENTALS Learn basics of robotics prototyping by designing in Tinkercad. club logo 23",
+      "name": "ROS2 Intro and Rover Simulation on RViz",
       "date": "Aug 28",
-      "time": "TBD",
-      "venue": "TBD"
+      "time": "Showcase Day 1",
+      "venue": "MCA Seminar Hall",
+      "detail": "Get to learn ROS2, the backbone of modern robotics, by visualizing a rover's sensors, movement, and navigation in RViz. See how real robots \"think\" and move, right from your screen."
     },
     {
-      "name": "Lights, Camera, Fashion!",
-      "detail": "In this fun and interactive contest, freshers will create their own “Outfit of the Day” (OOTD) reel using their own phones during the event. Whether it’s chic, quirky, minimal, or bold — we want to see you bring your fashion personality to life. Once your reel is ready, you’ll submit it to us through a simple QR code/link provided at the venue. Our panel will review all entries and select the most creative, confident, and stylish reel to be featured on Evoke’s official Instagram page.",
+      "name": "Gazebo Simulations: ARES, HAL and Mbot",
       "date": "Aug 28",
-      "time": "TBD",
-      "venue": "TBD"
+      "time": "Showcase Day 1",
+      "venue": "MCA Seminar Hall",
+      "detail": "Step into realistic robot simulations powered by Gazebo's physics engine. Drive and navigate our very own bots — HAL, Mbot, and ARES — autonomously through simulated environments and experience robotics come to life."
     },
     {
-      "name": "Step Up: Style in Motion",
-      "detail": "Juniors will team up to create their own high-energy choreography and strut their style on the runway. To kick things off, our seniors will set the vibe with a slick 1-minute performance to spark creativity and confidence. It's your time to shine—bring the moves, bring the attitude, and most importantly, bring the style.",
+      "name": "TinkerCAD",
       "date": "Aug 28",
-      "time": "TBD",
-      "venue": "TBD"
+      "time": "Showcase Day 1",
+      "venue": "MCA Seminar Hall",
+      "detail": "Design and simulate Arduino-based electronic circuits virtually before bringing them to life in hardware. A perfect first step into the world of embedded systems and electronics."
+    },
+    {
+      "name": "Robotic Arm Challenge",
+      "date": "Aug 28",
+      "time": "Showcase Day 1",
+      "venue": "MCA Seminar Hall",
+      "detail": "Take control of a robotic arm and put your precision to the test in an exciting pick-and-place challenge. Program it, move it, and master the art of robotic manipulation."
     }
   ],
-  "division": "Robotics, Electronics & Core Tech"
+  "division": "Robotics, Electronics & Core Tech",
+  "logo": "https://lh3.googleusercontent.com/d/1ENKI-F0O-KCXh7yc4NOor4L8_9JPz10O"
 }
