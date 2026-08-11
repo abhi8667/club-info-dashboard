@@ -1,66 +1,122 @@
-# RVCE Club Showcase
+# 🚀 RVCE Club Showcase & SIP Dashboard
 
-A modern, interactive web application built to showcase the diverse student-led clubs and communities at RV College of Engineering (RVCE). This project was created specifically for the incoming freshers' induction programme to help them discover, explore, and connect with campus clubs.
+A state-of-the-art, interactive web application built for **RV College of Engineering (RVCE)** to showcase all official student-led technical teams, research clubs, cultural societies, and interdisciplinary organizations. 
 
-## Features
+Created specifically for the **Student Induction Programme (SIP)** and campus showcase days, this platform allows incoming freshers and students to discover, search, and connect with RVCE's vibrant club ecosystem.
 
-- **Interactive Club Directory**: Browse through technical and non-technical clubs.
-- **Dynamic Filtering & Search**: Easily find clubs by category or search by name.
-- **Detailed Dialogs**: View a club's description, upcoming events, time/venue details, club life photos, and social media links.
-- **Hot-Reloading Data**: All club data is powered by a single `clubs.json` file for incredibly easy updates.
-- **Google Forms Integration Ready**: Comes with a Python script to seamlessly import responses from a Google Form into the site.
+---
 
-## Tech Stack
+## 🎯 What This Website Is & What It Does
 
-- **Framework**: Next.js (React)
-- **Styling**: Vanilla CSS with modern aesthetics (glassmorphism, smooth animations)
-- **Icons**: Lucide React
-- **Package Manager**: pnpm
+The **RVCE Club Showcase** serves as the central digital portal for exploring 34+ campus organizations. It bridges student leads, event coordinators, and incoming freshers with rich visual details, event schedules, and direct contact options.
 
-## Getting Started
+### Key Capabilities & Features
+
+- 🏆 **8 Specialized Divisions**: Clubs are grouped into curated domain divisions:
+  - 🏎️ **Racing & Automotive** (*FSAE, BAJA Motorsport & Hybrid prototypes*)
+  - 💻 **Computer Science, Software & AI** (*ACM, GDG, Coding Club, Team Dhi, WiC*)
+  - 🚀 **Space, Drone & Aerospace** (*Project Jatayu, Team Vyoma, Team Antariksh, Team Dhruva*)
+  - 🤖 **Robotics, Electronics & Core Tech** (*Astra Robotics, Team Elektra, IEEE, HAM Club, Quantum*)
+  - 🔭 **Astronomy & Interdisciplinary Engineering** (*Observational astronomy & celestial research*)
+  - ⚙️ **Industry Connect & Interdisciplinary** (*SPARK IUCEE, Team Krushi*)
+  - 🎭 **Cultural, Dramatics & Music** (*CARV Hindi/Kannada, Alaap, Raag, Evoke, Sattva, F/6.3*)
+  - 🎙️ **Literary, Quizzing & Public Speaking** (*Quizcorp, Debate Society, TEDxRVCE, Rotaract, E-Cell, NSS*)
+
+- 🔍 **Instant Live Search & Filtering**: Fast, responsive search across club names, descriptions, and categories (`Technical` vs. `Non-Technical`).
+- 🎲 **"Surprise Me" Club Discovery**: An interactive randomizer that introduces students to new clubs at the click of a button.
+- 📌 **Comprehensive Club Profiles**:
+  - Detailed club background, vision, and domain breakdown.
+  - Student lead contact information and official college email addresses.
+  - Social media integration (Instagram handles & direct links).
+  - High-resolution club logos & interactive image galleries.
+- 📅 **Showcase Event Timetable**: Complete schedules for Day 1 (Aug 28) and Day 2 (Aug 29) showcase activities, complete with venues (e.g., Seminar Halls, Dept Labs), times, and step-by-step event descriptions.
+
+---
+
+## 🛠️ Technology Stack
+
+- **Framework**: [Next.js 14 / 16](https://nextjs.org/) (React & App Router)
+- **Styling**: Modern CSS with glassmorphism, gradient accents, and micro-animations
+- **Icons**: [Lucide React](https://lucide.dev/)
+- **Data Management**: Structured JSON (`data/clubs.json` & `public/clubs/*/info.json`)
+- **Automation Utilities**: Python scripts for Google Form CSV importing & asset synchronization
+
+---
+
+## 📁 Repository & Data Architecture
+
+```text
+club_showcase_rvce/
+├── app/                  # Next.js App Router (pages & global styles)
+├── components/           # UI Components (ClubShowcase modal, division cards, search)
+├── data/
+│   ├── clubs.json        # Unified JSON payload powering the site
+│   └── clubs.ts          # TypeScript type definitions for Club & Event entities
+├── public/
+│   ├── clubs/            # Individual club asset folders: /<club-id>/logo, /images/, info.json
+│   ├── divisions/        # Custom division banner graphics
+│   └── rvce-logo.png     # Official RVCE Branding
+├── sync_clubs_folder.py  # Python script to sync local club image assets to data/clubs.json
+├── import_csv_form.py    # Python script to parse Google Form responses into club data
+└── README.md
+```
+
+---
+
+## ⚡ Getting Started
 
 ### Prerequisites
-Make sure you have Node.js installed, along with `pnpm`.
+- Node.js (v18+ recommended)
+- `pnpm` (or `npm`)
+- Python 3.x (for asset sync tools)
 
-### Installation
-1. Clone this repository:
+### Setup & Execution
+1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd club-showcase
+   git clone https://github.com/abhi8667/sip-dashboard.git
+   cd club_showcase_rvce
    ```
 
-2. Install dependencies (ignoring post-install scripts if necessary):
+2. **Install dependencies**:
    ```bash
-   pnpm install --ignore-scripts
+   pnpm install
    ```
 
-3. Run the development server:
+3. **Run development server**:
    ```bash
-   pnpm run dev
+   npm run dev
+   ```
+   Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+4. **Production Build**:
+   ```bash
+   npm run build
    ```
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
+---
 
-## How to Update Club Data
+## 🔄 Data Maintenance & Updates
 
-The application dynamically reads all club information from `data/clubs.json`. 
+### 1. Syncing Local Logos & Images
+When new logo images (`logo.png`, `logo.jpeg`, etc.) or gallery photos (`images/` folder) are placed inside `public/clubs/<club-id>/`, update the dataset automatically:
+```bash
+python sync_clubs_folder.py
+```
 
-### Using the Google Forms Importer
-If you are collecting club information via Google Forms, you can use the included Python script to instantly update the website's data.
-
-1. Export your Google Form responses as a **CSV file**.
-2. Open `import_form_responses.py` and ensure the column names (around line 38) match the exact question titles in your Google Form.
-3. Run the script:
+### 2. Importing Google Form Responses
+If club details are collected via Google Forms:
+1. Export responses to `Club Information.csv` in the root directory.
+2. Run:
    ```bash
-   python3 import_form_responses.py path/to/your/responses.csv
+   python import_csv_form.py
    ```
-4. The script will map the new descriptions, logos, photos, and event details into `data/clubs.json`. 
-5. Refresh your browser (or let Next.js hot-reload) to see the live changes!
+3. Run the sync script to reflect media assets:
+   ```bash
+   python sync_clubs_folder.py
+   ```
 
-## Contributing
+---
 
-Feel free to open issues or submit pull requests to help improve the showcase. 
+## 📜 License
 
-## License
-
-Built by students, for students.
+Built with ❤️ by students at **RV College of Engineering**.
