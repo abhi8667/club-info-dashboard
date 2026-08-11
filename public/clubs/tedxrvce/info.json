@@ -12,11 +12,8 @@
   "instagram": "@tedxrvce_bengaluru",
   "venue": "The Reel Room",
   "images": [
-    "https://lh3.googleusercontent.com/d/1x4pU_2p3Y0ztFwKMAL-NGDZUnT__EPdq",
-    "https://lh3.googleusercontent.com/d/16JM5-Tpk4D1vBYXthQuBniZVdfAgm2bk",
-    "https://lh3.googleusercontent.com/d/1svcSywIxBlDXLw642S06auEa5Yo0WgU5",
-    "https://lh3.googleusercontent.com/d/1ghuYykuJwM4G-RPD6i18u1m2x4n7RMlf",
-    "https://lh3.googleusercontent.com/d/1z223iiHkECFbDj5Sw-SJwtq6YT_nqMdc"
+    "/clubs/tedxrvce/images/2.jpeg",
+    "/clubs/tedxrvce/images/Team pic.jpeg"
   ],
   "events": [
     {
@@ -49,5 +46,5 @@
     }
   ],
   "division": "Literary, Quizzing & Public Speaking",
-  "logo": "https://lh3.googleusercontent.com/d/181fBndtnKi4LEUym83yXCJnQ60V5UxOV"
+  "logo": "/clubs/tedxrvce/logo.jpeg"
 }

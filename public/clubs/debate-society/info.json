@@ -12,11 +12,8 @@
   "instagram": "@rvcedebsoc",
   "venue": "Reel Room, 4th Floor, New Library",
   "images": [
-    "https://lh3.googleusercontent.com/d/1E9zc3EWaOWGLAt-3b4IMozgebp2wWBqU",
-    "https://lh3.googleusercontent.com/d/1A-wMPI8bgpR9OpMHA6Hjx3AlywwHZBNj",
-    "https://lh3.googleusercontent.com/d/1zh5g8wpeVuMhbm-8o7NBaXDenaiEeZta",
-    "https://lh3.googleusercontent.com/d/1u-4lrXT9fvY6dWPGW6IQ1bzB03nFjp4r",
-    "https://lh3.googleusercontent.com/d/1CRsTW7hw7bdmDVvG6q-WpfnG9UDtiKV3"
+    "/clubs/debate-society/images/WhatsApp Image 2026-08-11 at 5.08.50 PM (1).jpeg",
+    "/clubs/debate-society/images/WhatsApp Image 2026-08-11 at 5.08.50 PM.jpeg"
   ],
   "events": [
     {
@@ -49,5 +46,5 @@
     }
   ],
   "division": "Literary, Quizzing & Public Speaking",
-  "logo": "https://lh3.googleusercontent.com/d/1nWKIhvyzmBGPyWBfsrbGn6z9XuUHoFqS"
+  "logo": "/clubs/debate-society/DebSoc Logo Dark.png"
 }

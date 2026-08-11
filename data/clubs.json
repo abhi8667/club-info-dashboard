@@ -13,11 +13,8 @@
     "instagram": "@ac_rvce",
     "venue": "Chemical Seminar Hall",
     "images": [
-      "https://lh3.googleusercontent.com/d/19D6_ftw2R7RtTVMI2NrG2aLJzArn3RHf",
-      "https://lh3.googleusercontent.com/d/1D_OHW4GdILTFEtfHI43ZrjJHK_Yl2o2m",
-      "https://lh3.googleusercontent.com/d/1afvuhUM1U-7525SJL9AwUv9us5b56M8C",
-      "https://lh3.googleusercontent.com/d/1K7BoMhzfSQaBElfFprhjBxem8-SbLx3b",
-      "https://lh3.googleusercontent.com/d/10jkyRL2C_OjBoJCWFARzp9tRm5xnj2cc"
+      "/clubs/accelerate-club-rvce/images/HoneyWell.jpg",
+      "/clubs/accelerate-club-rvce/images/image1.jpeg"
     ],
     "events": [
       {
@@ -29,7 +26,7 @@
       }
     ],
     "division": "Computer Science, Software & AI",
-    "logo": "Accelerate"
+    "logo": "/clubs/accelerate-club-rvce/logo.jpeg"
   },
   {
     "id": "acm-rvce",
@@ -273,11 +270,8 @@
     "instagram": "@rvcedebsoc",
     "venue": "Reel Room, 4th Floor, New Library",
     "images": [
-      "https://lh3.googleusercontent.com/d/1E9zc3EWaOWGLAt-3b4IMozgebp2wWBqU",
-      "https://lh3.googleusercontent.com/d/1A-wMPI8bgpR9OpMHA6Hjx3AlywwHZBNj",
-      "https://lh3.googleusercontent.com/d/1zh5g8wpeVuMhbm-8o7NBaXDenaiEeZta",
-      "https://lh3.googleusercontent.com/d/1u-4lrXT9fvY6dWPGW6IQ1bzB03nFjp4r",
-      "https://lh3.googleusercontent.com/d/1CRsTW7hw7bdmDVvG6q-WpfnG9UDtiKV3"
+      "/clubs/debate-society/images/WhatsApp Image 2026-08-11 at 5.08.50 PM (1).jpeg",
+      "/clubs/debate-society/images/WhatsApp Image 2026-08-11 at 5.08.50 PM.jpeg"
     ],
     "events": [
       {
@@ -310,7 +304,7 @@
       }
     ],
     "division": "Literary, Quizzing & Public Speaking",
-    "logo": "https://lh3.googleusercontent.com/d/1nWKIhvyzmBGPyWBfsrbGn6z9XuUHoFqS"
+    "logo": "/clubs/debate-society/DebSoc Logo Dark.png"
   },
   {
     "id": "ecell",
@@ -579,11 +573,8 @@
     "instagram": "@ieee_rvce",
     "venue": "CSE - CRB - 001",
     "images": [
-      "https://lh3.googleusercontent.com/d/1E19zzxFCCM67ma07hHL9EGfzlu60RI50",
-      "https://lh3.googleusercontent.com/d/1f6lZpBG0ScGbHbRiQdqFHUNJ0V29560W",
-      "https://lh3.googleusercontent.com/d/1EP6afqhSeyKbVx9Hn-VIWvel6fiAkVYp",
-      "https://lh3.googleusercontent.com/d/1Y3BOOv0_ufubyDB-5rbJ0Le0CX8CcpDW",
-      "https://lh3.googleusercontent.com/d/1pXHj0Y0YfCef1EAmM6xjc3n0zl7gw-us"
+      "/clubs/ieee-rvce/images/CSITSS-2025.jpeg",
+      "/clubs/ieee-rvce/images/IMG_0821.jpg"
     ],
     "events": [
       {
@@ -616,7 +607,7 @@
       }
     ],
     "division": "Robotics, Electronics & Core Tech",
-    "logo": "IEEE - RVCE : Student Branch Chapter"
+    "logo": "/clubs/ieee-rvce/IEEE CLUB LOGO.jpg"
   },
   {
     "id": "kannada-carv",
@@ -1093,11 +1084,8 @@
     "instagram": "spark_rvce",
     "venue": "CE 205 : Department of Civil Engineering",
     "images": [
-      "https://lh3.googleusercontent.com/d/1rcfWRaMTw8G5geNEflCaYG8Q-mwkgxo2",
-      "https://lh3.googleusercontent.com/d/1S0D4TMfBHYMVWqS-r33NOgNSmEGFWY_L",
-      "https://lh3.googleusercontent.com/d/16cMxUIPdT1-HAvQU9A-lZPaNoVe5uasE",
-      "https://lh3.googleusercontent.com/d/1P1Yjd2WdH8t3yeOXtn9iS2VUD0mAslp8",
-      "https://lh3.googleusercontent.com/d/1MfzSS0sav-LyiPj1CdFLfXU2-zLKClqY"
+      "/clubs/spark-the-iucee-student-chapter/images/IASF.jpeg",
+      "/clubs/spark-the-iucee-student-chapter/images/MUN.jpg"
     ],
     "events": [
       {
@@ -1130,7 +1118,7 @@
       }
     ],
     "division": "Industry Connect and Interdisciplinary Engineering",
-    "logo": "https://lh3.googleusercontent.com/d/1Zj7vdEAYlf-RRr4SuAHvSgBeDQ4kGRYB"
+    "logo": "/clubs/spark-the-iucee-student-chapter/s.jpeg"
   },
   {
     "id": "team-antariksh",
@@ -1174,7 +1162,10 @@
     "email": "Varshini - 6364504658, Samyak - 7338392243",
     "instagram": "@astra_robotics",
     "venue": "MCA Seminar Hall",
-    "images": [],
+    "images": [
+      "/clubs/team-astra-robotics/images/WhatsApp Image 2026-08-11 at 17.56.53 (3).jpeg",
+      "/clubs/team-astra-robotics/images/WhatsApp Image 2026-08-11 at 17.56.53 (5).jpeg"
+    ],
     "events": [
       {
         "name": "ROS2 Intro and Rover Simulation on RViz",
@@ -1301,7 +1292,7 @@
         "detail": "Introduction to our club activities and roadmap for the year."
       }
     ],
-    "division": "Astronomy & Interdisciplinary Engineering"
+    "division": "Computer Science, Software & AI"
   },
   {
     "id": "team-dhruva",
@@ -1545,11 +1536,8 @@
     "instagram": "@tedxrvce_bengaluru",
     "venue": "The Reel Room",
     "images": [
-      "https://lh3.googleusercontent.com/d/1x4pU_2p3Y0ztFwKMAL-NGDZUnT__EPdq",
-      "https://lh3.googleusercontent.com/d/16JM5-Tpk4D1vBYXthQuBniZVdfAgm2bk",
-      "https://lh3.googleusercontent.com/d/1svcSywIxBlDXLw642S06auEa5Yo0WgU5",
-      "https://lh3.googleusercontent.com/d/1ghuYykuJwM4G-RPD6i18u1m2x4n7RMlf",
-      "https://lh3.googleusercontent.com/d/1z223iiHkECFbDj5Sw-SJwtq6YT_nqMdc"
+      "/clubs/tedxrvce/images/2.jpeg",
+      "/clubs/tedxrvce/images/Team pic.jpeg"
     ],
     "events": [
       {
@@ -1582,6 +1570,6 @@
       }
     ],
     "division": "Literary, Quizzing & Public Speaking",
-    "logo": "https://lh3.googleusercontent.com/d/181fBndtnKi4LEUym83yXCJnQ60V5UxOV"
+    "logo": "/clubs/tedxrvce/logo.jpeg"
   }
 ]

@@ -12,11 +12,8 @@
   "instagram": "spark_rvce",
   "venue": "CE 205 : Department of Civil Engineering",
   "images": [
-    "https://lh3.googleusercontent.com/d/1rcfWRaMTw8G5geNEflCaYG8Q-mwkgxo2",
-    "https://lh3.googleusercontent.com/d/1S0D4TMfBHYMVWqS-r33NOgNSmEGFWY_L",
-    "https://lh3.googleusercontent.com/d/16cMxUIPdT1-HAvQU9A-lZPaNoVe5uasE",
-    "https://lh3.googleusercontent.com/d/1P1Yjd2WdH8t3yeOXtn9iS2VUD0mAslp8",
-    "https://lh3.googleusercontent.com/d/1MfzSS0sav-LyiPj1CdFLfXU2-zLKClqY"
+    "/clubs/spark-the-iucee-student-chapter/images/IASF.jpeg",
+    "/clubs/spark-the-iucee-student-chapter/images/MUN.jpg"
   ],
   "events": [
     {
@@ -49,5 +46,5 @@
     }
   ],
   "division": "Industry Connect and Interdisciplinary Engineering",
-  "logo": "https://lh3.googleusercontent.com/d/1Zj7vdEAYlf-RRr4SuAHvSgBeDQ4kGRYB"
+  "logo": "/clubs/spark-the-iucee-student-chapter/s.jpeg"
 }

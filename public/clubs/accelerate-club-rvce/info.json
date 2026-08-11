@@ -12,11 +12,8 @@
   "instagram": "@ac_rvce",
   "venue": "Chemical Seminar Hall",
   "images": [
-    "https://lh3.googleusercontent.com/d/19D6_ftw2R7RtTVMI2NrG2aLJzArn3RHf",
-    "https://lh3.googleusercontent.com/d/1D_OHW4GdILTFEtfHI43ZrjJHK_Yl2o2m",
-    "https://lh3.googleusercontent.com/d/1afvuhUM1U-7525SJL9AwUv9us5b56M8C",
-    "https://lh3.googleusercontent.com/d/1K7BoMhzfSQaBElfFprhjBxem8-SbLx3b",
-    "https://lh3.googleusercontent.com/d/10jkyRL2C_OjBoJCWFARzp9tRm5xnj2cc"
+    "/clubs/accelerate-club-rvce/images/HoneyWell.jpg",
+    "/clubs/accelerate-club-rvce/images/image1.jpeg"
   ],
   "events": [
     {
@@ -28,5 +25,5 @@
     }
   ],
   "division": "Computer Science, Software & AI",
-  "logo": "Accelerate"
+  "logo": "/clubs/accelerate-club-rvce/logo.jpeg"
 }

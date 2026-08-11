@@ -12,11 +12,8 @@
   "instagram": "@ieee_rvce",
   "venue": "CSE - CRB - 001",
   "images": [
-    "https://lh3.googleusercontent.com/d/1E19zzxFCCM67ma07hHL9EGfzlu60RI50",
-    "https://lh3.googleusercontent.com/d/1f6lZpBG0ScGbHbRiQdqFHUNJ0V29560W",
-    "https://lh3.googleusercontent.com/d/1EP6afqhSeyKbVx9Hn-VIWvel6fiAkVYp",
-    "https://lh3.googleusercontent.com/d/1Y3BOOv0_ufubyDB-5rbJ0Le0CX8CcpDW",
-    "https://lh3.googleusercontent.com/d/1pXHj0Y0YfCef1EAmM6xjc3n0zl7gw-us"
+    "/clubs/ieee-rvce/images/CSITSS-2025.jpeg",
+    "/clubs/ieee-rvce/images/IMG_0821.jpg"
   ],
   "events": [
     {
@@ -49,5 +46,5 @@
     }
   ],
   "division": "Robotics, Electronics & Core Tech",
-  "logo": "IEEE - RVCE : Student Branch Chapter"
+  "logo": "/clubs/ieee-rvce/IEEE CLUB LOGO.jpg"
 }
