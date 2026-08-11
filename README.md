@@ -1,8 +1,8 @@
-# 🚀 RVCE Club Showcase & SIP Dashboard
+# 🚀 RVCE Club Showcase & SIP Dashboard (Release: `final_1`)
 
-A state-of-the-art, interactive web application built for **RV College of Engineering (RVCE)** to showcase all official student-led technical teams, research clubs, cultural societies, and interdisciplinary organizations. 
+A modern, interactive web application built for **RV College of Engineering (RVCE)** to showcase all official student-led technical teams, research clubs, cultural societies, and interdisciplinary organizations.
 
-Created specifically for the **Student Induction Programme (SIP)** and campus showcase days, this platform allows incoming freshers and students to discover, search, and connect with RVCE's vibrant club ecosystem.
+Created specifically for the **Student Induction Programme (SIP)** and campus showcase days, this platform allows incoming freshers and senior students to discover, search, and connect with RVCE's vibrant club ecosystem.
 
 ---
 
@@ -12,7 +12,7 @@ The **RVCE Club Showcase** serves as the central digital portal for exploring 34
 
 ### Key Capabilities & Features
 
-- 🏆 **8 Specialized Divisions**: Clubs are grouped into curated domain divisions:
+- 🏆 **Domain Divisions**: Clubs are grouped into curated domain divisions:
   - 🏎️ **Racing & Automotive** (*FSAE, BAJA Motorsport & Hybrid prototypes*)
   - 💻 **Computer Science, Software & AI** (*ACM, GDG, Coding Club, Team Dhi, WiC*)
   - 🚀 **Space, Drone & Aerospace** (*Project Jatayu, Team Vyoma, Team Antariksh, Team Dhruva*)
@@ -23,20 +23,20 @@ The **RVCE Club Showcase** serves as the central digital portal for exploring 34
   - 🎙️ **Literary, Quizzing & Public Speaking** (*Quizcorp, Debate Society, TEDxRVCE, Rotaract, E-Cell, NSS*)
 
 - 🔍 **Instant Live Search & Filtering**: Fast, responsive search across club names, descriptions, and categories (`Technical` vs. `Non-Technical`).
-- 🎲 **"Surprise Me" Club Discovery**: An interactive randomizer that introduces students to new clubs at the click of a button.
-- 📌 **Comprehensive Club Profiles**:
+- 🎲 **"Shuffle" Randomizer**: Interactive discovery button to shuffle and explore clubs randomly.
+- 📌 **Comprehensive Club Profiles & Modals**:
   - Detailed club background, vision, and domain breakdown.
   - Student lead contact information and official college email addresses.
   - Social media integration (Instagram handles & direct links).
   - High-resolution club logos & interactive image galleries.
-- 📅 **Showcase Event Timetable**: Complete schedules for Day 1 (Aug 28) and Day 2 (Aug 29) showcase activities, complete with venues (e.g., Seminar Halls, Dept Labs), times, and step-by-step event descriptions.
+- 📅 **Showcase Event Timetable**: Complete schedules for Day 1 (Aug 28) and Day 2 (Aug 29) showcase activities, complete with venues, times, and detailed event descriptions (e.g. SPARK's Mission Impossible, Digital Launchpad, Stations of an Innovator, Decode.exe).
 
 ---
 
 ## 🛠️ Technology Stack
 
-- **Framework**: [Next.js 14 / 16](https://nextjs.org/) (React & App Router)
-- **Styling**: Modern CSS with glassmorphism, gradient accents, and micro-animations
+- **Framework**: [Next.js](https://nextjs.org/) (React & App Router)
+- **Styling**: Vanilla CSS with modern glassmorphism, gradient accents, and micro-animations
 - **Icons**: [Lucide React](https://lucide.dev/)
 - **Data Management**: Structured JSON (`data/clubs.json` & `public/clubs/*/info.json`)
 - **Automation Utilities**: Python scripts for Google Form CSV importing & asset synchronization
