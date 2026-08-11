@@ -142,8 +142,7 @@ function ClubMark({ club, large = false }: { club: Club; large?: boolean }) {
           style={{ 
             width: '100%', 
             height: '100%', 
-            objectFit: 'contain',
-            padding: large ? '10px' : '6px'
+            objectFit: 'cover'
           }} 
         />
       ) : (
