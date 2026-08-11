@@ -121,20 +121,29 @@ export const DIVISION_META: { [key: string]: DivisionMeta } = {
 }
 
 function ClubMark({ club, large = false }: { club: Club; large?: boolean }) {
+  const [hasError, setHasError] = useState(false)
+  const showLogo = club.logo && !hasError
+
   return (
     <div
       aria-hidden="true"
-      className={`club-mark ${large ? 'club-mark-large' : ''}`}
-      style={{ '--club-color': club.color, '--club-accent': club.accent } as React.CSSProperties}
+      className={`club-mark ${large ? 'club-mark-large' : ''} ${showLogo ? 'club-mark-has-logo' : ''}`}
+      style={{ 
+        '--club-color': club.color, 
+        '--club-accent': club.accent,
+        ...(showLogo ? { background: '#ffffff', borderColor: 'rgba(0,0,0,0.08)' } : {})
+      } as React.CSSProperties}
     >
-      {club.logo ? (
+      {showLogo ? (
         <img 
           src={club.logo} 
           alt={`${club.shortName} logo`} 
+          onError={() => setHasError(true)}
           style={{ 
             width: '100%', 
             height: '100%', 
-            objectFit: 'cover'
+            objectFit: 'contain',
+            padding: large ? '10px' : '6px'
           }} 
         />
       ) : (
