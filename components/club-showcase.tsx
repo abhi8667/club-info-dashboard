@@ -153,11 +153,41 @@ function ClubMark({ club, large = false }: { club: Club; large?: boolean }) {
 }
 
 function ClubCard({ club, onOpen }: { club: Club; onOpen: (club: Club) => void }) {
+  const isMissingLogo = !club.logo || club.logo.includes('lh3.googleusercontent.com')
+  const isMissingImages = !club.images || club.images.length === 0 || club.images.some(img => img.includes('lh3.googleusercontent.com'))
+  const isGenericDesc = !club.description || club.description.includes('Welcome to')
+  const isMissingInfo = isMissingLogo || isMissingImages || isGenericDesc
+
   return (
-    <button className="club-card" onClick={() => onOpen(club)} type="button" aria-label={`View ${club.name}`}>
+    <button 
+      className={`club-card ${isMissingInfo ? 'club-card-missing-info' : ''}`} 
+      onClick={() => onOpen(club)} 
+      type="button" 
+      aria-label={`View ${club.name}`}
+      style={isMissingInfo ? {
+        border: '2px solid #ef4444',
+        boxShadow: '0 0 12px rgba(239, 68, 68, 0.18)',
+        position: 'relative'
+      } : {}}
+    >
       <div className="club-card-top">
         <ClubMark club={club} />
-        <ArrowUpRight className="club-arrow" aria-hidden="true" />
+        {isMissingInfo ? (
+          <span style={{ 
+            background: '#ef4444', 
+            color: '#ffffff', 
+            fontSize: '9px', 
+            fontWeight: 800, 
+            padding: '3px 8px', 
+            borderRadius: '10px', 
+            textTransform: 'uppercase',
+            letterSpacing: '0.04em' 
+          }}>
+            Missing Info
+          </span>
+        ) : (
+          <ArrowUpRight className="club-arrow" aria-hidden="true" />
+        )}
       </div>
       <div className="club-card-copy">
         <span className="club-card-category">{club.division}</span>
