@@ -11,13 +11,7 @@
   "email": "Varshini - 6364504658, Samyak - 7338392243",
   "instagram": "@astra_robotics",
   "venue": "MCA Seminar Hall",
-  "images": [
-    "https://lh3.googleusercontent.com/d/1GqQIr7eVkbsfS7vW9gXG_gmcyk2wMaII",
-    "https://lh3.googleusercontent.com/d/1kk0bLlOxBcJgfVSMC-F2nbrEsJpYvLEr",
-    "https://lh3.googleusercontent.com/d/17mEW1TfSrkE98Rnt6jcbP4zXLRmzWdOS",
-    "https://lh3.googleusercontent.com/d/1NsggPL6t7whHGrrZMWAekKQIpox6HHB1",
-    "https://lh3.googleusercontent.com/d/1ryoyQ2-KcCaocFRa610dmD-FnX_T3K6J"
-  ],
+  "images": [],
   "events": [
     {
       "name": "ROS2 Intro and Rover Simulation on RViz",
@@ -49,5 +43,5 @@
     }
   ],
   "division": "Robotics, Electronics & Core Tech",
-  "logo": "/clubs/team-astra-robotics/Astra_logo.jpeg"
+  "logo": ""
 }
