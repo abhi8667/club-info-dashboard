@@ -160,104 +160,6 @@
     "division": "Racing & Automotive"
   },
   {
-    "id": "carv-english",
-    "name": "CARV English",
-    "shortName": "CE",
-    "category": "Non-Technical",
-    "description": "Welcome to CARV English! We are a dynamic community of students passionate about our field. Join us to explore, learn, and grow through our various activities and projects.",
-    "color": "#dce0f7",
-    "accent": "#4d548c",
-    "symbol": "E",
-    "lead": "Student Lead",
-    "email": "contact@ce.rvce.edu.in",
-    "instagram": "@ce_rvce",
-    "venue": "Seminar Hall",
-    "images": [
-      "https://picsum.photos/seed/CE1/800/400",
-      "https://picsum.photos/seed/CE2/800/400"
-    ],
-    "events": [
-      {
-        "name": "ACT-ivites",
-        "detail": "1. Omg, block them :)) : Learn how to move on stage for maximum visibility, audience connection, and interaction with co-actors. 2. Collisions : Fun group activity to help actors navigate space and avoid “accidental collisions” while acting in scenes. 3. Hold your breath! : Breathing techniques, diaphragm control, and diction exercises. 4. How to dispose a body (on stage) : Awareness exercises to help actors understand their body’s range and how to use it expressively",
-        "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
-      },
-      {
-        "name": "Writer’s Purgatory",
-        "detail": "1. Mad Libs Gone Wild: You get a half-written script. But it’s got blanks... and you fill them in. The twist? The wackier your words, the better the scene. 2. Ay, Pass the story man : One participant starts with a line, and each person adds to it, creating an unpredictable plot. 3. Writing for theatre – Quick session on pacing, character depth, and dialogue flow.",
-        "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
-      },
-      {
-        "name": "The Big Backstage Story",
-        "detail": "1. Stage Setting Challenge – A scenario is given and teams design the set, decide prop placement, and present their vision. Prop & Costume Planning – Brainstorm and sketch how props could be made. Origami Souvenir – Make a simple origami (butterfly/ heart with the paper given for scriptwriting) that participants can take home as a keepsake. CARV English is one of the premier acting clubs in RVCE, was founded in 2001 , and continues to have a glorious history of actors and plays since then. We have been winners at premier national fests conducted at NIT Trichy , NIT Surathkal and IIT- Madras, and at various local competitions in Bangalore such as Manipal and NIMHANS. We conduct two flagship events: Coliseum and Productions, where original plays go up on stage, open to the public. CARV English is not just an acting club, its a place where you truly find yourself as you navigate through 4 years of engineering, a place which you can call home away from home. Come, enjoy the joys of theatre at CARV English. Follow us on: Instagram and Youtube CARV ENGLISH ISE SEMINAR HALL",
-        "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
-      },
-      {
-        "name": "Follow us on: Instagram and Youtube",
-        "detail": "",
-        "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
-      },
-      {
-        "name": "The Big Backstage Story",
-        "detail": "Stage Setting Challenge – A scenario is given and teams design the set, decide prop placement, and present their vision. Prop & Costume Planning – Brainstorm and sketch how props could be made. Origami Souvenir – Make a simple origami (butterfly/ heart with the paper given for scriptwriting) that participants can take home as a keepsake.",
-        "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
-      },
-      {
-        "name": "Writer’s Purgatory",
-        "detail": "1. Mad Libs Gone Wild: You get a half-written script. But it’s got blanks... and you fill them in. The twist? The wackier your words, the better the scene. 2. Ay, Pass the story man : One participant starts with a line, and each person adds to it, creating an unpredictable plot. 3. Writing for theatre – Quick session on pacing, character depth, and dialogue flow.",
-        "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
-      },
-      {
-        "name": "ACT-ivites",
-        "detail": "1. Omg, block them :)) : Learn how to move on stage for maximum visibility, audience connection, and interaction with co-actors. 2. Collisions : Fun group activity to help actors navigate space and avoid “accidental collisions” while acting in scenes. 3. Hold your breath! : Breathing techniques, diaphragm control, and diction exercises. 4. How to dispose a body (on stage) : Awareness exercises to help actors understand their body’s range and how to use it expressively",
-        "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
-      },
-      {
-        "name": "IEM - Improv,",
-        "detail": "Expressions and Mime ( not the dept.) 1. Do you have mood swings too? : Actors practice different emotions (joy, fear, sadness, anger) using both facial expressions and vocal tone. 2. An improverisation (by Michael G Scott) : Random prompts given; participants must create short, fun unscripted performances. 3. It’s Mime time to shine– Perform silent scenes; audience guesses the exact scenario.",
-        "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
-      },
-      {
-        "name": "1-Minute Ad Film Challenge",
-        "detail": "“Form a team, get a random theme, and create a short film in just one minute! This fast-paced challenge is all about creativity, teamwork, and having fun while experimenting with filmmaking. No experience needed—just your ideas and energy!”",
-        "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
-      },
-      {
-        "name": "Through My Lens” Vlog Challenge",
-        "detail": "Showcase your day through the lens of your camera! Capture moments, moods, and stories of today and turn them into a creative vlog. This is all about expressing your personality and storytelling style.",
-        "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
-      },
-      {
-        "name": "CiNEPHILE CIRCLE",
-        "detail": "A fun discussion on how movies tell stories beyond dialogues—exploring scenes, narratives, and how emotions are built through visuals and characters, from cult classics to pop- culture favorites.",
-        "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
-      }
-    ],
-    "division": "Cultural, Dramatics & Music"
-  },
-  {
     "id": "carv-hindi",
     "name": "CARV Hindi",
     "shortName": "CH",
@@ -577,8 +479,8 @@
     "instagram": "@gdg_rvce",
     "venue": "ISE Seminar Hall",
     "images": [
-      "https://lh3.googleusercontent.com/d/1GOtSIXEGS0ZrAE8p-jPd0KzXKH7es5PN",
-      "https://lh3.googleusercontent.com/d/1oQaoneJyKQo3I1Y3qBofSi7i3MBFtGcv"
+      "/clubs/gdg-rvce/images/gdg pic-1.jpeg",
+      "/clubs/gdg-rvce/images/gdg pic-2.jpeg"
     ],
     "events": [
       {
@@ -868,59 +770,6 @@
     ],
     "division": "Regional, Social Service & Youth Leadership",
     "logo": "https://lh3.googleusercontent.com/d/1OjNXBCt9TJ6Ei3mIgQsmDAjtXMsb_HiG"
-  },
-  {
-    "id": "project-garuda",
-    "name": "Project Garuda",
-    "shortName": "PG",
-    "category": "Technical",
-    "description": "Project Jatayu designs & develops Autonomous Unmanned Aerial Vehicles (UAVs). Founded in 2009 by six RVCE students it was one of India's first student-led UAV teams. We aim to create intelligent, autonomous drones. We leverage new cutting-edge technology to address real-world challenges.We build autonomous systems for real-world applications , develop embedded electronics, custom PCB solutions and integrate AI & Computer Vision into UAV platforms.We also perform simulation, structural analysis and experimental validation along with  participating in college-level and  national competitions.",
-    "color": "#d9f0df",
-    "accent": "#2b6541",
-    "symbol": "G",
-    "lead": "Student Lead",
-    "email": "9148388014",
-    "instagram": "projectjatayu",
-    "venue": "AS002",
-    "images": [
-      "https://lh3.googleusercontent.com/d/1AElpYpJJgYSUFa1CmOgjVczRdKjrF4Pn",
-      "https://lh3.googleusercontent.com/d/1UXzRu44p7MAtOLKd1HpbPbDLXtLlFJkr",
-      "https://lh3.googleusercontent.com/d/1cAZYxNu74AIN9Va4BY96g1YljvQ5WJP5",
-      "https://lh3.googleusercontent.com/d/1z9VSFEicUMdoVZLe5Zk9GWNzd-wvO-36",
-      "https://lh3.googleusercontent.com/d/1SylVMbjBBy4bn7XgmvbxuM9O13o81wQi"
-    ],
-    "events": [
-      {
-        "name": "Drone Assembly/Disassembly",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "AS002",
-        "detail": "Get hands-on with drone hardware by assembling and disassembling a quadcopter. Learn the purpose of key components such as the flight controller, ESCs, motors, propellers, and battery while testing your speed, precision, and technical understanding."
-      },
-      {
-        "name": "Piloting",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "AS002",
-        "detail": "Experience the thrill of flying a drone through a realistic flight simulator. Navigate checkpoints, avoid obstacles, and master basic flight controls in a safe virtual environment that introduces the fundamentals of drone piloting."
-      },
-      {
-        "name": "Drone Escape Room",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "AS002",
-        "detail": "Work as a team to solve a series of drone-themed puzzles and challenges before time runs out. Decode clues, identify components, complete mini assembly tasks, and overcome interactive obstacles to unlock your way to the final mission"
-      },
-      {
-        "name": "Drone Passport",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "AS002",
-        "detail": "Embark on a drone exploration journey by collecting stamps from a variety of interactive stations. From quizzes and simulator flights to FPV demonstrations, computer vision showcases, and hands-on activities, each station offers a unique glimpse into the world of drones and UAV technology."
-      }
-    ],
-    "division": "Racing & Automotive",
-    "logo": "https://lh3.googleusercontent.com/d/1yZnLEkobZzaWHfOwvafWsaz2HOIhMIuo"
   },
   {
     "id": "project-jatayu",
@@ -1284,55 +1133,6 @@
     "logo": "https://lh3.googleusercontent.com/d/1Zj7vdEAYlf-RRr4SuAHvSgBeDQ4kGRYB"
   },
   {
-    "id": "studio-zero",
-    "name": "Studio Zero",
-    "shortName": "SZ",
-    "category": "Non-Technical",
-    "description": "Welcome to STUDIO ZERO, RVCE's filmmaking club! We're a passionate community of movie enthusiasts who bring stories to life through collaborative filmmaking. Whether you're interested in acting, directing, cinematography, editing, music composition, or any other aspect of film production, there's a place for you here.",
-    "color": "#d9e9ed",
-    "accent": "#2f616c",
-    "symbol": "0",
-    "lead": "Student Lead",
-    "email": "contact@sz.rvce.edu.in",
-    "instagram": "@sz_rvce",
-    "venue": "Seminar Hall",
-    "images": [
-      "https://picsum.photos/seed/SZ1/800/400",
-      "https://picsum.photos/seed/SZ2/800/400"
-    ],
-    "events": [
-      {
-        "name": "From LeNS TO CUt",
-        "detail": "A peek into the filmmaking process — from capturing shots to editing them into something cinematic. Learn how framing, camera angles, and edits transform raw footage into a story. . Welcome to STUDIO ZERO, RVCE's filmmaking club! We're a passionate community of movie enthusiasts who bring stories to life through collaborative filmmaking. Whether you're interested in acting, directing, cinematography, editing, music composition, or any other aspect of film production, there's a place for you here. “Stories Unveiled, Films Crafted”",
-        "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
-      },
-      {
-        "name": "Endless Juggle - Don’t Drop It!",
-        "detail": "Think you’ve got balance and focus? Time to prove it! Keep the bat, ball, and football going endlessly—drop it, and you’re out. Simple? Wait till you try it.",
-        "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
-      },
-      {
-        "name": "Ask Seniors Anything - NO Filter",
-        "detail": "All Answers Your chance to spill those burning questions—anonymously! From college hacks to untold stories, our seniors are here to answer it all, straight and unfiltered.",
-        "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
-      },
-      {
-        "name": "RAAG Presents Open Mic-Your",
-        "detail": "Stage. Your Vibe. The spotlight’s yours—sing, rap, recite, or just grab the mic and vibe. Whether you’re performing or cheering, it’s going to be an evening of raw talent and pure energy.",
-        "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
-      }
-    ],
-    "division": "Cultural, Dramatics & Music"
-  },
-  {
     "id": "team-antariksh",
     "name": "Team Antariksh",
     "shortName": "TA",
@@ -1608,55 +1408,6 @@
     ],
     "division": "Robotics, Electronics & Core Tech",
     "logo": "/clubs/team-elektra/ELEKTRA LIGHT THEME LOGO MAIN.png"
-  },
-  {
-    "id": "team-frequency",
-    "name": "Team Frequency",
-    "shortName": "TF",
-    "category": "Technical",
-    "description": "We are the “To Be Engineers” — dreamers, builders, and problem-solvers on a mission to turn bold ideas into real-world impact. At Frequency Club, we don’t just talk about the future, we create it — exploring AI, Machine Learning, AR/VR, IoT, Robotics, Automation, and beyond. From tackling everyday challenges to shaping industry breakthroughs, we’re where curiosity meets technology, and passion sparks innovation. If you can imagine it, we’ll engineer it.",
-    "color": "#ffe3b8",
-    "accent": "#85521c",
-    "symbol": "F",
-    "lead": "Student Lead",
-    "email": "contact@tf.rvce.edu.in",
-    "instagram": "@tf_rvce",
-    "venue": "Seminar Hall",
-    "images": [
-      "https://picsum.photos/seed/TF1/800/400",
-      "https://picsum.photos/seed/TF2/800/400"
-    ],
-    "events": [
-      {
-        "name": "11:15 AM TO 12:15 PM",
-        "detail": "PROMPT TO PRODUCT In this session, you’ll learn to craft effective prompts and watch them bring a fully responsive, functional web app to life — all within 90 minutes. No prior coding experience needed! We are the “To Be Engineers” — dreamers, builders, and problem-solvers on a mission to turn bold ideas into real-world impact. At Frequency Club , we don’t just talk about the future, we create it — exploring AI, Machine Learning, AR/VR, IoT, Robotics, Automation , and beyond. From tackling everyday challenges to shaping industry breakthroughs, we’re where curiosity meets technology, and passion sparks innovation. If you can imagine it, we’ll engineer it.",
-        "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
-      },
-      {
-        "name": "Squid Game",
-        "detail": "Gamification of technical skills of participants to showcase their talent.",
-        "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
-      },
-      {
-        "name": "Frontend Foundation",
-        "detail": "Your first step into Web Dev , a beginner friendly workshop to build your first interactive web pages.",
-        "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
-      },
-      {
-        "name": "CTRL+ Survive-The final round",
-        "detail": "part two of the squid game saga with all new games and unexpected twist",
-        "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
-      }
-    ],
-    "division": "Computer Science, Software & AI"
   },
   {
     "id": "team-helios-racing",
