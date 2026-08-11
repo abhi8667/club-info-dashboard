@@ -12,11 +12,8 @@
   "instagram": "projectjatayu",
   "venue": "AS002",
   "images": [
-    "https://lh3.googleusercontent.com/d/1AElpYpJJgYSUFa1CmOgjVczRdKjrF4Pn",
-    "https://lh3.googleusercontent.com/d/1UXzRu44p7MAtOLKd1HpbPbDLXtLlFJkr",
-    "https://lh3.googleusercontent.com/d/1cAZYxNu74AIN9Va4BY96g1YljvQ5WJP5",
-    "https://lh3.googleusercontent.com/d/1z9VSFEicUMdoVZLe5Zk9GWNzd-wvO-36",
-    "https://lh3.googleusercontent.com/d/1SylVMbjBBy4bn7XgmvbxuM9O13o81wQi"
+    "/clubs/project-jatayu/images/med assistance drone.jpeg",
+    "/clubs/project-jatayu/images/naval academy.jpeg"
   ],
   "events": [
     {
@@ -49,5 +46,5 @@
     }
   ],
   "division": "Space, Drone & Aerospace",
-  "logo": "https://lh3.googleusercontent.com/d/1yZnLEkobZzaWHfOwvafWsaz2HOIhMIuo"
+  "logo": "/clubs/project-jatayu/logo.jpeg"
 }

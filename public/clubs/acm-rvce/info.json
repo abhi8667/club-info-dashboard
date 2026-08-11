@@ -12,8 +12,8 @@
   "instagram": "@acm.rvce",
   "venue": "BT Seminar Hall (BioTech Department Seminar Hall)",
   "images": [
-    "https://lh3.googleusercontent.com/d/1ZSaL35MO0wGHwlKDVVRq56ZSD3LycETi",
-    "https://lh3.googleusercontent.com/d/1Hzvnj_lPrjQeaQpb_4SAx4PpMBhgDdeD"
+    "/clubs/acm-rvce/images/gbm.jpg",
+    "/clubs/acm-rvce/images/hackathon.jpg"
   ],
   "events": [
     {
@@ -46,5 +46,5 @@
     }
   ],
   "division": "Computer Science, Software & AI",
-  "logo": "https://lh3.googleusercontent.com/d/1QcTx8BjVSNrQEr8BOegQYL79cB2fvUoU"
+  "logo": "/clubs/acm-rvce/image.png"
 }

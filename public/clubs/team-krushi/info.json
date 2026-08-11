@@ -12,11 +12,8 @@
   "instagram": "@teamkrushi",
   "venue": "EE Classroom",
   "images": [
-    "https://lh3.googleusercontent.com/d/18MOtkRsJ1_FbHzFlvVdQxRLluQL-EpSY",
-    "https://lh3.googleusercontent.com/d/1SP6kwdv9iEVr-vlYLP0gwXbXEbeZAdgA",
-    "https://lh3.googleusercontent.com/d/1KcuvbEDshVDbRRFRUTVtqVe1Msab7_eC",
-    "https://lh3.googleusercontent.com/d/1DgJ7HnBzmfiCq46oyF9MXbLb576fkegY",
-    "https://lh3.googleusercontent.com/d/1hDYZvL5YJQhizUE0LsJcvIc1cZowhq-i"
+    "/clubs/team-krushi/images/3.jpg",
+    "/clubs/team-krushi/images/5.jpg"
   ],
   "events": [
     {
@@ -49,5 +46,5 @@
     }
   ],
   "division": "Astronomy & Interdisciplinary Engineering",
-  "logo": "https://lh3.googleusercontent.com/d/1XBsJlVO-koH-CrtFpX45lsT8AiXvryqh"
+  "logo": "/clubs/team-krushi/krushi.logo (2).png"
 }

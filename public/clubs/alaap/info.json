@@ -12,11 +12,8 @@
   "instagram": "@alaap_rvce",
   "venue": "Civil Seminar Hall",
   "images": [
-    "https://lh3.googleusercontent.com/d/19MRlzvDUuaZXvGsYc1OyI6Vza0VY91zV",
-    "https://lh3.googleusercontent.com/d/18xaXwYpeN8FP60rphWTM2f99Fw2TqzpQ",
-    "https://lh3.googleusercontent.com/d/1a4IwOy2LXsUicmPotwadPXH2cKGiKLOI",
-    "https://lh3.googleusercontent.com/d/1Hcx7g95LzXScNuLNpRbqRRd-WJyMMuyW",
-    "https://lh3.googleusercontent.com/d/1CzpbINWuDOiHogY8kpJ-xLM6a9qUnHaw"
+    "/clubs/alaap/images/dastaan mood indigo.jpg",
+    "/clubs/alaap/images/take 1.62.jpg"
   ],
   "events": [
     {
@@ -49,5 +46,5 @@
     }
   ],
   "division": "Cultural, Dramatics & Music",
-  "logo": "https://lh3.googleusercontent.com/d/1n2dobUbTELiAEktH1bsCrutlUGzMmqiH"
+  "logo": "/clubs/alaap/alaap logo.jpeg"
 }

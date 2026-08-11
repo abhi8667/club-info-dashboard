@@ -12,11 +12,8 @@
   "instagram": "rvcehamclub",
   "venue": "BT Quadrangle",
   "images": [
-    "https://lh3.googleusercontent.com/d/14VUI-QmI9iY3_fueTimGROehhPQ5YsAL",
-    "https://lh3.googleusercontent.com/d/1NghsV5PP5mTrqr6Wr11AWJzRwQgtEQ8r",
-    "https://lh3.googleusercontent.com/d/1Y3Mc5lzgFXmHNAwEYi8utrJ2oQ0SDOqr",
-    "https://lh3.googleusercontent.com/d/1YF5UCNsUqgTpwgcbDLoA93Q8Srg3BqwG",
-    "https://lh3.googleusercontent.com/d/1FObCVI5SEta70p0WBQq25YhMhCDeJ3Ph"
+    "/clubs/ham-club/images/AnnualWorkshop.png",
+    "/clubs/ham-club/images/Building_antenna.png"
   ],
   "events": [
     {
@@ -49,5 +46,5 @@
     }
   ],
   "division": "Robotics, Electronics & Core Tech",
-  "logo": "https://lh3.googleusercontent.com/d/1ALdNbCBPLO23vDFx-bWHEI4qPhsQosYM"
+  "logo": "/clubs/ham-club/HAM_logo.png"
 }

@@ -12,10 +12,8 @@
   "instagram": "@codingclubrvce",
   "venue": "Civil Seminar Hall",
   "images": [
-    "https://lh3.googleusercontent.com/d/1JZfKzhJx95A1eECsQIryTb_O2-xhxDu9",
-    "https://lh3.googleusercontent.com/d/1l7bvZ4567BA-RLuEXVLM6cL_gXCHKN1F",
-    "https://lh3.googleusercontent.com/d/1g-v56-0sHoMtIRwQUYn0iaNwJuMm7zze",
-    "https://lh3.googleusercontent.com/d/18y9LIeDUd5vMtZ9IJ58VQ2wSB9eEFyBu"
+    "/clubs/coding-club-rvce/images/event.jpg",
+    "/clubs/coding-club-rvce/images/image(1)(2).png"
   ],
   "events": [
     {
@@ -48,5 +46,5 @@
     }
   ],
   "division": "Computer Science, Software & AI",
-  "logo": "https://lh3.googleusercontent.com/d/10d7_LoH5jAvFuO5lhz78FVYGZyQPIB1L"
+  "logo": "/clubs/coding-club-rvce/cc logo.png"
 }

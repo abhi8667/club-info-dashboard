@@ -12,8 +12,8 @@
   "instagram": "@ta_rvce",
   "venue": "Seminar Hall",
   "images": [
-    "https://picsum.photos/seed/TA1/800/400",
-    "https://picsum.photos/seed/TA2/800/400"
+    "/clubs/team-antariksh/images/TA 2024 Mingos Banner (Long) (190x65cm) (Orange) (1).png",
+    "/clubs/team-antariksh/images/WhatsApp Image 2026-02-01 at 12.31.46 PM.jpeg"
   ],
   "events": [
     {
@@ -24,5 +24,6 @@
       "detail": "Introduction to our club activities and roadmap for the year."
     }
   ],
-  "division": "Space, Drone & Aerospace"
+  "division": "Space, Drone & Aerospace",
+  "logo": "/clubs/team-antariksh/Copy of Full TA logo.png"
 }

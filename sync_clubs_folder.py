@@ -27,18 +27,28 @@ def sync():
             print(f"Error reading {info_path}: {e}")
             continue
 
-        # Check for local logo image file (logo.png, logo.jpg, logo.jpeg, logo.svg)
+        # 1. Check for local logo image file
         logo_file = None
+        # First preference: explicit 'logo.*'
         for ext in ['logo.png', 'logo.jpg', 'logo.jpeg', 'logo.svg', 'logo.webp']:
             candidate = os.path.join(club_dir, ext)
             if os.path.exists(candidate):
                 logo_file = f"/clubs/{item}/{ext}"
                 break
 
+        # Second preference: any image file in root of club_dir (ignoring info.json and subfolders)
+        if not logo_file:
+            for fname in sorted(os.listdir(club_dir)):
+                if fname.lower() != 'info.json' and fname.lower().endswith(('.png', '.jpg', '.jpeg', '.webp', '.gif', '.svg')):
+                    full_p = os.path.join(club_dir, fname)
+                    if os.path.isfile(full_p):
+                        logo_file = f"/clubs/{item}/{fname}"
+                        break
+
         if logo_file:
             club_data['logo'] = logo_file
 
-        # Check for images inside images/ folder
+        # 2. Check for images inside images/ folder
         img_dir = os.path.join(club_dir, 'images')
         if os.path.exists(img_dir) and os.path.isdir(img_dir):
             local_imgs = []
@@ -47,6 +57,13 @@ def sync():
                     local_imgs.append(f"/clubs/{item}/images/{fname}")
             if local_imgs:
                 club_data['images'] = local_imgs
+
+        # Save back to public/clubs/{item}/info.json to keep both in sync
+        try:
+            with open(info_path, 'w', encoding='utf-8') as f:
+                json.dump(club_data, f, indent=2, ensure_ascii=False)
+        except Exception as e:
+            print(f"Error writing {info_path}: {e}")
 
         clubs.append(club_data)
 

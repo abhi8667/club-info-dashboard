@@ -12,8 +12,8 @@
   "instagram": "@teamelektra_rvce",
   "venue": "DTH",
   "images": [
-    "https://lh3.googleusercontent.com/d/1FSkwQP_U9MMyEoGFhPtzio5ApBNaZwGs",
-    "https://lh3.googleusercontent.com/d/11XXPQOz2nugaEvYE69zhuz-ePZB3zPTt"
+    "/clubs/team-elektra/images/car.png",
+    "/clubs/team-elektra/images/image_2026-07-15_210253823-removebg-preview.png"
   ],
   "events": [
     {
@@ -46,5 +46,5 @@
     }
   ],
   "division": "Robotics, Electronics & Core Tech",
-  "logo": "https://lh3.googleusercontent.com/d/1QgVkrUv-tIsM_bmJFW9I6L2GtytJDUiM"
+  "logo": "/clubs/team-elektra/ELEKTRA LIGHT THEME LOGO MAIN.png"
 }

@@ -12,8 +12,8 @@
   "instagram": "@rvquizcorp",
   "venue": "ISE Classroom",
   "images": [
-    "https://lh3.googleusercontent.com/d/1TWp0VSpZ8M8wFPRnG2cHRkIKl00cAWm8",
-    "https://lh3.googleusercontent.com/d/1Uebr-94Ig304VW2mSt131Z_wkqaik3nW"
+    "/clubs/quizcorp/images/1000099216.png",
+    "/clubs/quizcorp/images/1000099217.png"
   ],
   "events": [
     {
@@ -46,5 +46,5 @@
     }
   ],
   "division": "Literary, Quizzing & Public Speaking",
-  "logo": "https://lh3.googleusercontent.com/d/16KWSb2CjSmP-4DfUCNFZxsXKhy2rqOsk"
+  "logo": "/clubs/quizcorp/1000099218.png"
 }

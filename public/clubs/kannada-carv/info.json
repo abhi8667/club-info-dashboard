@@ -12,11 +12,8 @@
   "instagram": "@kannadacarv",
   "venue": "Bio tech seminar hall",
   "images": [
-    "https://lh3.googleusercontent.com/d/1Nim7XGV5VTTle-Zcq2mYY9f7q2BxWK0x",
-    "https://lh3.googleusercontent.com/d/1AhySGUR6cAM2-FPFZjGZg8A4toc8eUfJ",
-    "https://lh3.googleusercontent.com/d/1b2XxD4b34gv8cXfEmRmzOBhEpFSgiExB",
-    "https://lh3.googleusercontent.com/d/1kuKDOAYfivXuMOQg0R3hmPVF6W5FdMR5",
-    "https://lh3.googleusercontent.com/d/1ypplsv8quHtAfqdjRJAkBicbX0I2u7zk"
+    "/clubs/kannada-carv/images/1000374744.png",
+    "/clubs/kannada-carv/images/1000374748.png"
   ],
   "events": [
     {
@@ -49,5 +46,5 @@
     }
   ],
   "division": "Cultural, Dramatics & Music",
-  "logo": "https://lh3.googleusercontent.com/d/1SwPEEdqbLW41p3FowxoeTQ4flA8DMKMy"
+  "logo": "/clubs/kannada-carv/logo.png"
 }

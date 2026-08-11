@@ -12,8 +12,8 @@
   "instagram": "@teamheliosracing",
   "venue": "Seminar Hall",
   "images": [
-    "https://lh3.googleusercontent.com/d/1u2F3M2Q0Emx0Plh7Axokrd_A0MMbEXla",
-    "https://lh3.googleusercontent.com/d/1oLsa1fZ6PiDxyJxyU-8ooFoSdjemLIWV"
+    "/clubs/team-helios-racing/images/1769338293778.jpeg",
+    "/clubs/team-helios-racing/images/497c3a79-49c5-4824-b138-67ec123dc71b.jpeg"
   ],
   "events": [
     {
@@ -46,5 +46,5 @@
     }
   ],
   "division": "Racing & Automotive",
-  "logo": "https://lh3.googleusercontent.com/d/1k3bBu0EnqYWzKFCQnpbJy87M6Q2gF01_"
+  "logo": "/clubs/team-helios-racing/logo.png"
 }
