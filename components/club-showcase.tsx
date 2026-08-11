@@ -131,7 +131,12 @@ function ClubMark({ club, large = false }: { club: Club; large?: boolean }) {
         <img 
           src={club.logo} 
           alt={`${club.shortName} logo`} 
-          style={{ width: '100%', height: '100%', objectFit: 'cover' }} 
+          style={{ 
+            width: '100%', 
+            height: '100%', 
+            objectFit: 'contain',
+            padding: large ? '12px' : '6px'
+          }} 
         />
       ) : (
         <span>{club.symbol}</span>
