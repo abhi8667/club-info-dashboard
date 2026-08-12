@@ -12,10 +12,8 @@
   "instagram": "@team.dhi",
   "venue": "ISE Seminar Hall",
   "images": [
-    "https://lh3.googleusercontent.com/d/1rtr6w9XTRL_7f5poDcWcuW0tK-3WMCuk",
-    "https://lh3.googleusercontent.com/d/19nz_nA9wIJ-7A7QZ-CcaHS8dXAlv51CA",
-    "https://lh3.googleusercontent.com/d/1Mds8jvTFBm0cLc3UCu3UtjJQriXTSMqD",
-    "https://lh3.googleusercontent.com/d/1KWWPP-AGfi26Sa-gSrt1eBRyV57v6BZz"
+    "/clubs/team-dhi/images/IMG-20260524-WA0060.jpg",
+    "/clubs/team-dhi/images/IMG-20260524-WA0067.jpg"
   ],
   "events": [
     {
@@ -41,5 +39,5 @@
     }
   ],
   "division": "Computer Science, Software & AI",
-  "logo": "https://lh3.googleusercontent.com/d/1u_UAe7lFeTc43Q2ZLuG1NLQ_xvw3A24A"
+  "logo": "/clubs/team-dhi/Team Dhi logo (1).png"
 }
