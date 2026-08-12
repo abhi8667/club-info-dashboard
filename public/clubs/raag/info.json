@@ -3,26 +3,49 @@
   "name": "RAAG",
   "shortName": "RAAG",
   "category": "Non-Technical",
-  "description": "Welcome to RAAG! We are a dynamic community of students passionate about our field. Join us to explore, learn, and grow through our various activities and projects.",
+  "description": "RAAG – The Youth Club of RVCE is a vibrant student-led community that brings campus life alive through exciting events like Matrubhasha Diwas, Treasure Hunt, Night Cricket, cultural celebrations, and social initiatives. Built by the youth, for the youth, RAAG fosters leadership, creativity, teamwork, and unforgettable experiences while creating a fun, inclusive, and energetic environment for every student.",
   "color": "#f2d8e7",
   "accent": "#863c62",
   "symbol": "R",
   "lead": "Student Lead",
-  "email": "contact@raag.rvce.edu.in",
-  "instagram": "@raag_rvce",
-  "venue": "Seminar Hall",
+  "email": "Salman Zaheer Abdi(General Secretary)-8882666796",
+  "instagram": "@rvceraag",
+  "venue": "CH-104(Chemical Department)",
   "images": [
-    "https://picsum.photos/seed/RAAG1/800/400",
-    "https://picsum.photos/seed/RAAG2/800/400"
+    "https://lh3.googleusercontent.com/d/1LIkZnVOq1RyHjV4sID8ve7urX4eOptyc",
+    "https://lh3.googleusercontent.com/d/1dZySDwxCEZCr1I6gjKxwXpDuqEeAZC_Q",
+    "https://lh3.googleusercontent.com/d/13Ekq0noZP-i9dm2WaSQKcXHjtI8xfFCt"
   ],
   "events": [
     {
-      "name": "Ice Breaker Games- Laugh. Connect.",
-      "detail": "Repeat. Kick things off with laughter and chaos! Fun, quirky games to help you vibe with your batchmates and make instant connections—no awkward intros, just pure fun. . RAAG, the youth club of RVCE, adds energy and creativity to campus life. Through its five verticals and events like 8th Mile, Matrubhasha Divas, and Night Cricket, it fosters leadership, collaboration, and the true spirit of youth. It is a platform for students to explore talents, innovate, and create unforgettable experiences. With unity and diversity at its core, RAAG truly reflects the vibrant spirit of RVCE. We Create Culture, We Redefine Youth, We Make A Difference!",
-      "date": "Aug 28",
-      "time": "TBD",
-      "venue": "TBD"
+      "name": "ICE BREAKER GAMES- LAUGH. CONNECT. REPEAT.",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "CH-104(Chemical Department)",
+      "detail": "KICK THINGS OFF WITH LAUGHTER AND CHAOS! FUN, QUIRKY GAMES TO HELP YOU VIBE WITH YOUR BATCHMATES AND MAKE INSTANT CONNECTIONS-NO AWKWARD INTROS, JUST PURE FUN."
+    },
+    {
+      "name": "ENDLESS JUGGLE - DON'T DROP IT!",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "CH-104(Chemical Department)",
+      "detail": "THINK YOU'VE GOT BALANCE AND FOCUS? TIME TO PROVE IT! KEEP THE BAT, BALL, AND FOOTBALL GOING ENDLESSLY-DROP IT, AND YOU'RE OUT. SIMPLE? WAIT TILL YOU TRY IT."
+    },
+    {
+      "name": "ASK SENIORS ANYTHING - NO FILTER ALL ANSWERS",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "CH-104(Chemical Department)",
+      "detail": "YOUR CHANCE TO SPILL THOSE BURNING QUESTIONS-ANONYMOUSLY! FROM COLLEGE HACKS TO UNTOLD STORIES, OUR SENIORS ARE HERE TO ANSWER IT ALL, STRAIGHT AND UNFILTERED."
+    },
+    {
+      "name": "RAAG PRESENTS OPEN MIC-YOUR STAGE. YOUR VIBE.",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "CH-104(Chemical Department)",
+      "detail": "THE SPOTLIGHT'S YOURS-SING, RAP, RECITE. OR JUST GRAB THE MIC AND VIBE. WHETHER YOU'RE PERFORMING OR CHEERING, IT'S GOING TO BE AN EVENING OF RAW TALENT AND PURE ENERGY."
     }
   ],
-  "division": "Regional, Social Service & Youth Leadership"
+  "division": "Regional, Social Service & Youth Leadership",
+  "logo": "https://lh3.googleusercontent.com/d/1H4RAVSXzJg826e7oq3FFNPXM_pY9ewVK"
 }

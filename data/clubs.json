@@ -895,28 +895,51 @@
     "name": "RAAG",
     "shortName": "RAAG",
     "category": "Non-Technical",
-    "description": "Welcome to RAAG! We are a dynamic community of students passionate about our field. Join us to explore, learn, and grow through our various activities and projects.",
+    "description": "RAAG – The Youth Club of RVCE is a vibrant student-led community that brings campus life alive through exciting events like Matrubhasha Diwas, Treasure Hunt, Night Cricket, cultural celebrations, and social initiatives. Built by the youth, for the youth, RAAG fosters leadership, creativity, teamwork, and unforgettable experiences while creating a fun, inclusive, and energetic environment for every student.",
     "color": "#f2d8e7",
     "accent": "#863c62",
     "symbol": "R",
     "lead": "Student Lead",
-    "email": "contact@raag.rvce.edu.in",
-    "instagram": "@raag_rvce",
-    "venue": "Seminar Hall",
+    "email": "Salman Zaheer Abdi(General Secretary)-8882666796",
+    "instagram": "@rvceraag",
+    "venue": "CH-104(Chemical Department)",
     "images": [
-      "https://picsum.photos/seed/RAAG1/800/400",
-      "https://picsum.photos/seed/RAAG2/800/400"
+      "https://lh3.googleusercontent.com/d/1LIkZnVOq1RyHjV4sID8ve7urX4eOptyc",
+      "https://lh3.googleusercontent.com/d/1dZySDwxCEZCr1I6gjKxwXpDuqEeAZC_Q",
+      "https://lh3.googleusercontent.com/d/13Ekq0noZP-i9dm2WaSQKcXHjtI8xfFCt"
     ],
     "events": [
       {
-        "name": "Ice Breaker Games- Laugh. Connect.",
-        "detail": "Repeat. Kick things off with laughter and chaos! Fun, quirky games to help you vibe with your batchmates and make instant connections—no awkward intros, just pure fun. . RAAG, the youth club of RVCE, adds energy and creativity to campus life. Through its five verticals and events like 8th Mile, Matrubhasha Divas, and Night Cricket, it fosters leadership, collaboration, and the true spirit of youth. It is a platform for students to explore talents, innovate, and create unforgettable experiences. With unity and diversity at its core, RAAG truly reflects the vibrant spirit of RVCE. We Create Culture, We Redefine Youth, We Make A Difference!",
-        "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD"
+        "name": "ICE BREAKER GAMES- LAUGH. CONNECT. REPEAT.",
+        "date": "Aug 29",
+        "time": "Showcase Day 2",
+        "venue": "CH-104(Chemical Department)",
+        "detail": "KICK THINGS OFF WITH LAUGHTER AND CHAOS! FUN, QUIRKY GAMES TO HELP YOU VIBE WITH YOUR BATCHMATES AND MAKE INSTANT CONNECTIONS-NO AWKWARD INTROS, JUST PURE FUN."
+      },
+      {
+        "name": "ENDLESS JUGGLE - DON'T DROP IT!",
+        "date": "Aug 29",
+        "time": "Showcase Day 2",
+        "venue": "CH-104(Chemical Department)",
+        "detail": "THINK YOU'VE GOT BALANCE AND FOCUS? TIME TO PROVE IT! KEEP THE BAT, BALL, AND FOOTBALL GOING ENDLESSLY-DROP IT, AND YOU'RE OUT. SIMPLE? WAIT TILL YOU TRY IT."
+      },
+      {
+        "name": "ASK SENIORS ANYTHING - NO FILTER ALL ANSWERS",
+        "date": "Aug 29",
+        "time": "Showcase Day 2",
+        "venue": "CH-104(Chemical Department)",
+        "detail": "YOUR CHANCE TO SPILL THOSE BURNING QUESTIONS-ANONYMOUSLY! FROM COLLEGE HACKS TO UNTOLD STORIES, OUR SENIORS ARE HERE TO ANSWER IT ALL, STRAIGHT AND UNFILTERED."
+      },
+      {
+        "name": "RAAG PRESENTS OPEN MIC-YOUR STAGE. YOUR VIBE.",
+        "date": "Aug 29",
+        "time": "Showcase Day 2",
+        "venue": "CH-104(Chemical Department)",
+        "detail": "THE SPOTLIGHT'S YOURS-SING, RAP, RECITE. OR JUST GRAB THE MIC AND VIBE. WHETHER YOU'RE PERFORMING OR CHEERING, IT'S GOING TO BE AN EVENING OF RAW TALENT AND PURE ENERGY."
       }
     ],
-    "division": "Regional, Social Service & Youth Leadership"
+    "division": "Regional, Social Service & Youth Leadership",
+    "logo": "https://lh3.googleusercontent.com/d/1H4RAVSXzJg826e7oq3FFNPXM_pY9ewVK"
   },
   {
     "id": "rotaract-club-of-r-v-c-e-",
@@ -1093,7 +1116,7 @@
         "date": "Aug 29",
         "time": "Showcase Day 2",
         "venue": "CE 205 : Department of Civil Engineering",
-        "detail": "A 2-hour innovation challenge where teams are given a set of random problems, technologies, and constraints and must turn them into a workable startup idea. Starting with ideation, teams progressively build their solution using assigned components, adapt when unexpected twists arise, and navigate an ethical dilemma. The challenge culminates in a creative startup pitch, where teams showcase their solution, reasoning, adaptability, and teamwork."
+        "detail": "“Every twist changes the game.”  Mission: Impossible? is a 2-hour innovation challenge where teams build a startup from randomly assigned problems, technologies, audiences, revenue models, and features. As the challenge progresses, teams must engineer their solution, adapt to unexpected constraints, tackle an ethical dilemma, and finally pitch their startup in a randomly assigned creative format.  Event Flow  * Team Formation – 10 min: Participants are randomly grouped into teams of 4–5. * Round 1: Startup DNA – 20 min: Teams draw random startup elements and create a logically connected business idea. * Round 2: Engineering Buildathon – 25 min: Teams receive random hardware/component cards and integrate every assigned component into their solution. * Round 3: The Twist – 15 min: A surprise constraint forces teams to redesign and adapt their solution. * Round 4: Ethics Override – 10 min: Teams face a real-world ethical dilemma, make a decision, and justify their approach. * Round 5: Final Pitch – 40 min: Teams present their final solution through a randomly assigned format such as Shark Tank, skit, advertisement, news report, customer testimonial, or Human Machine.  AI can be used throughout the event for brainstorming, research, visualisation, UI mockups, posters, and system diagrams.  Judges will also randomly question individual team members after each pitch to evaluate understanding, adaptability, and equal participation."
       },
       {
         "name": "Digital Launchpad Masterclass: LinkedIn, College Email Benefits & Leveraging AI",
@@ -1107,14 +1130,14 @@
         "date": "Aug 29",
         "time": "Showcase Day 2",
         "venue": "CE 205 : Department of Civil Engineering",
-        "detail": "Step into the journey of an innovator through five interactive stations, moving from problem-solving to impact. Begin by identifying real-world problems and turning them into creative ideas at Idea Ignition, then bring those ideas to life through hands-on building at Prototype Playground. Take your solution to the Pitch Arena, where you communicate its value and impact. Reflect and imagine future possibilities at the Impact Wall, before discovering SPARK’s projects, achievements, and opportunities at the Club Showcase."
+        "detail": "Experience the Journey from Idea to Impact  Duration: 2 Hours  Concept: “Stations of an Innovator” is an interactive showcase designed to give participants a glimpse into the journey of an innovator. Instead of simply displaying our club’s activities, visitors actively experience the different stages involved in identifying problems, generating ideas, building solutions, communicating them effectively, and understanding the impact of innovation. Participants will spend approximately 15–20 minutes at each station before moving to the next.  Station 1: Idea Ignition (15–20 minutes)  Participants will be presented with a real-world or campus-based problem. Working individually or in small groups, they will brainstorm innovative solutions and present their ideas to the station mentors. The objective is to encourage creative thinking and problem-solving.  Materials Required:  * Problem statement cards * Pens * A4 sheets * Timer  Station 2: Prototype Playground (15–20 minutes)  Participants will build a simple prototype using everyday materials such as paper cups, straws, ice cream sticks, tape, and rubber bands. The challenge is to transform an idea into a tangible model within the given time.  Materials Required:  * Paper cups * Straws * Ice cream sticks * Masking tape * Rubber bands * String * Scissors  Station 3: Pitch Arena (15–20 minutes)  Participants will deliver a short startup-style pitch explaining their solution, its impact, target users, and why it is unique. Volunteers will play the role of judges and ask questions, simulating a real innovation or entrepreneurship pitch.  Materials Required:  * Timer * Score sheets * Whiteboard (optional)  Station 4: Impact Wall (15–20 minutes)  Participants will reflect on the experience by writing down a real-world problem they believe should be solved or an innovation they wish existed. These ideas will be displayed on the “Impact Wall,” creating a collective vision of future innovations.  Materials Required:  * Sticky notes * Chart paper or display board * Markers * Tape  Station 5: Club Showcase (15–20 minutes)  The final station introduces visitors to our club’s activities and achievements. It will feature project displays, research initiatives, industry visits, workshops, competitions, social impact initiatives, and entrepreneurship opportunities. Visitors can interact with club members, ask questions, and register their interest in joining the club.  Display Includes:  * Club banner * Event photographs * Research and innovation projects * Awards and achievements * Posters * Membership QR code"
       },
       {
         "name": "Decode.exe",
         "date": "Aug 29",
         "time": "Showcase Day 2",
         "venue": "CE 205 : Department of Civil Engineering",
-        "detail": "Enter a room of interconnected decoding stations where every solved clue reveals a number leading closer to the final answer. Teams begin by uncovering anomalies in the Death Registry Puzzle, then progress through Mystery.exe, decoding ciphers, operations, and binary sequences. A final astronomy or technology-based challenge completes the trail. Combining logic, aptitude, observation, and teamwork, the first team to crack every clue wins."
+        "detail": "Several decoding stations set up in one room. Clues at each station resolve to numbers, which add up to determine the final winning prize. First team to crack all clues wins.  Tests: Logic, ciphers, aptitude Duration: 1 – 1.5 hrs  Station 1: Death Registry Puzzle Teams get a list of 10–12 death entries (name, age, occupation, cause, place, date). Spotting the anomaly reveals a number tied to that entry — the clue.  Station 2: Mystery.exe (2 Levels) Level 1: A custom letter↔️number chart converts a word into numbers, then a sequence of operations (per color block) transforms it into a final number. Level 2: 24 true/false statements → convert to 1s and 0s → 24-bit binary string → split into three 8-bit blocks → convert each to decimal → map numbers to a location.  Station 3: TBD Still deciding between astronomy-based or tech-based questions."
       }
     ],
     "division": "Industry Connect and Interdisciplinary Engineering",
@@ -1125,25 +1148,46 @@
     "name": "Team Antariksh",
     "shortName": "TA",
     "category": "Technical",
-    "description": "Team Antariksh is a student space technology club dedicated to advancing innovation in aerospace engineering. The team designs and builds CanSats and experimental sounding rockets, combining innovation with technical expertise. Each project shows commitment to inspire students to challenge boundaries and invoke curiosity in the field of space technology.",
+    "description": "Team Antariksh is the student-led aerospace and space technology team of R.V. College of Engineering (RVCE), Bengaluru. The team brings together students from multiple engineering disciplines to work on the design, development, testing, and operation of advanced aerospace and space systems. Its work spans rocketry, satellite technology, propulsion, aerodynamics, structures, avionics, telemetry, payloads, thermal systems, and recovery systems.\n\nThe team focuses on providing students with hands-on experience across the complete engineering lifecycle, from conceptualisation and simulation to design, fabrication, integration, testing, and flight operations. Through this approach, students are able to apply theoretical knowledge to real-world aerospace challenges while developing strong technical and interdisciplinary skills.\n\nOne of Team Antariksh’s key space technology initiatives is RVSAT-1, a 2U CubeSat developed at RVCE for a microbiological experiment in Low Earth Orbit using ISRO’s PS4 orbital platform. The mission was designed to study microbial growth under microgravity conditions, with dedicated systems for payload operation and transmission of experimental data to the ground station.\n\nTeam Antariksh also has a strong focus on student rocketry. Its rocket Lakshya secured First Place at the IN-SPACe Model Rocketry India Student Competition 2024–25 in 2025. The rocket successfully reached an apogee of approximately 998 metres, deployed its CanSat payload, and completed a successful parachute recovery, demonstrating the team's capabilities in propulsion, aerostructures, avionics, payload integration, and recovery.",
     "color": "#e4d9ff",
     "accent": "#543c8c",
     "symbol": "A",
     "lead": "Student Lead",
-    "email": "contact@ta.rvce.edu.in",
-    "instagram": "@ta_rvce",
-    "venue": "Seminar Hall",
+    "email": "7349636522",
+    "instagram": "@teamantarikshofficial",
+    "venue": "AS001",
     "images": [
       "/clubs/team-antariksh/images/TA 2024 Mingos Banner (Long) (190x65cm) (Orange) (1).png",
       "/clubs/team-antariksh/images/WhatsApp Image 2026-02-01 at 12.31.46 PM.jpeg"
     ],
     "events": [
       {
-        "name": "Team Antariksh Orientation",
+        "name": "Payload Quest: Mission Challenge",
         "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD",
-        "detail": "Introduction to our club activities and roadmap for the year."
+        "time": "Showcase Day 1",
+        "venue": "AS001",
+        "detail": "Teams will be presented with a mission scenario involving multiple constraints and challenges. They must analyse the situation, make design decisions, and develop a payload or mission solution that meets the given requirements within the allotted time."
+      },
+      {
+        "name": "The Egg Drop",
+        "date": "Aug 28",
+        "time": "Showcase Day 1",
+        "venue": "AS001",
+        "detail": "Teams will be provided with limited materials such as popsicle sticks, tape, glue, and cotton. Their objective is to design and build a protective structure that safely houses an egg and prevents it from cracking when dropped from a height of 2–3 metres."
+      },
+      {
+        "name": "Auction Call",
+        "date": "Aug 28",
+        "time": "Showcase Day 1",
+        "venue": "AS001",
+        "detail": "Each team will be given a fixed budget and a specific mission objective. Teams will participate in an auction to acquire the components and materials required for their mission, after which they will develop and present their final mission plan. The most effective solution considering mission performance, resource utilisation, and budget efficiency will be declared the winner."
+      },
+      {
+        "name": "Payload Quest: Mission Challenge",
+        "date": "Aug 28",
+        "time": "Showcase Day 1",
+        "venue": "AS001",
+        "detail": "Teams will be presented with a mission scenario involving multiple constraints and challenges. They must analyse the situation, make design decisions, and develop a payload or mission solution that meets the given requirements within the allotted time."
       }
     ],
     "division": "Space, Drone & Aerospace",
@@ -1271,28 +1315,45 @@
     "name": "Team Dhi",
     "shortName": "TD",
     "category": "Technical",
-    "description": "Welcome to Team Dhi! We are a dynamic community of students passionate about our field. Join us to explore, learn, and grow through our various activities and projects.",
+    "description": "Inaugurated in 2022, Team Dhi is the official student club of the AI & ML Department, RVCE.\nRooted in the Sanskrit word for intelligence and understanding, Dhi represents the bridge between human cognition and Artificial Intelligence.\nWe are a community dedicated to exploring, building, and solving real-world problems using cutting-edge AI, Machine Learning, and Data Science.\n\nOur verticals include Nexus AIML, Business Intelligence and Core Operations.",
     "color": "#d8e8ef",
     "accent": "#285a70",
     "symbol": "D",
     "lead": "Student Lead",
-    "email": "contact@td.rvce.edu.in",
-    "instagram": "@td_rvce",
-    "venue": "Seminar Hall",
+    "email": "7483225964/ 7975828533",
+    "instagram": "@team.dhi",
+    "venue": "ISE Seminar Hall",
     "images": [
-      "https://picsum.photos/seed/TD1/800/400",
-      "https://picsum.photos/seed/TD2/800/400"
+      "https://lh3.googleusercontent.com/d/1rtr6w9XTRL_7f5poDcWcuW0tK-3WMCuk",
+      "https://lh3.googleusercontent.com/d/19nz_nA9wIJ-7A7QZ-CcaHS8dXAlv51CA",
+      "https://lh3.googleusercontent.com/d/1Mds8jvTFBm0cLc3UCu3UtjJQriXTSMqD",
+      "https://lh3.googleusercontent.com/d/1KWWPP-AGfi26Sa-gSrt1eBRyV57v6BZz"
     ],
     "events": [
       {
-        "name": "Team Dhi Orientation",
-        "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD",
-        "detail": "Introduction to our club activities and roadmap for the year."
+        "name": "Prompt Wars",
+        "date": "Aug 29",
+        "time": "Showcase Day 2",
+        "venue": "ISE Seminar Hall",
+        "detail": "Teams compete to solve increasingly difficult challenges using only prompts under strict constraints like word limits, banned keywords, or zero follow-up attempts. Participants learn prompt engineering, context management, and the limitations of LLMs."
+      },
+      {
+        "name": "The Human Neural Network",
+        "date": "Aug 29",
+        "time": "Showcase Day 2",
+        "venue": "ISE Seminar Hall",
+        "detail": "A zero-code game, where the audience are turned into a living, breathing AI brain! Freshers will be divided into Input, Hidden, and Output layers to pass, filter, and process secret data. They'll experience firsthand how a neural network learns from its mistakes, adapts, and makes decisions - all through a chaotic, fast-paced race against the clock. No coding required, just pure logic and teamwork!"
+      },
+      {
+        "name": "Copilot",
+        "date": "Aug 29",
+        "time": "Showcase Day 2",
+        "venue": "ISE Seminar Hall",
+        "detail": "A practical introduction showing freshers how artificial intelligence isn't a shortcut, but a mandatory power tool for learning, debugging, and solving complex problems in modern engineering."
       }
     ],
-    "division": "Computer Science, Software & AI"
+    "division": "Computer Science, Software & AI",
+    "logo": "https://lh3.googleusercontent.com/d/1u_UAe7lFeTc43Q2ZLuG1NLQ_xvw3A24A"
   },
   {
     "id": "team-dhruva",

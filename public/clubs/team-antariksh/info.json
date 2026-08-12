@@ -3,25 +3,46 @@
   "name": "Team Antariksh",
   "shortName": "TA",
   "category": "Technical",
-  "description": "Team Antariksh is a student space technology club dedicated to advancing innovation in aerospace engineering. The team designs and builds CanSats and experimental sounding rockets, combining innovation with technical expertise. Each project shows commitment to inspire students to challenge boundaries and invoke curiosity in the field of space technology.",
+  "description": "Team Antariksh is the student-led aerospace and space technology team of R.V. College of Engineering (RVCE), Bengaluru. The team brings together students from multiple engineering disciplines to work on the design, development, testing, and operation of advanced aerospace and space systems. Its work spans rocketry, satellite technology, propulsion, aerodynamics, structures, avionics, telemetry, payloads, thermal systems, and recovery systems.\n\nThe team focuses on providing students with hands-on experience across the complete engineering lifecycle, from conceptualisation and simulation to design, fabrication, integration, testing, and flight operations. Through this approach, students are able to apply theoretical knowledge to real-world aerospace challenges while developing strong technical and interdisciplinary skills.\n\nOne of Team Antariksh’s key space technology initiatives is RVSAT-1, a 2U CubeSat developed at RVCE for a microbiological experiment in Low Earth Orbit using ISRO’s PS4 orbital platform. The mission was designed to study microbial growth under microgravity conditions, with dedicated systems for payload operation and transmission of experimental data to the ground station.\n\nTeam Antariksh also has a strong focus on student rocketry. Its rocket Lakshya secured First Place at the IN-SPACe Model Rocketry India Student Competition 2024–25 in 2025. The rocket successfully reached an apogee of approximately 998 metres, deployed its CanSat payload, and completed a successful parachute recovery, demonstrating the team's capabilities in propulsion, aerostructures, avionics, payload integration, and recovery.",
   "color": "#e4d9ff",
   "accent": "#543c8c",
   "symbol": "A",
   "lead": "Student Lead",
-  "email": "contact@ta.rvce.edu.in",
-  "instagram": "@ta_rvce",
-  "venue": "Seminar Hall",
+  "email": "7349636522",
+  "instagram": "@teamantarikshofficial",
+  "venue": "AS001",
   "images": [
     "/clubs/team-antariksh/images/TA 2024 Mingos Banner (Long) (190x65cm) (Orange) (1).png",
     "/clubs/team-antariksh/images/WhatsApp Image 2026-02-01 at 12.31.46 PM.jpeg"
   ],
   "events": [
     {
-      "name": "Team Antariksh Orientation",
+      "name": "Payload Quest: Mission Challenge",
       "date": "Aug 28",
-      "time": "TBD",
-      "venue": "TBD",
-      "detail": "Introduction to our club activities and roadmap for the year."
+      "time": "Showcase Day 1",
+      "venue": "AS001",
+      "detail": "Teams will be presented with a mission scenario involving multiple constraints and challenges. They must analyse the situation, make design decisions, and develop a payload or mission solution that meets the given requirements within the allotted time."
+    },
+    {
+      "name": "The Egg Drop",
+      "date": "Aug 28",
+      "time": "Showcase Day 1",
+      "venue": "AS001",
+      "detail": "Teams will be provided with limited materials such as popsicle sticks, tape, glue, and cotton. Their objective is to design and build a protective structure that safely houses an egg and prevents it from cracking when dropped from a height of 2–3 metres."
+    },
+    {
+      "name": "Auction Call",
+      "date": "Aug 28",
+      "time": "Showcase Day 1",
+      "venue": "AS001",
+      "detail": "Each team will be given a fixed budget and a specific mission objective. Teams will participate in an auction to acquire the components and materials required for their mission, after which they will develop and present their final mission plan. The most effective solution considering mission performance, resource utilisation, and budget efficiency will be declared the winner."
+    },
+    {
+      "name": "Payload Quest: Mission Challenge",
+      "date": "Aug 28",
+      "time": "Showcase Day 1",
+      "venue": "AS001",
+      "detail": "Teams will be presented with a mission scenario involving multiple constraints and challenges. They must analyse the situation, make design decisions, and develop a payload or mission solution that meets the given requirements within the allotted time."
     }
   ],
   "division": "Space, Drone & Aerospace",

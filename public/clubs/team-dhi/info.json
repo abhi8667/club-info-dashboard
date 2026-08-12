@@ -3,26 +3,43 @@
   "name": "Team Dhi",
   "shortName": "TD",
   "category": "Technical",
-  "description": "Welcome to Team Dhi! We are a dynamic community of students passionate about our field. Join us to explore, learn, and grow through our various activities and projects.",
+  "description": "Inaugurated in 2022, Team Dhi is the official student club of the AI & ML Department, RVCE.\nRooted in the Sanskrit word for intelligence and understanding, Dhi represents the bridge between human cognition and Artificial Intelligence.\nWe are a community dedicated to exploring, building, and solving real-world problems using cutting-edge AI, Machine Learning, and Data Science.\n\nOur verticals include Nexus AIML, Business Intelligence and Core Operations.",
   "color": "#d8e8ef",
   "accent": "#285a70",
   "symbol": "D",
   "lead": "Student Lead",
-  "email": "contact@td.rvce.edu.in",
-  "instagram": "@td_rvce",
-  "venue": "Seminar Hall",
+  "email": "7483225964/ 7975828533",
+  "instagram": "@team.dhi",
+  "venue": "ISE Seminar Hall",
   "images": [
-    "https://picsum.photos/seed/TD1/800/400",
-    "https://picsum.photos/seed/TD2/800/400"
+    "https://lh3.googleusercontent.com/d/1rtr6w9XTRL_7f5poDcWcuW0tK-3WMCuk",
+    "https://lh3.googleusercontent.com/d/19nz_nA9wIJ-7A7QZ-CcaHS8dXAlv51CA",
+    "https://lh3.googleusercontent.com/d/1Mds8jvTFBm0cLc3UCu3UtjJQriXTSMqD",
+    "https://lh3.googleusercontent.com/d/1KWWPP-AGfi26Sa-gSrt1eBRyV57v6BZz"
   ],
   "events": [
     {
-      "name": "Team Dhi Orientation",
-      "date": "Aug 28",
-      "time": "TBD",
-      "venue": "TBD",
-      "detail": "Introduction to our club activities and roadmap for the year."
+      "name": "Prompt Wars",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "ISE Seminar Hall",
+      "detail": "Teams compete to solve increasingly difficult challenges using only prompts under strict constraints like word limits, banned keywords, or zero follow-up attempts. Participants learn prompt engineering, context management, and the limitations of LLMs."
+    },
+    {
+      "name": "The Human Neural Network",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "ISE Seminar Hall",
+      "detail": "A zero-code game, where the audience are turned into a living, breathing AI brain! Freshers will be divided into Input, Hidden, and Output layers to pass, filter, and process secret data. They'll experience firsthand how a neural network learns from its mistakes, adapts, and makes decisions - all through a chaotic, fast-paced race against the clock. No coding required, just pure logic and teamwork!"
+    },
+    {
+      "name": "Copilot",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "ISE Seminar Hall",
+      "detail": "A practical introduction showing freshers how artificial intelligence isn't a shortcut, but a mandatory power tool for learning, debugging, and solving complex problems in modern engineering."
     }
   ],
-  "division": "Computer Science, Software & AI"
+  "division": "Computer Science, Software & AI",
+  "logo": "https://lh3.googleusercontent.com/d/1u_UAe7lFeTc43Q2ZLuG1NLQ_xvw3A24A"
 }

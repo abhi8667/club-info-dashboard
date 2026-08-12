@@ -45,6 +45,7 @@ EXPLICIT_MAP = {
     'team vyoma': 'team-vyoma',
     'studio zero': 'studio-zero',
     'raag': 'raag',
+    'raag-the youth club of rvce': 'raag',
     'alaap': 'alaap',
     'evoke': 'evoke',
     'ashwa racing': 'ashwa-racing',
