@@ -459,6 +459,17 @@ h2 { margin-bottom: 0; font-size: clamp(40px, 6vw, 72px); line-height: .94; lett
   border-color: #e2e2dc;
 }
 
+/* The drawer grid reuses <ClubMark large>, which is sized for the dialog hero.
+   Size it to its own column instead, or it overflows the grid cell on phones. */
+.drawer-club-card .club-mark.club-mark-large {
+  width: 100%;
+  max-width: 112px;
+  height: auto;
+  aspect-ratio: 1 / 1;
+  border-radius: 26px;
+  font-size: 42px;
+}
+
 .drawer-club-info h4 {
   margin: 0;
   font-size: 13px;
