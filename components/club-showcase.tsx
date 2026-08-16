@@ -1,7 +1,7 @@
 'use client'
 
 import React, { useEffect, useMemo, useState } from 'react'
-import { ArrowUpRight, AtSign, ChevronLeft, ChevronRight, Mail, Search, Shuffle, X } from 'lucide-react'
+import { ArrowLeft, ArrowUp, ArrowUpRight, AtSign, ChevronLeft, ChevronRight, Search, Shuffle, X } from 'lucide-react'
 import { clubs, type Club, type ClubCategory } from '@/data/clubs'
 
 const categories: (ClubCategory | 'All')[] = ['All', 'Technical', 'Non-Technical']
@@ -172,7 +172,7 @@ function ClubCard({ club, onOpen }: { club: Club; onOpen: (club: Club) => void }
   )
 }
 
-function DetailDialog({ club, onClose }: { club: Club | null; onClose: () => void }) {
+function DetailDialog({ club, onClose, onBack }: { club: Club | null; onClose: () => void; onBack: () => void }) {
   const [eventIndex, setEventIndex] = useState(0)
 
   useEffect(() => {
@@ -198,9 +198,12 @@ function DetailDialog({ club, onClose }: { club: Club | null; onClose: () => voi
   return (
     <div className="dialog-backdrop" role="presentation" onMouseDown={(event) => event.target === event.currentTarget && onClose()}>
       <section className="club-dialog" role="dialog" aria-modal="true" aria-labelledby="club-dialog-title">
-        <button className="dialog-close" onClick={onClose} type="button" aria-label="Close club details">
-          <X size={20} />
-        </button>
+        <div className="dialog-actions">
+          <button className="dialog-back" onClick={onBack} type="button" aria-label="Back to clubs in this division">
+            <ArrowLeft size={17} />
+            <span>Clubs</span>
+          </button>
+        </div>
         <div className="dialog-hero">
           <ClubMark club={club} large />
           <span className="dialog-index">{String(clubs.findIndex((item) => item.id === club.id) + 1).padStart(2, '0')} / {clubs.length}</span>
@@ -240,10 +243,9 @@ function DetailDialog({ club, onClose }: { club: Club | null; onClose: () => voi
             </div>
           </div>}
 
-          {(club.email || club.instagram) && <div className="dialog-section contact-section">
+          {club.instagram && <div className="dialog-section contact-section">
             <div className="dialog-section-heading"><span>Find the club</span><span>Lead · {club.lead}</span></div>
             <div className="contact-links">
-              {club.email && <a href={`mailto:${club.email}`}><Mail size={16} />Email club</a>}
               {club.instagram && (
                 <a 
                   href={club.instagram.startsWith('http://') || club.instagram.startsWith('https://') ? club.instagram : `https://instagram.com/${club.instagram.replace(/^@/, '')}`} 
@@ -261,6 +263,49 @@ function DetailDialog({ club, onClose }: { club: Club | null; onClose: () => voi
         </div>
       </section>
     </div>
+  )
+}
+
+function EventBanner() {
+  const [dismissed, setDismissed] = useState(false)
+  if (dismissed) return null
+
+  return (
+    <div className="event-banner">
+      <p>
+        <strong>Club Showcase</strong>
+        <span className="event-banner-sep">·</span>
+        Aug 28 &amp; 29
+        <span className="event-banner-sep">·</span>
+        <span className="event-banner-detail">Venues across campus — open a club to see its schedule</span>
+      </p>
+      <button type="button" onClick={() => setDismissed(true)} aria-label="Dismiss showcase banner">
+        <X size={15} />
+      </button>
+    </div>
+  )
+}
+
+function BackToTop() {
+  const [shown, setShown] = useState(false)
+
+  useEffect(() => {
+    const onScroll = () => setShown(window.scrollY > 600)
+    onScroll()
+    window.addEventListener('scroll', onScroll, { passive: true })
+    return () => window.removeEventListener('scroll', onScroll)
+  }, [])
+
+  return (
+    <button
+      type="button"
+      className={`back-to-top${shown ? ' is-visible' : ''}`}
+      onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+      aria-label="Back to top"
+      tabIndex={shown ? 0 : -1}
+    >
+      <ArrowUp size={18} />
+    </button>
   )
 }
 
@@ -322,14 +367,12 @@ function DivisionDrawer({
       <aside className="division-drawer" role="dialog" aria-modal="true">
         {/* Drawer Header */}
         <div className="drawer-header">
-          <button
-            className="dialog-close"
-            onClick={onClose}
-            type="button"
-            aria-label="Close division drawer"
-          >
-            <X size={20} />
-          </button>
+          <div className="dialog-actions">
+            <button className="dialog-back" onClick={onClose} type="button" aria-label="Back to divisions">
+              <ArrowLeft size={17} />
+              <span>Divisions</span>
+            </button>
+          </div>
 
           <div style={{ display: 'flex', alignItems: 'center', gap: '20px' }}>
             <div
@@ -415,13 +458,11 @@ export function ClubShowcase() {
   const [selectedClub, setSelectedClub] = useState<Club | null>(null)
   const [activeDivisionDrawer, setActiveDivisionDrawer] = useState<string | null>(null)
 
-  const [order, setOrder] = useState(() => clubs.map((_, index) => index).sort(() => Math.random() - 0.5))
+  const [order, setOrder] = useState(() => clubs.map((_, index) => index))
 
-  const availableDivisions = useMemo(() => {
-    if (category === 'All') return []
-    const divs = Array.from(new Set(clubs.filter(c => c.category === category).map(c => c.division)))
-    return divs.sort()
-  }, [category])
+  useEffect(() => {
+    setOrder((current) => [...current].sort(() => Math.random() - 0.5))
+  }, [])
 
   const filteredClubs = useMemo(() => {
     const normalizedQuery = query.trim().toLowerCase()
@@ -473,6 +514,9 @@ export function ClubShowcase() {
 
   return (
     <main>
+      <EventBanner />
+
+      <div className="site-header-bar">
       <header className="site-header">
         <div className="header-brand-group">
           <a href="#top" className="rvce-logo-link" title="RV College of Engineering">
@@ -489,6 +533,7 @@ export function ClubShowcase() {
         </nav>
         <button className="header-action" onClick={() => openClubs('All')} type="button" aria-label="Open club wall"><Search size={17} /><span>Explore clubs</span><ArrowUpRight size={16} /></button>
       </header>
+      </div>
 
       <section className="hero" id="top">
         <div className="hero-copy">
@@ -532,14 +577,6 @@ export function ClubShowcase() {
             <div className="category-tabs" role="tablist" aria-label="Filter clubs by category">
               {categories.map((item) => <button key={item} className={category === item ? 'active' : ''} onClick={() => { setCategory(item); setDivision('All'); setVisible(true) }} type="button" role="tab" aria-selected={category === item}>{item}</button>)}
             </div>
-            {availableDivisions.length > 0 && (
-              <div className="division-tabs" role="tablist" aria-label="Filter clubs by division">
-                <button className={division === 'All' ? 'active' : ''} onClick={() => setDivision('All')} type="button" role="tab" aria-selected={division === 'All'}>All Divisions</button>
-                {availableDivisions.map(div => (
-                  <button key={div} className={division === div ? 'active' : ''} onClick={() => setDivision(div)} type="button" role="tab" aria-selected={division === div}>{div}</button>
-                ))}
-              </div>
-            )}
           </div>
           <div className="toolbar-actions">
             <label className="search-field"><Search size={16} /><span className="sr-only">Search clubs</span><input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Search clubs or divisions" /></label>
@@ -596,7 +633,14 @@ export function ClubShowcase() {
       />
 
       {/* Club Exhibit Detail Modal */}
-      <DetailDialog club={selectedClub} onClose={() => setSelectedClub(null)} />
+      <DetailDialog
+        club={selectedClub}
+        /* Back steps up one level to the division's club list; ✕ exits all the way to the divisions grid. */
+        onBack={() => setSelectedClub(null)}
+        onClose={() => { setSelectedClub(null); setActiveDivisionDrawer(null) }}
+      />
+
+      <BackToTop />
     </main>
   )
 }
