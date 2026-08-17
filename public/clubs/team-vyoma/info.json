@@ -12,8 +12,8 @@
   "instagram": "@tv_rvce",
   "venue": "Seminar Hall",
   "images": [
-    "https://picsum.photos/seed/TV1/800/400",
-    "https://picsum.photos/seed/TV2/800/400"
+    "/clubs/team-vyoma/images/whatsapp-image-2026-08-13-at-23-46-25-1.jpeg",
+    "/clubs/team-vyoma/images/whatsapp-image-2026-08-13-at-23-46-25-2.jpeg"
   ],
   "events": [
     {
@@ -24,5 +24,6 @@
       "detail": "Introduction to our club activities and roadmap for the year."
     }
   ],
-  "division": "Space, Drone & Aerospace"
+  "division": "Space, Drone & Aerospace",
+  "logo": "/clubs/team-vyoma/vyomalogo-1.jpeg"
 }

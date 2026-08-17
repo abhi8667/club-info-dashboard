@@ -12,10 +12,8 @@
   "instagram": "@rvce_wic_insidercircle",
   "venue": "ISE 110",
   "images": [
-    "https://lh3.googleusercontent.com/d/11uhRizJapAfLHZNEq1IKdZtlgv530r90",
-    "https://lh3.googleusercontent.com/d/1WASfkSh-yy0XEi8oGvj4d6aHwsTugVlQ",
-    "https://lh3.googleusercontent.com/d/1pt8wOLqYzh1xP3B6O2RH1buk01F0SYzX",
-    "https://lh3.googleusercontent.com/d/1cgdDHyqZIbTmNswWP-zHGBfBGUjJlabI"
+    "/clubs/rvce-women-in-cloud-insider-circle/images/photo-2024-11-21-08-53-58-1.jpeg",
+    "/clubs/rvce-women-in-cloud-insider-circle/images/photo-2025-04-16-16-29-03-1.jpeg"
   ],
   "events": [
     {
@@ -48,5 +46,5 @@
     }
   ],
   "division": "Computer Science, Software & AI",
-  "logo": "https://lh3.googleusercontent.com/d/11uail8ncL48gPBQnkipSE2k_f2jpnkHF"
+  "logo": "/clubs/rvce-women-in-cloud-insider-circle/wic-logo.jpeg"
 }

@@ -13,7 +13,7 @@
     "instagram": "@ac_rvce",
     "venue": "Chemical Seminar Hall",
     "images": [
-      "/clubs/accelerate-club-rvce/images/HoneyWell.jpg",
+      "/clubs/accelerate-club-rvce/images/honeywell-1.jpg",
       "/clubs/accelerate-club-rvce/images/image1.jpeg"
     ],
     "events": [
@@ -92,8 +92,8 @@
     "instagram": "@alaap_rvce",
     "venue": "Civil Seminar Hall",
     "images": [
-      "/clubs/alaap/images/dastaan mood indigo.jpg",
-      "/clubs/alaap/images/take 1.62.jpg"
+      "/clubs/alaap/images/dastaan-mood-indigo.jpg",
+      "/clubs/alaap/images/take-1-62.jpg"
     ],
     "events": [
       {
@@ -126,7 +126,7 @@
       }
     ],
     "division": "Cultural, Dramatics & Music",
-    "logo": "/clubs/alaap/alaap logo.jpeg"
+    "logo": "/clubs/alaap/alaap-logo.jpeg"
   },
   {
     "id": "ashwa-racing",
@@ -170,8 +170,8 @@
     "instagram": "@carv_hindi",
     "venue": "BT Quadrangle",
     "images": [
-      "/clubs/carv-hindi/images/445881153_720557993390711_8010954969443383551_n (1).jpg",
-      "/clubs/carv-hindi/images/DSC_0379.JPG"
+      "/clubs/carv-hindi/images/445881153-720557993390711-8010954969443383551-n-1.jpg",
+      "/clubs/carv-hindi/images/dsc-0379.jpg"
     ],
     "events": [
       {
@@ -221,7 +221,7 @@
     "venue": "Civil Seminar Hall",
     "images": [
       "/clubs/coding-club-rvce/images/event.jpg",
-      "/clubs/coding-club-rvce/images/image(1)(2).png"
+      "/clubs/coding-club-rvce/images/image-1-2.png"
     ],
     "events": [
       {
@@ -254,7 +254,7 @@
       }
     ],
     "division": "Computer Science, Software & AI",
-    "logo": "/clubs/coding-club-rvce/cc logo.png"
+    "logo": "/clubs/coding-club-rvce/cc-logo.png"
   },
   {
     "id": "debate-society",
@@ -270,8 +270,8 @@
     "instagram": "@rvcedebsoc",
     "venue": "Reel Room, 4th Floor, New Library",
     "images": [
-      "/clubs/debate-society/images/WhatsApp Image 2026-08-11 at 5.08.50 PM (1).jpeg",
-      "/clubs/debate-society/images/WhatsApp Image 2026-08-11 at 5.08.50 PM.jpeg"
+      "/clubs/debate-society/images/whatsapp-image-2026-08-11-at-5-08-50-pm-1.jpeg",
+      "/clubs/debate-society/images/whatsapp-image-2026-08-11-at-5-08-50-pm.jpeg"
     ],
     "events": [
       {
@@ -304,7 +304,7 @@
       }
     ],
     "division": "Literary, Quizzing & Public Speaking",
-    "logo": "/clubs/debate-society/DebSoc Logo Dark.png"
+    "logo": "/clubs/debate-society/debsoc-logo-dark.png"
   },
   {
     "id": "ecell",
@@ -320,11 +320,8 @@
     "instagram": "ecell_rvce",
     "venue": "MCA Seminar Hall",
     "images": [
-      "https://lh3.googleusercontent.com/d/1hnoBJryfzmuELZii3t7zWP2KrA1_la6F",
-      "https://lh3.googleusercontent.com/d/1iFt4qSZgbSJa2oN1LW2him_OjKAMXA5G",
-      "https://lh3.googleusercontent.com/d/1LKPUv8IOuIgqLpLWZtv-BXW29Fb-1bQc",
-      "https://lh3.googleusercontent.com/d/1UrNoWsNTPlLob4SB9X1x8wLgfvGZufJu",
-      "https://lh3.googleusercontent.com/d/1a43h0h4m50lZanEY9GM85jPUAep_fxc3"
+      "/clubs/ecell/images/whatsapp-image-2026-08-12-at-11-48-39-pm-1.jpeg",
+      "/clubs/ecell/images/whatsapp-image-2026-08-12-at-11-48-39-pm.jpeg"
     ],
     "events": [
       {
@@ -357,7 +354,7 @@
       }
     ],
     "division": "Entrepreneurship & Innovation",
-    "logo": "https://lh3.googleusercontent.com/d/1de-RKqBOMg9q1uQ8NWz1oRgDt9qP47NG"
+    "logo": "/clubs/ecell/copy-of-ecell-blk.png"
   },
   {
     "id": "evoke",
@@ -374,7 +371,7 @@
     "venue": "ETE seminar hall",
     "images": [
       "/clubs/evoke/images/9718fa07-fb6a-4249-9bb0-51b30ce115e3.jpeg",
-      "/clubs/evoke/images/IMG_6749.jpeg"
+      "/clubs/evoke/images/img-6749.jpeg"
     ],
     "events": [
       {
@@ -423,7 +420,7 @@
     "instagram": "f6.3photography.rvce",
     "venue": "ETE Seminar Hall",
     "images": [
-      "/clubs/f-6-3-photography/images/IMG_1942.jpg",
+      "/clubs/f-6-3-photography/images/img-1942.jpg",
       "/clubs/f-6-3-photography/images/utsarga.jpg"
     ],
     "events": [
@@ -457,7 +454,7 @@
       }
     ],
     "division": "Cultural, Dramatics & Music",
-    "logo": "/clubs/f-6-3-photography/f6logo BLACK.png"
+    "logo": "/clubs/f-6-3-photography/f6logo-black.png"
   },
   {
     "id": "gdg-rvce",
@@ -473,8 +470,8 @@
     "instagram": "@gdg_rvce",
     "venue": "ISE Seminar Hall",
     "images": [
-      "/clubs/gdg-rvce/images/gdg pic-1.jpeg",
-      "/clubs/gdg-rvce/images/gdg pic-2.jpeg"
+      "/clubs/gdg-rvce/images/gdg-pic-1.jpeg",
+      "/clubs/gdg-rvce/images/gdg-pic-2.jpeg"
     ],
     "events": [
       {
@@ -523,8 +520,8 @@
     "instagram": "rvcehamclub",
     "venue": "BT Quadrangle",
     "images": [
-      "/clubs/ham-club/images/AnnualWorkshop.png",
-      "/clubs/ham-club/images/Building_antenna.png"
+      "/clubs/ham-club/images/annualworkshop-1.png",
+      "/clubs/ham-club/images/building-antenna.png"
     ],
     "events": [
       {
@@ -557,7 +554,7 @@
       }
     ],
     "division": "Robotics, Electronics & Core Tech",
-    "logo": "/clubs/ham-club/HAM_logo.png"
+    "logo": "/clubs/ham-club/ham-logo.png"
   },
   {
     "id": "ieee-rvce",
@@ -573,8 +570,8 @@
     "instagram": "@ieee_rvce",
     "venue": "CSE - CRB - 001",
     "images": [
-      "/clubs/ieee-rvce/images/CSITSS-2025.jpeg",
-      "/clubs/ieee-rvce/images/IMG_0821.jpg"
+      "/clubs/ieee-rvce/images/csitss-2025-1.jpeg",
+      "/clubs/ieee-rvce/images/img-0821.jpg"
     ],
     "events": [
       {
@@ -607,7 +604,7 @@
       }
     ],
     "division": "Robotics, Electronics & Core Tech",
-    "logo": "/clubs/ieee-rvce/IEEE CLUB LOGO.jpg"
+    "logo": "/clubs/ieee-rvce/ieee-club-logo.jpg"
   },
   {
     "id": "kannada-carv",
@@ -726,8 +723,8 @@
     "instagram": "nss_rvce_",
     "venue": "ECE Seminar Hall",
     "images": [
-      "https://lh3.googleusercontent.com/d/1W3AYnae6IxQ5OOba4mq8z1GICcMwBzEz",
-      "https://lh3.googleusercontent.com/d/1GmL7k3ux3l3czwmCyucnXq7uwkJBLE5Z"
+      "/clubs/nss-rvce/images/image.jpeg",
+      "/clubs/nss-rvce/images/screenshot-2025-08-19-000823.jpeg"
     ],
     "events": [
       {
@@ -760,7 +757,7 @@
       }
     ],
     "division": "Regional, Social Service & Youth Leadership",
-    "logo": "https://lh3.googleusercontent.com/d/1OjNXBCt9TJ6Ei3mIgQsmDAjtXMsb_HiG"
+    "logo": "/clubs/nss-rvce/logo-1.jpeg"
   },
   {
     "id": "project-jatayu",
@@ -776,8 +773,8 @@
     "instagram": "projectjatayu",
     "venue": "AS002",
     "images": [
-      "/clubs/project-jatayu/images/med assistance drone.jpeg",
-      "/clubs/project-jatayu/images/naval academy.jpeg"
+      "/clubs/project-jatayu/images/med-assistance-drone.jpeg",
+      "/clubs/project-jatayu/images/naval-academy.jpeg"
     ],
     "events": [
       {
@@ -904,9 +901,8 @@
     "instagram": "@rvceraag",
     "venue": "CH-104(Chemical Department)",
     "images": [
-      "https://lh3.googleusercontent.com/d/1LIkZnVOq1RyHjV4sID8ve7urX4eOptyc",
-      "https://lh3.googleusercontent.com/d/1dZySDwxCEZCr1I6gjKxwXpDuqEeAZC_Q",
-      "https://lh3.googleusercontent.com/d/13Ekq0noZP-i9dm2WaSQKcXHjtI8xfFCt"
+      "/clubs/raag/images/whatsapp-image-2026-08-12-at-11-22-35-pm.jpeg",
+      "/clubs/raag/images/whatsapp-image-2026-08-12-at-11-22-36-pm.jpeg"
     ],
     "events": [
       {
@@ -939,7 +935,7 @@
       }
     ],
     "division": "Regional, Social Service & Youth Leadership",
-    "logo": "https://lh3.googleusercontent.com/d/1H4RAVSXzJg826e7oq3FFNPXM_pY9ewVK"
+    "logo": "/clubs/raag/img-7865.jpg"
   },
   {
     "id": "rotaract-club-of-r-v-c-e-",
@@ -955,7 +951,7 @@
     "instagram": "rotaractrvce",
     "venue": "ECE Seminar Hall",
     "images": [
-      "/clubs/rotaract-club-of-r-v-c-e-/images/HG.jpeg",
+      "/clubs/rotaract-club-of-r-v-c-e-/images/hg-1.jpeg",
       "/clubs/rotaract-club-of-r-v-c-e-/images/navrang.jpeg"
     ],
     "events": [
@@ -1005,10 +1001,8 @@
     "instagram": "@rvce_wic_insidercircle",
     "venue": "ISE 110",
     "images": [
-      "https://lh3.googleusercontent.com/d/11uhRizJapAfLHZNEq1IKdZtlgv530r90",
-      "https://lh3.googleusercontent.com/d/1WASfkSh-yy0XEi8oGvj4d6aHwsTugVlQ",
-      "https://lh3.googleusercontent.com/d/1pt8wOLqYzh1xP3B6O2RH1buk01F0SYzX",
-      "https://lh3.googleusercontent.com/d/1cgdDHyqZIbTmNswWP-zHGBfBGUjJlabI"
+      "/clubs/rvce-women-in-cloud-insider-circle/images/photo-2024-11-21-08-53-58-1.jpeg",
+      "/clubs/rvce-women-in-cloud-insider-circle/images/photo-2025-04-16-16-29-03-1.jpeg"
     ],
     "events": [
       {
@@ -1041,7 +1035,7 @@
       }
     ],
     "division": "Computer Science, Software & AI",
-    "logo": "https://lh3.googleusercontent.com/d/11uail8ncL48gPBQnkipSE2k_f2jpnkHF"
+    "logo": "/clubs/rvce-women-in-cloud-insider-circle/wic-logo.jpeg"
   },
   {
     "id": "sattva",
@@ -1057,8 +1051,8 @@
     "instagram": "@sattva.rvce",
     "venue": "BT217 Classroom",
     "images": [
-      "/clubs/sattva/images/20251206_123338.jpg",
-      "/clubs/sattva/images/IMG-20251206-WA0051.jpg"
+      "/clubs/sattva/images/20251206-123338.jpg",
+      "/clubs/sattva/images/img-20251206-wa0051-1.jpg"
     ],
     "events": [
       {
@@ -1091,7 +1085,7 @@
       }
     ],
     "division": "Regional, Social Service & Youth Leadership",
-    "logo": "/clubs/sattva/SATTVA ART CLUB LOGO.png"
+    "logo": "/clubs/sattva/sattva-art-club-logo.png"
   },
   {
     "id": "spark-the-iucee-student-chapter",
@@ -1107,8 +1101,8 @@
     "instagram": "spark_rvce",
     "venue": "CE 205 : Department of Civil Engineering",
     "images": [
-      "/clubs/spark-the-iucee-student-chapter/images/IASF.jpeg",
-      "/clubs/spark-the-iucee-student-chapter/images/MUN.jpg"
+      "/clubs/spark-the-iucee-student-chapter/images/iasf-1.jpeg",
+      "/clubs/spark-the-iucee-student-chapter/images/mun-1.jpg"
     ],
     "events": [
       {
@@ -1157,8 +1151,8 @@
     "instagram": "@teamantarikshofficial",
     "venue": "AS001",
     "images": [
-      "/clubs/team-antariksh/images/TA 2024 Mingos Banner (Long) (190x65cm) (Orange) (1).png",
-      "/clubs/team-antariksh/images/WhatsApp Image 2026-02-01 at 12.31.46 PM.jpeg"
+      "/clubs/team-antariksh/images/ta-2024-mingos-banner-long-190x65cm-orange-1.png",
+      "/clubs/team-antariksh/images/whatsapp-image-2026-02-01-at-12-31-46-pm.jpeg"
     ],
     "events": [
       {
@@ -1191,7 +1185,7 @@
       }
     ],
     "division": "Space, Drone & Aerospace",
-    "logo": "/clubs/team-antariksh/Copy of Full TA logo.png"
+    "logo": "/clubs/team-antariksh/copy-of-full-ta-logo.png"
   },
   {
     "id": "team-astra-robotics",
@@ -1207,8 +1201,8 @@
     "instagram": "@astra_robotics",
     "venue": "MCA Seminar Hall",
     "images": [
-      "/clubs/team-astra-robotics/images/WhatsApp Image 2026-08-11 at 17.56.53 (3).jpeg",
-      "/clubs/team-astra-robotics/images/WhatsApp Image 2026-08-11 at 17.56.53 (5).jpeg"
+      "/clubs/team-astra-robotics/images/whatsapp-image-2026-08-11-at-17-56-53-3.jpeg",
+      "/clubs/team-astra-robotics/images/whatsapp-image-2026-08-11-at-17-56-53-5.jpeg"
     ],
     "events": [
       {
@@ -1257,11 +1251,8 @@
     "instagram": "@team_chimera",
     "venue": "EE112",
     "images": [
-      "https://lh3.googleusercontent.com/d/1V0CXMNtXrxfXVDEjhGeIru1ZSChRvIzx",
-      "https://lh3.googleusercontent.com/d/1cZ9fhoYPRkHgt2IrSOiIcHIyq03QkCAI",
-      "https://lh3.googleusercontent.com/d/1ryOKGG6ooYwMOqoRTS_knyjckMZNVRBP",
-      "https://lh3.googleusercontent.com/d/1iJ2wksajXmjL1xszMiQdLYWIPsYoobLX",
-      "https://lh3.googleusercontent.com/d/1zV77A0YcLYs2Fa4cEbMFCYlxB99hciAb"
+      "/clubs/team-chimera/images/1000077587.jpg",
+      "/clubs/team-chimera/images/1000077588.jpg"
     ],
     "events": [
       {
@@ -1308,7 +1299,7 @@
       }
     ],
     "division": "Racing & Automotive",
-    "logo": "https://lh3.googleusercontent.com/d/17KIb6wxj_Tp5x8FdTvwB5iLDkw-g6W_J"
+    "logo": "/clubs/team-chimera/1000077590.jpg"
   },
   {
     "id": "team-dhi",
@@ -1324,8 +1315,8 @@
     "instagram": "@team.dhi",
     "venue": "ISE Seminar Hall",
     "images": [
-      "/clubs/team-dhi/images/IMG-20260524-WA0060.jpg",
-      "/clubs/team-dhi/images/IMG-20260524-WA0067.jpg"
+      "/clubs/team-dhi/images/img-20260524-wa0060-1.jpg",
+      "/clubs/team-dhi/images/img-20260524-wa0067-1.jpg"
     ],
     "events": [
       {
@@ -1351,7 +1342,7 @@
       }
     ],
     "division": "Computer Science, Software & AI",
-    "logo": "/clubs/team-dhi/Team Dhi logo (1).png"
+    "logo": "/clubs/team-dhi/team-dhi-logo-1.png"
   },
   {
     "id": "team-dhruva",
@@ -1401,7 +1392,7 @@
       }
     ],
     "division": "Astronomy & Interdisciplinary Engineering",
-    "logo": "/clubs/team-dhruva/dhruva logo.jpg"
+    "logo": "/clubs/team-dhruva/dhruva-logo.jpg"
   },
   {
     "id": "team-elektra",
@@ -1418,7 +1409,7 @@
     "venue": "DTH",
     "images": [
       "/clubs/team-elektra/images/car.png",
-      "/clubs/team-elektra/images/image_2026-07-15_210253823-removebg-preview.png"
+      "/clubs/team-elektra/images/image-2026-07-15-210253823-removebg-preview.png"
     ],
     "events": [
       {
@@ -1451,7 +1442,7 @@
       }
     ],
     "division": "Robotics, Electronics & Core Tech",
-    "logo": "/clubs/team-elektra/ELEKTRA LIGHT THEME LOGO MAIN.png"
+    "logo": "/clubs/team-elektra/elektra-light-theme-logo-main.png"
   },
   {
     "id": "team-helios-racing",
@@ -1551,7 +1542,7 @@
       }
     ],
     "division": "Astronomy & Interdisciplinary Engineering",
-    "logo": "/clubs/team-krushi/krushi.logo (2).png"
+    "logo": "/clubs/team-krushi/krushi-logo-2.png"
   },
   {
     "id": "team-vyoma",
@@ -1567,8 +1558,8 @@
     "instagram": "@tv_rvce",
     "venue": "Seminar Hall",
     "images": [
-      "https://picsum.photos/seed/TV1/800/400",
-      "https://picsum.photos/seed/TV2/800/400"
+      "/clubs/team-vyoma/images/whatsapp-image-2026-08-13-at-23-46-25-1.jpeg",
+      "/clubs/team-vyoma/images/whatsapp-image-2026-08-13-at-23-46-25-2.jpeg"
     ],
     "events": [
       {
@@ -1579,7 +1570,8 @@
         "detail": "Introduction to our club activities and roadmap for the year."
       }
     ],
-    "division": "Space, Drone & Aerospace"
+    "division": "Space, Drone & Aerospace",
+    "logo": "/clubs/team-vyoma/vyomalogo-1.jpeg"
   },
   {
     "id": "tedxrvce",
@@ -1596,7 +1588,7 @@
     "venue": "The Reel Room",
     "images": [
       "/clubs/tedxrvce/images/2.jpeg",
-      "/clubs/tedxrvce/images/Team pic.jpeg"
+      "/clubs/tedxrvce/images/team-pic.jpeg"
     ],
     "events": [
       {

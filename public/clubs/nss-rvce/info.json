@@ -12,8 +12,8 @@
   "instagram": "nss_rvce_",
   "venue": "ECE Seminar Hall",
   "images": [
-    "https://lh3.googleusercontent.com/d/1W3AYnae6IxQ5OOba4mq8z1GICcMwBzEz",
-    "https://lh3.googleusercontent.com/d/1GmL7k3ux3l3czwmCyucnXq7uwkJBLE5Z"
+    "/clubs/nss-rvce/images/image.jpeg",
+    "/clubs/nss-rvce/images/screenshot-2025-08-19-000823.jpeg"
   ],
   "events": [
     {
@@ -46,5 +46,5 @@
     }
   ],
   "division": "Regional, Social Service & Youth Leadership",
-  "logo": "https://lh3.googleusercontent.com/d/1OjNXBCt9TJ6Ei3mIgQsmDAjtXMsb_HiG"
+  "logo": "/clubs/nss-rvce/logo-1.jpeg"
 }

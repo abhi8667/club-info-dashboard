@@ -12,11 +12,8 @@
   "instagram": "@team_chimera",
   "venue": "EE112",
   "images": [
-    "https://lh3.googleusercontent.com/d/1V0CXMNtXrxfXVDEjhGeIru1ZSChRvIzx",
-    "https://lh3.googleusercontent.com/d/1cZ9fhoYPRkHgt2IrSOiIcHIyq03QkCAI",
-    "https://lh3.googleusercontent.com/d/1ryOKGG6ooYwMOqoRTS_knyjckMZNVRBP",
-    "https://lh3.googleusercontent.com/d/1iJ2wksajXmjL1xszMiQdLYWIPsYoobLX",
-    "https://lh3.googleusercontent.com/d/1zV77A0YcLYs2Fa4cEbMFCYlxB99hciAb"
+    "/clubs/team-chimera/images/1000077587.jpg",
+    "/clubs/team-chimera/images/1000077588.jpg"
   ],
   "events": [
     {
@@ -63,5 +60,5 @@
     }
   ],
   "division": "Racing & Automotive",
-  "logo": "https://lh3.googleusercontent.com/d/17KIb6wxj_Tp5x8FdTvwB5iLDkw-g6W_J"
+  "logo": "/clubs/team-chimera/1000077590.jpg"
 }

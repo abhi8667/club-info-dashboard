@@ -12,11 +12,8 @@
   "instagram": "ecell_rvce",
   "venue": "MCA Seminar Hall",
   "images": [
-    "https://lh3.googleusercontent.com/d/1hnoBJryfzmuELZii3t7zWP2KrA1_la6F",
-    "https://lh3.googleusercontent.com/d/1iFt4qSZgbSJa2oN1LW2him_OjKAMXA5G",
-    "https://lh3.googleusercontent.com/d/1LKPUv8IOuIgqLpLWZtv-BXW29Fb-1bQc",
-    "https://lh3.googleusercontent.com/d/1UrNoWsNTPlLob4SB9X1x8wLgfvGZufJu",
-    "https://lh3.googleusercontent.com/d/1a43h0h4m50lZanEY9GM85jPUAep_fxc3"
+    "/clubs/ecell/images/whatsapp-image-2026-08-12-at-11-48-39-pm-1.jpeg",
+    "/clubs/ecell/images/whatsapp-image-2026-08-12-at-11-48-39-pm.jpeg"
   ],
   "events": [
     {
@@ -49,5 +46,5 @@
     }
   ],
   "division": "Entrepreneurship & Innovation",
-  "logo": "https://lh3.googleusercontent.com/d/1de-RKqBOMg9q1uQ8NWz1oRgDt9qP47NG"
+  "logo": "/clubs/ecell/copy-of-ecell-blk.png"
 }

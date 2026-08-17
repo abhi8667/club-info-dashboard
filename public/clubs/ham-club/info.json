@@ -12,8 +12,8 @@
   "instagram": "rvcehamclub",
   "venue": "BT Quadrangle",
   "images": [
-    "/clubs/ham-club/images/AnnualWorkshop.png",
-    "/clubs/ham-club/images/Building_antenna.png"
+    "/clubs/ham-club/images/annualworkshop-1.png",
+    "/clubs/ham-club/images/building-antenna.png"
   ],
   "events": [
     {
@@ -46,5 +46,5 @@
     }
   ],
   "division": "Robotics, Electronics & Core Tech",
-  "logo": "/clubs/ham-club/HAM_logo.png"
+  "logo": "/clubs/ham-club/ham-logo.png"
 }
