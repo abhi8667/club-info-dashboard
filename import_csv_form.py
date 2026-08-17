@@ -40,6 +40,7 @@ EXPLICIT_MAP = {
     'sattva art club of rvce': 'sattva',
     'accelerate club rvce': 'accelerate-club-rvce',
     'quantum club rvce': 'quantum-club-rvce',
+    'quantum club - anoraniya': 'quantum-club-rvce',
     'team dhi': 'team-dhi',
     'team krushi': 'team-krushi',
     'team vyoma': 'team-vyoma',

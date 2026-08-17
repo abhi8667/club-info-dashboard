@@ -18,29 +18,29 @@
   "events": [
     {
       "name": "Reverse Research Engineering",
-      "date": "Aug 28/29",
-      "time": "Showcase Day BT Seminar Hall (BioTech Department Seminar Hall)",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
       "venue": "BT Seminar Hall (BioTech Department Seminar Hall)",
       "detail": "An event that gamifies academic writing by challenging teams to decode computer science papers, either inventing an abstract based solely on a descriptive title or engineering a professional title from a redacted abstract. Guided by structural clue sheets and evaluated against the actual published papers, students strip away the intimidation of research while learning how cutting-edge technology is structurally presented."
     },
     {
       "name": "ByteStorm – CS Ideathon",
-      "date": "Aug 28/29",
-      "time": "Showcase Day BT Seminar Hall (BioTech Department Seminar Hall)",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
       "venue": "BT Seminar Hall (BioTech Department Seminar Hall)",
       "detail": "Teams will be given a set of technology-related keywords and must brainstorm an innovative idea around them. Like Shark Tank, participants will pitch their concept to a panel of judges—no coding or prototypes required, just creativity, logic, and a compelling vision."
     },
     {
       "name": "Tech-Trap: The Tech-Bluff Tournament",
-      "date": "Aug 28/29",
-      "time": "Showcase Day BT Seminar Hall (BioTech Department Seminar Hall)",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
       "venue": "BT Seminar Hall (BioTech Department Seminar Hall)",
       "detail": "The event challenges teams to construct a plausible technical paragraph using a given set of terms while intentionally concealing a logical or structural engineering fallacy. Presenting teams attempt to deliver their pitch with absolute confidence, while competing audience members act as rigorous code-reviewers racing to spot the hidden trap and claim the points."
     },
     {
       "name": "Tech Time Capsule",
-      "date": "Aug 28/29",
-      "time": "Showcase Day BT Seminar Hall (BioTech Department Seminar Hall)",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
       "venue": "BT Seminar Hall (BioTech Department Seminar Hall)",
       "detail": "Travel through time by stepping into a randomly assigned era of computing, from the early days of personal computers to a futuristic AI-powered world. Teams must analyze the technological landscape of their timeline and pitch an innovative solution that fits its possibilities and limitations."
     }

@@ -3,25 +3,46 @@
   "name": "Team Vyoma",
   "shortName": "TV",
   "category": "Technical",
-  "description": "Welcome to Team Vyoma! We are a dynamic community of students passionate about our field. Join us to explore, learn, and grow through our various activities and projects.",
+  "description": "We are the aeromodelling club of Rvce. We research and build RC planes.We predominantly participate in huge completions like iit Bombay, itt Chennai,JSS mysore etc.",
   "color": "#d6eff3",
   "accent": "#256a75",
   "symbol": "V",
   "lead": "Student Lead",
-  "email": "contact@tv.rvce.edu.in",
-  "instagram": "@tv_rvce",
-  "venue": "Seminar Hall",
+  "email": "Saranya -9972235841 Rishit-9148169291",
+  "instagram": "@teamvyomaoffial",
+  "venue": "AS002",
   "images": [
     "/clubs/team-vyoma/images/whatsapp-image-2026-08-13-at-23-46-25-1.jpeg",
     "/clubs/team-vyoma/images/whatsapp-image-2026-08-13-at-23-46-25-2.jpeg"
   ],
   "events": [
     {
-      "name": "Team Vyoma Orientation",
-      "date": "Aug 28",
-      "time": "TBD",
-      "venue": "TBD",
-      "detail": "Introduction to our club activities and roadmap for the year."
+      "name": "Build, Balance & Fly",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "AS002",
+      "detail": "Participants will design and manufacture an RC aircraft while applying principles of aerodynamics, structures, propulsion and flight control. The challenge is to transform their design into a functional aircraft capable of successful flight."
+    },
+    {
+      "name": "Know Your Skies: Aviation Quiz and debate challenge",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "AS002",
+      "detail": "A fast-paced quiz and debate that tests participants’ knowledge of aircraft, aviation history, aerospace technology, flight systems and famous aviation milestones. Participants will compete through multiple rounds that challenge their knowledge, memory and quick thinking."
+    },
+    {
+      "name": "Take the Controls: Flight Simulator Challenge",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "AS002",
+      "detail": "Participants will operate a flight simulator and experience realistic aircraft operations, navigation, take-off, flight and landing scenarios. Their performance will be evaluated based on precision, decision-making, situational awareness and flying skills."
+    },
+    {
+      "name": "Flight Detective: Black Box Investigation",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "AS002",
+      "detail": "Participants will investigate a simulated aircraft accident by analysing black-box data, flight parameters, cockpit information and available evidence. They must reconstruct the sequence of events, identify the probable cause and present their investigation findings."
     }
   ],
   "division": "Space, Drone & Aerospace",
