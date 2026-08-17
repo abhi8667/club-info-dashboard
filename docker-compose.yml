@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  club-dashboard:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: club_showcase_rvce
+    restart: always
+    ports:
+      - "8080:80"
+    environment:
+      - NODE_ENV=production
