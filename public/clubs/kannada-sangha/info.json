@@ -12,11 +12,8 @@
   "instagram": "@kannadasangharvce",
   "venue": "CS Ground",
   "images": [
-    "https://lh3.googleusercontent.com/d/1bEtaOel9Jyqt_53uGV4va5UcKGWqdvqR",
-    "https://lh3.googleusercontent.com/d/1N3I26W_8DojVVAUDOij-aIeue93tmxDC",
-    "https://lh3.googleusercontent.com/d/1RgPc5DQ-mbdc4Lg9tLPZYaFwr8UL2BSH",
-    "https://lh3.googleusercontent.com/d/1vDa4Aea0ThOMGinEh38F7VboDm5ia6hG",
-    "https://lh3.googleusercontent.com/d/1b_J21QPcmWOx8-md5ZsMZC9hvvUW5ezu"
+    "/clubs/kannada-sangha/images/4.png",
+    "/clubs/kannada-sangha/images/5.png"
   ],
   "events": [
     {
@@ -49,5 +46,5 @@
     }
   ],
   "division": "Regional, Social Service & Youth Leadership",
-  "logo": "https://lh3.googleusercontent.com/d/1bays54xP_geEjRwVq8yVYLVtwBUs7uQT"
+  "logo": "/clubs/kannada-sangha/logo.png"
 }

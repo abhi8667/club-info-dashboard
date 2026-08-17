@@ -3,26 +3,48 @@
   "name": "ASHWA RACING",
   "shortName": "AR",
   "category": "Technical",
-  "description": "Ashwa Racing, India’s first Formula Student team, has been driving innovation since 2003. From building its first prototype in 2005 to competing at FSAE Australasia, FS Germany, and FS Italy, the team has proudly represented India on the global stage. In 2015, Ashwa ventured into hybrid technology, earning a world top-10 rank in its very first attempt. Today, with over 20 years of legacy, the team builds multiple prototypes annually across combustion and hybrid categories, backed by strong industry collaborations and a vision to shape the future of mobility.",
+  "description": "Established in 2003 under the Ashwa Mobility Foundation, Ashwa Racing is one of India's premier collegiate motorsports teams with consistent national and global Formula Student participation spanning over two decades. Ashwa Racing carries a string of national firsts. We fielded India's first-ever Formula Student entry at FSAE Australasia in 2005, and the same year produced Asia's first Formula Student vehicle at that event. In 2014, we became the first Indian team to build both a Hybrid and a Combustion car in a single race season. In 2017, we became the first team in Formula Hybrid history to clear Mechanical Inspection on the first attempt!",
   "color": "#d9e5ff",
   "accent": "#214a9a",
   "symbol": "A",
   "lead": "Student Lead",
-  "email": "contact@ar.rvce.edu.in",
-  "instagram": "@ar_rvce",
-  "venue": "Seminar Hall",
+  "email": "9019535410",
+  "instagram": "@ashwa_racing",
+  "venue": "Civil Straight and request to put up stalls for other activities we have planned",
   "images": [
-    "https://picsum.photos/seed/AR1/800/400",
-    "https://picsum.photos/seed/AR2/800/400"
+    "/clubs/ashwa-racing/images/1000316609.jpg",
+    "/clubs/ashwa-racing/images/1000316610.jpg"
   ],
   "events": [
     {
-      "name": "ASHWA RACING Orientation",
-      "date": "Aug 28",
-      "time": "TBD",
-      "venue": "TBD",
-      "detail": "Introduction to our club activities and roadmap for the year."
+      "name": "Prototype Showcase",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "Civil Straight and request to put up stalls for other activities we have planned",
+      "detail": "Running the car infront of the civil straight in a controlled environment while following all safety protocols."
+    },
+    {
+      "name": "Workshop tour",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "Civil Straight and request to put up stalls for other activities we have planned",
+      "detail": "Display of our projects and an interactive session and a general tour of the Ashwa Racing workshop"
+    },
+    {
+      "name": "Pit-stop challenge",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "Civil Straight and request to put up stalls for other activities we have planned",
+      "detail": "Group of students compete with each other to swap the tyres of the car the quickest."
+    },
+    {
+      "name": "Reflex Rampage",
+      "date": "Aug 29",
+      "time": "Showcase Day 2",
+      "venue": "Civil Straight and request to put up stalls for other activities we have planned",
+      "detail": "Compete with other students for the quickest reaction time challenge"
     }
   ],
-  "division": "Racing & Automotive"
+  "division": "Racing & Automotive",
+  "logo": "/clubs/ashwa-racing/1000316721.jpg"
 }
