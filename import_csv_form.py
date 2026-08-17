@@ -20,6 +20,7 @@ EXPLICIT_MAP = {
     'carv hindi': 'carv-hindi',
     'carv english': 'carv-english',
     'kannada carv': 'kannada-carv',
+    'kannada - carv': 'kannada-carv',
     'google developer groups': 'gdg-rvce',
     'association of computing machinery (acm rvce)': 'acm-rvce',
     'team dhruva': 'team-dhruva',
