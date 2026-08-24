@@ -1,0 +1,46 @@
+{
+  "id": "carv-english",
+  "name": "CARV English",
+  "shortName": "CE",
+  "category": "Non-Technical",
+  "division": "Cultural, Dramatics & Music",
+  "description": "CARV English is a center stage theater club based in Bangalore. Established in 2001, the troupe performs stage plays at major inter collegiate fests across India and also hosts their independent flagship events - Coliseum & Productions.",
+  "color": "#fce7f3",
+  "accent": "#9d174d",
+  "symbol": "🎭",
+  "lead": "Student Lead",
+  "email": "Vishal- 7204414960, Sharanya-7892047564",
+  "instagram": "@carv_english",
+  "venue": "ISE Seminar Hall",
+  "images": [],
+  "events": [
+    {
+      "name": "Theater Play Showcase",
+      "date": "29th Aug",
+      "time": "2nd Half",
+      "venue": "ISE Seminar Hall",
+      "detail": "Members will put on a theatrical performance to introduce the club. After this an acting worskhop will be held."
+    },
+    {
+      "name": "Emotion Quadrant Game",
+      "date": "29th Aug",
+      "time": "2nd Half",
+      "venue": "ISE Seminar Hall",
+      "detail": "Engaging game to teach the students how to express and sustain different emotions and how it works in theater"
+    },
+    {
+      "name": "Improv game",
+      "date": "29th Aug",
+      "time": "2nd Half",
+      "venue": "ISE Seminar Hall",
+      "detail": "Fun game that allows the audience and players to be more spontaneous and creative. to encourages thinking beyond a script"
+    },
+    {
+      "name": "Jeopardy",
+      "date": "29th Aug",
+      "time": "2nd Half",
+      "venue": "ISE Seminar Hall",
+      "detail": "Theater based quizzes and interactive games."
+    }
+  ]
+}

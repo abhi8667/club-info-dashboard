@@ -15,7 +15,36 @@
     "/clubs/kannada-sangha/images/4.png",
     "/clubs/kannada-sangha/images/5.png"
   ],
-  "events": [],
+  "events": [
+    {
+      "name": "No Event",
+      "date": "Aug 28/29",
+      "time": "Showcase",
+      "venue": "No Event",
+      "detail": "No Event"
+    },
+    {
+      "name": "No Event",
+      "date": "Aug 28/29",
+      "time": "Showcase",
+      "venue": "No Event",
+      "detail": "No Event"
+    },
+    {
+      "name": "No Event",
+      "date": "Aug 28/29",
+      "time": "Showcase",
+      "venue": "No Event",
+      "detail": "No Event"
+    },
+    {
+      "name": "No Event",
+      "date": "Aug 28/29",
+      "time": "Showcase",
+      "venue": "No Event",
+      "detail": "No Event"
+    }
+  ],
   "division": "Regional, Social Service & Youth Leadership",
   "logo": "/clubs/kannada-sangha/logo.png"
 }

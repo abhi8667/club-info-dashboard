@@ -19,8 +19,8 @@ The **RVCE Club Showcase** serves as the central digital portal for exploring 34
   - 🤖 **Robotics, Electronics & Core Tech** (*Astra Robotics, Team Elektra, IEEE, HAM Club, Quantum*)
   - 🔭 **Astronomy** (*Team Dhruva - Observational astronomy & celestial research*)
   - ⚙️ **Industry Connect & Interdisciplinary** (*SPARK IUCEE, Team Krushi*)
-  - 🎭 **Cultural, Dramatics & Music** (*CARV Hindi/Kannada, Alaap, Raag, Evoke, Sattva, F/6.3*)
-  - 🎙️ **Literary, Quizzing & Public Speaking** (*Quizcorp, Debate Society, TEDxRVCE, Rotaract, E-Cell, NSS*)
+  - 🎭 **Cultural, Dramatics & Music** (*CARV English/Hindi/Kannada, Alaap, Raag, Evoke, Sattva, F/6.3*)
+  - 🎙️ **Literary, Quizzing & Public Speaking** (*Quizcorp, Debate Society, TEDxRVCE, Rotaract, E-Cell, NSS, NCC*)
 
 - 🔍 **Instant Live Search & Filtering**: Fast, responsive search across club names, descriptions, and categories (`Technical` vs. `Non-Technical`).
 - 🎲 **"Shuffle" Randomizer**: Interactive discovery button to shuffle and explore clubs randomly.

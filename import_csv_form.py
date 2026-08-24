@@ -47,6 +47,8 @@ EXPLICIT_MAP = {
     'kannada carv': 'kannada-carv',
     'kannada - carv': 'kannada-carv',
     'google developer groups': 'gdg-rvce',
+    'google developer groups rvce': 'gdg-rvce',
+    'ncc rvce': 'ncc-rvce',
     'association of computing machinery (acm rvce)': 'acm-rvce',
     'team dhruva': 'team-dhruva',
     'project jatayu': 'project-jatayu',
@@ -168,8 +170,50 @@ def main():
                         match = c
                         break
 
+            if not match:
+                new_id = target_id or re.sub(r'[^a-z0-9]+', '-', name.lower()).strip('-')
+                category = 'Technical' if 'tech' in category_raw.lower() and 'non' not in category_raw.lower() else 'Non-Technical'
+                
+                if 'carv' in new_id:
+                    division = 'Cultural, Dramatics & Music'
+                    color = '#fce7f3'
+                    accent = '#9d174d'
+                    symbol = '🎭'
+                elif 'ncc' in new_id:
+                    division = 'Regional, Social Service & Youth Leadership'
+                    color = '#ffedd5'
+                    accent = '#9a3412'
+                    symbol = '🤝'
+                else:
+                    division = 'Computer Science, Software & AI' if category == 'Technical' else 'Regional, Social Service & Youth Leadership'
+                    color = '#dbeafe' if category == 'Technical' else '#ffedd5'
+                    accent = '#1e40af' if category == 'Technical' else '#9a3412'
+                    symbol = '💻' if category == 'Technical' else '🤝'
+
+                words = [w for w in name.split() if w]
+                short_name = ''.join([w[0].upper() for w in words])[:3]
+                
+                match = {
+                    'id': new_id,
+                    'name': name,
+                    'shortName': short_name,
+                    'category': category,
+                    'division': division,
+                    'description': desc_raw,
+                    'color': color,
+                    'accent': accent,
+                    'symbol': symbol,
+                    'lead': 'Student Lead',
+                    'email': contact_raw,
+                    'instagram': '@' + new_id.replace('-', ''),
+                    'venue': venue_raw,
+                    'images': [],
+                    'events': events
+                }
+                clubs.append(match)
+                print(f"[CREATED NEW CLUB] '{name}' (ID: {new_id})")
+
             if match:
-                print(f"[MATCHED] '{name}' -> '{match['name']}' (ID: {match['id']})")
                 if desc_raw:
                     match['description'] = desc_raw
                 if venue_raw:
@@ -195,8 +239,6 @@ def main():
                 if contact_raw:
                     match['email'] = contact_raw
                 updated_count += 1
-            else:
-                print(f"[WARNING] Could not find match for '{name}'")
 
     # 4. Save updated data/clubs.json
     with open(clubs_path, 'w', encoding='utf-8') as f:
@@ -206,10 +248,11 @@ def main():
     base_dir = os.path.join('public', 'clubs')
     for c in clubs:
         cid = c['id']
-        info_file = os.path.join(base_dir, cid, 'info.json')
-        if os.path.exists(os.path.dirname(info_file)):
-            with open(info_file, 'w', encoding='utf-8') as f:
-                json.dump(c, f, indent=2, ensure_ascii=False)
+        club_folder = os.path.join(base_dir, cid)
+        os.makedirs(club_folder, exist_ok=True)
+        info_file = os.path.join(club_folder, 'info.json')
+        with open(info_file, 'w', encoding='utf-8') as f:
+            json.dump(c, f, indent=2, ensure_ascii=False)
         
     print(f"\nSuccessfully updated {updated_count} clubs in 'data/clubs.json' and 'public/clubs/'!")
 
