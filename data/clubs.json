@@ -10,7 +10,7 @@
     "symbol": "A",
     "lead": "Student Lead",
     "email": "contact@ac.rvce.edu.in",
-    "instagram": "@ac_rvce",
+    "instagram": "accelerate_rvce",
     "venue": "Chemical Seminar Hall",
     "images": [
       "/clubs/accelerate-club-rvce/images/honeywell-1.jpg",
@@ -191,7 +191,7 @@
     "lead": "Student Lead",
     "email": "Vishal- 7204414960, Sharanya-7892047564",
     "instagram": "@carv_english",
-    "venue": "ISE Seminar Hall",
+    "venue": "ISE Classroom",
     "images": [
       "/clubs/carv-english/images/carv-showcase-1.jpeg",
       "/clubs/carv-english/images/carv-showcase-2.jpeg"
@@ -201,28 +201,28 @@
         "name": "Theater Play Showcase",
         "date": "29th Aug",
         "time": "2nd Half",
-        "venue": "ISE Seminar Hall",
+        "venue": "ISE Classroom",
         "detail": "Members will put on a theatrical performance to introduce the club. After this an acting worskhop will be held."
       },
       {
         "name": "Emotion Quadrant Game",
         "date": "29th Aug",
         "time": "2nd Half",
-        "venue": "ISE Seminar Hall",
+        "venue": "ISE Classroom",
         "detail": "Engaging game to teach the students how to express and sustain different emotions and how it works in theater"
       },
       {
         "name": "Improv game",
         "date": "29th Aug",
         "time": "2nd Half",
-        "venue": "ISE Seminar Hall",
+        "venue": "ISE Classroom",
         "detail": "Fun game that allows the audience and players to be more spontaneous and creative. to encourages thinking beyond a script"
       },
       {
         "name": "Jeopardy",
         "date": "29th Aug",
         "time": "2nd Half",
-        "venue": "ISE Seminar Hall",
+        "venue": "ISE Classroom",
         "detail": "Theater based quizzes and interactive games."
       }
     ],
@@ -426,7 +426,7 @@
       }
     ],
     "division": "Entrepreneurship & Innovation",
-    "logo": "/clubs/ecell/logo.jpeg"
+    "logo": "/clubs/ecell/logo.png"
   },
   {
     "id": "evoke",
@@ -529,6 +529,27 @@
     "logo": "/clubs/f-6-3-photography/logo.png"
   },
   {
+    "id": "footprints",
+    "name": "Footprints",
+    "shortName": "FP",
+    "category": "Non-Technical",
+    "description": "Footprints is the official dance club of RVCE, fostering artistic excellence and providing students a platform to explore and showcase their talent. The club participates in intercollegiate competitions and promotes creativity, discipline, and teamwork through three core teams: Adhitthana (Classical), Dhritarang (Eastern and Contemporary), and Enigma (Western and Hip-Hop).",
+    "color": "#fbcfe8",
+    "accent": "#9d174d",
+    "symbol": "💃",
+    "lead": "Student Lead",
+    "email": "footprints@rvce.edu.in",
+    "instagram": "@footprints_rvce",
+    "venue": "No Event",
+    "images": [
+      "/clubs/footprints/images/footprints-1.jpeg",
+      "/clubs/footprints/images/footprints-2.jpeg"
+    ],
+    "events": [],
+    "division": "Cultural, Dramatics & Music",
+    "logo": "/clubs/footprints/logo.jpeg"
+  },
+  {
     "id": "gdg-rvce",
     "name": "Google Developer Groups RVCE",
     "shortName": "GDG",
@@ -540,7 +561,7 @@
     "lead": "Student Lead",
     "email": "7349096003 - gdg lead",
     "instagram": "@gdg_rvce",
-    "venue": "Civil Seminar Hall",
+    "venue": "MCA Seminar Hall",
     "images": [
       "/clubs/gdg-rvce/images/gdg-pic-1.jpeg",
       "/clubs/gdg-rvce/images/gdg-pic-2.jpeg"
@@ -550,33 +571,33 @@
         "name": "Beat Gemini: The Turing Challenge",
         "date": "28th Aug",
         "time": "1st Half",
-        "venue": "Civil Seminar Hall",
+        "venue": "MCA Seminar Hall",
         "detail": "An event inspired by the Turing Test where participants compete to identify whether the content they're seeing was created by a human or by Gemini. Through multiple rounds, participants experience AI capabilities while learning about both its strengths and limitations."
       },
       {
         "name": "Open Source Odyssey",
         "date": "28th Aug",
         "time": "1st Half",
-        "venue": "Civil Seminar Hall",
+        "venue": "MCA Seminar Hall",
         "detail": "A puzzle trail where participants solve a series of challenges inspired by real open-source workflows. Each waypoint unlocks the next, offering a fun introduction to collaboration, problem-solving, and open source skills."
       },
       {
         "name": "Google Arsenal",
         "date": "28th Aug",
         "time": "1st Half",
-        "venue": "Civil Seminar Hall",
+        "venue": "MCA Seminar Hall",
         "detail": "A problem lands in your hands first the rest is up to you. Build it with Google's own tools but each one comes at a cost, and you won't have enough to have it all. Spend wisely, move fast, and build something worth pitching before the clock runs out."
       },
       {
         "name": "Under the Floodlights",
         "date": "28th Aug",
         "time": "1st Half",
-        "venue": "Civil Seminar Hall",
+        "venue": "MCA Seminar Hall",
         "detail": "A World Cup-inspired competition where participants alternate between describing and recreating hidden images using Gemini, testing their communication, creativity, and AI skills"
       }
     ],
     "division": "Computer Science, Software & AI",
-    "logo": "/clubs/gdg-rvce/logo.jpg"
+    "logo": "/clubs/gdg-rvce/logo.jpeg"
   },
   {
     "id": "ham-club",
@@ -745,36 +766,7 @@
       "/clubs/kannada-sangha/images/4.png",
       "/clubs/kannada-sangha/images/5.png"
     ],
-    "events": [
-      {
-        "name": "No Event",
-        "date": "Aug 28/29",
-        "time": "Showcase",
-        "venue": "No Event",
-        "detail": "No Event"
-      },
-      {
-        "name": "No Event",
-        "date": "Aug 28/29",
-        "time": "Showcase",
-        "venue": "No Event",
-        "detail": "No Event"
-      },
-      {
-        "name": "No Event",
-        "date": "Aug 28/29",
-        "time": "Showcase",
-        "venue": "No Event",
-        "detail": "No Event"
-      },
-      {
-        "name": "No Event",
-        "date": "Aug 28/29",
-        "time": "Showcase",
-        "venue": "No Event",
-        "detail": "No Event"
-      }
-    ],
+    "events": [],
     "division": "Regional, Social Service & Youth Leadership",
     "logo": "/clubs/kannada-sangha/logo.png"
   },
@@ -796,36 +788,7 @@
       "/clubs/ncc-rvce/images/NCC1.jpeg",
       "/clubs/ncc-rvce/images/NCC2.jpeg"
     ],
-    "events": [
-      {
-        "name": "No Event",
-        "date": "Aug 28/29",
-        "time": "Showcase",
-        "venue": "No Event",
-        "detail": "No Event"
-      },
-      {
-        "name": "No Event",
-        "date": "Aug 28/29",
-        "time": "Showcase",
-        "venue": "No Event",
-        "detail": "No Event"
-      },
-      {
-        "name": "No Event",
-        "date": "Aug 28/29",
-        "time": "Showcase",
-        "venue": "No Event",
-        "detail": "No Event"
-      },
-      {
-        "name": "No Event",
-        "date": "Aug 28/29",
-        "time": "Showcase",
-        "venue": "No Event",
-        "detail": "No Event"
-      }
-    ],
+    "events": [],
     "logo": "/clubs/ncc-rvce/logo.png"
   },
   {
@@ -997,32 +960,32 @@
     ],
     "events": [
       {
-        "name": "India Quiz",
+        "name": "What's your niche?",
         "date": "28th Aug",
         "time": "1st Half",
         "venue": "Chemical Seminar Hall",
-        "detail": "A quiz on the rich culture, history and heritage of our nation."
+        "detail": "A unique quiz on what piques YOUR interests"
+      },
+      {
+        "name": "Internet Culture Quiz",
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "Chemical Seminar Hall",
+        "detail": "A quiz on everything related to internet subcultures including memes and trends long lost"
       },
       {
         "name": "Literature and Entertainment Quiz",
         "date": "28th Aug",
         "time": "1st Half",
         "venue": "Chemical Seminar Hall",
-        "detail": "A quiz on movies, music, literature and the world of entertainment."
+        "detail": "Lieut-en-Ent : A literature and entertainment quiz where bookworms and cinephiles may have a field day"
       },
       {
-        "name": "Sports Quiz",
+        "name": "General Quiz",
         "date": "28th Aug",
         "time": "1st Half",
         "venue": "Chemical Seminar Hall",
-        "detail": "A quiz on quite literally every sport on earth."
-      },
-      {
-        "name": "Science Business Technology Quiz",
-        "date": "28th Aug",
-        "time": "1st Half",
-        "venue": "Chemical Seminar Hall",
-        "detail": "A quiz on the world of science, business and technology"
+        "detail": "A quiz on basically everything that happened anywhere"
       }
     ],
     "division": "Literary, Quizzing & Public Speaking",
@@ -1445,29 +1408,7 @@
       "/clubs/team-dhi/images/img-20260524-wa0060-1.jpg",
       "/clubs/team-dhi/images/img-20260524-wa0067-1.jpg"
     ],
-    "events": [
-      {
-        "name": "Prompt Wars",
-        "date": "Aug 28/29",
-        "time": "Showcase",
-        "venue": "No Event",
-        "detail": "Teams compete to solve increasingly difficult challenges using only prompts under strict constraints like word limits, banned keywords, or zero follow-up attempts. Participants learn prompt engineering, context management, and the limitations of LLMs."
-      },
-      {
-        "name": "The Human Neural Network",
-        "date": "Aug 28/29",
-        "time": "Showcase",
-        "venue": "No Event",
-        "detail": "A zero-code game, where the audience are turned into a living, breathing AI brain! Freshers will be divided into Input, Hidden, and Output layers to pass, filter, and process secret data. They'll experience firsthand how a neural network learns from its mistakes, adapts, and makes decisions - all through a chaotic, fast-paced race against the clock. No coding required, just pure logic and teamwork!"
-      },
-      {
-        "name": "Copilot",
-        "date": "Aug 28/29",
-        "time": "Showcase",
-        "venue": "No Event",
-        "detail": "A practical introduction showing freshers how artificial intelligence isn't a shortcut, but a mandatory power tool for learning, debugging, and solving complex problems in modern engineering."
-      }
-    ],
+    "events": [],
     "division": "Computer Science, Software & AI",
     "logo": "/clubs/team-dhi/logo.png"
   },
@@ -1518,7 +1459,7 @@
         "detail": "A series of space-themed puzzles where teams collaborate to uncover clues. The clues combine to solve one final overarching mystery."
       }
     ],
-    "division": "Astronomy",
+    "division": "Space, Drone & Aerospace",
     "logo": "/clubs/team-dhruva/logo.jpg"
   },
   {

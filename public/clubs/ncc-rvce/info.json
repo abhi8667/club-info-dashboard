@@ -16,35 +16,6 @@
     "/clubs/ncc-rvce/images/NCC1.jpeg",
     "/clubs/ncc-rvce/images/NCC2.jpeg"
   ],
-  "events": [
-    {
-      "name": "No Event",
-      "date": "Aug 28/29",
-      "time": "Showcase",
-      "venue": "No Event",
-      "detail": "No Event"
-    },
-    {
-      "name": "No Event",
-      "date": "Aug 28/29",
-      "time": "Showcase",
-      "venue": "No Event",
-      "detail": "No Event"
-    },
-    {
-      "name": "No Event",
-      "date": "Aug 28/29",
-      "time": "Showcase",
-      "venue": "No Event",
-      "detail": "No Event"
-    },
-    {
-      "name": "No Event",
-      "date": "Aug 28/29",
-      "time": "Showcase",
-      "venue": "No Event",
-      "detail": "No Event"
-    }
-  ],
+  "events": [],
   "logo": "/clubs/ncc-rvce/logo.png"
 }

@@ -1,0 +1,21 @@
+{
+  "id": "footprints",
+  "name": "Footprints",
+  "shortName": "FP",
+  "category": "Non-Technical",
+  "description": "Footprints is the official dance club of RVCE, fostering artistic excellence and providing students a platform to explore and showcase their talent. The club participates in intercollegiate competitions and promotes creativity, discipline, and teamwork through three core teams: Adhitthana (Classical), Dhritarang (Eastern and Contemporary), and Enigma (Western and Hip-Hop).",
+  "color": "#fbcfe8",
+  "accent": "#9d174d",
+  "symbol": "💃",
+  "lead": "Student Lead",
+  "email": "footprints@rvce.edu.in",
+  "instagram": "@footprints_rvce",
+  "venue": "No Event",
+  "images": [
+    "/clubs/footprints/images/footprints-1.jpeg",
+    "/clubs/footprints/images/footprints-2.jpeg"
+  ],
+  "events": [],
+  "division": "Cultural, Dramatics & Music",
+  "logo": "/clubs/footprints/logo.jpeg"
+}

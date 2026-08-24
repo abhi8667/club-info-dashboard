@@ -17,32 +17,32 @@
   ],
   "events": [
     {
-      "name": "India Quiz",
+      "name": "What's your niche?",
       "date": "28th Aug",
       "time": "1st Half",
       "venue": "Chemical Seminar Hall",
-      "detail": "A quiz on the rich culture, history and heritage of our nation."
+      "detail": "A unique quiz on what piques YOUR interests"
+    },
+    {
+      "name": "Internet Culture Quiz",
+      "date": "28th Aug",
+      "time": "1st Half",
+      "venue": "Chemical Seminar Hall",
+      "detail": "A quiz on everything related to internet subcultures including memes and trends long lost"
     },
     {
       "name": "Literature and Entertainment Quiz",
       "date": "28th Aug",
       "time": "1st Half",
       "venue": "Chemical Seminar Hall",
-      "detail": "A quiz on movies, music, literature and the world of entertainment."
+      "detail": "Lieut-en-Ent : A literature and entertainment quiz where bookworms and cinephiles may have a field day"
     },
     {
-      "name": "Sports Quiz",
+      "name": "General Quiz",
       "date": "28th Aug",
       "time": "1st Half",
       "venue": "Chemical Seminar Hall",
-      "detail": "A quiz on quite literally every sport on earth."
-    },
-    {
-      "name": "Science Business Technology Quiz",
-      "date": "28th Aug",
-      "time": "1st Half",
-      "venue": "Chemical Seminar Hall",
-      "detail": "A quiz on the world of science, business and technology"
+      "detail": "A quiz on basically everything that happened anywhere"
     }
   ],
   "division": "Literary, Quizzing & Public Speaking",
