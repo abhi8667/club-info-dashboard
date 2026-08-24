@@ -530,17 +530,17 @@
   },
   {
     "id": "gdg-rvce",
-    "name": "GDG RVCE",
+    "name": "Google Developer Groups RVCE",
     "shortName": "GDG",
     "category": "Technical",
-    "description": "GDG RVCE is an On-Campus chapter of the global Google Developer Groups. Our mission is to foster a passionate community of strong student developers, and empower them to tackle meaningful challenges to make a difference in society.",
+    "description": "GDG RVCE is the RVCE chapter of the global Google Developer Groups community, bringing together students driven to explore, create, and innovate with technology. From hands-on workshops and hackathons to collaborative projects and technical initiatives, we turn curiosity into practical experience. We’re building a community where ideas are shared, skills are sharpened, and students are encouraged to build things that matter.",
     "color": "#d7ebff",
     "accent": "#2362a0",
     "symbol": "G",
     "lead": "Student Lead",
-    "email": "+91 7349096003",
+    "email": "7349096003 - gdg lead",
     "instagram": "@gdg_rvce",
-    "venue": "MCA Seminar Hall",
+    "venue": "Civil Seminar Hall",
     "images": [
       "/clubs/gdg-rvce/images/gdg-pic-1.jpeg",
       "/clubs/gdg-rvce/images/gdg-pic-2.jpeg"
@@ -550,28 +550,28 @@
         "name": "Beat Gemini: The Turing Challenge",
         "date": "28th Aug",
         "time": "1st Half",
-        "venue": "MCA Seminar Hall",
+        "venue": "Civil Seminar Hall",
         "detail": "An event inspired by the Turing Test where participants compete to identify whether the content they're seeing was created by a human or by Gemini. Through multiple rounds, participants experience AI capabilities while learning about both its strengths and limitations."
       },
       {
         "name": "Open Source Odyssey",
         "date": "28th Aug",
         "time": "1st Half",
-        "venue": "MCA Seminar Hall",
+        "venue": "Civil Seminar Hall",
         "detail": "A puzzle trail where participants solve a series of challenges inspired by real open-source workflows. Each waypoint unlocks the next, offering a fun introduction to collaboration, problem-solving, and open source skills."
       },
       {
-        "name": "Google Arsenal: Bid & Build",
+        "name": "Google Arsenal",
         "date": "28th Aug",
         "time": "1st Half",
-        "venue": "MCA Seminar Hall",
-        "detail": "An interactive strategy challenge where teams bid with a fixed budget to acquire Google developer tools before building and pitching a solution using only what they win. Through fast-paced rounds, participants explore the capabilities of Google's developer ecosystem."
+        "venue": "Civil Seminar Hall",
+        "detail": "A problem lands in your hands first the rest is up to you. Build it with Google's own tools but each one comes at a cost, and you won't have enough to have it all. Spend wisely, move fast, and build something worth pitching before the clock runs out."
       },
       {
         "name": "Under the Floodlights",
         "date": "28th Aug",
         "time": "1st Half",
-        "venue": "MCA Seminar Hall",
+        "venue": "Civil Seminar Hall",
         "detail": "A World Cup-inspired competition where participants alternate between describing and recreating hidden images using Gemini, testing their communication, creativity, and AI skills"
       }
     ],
