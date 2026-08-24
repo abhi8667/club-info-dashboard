@@ -10,7 +10,7 @@
   "lead": "Student Lead",
   "email": "7349636522",
   "instagram": "@teamantarikshofficial",
-  "venue": "AS001",
+  "venue": "ETE Seminar Hall",
   "images": [
     "/clubs/team-antariksh/images/ta-2024-mingos-banner-long-190x65cm-orange-1.png",
     "/clubs/team-antariksh/images/whatsapp-image-2026-02-01-at-12-31-46-pm.jpeg"
@@ -18,30 +18,30 @@
   "events": [
     {
       "name": "Payload Quest: Mission Challenge",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
-      "venue": "AS001",
+      "date": "29th Aug",
+      "time": "2nd Half",
+      "venue": "ETE Seminar Hall",
       "detail": "Teams will be presented with a mission scenario involving multiple constraints and challenges. They must analyse the situation, make design decisions, and develop a payload or mission solution that meets the given requirements within the allotted time."
     },
     {
       "name": "The Egg Drop",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
-      "venue": "AS001",
+      "date": "29th Aug",
+      "time": "2nd Half",
+      "venue": "ETE Seminar Hall",
       "detail": "Teams will be provided with limited materials such as popsicle sticks, tape, glue, and cotton. Their objective is to design and build a protective structure that safely houses an egg and prevents it from cracking when dropped from a height of 2–3 metres."
     },
     {
       "name": "Auction Call",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
-      "venue": "AS001",
+      "date": "29th Aug",
+      "time": "2nd Half",
+      "venue": "ETE Seminar Hall",
       "detail": "Each team will be given a fixed budget and a specific mission objective. Teams will participate in an auction to acquire the components and materials required for their mission, after which they will develop and present their final mission plan. The most effective solution considering mission performance, resource utilisation, and budget efficiency will be declared the winner."
     },
     {
       "name": "Payload Quest: Mission Challenge",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
-      "venue": "AS001",
+      "date": "29th Aug",
+      "time": "2nd Half",
+      "venue": "ETE Seminar Hall",
       "detail": "Teams will be presented with a mission scenario involving multiple constraints and challenges. They must analyse the situation, make design decisions, and develop a payload or mission solution that meets the given requirements within the allotted time."
     }
   ],

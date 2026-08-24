@@ -18,29 +18,29 @@
   "events": [
     {
       "name": "Drone Assembly/Disassembly",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
+      "date": "29th Aug",
+      "time": "1st Half",
       "venue": "AS002",
       "detail": "Get hands-on with drone hardware by assembling and disassembling a quadcopter. Learn the purpose of key components such as the flight controller, ESCs, motors, propellers, and battery while testing your speed, precision, and technical understanding."
     },
     {
       "name": "Piloting",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
+      "date": "29th Aug",
+      "time": "1st Half",
       "venue": "AS002",
       "detail": "Experience the thrill of flying a drone through a realistic flight simulator. Navigate checkpoints, avoid obstacles, and master basic flight controls in a safe virtual environment that introduces the fundamentals of drone piloting."
     },
     {
       "name": "Drone Escape Room",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
+      "date": "29th Aug",
+      "time": "1st Half",
       "venue": "AS002",
       "detail": "Work as a team to solve a series of drone-themed puzzles and challenges before time runs out. Decode clues, identify components, complete mini assembly tasks, and overcome interactive obstacles to unlock your way to the final mission"
     },
     {
       "name": "Drone Passport",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
+      "date": "29th Aug",
+      "time": "1st Half",
       "venue": "AS002",
       "detail": "Embark on a drone exploration journey by collecting stamps from a variety of interactive stations. From quizzes and simulator flights to FPV demonstrations, computer vision showcases, and hands-on activities, each station offers a unique glimpse into the world of drones and UAV technology."
     }

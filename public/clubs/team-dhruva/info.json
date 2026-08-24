@@ -3,7 +3,7 @@
   "name": "Team dhRuVa",
   "shortName": "DR",
   "category": "Technical",
-  "description": "dhRuVa is the astrophysics club at RV College of Engineering. What began as a quest to explore the secrets of the universe is now a growing team of amateur astrophysics enthusiasts. We at dhRuVa host stargazing events, astrophysics-related coding competitions and engage in discussions on latest observations made by the astrophysics community all over the globe. We share our understanding through informative videos, blogs and journals. We constantly try to keep up with the happenings of the universe through telescopes, radio telescopes and analysis. Join us on our journey to unravel the stars.",
+  "description": "dhRuVa is the astrophysics club at RV College of Engineering. What began as a quest to explore the secrets of the universe is now a growing team of amateur astrophysics enthusiasts. We constantly try to keep up with the happenings of the universe through our in-house telescopes and radio antennae while hosting stargazing events, astrophysics-related coding competitions, and podcasts featuring celebrated scientists from ICTS to engage the student community. Beyond events and observation, our research has been presented at international and national conferences like GLEX and YATI. Join us on our journey to unravel the stars.",
   "color": "#e3dcff",
   "accent": "#554590",
   "symbol": "D",
@@ -18,29 +18,29 @@
   "events": [
     {
       "name": "Cosmic Mystery",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
+      "date": "28th Aug",
+      "time": "1st Half",
       "venue": "DTH",
       "detail": "A series of space-themed puzzles where teams collaborate to uncover clues. The clues combine to solve one final overarching mystery."
     },
     {
       "name": "Cosmic Mystery",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
+      "date": "28th Aug",
+      "time": "1st Half",
       "venue": "DTH",
       "detail": "A series of space-themed puzzles where teams collaborate to uncover clues. The clues combine to solve one final overarching mystery."
     },
     {
       "name": "Cosmic Mystery",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
+      "date": "28th Aug",
+      "time": "1st Half",
       "venue": "DTH",
       "detail": "A series of space-themed puzzles where teams collaborate to uncover clues. The clues combine to solve one final overarching mystery."
     },
     {
       "name": "Cosmic Mystery",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
+      "date": "28th Aug",
+      "time": "1st Half",
       "venue": "DTH",
       "detail": "A series of space-themed puzzles where teams collaborate to uncover clues. The clues combine to solve one final overarching mystery."
     }

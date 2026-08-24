@@ -18,29 +18,29 @@
   "events": [
     {
       "name": "Auction",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
+      "date": "29th Aug",
+      "time": "2nd Half",
       "venue": "EE112",
       "detail": "Test your strategic thinking and financial management in our high-stakes Auction challenge. Teams receive a virtual budget to bid on critical formula student components, balancing performance, reliability, and cost-efficiency to build the ultimate competitive racecar package under pressure, and tight constraints."
     },
     {
       "name": "Egress",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
+      "date": "29th Aug",
+      "time": "2nd Half",
       "venue": "EE112",
       "detail": "Safety and speed are paramount in motorsport. The Egress test challenges participants to execute a standard driver emergency evacuation from our electric formula car as quickly as possible, demonstrating composure, physical agility, and strict adherence to competition safety regulations."
     },
     {
       "name": "ARDUINO MINI PROJECT",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
+      "date": "29th Aug",
+      "time": "2nd Half",
       "venue": "EE112",
       "detail": "Dive into the world of onboard electronics and embedded systems. In this hands-on Arduino Mini Project, participants will wire, program, and troubleshoot a functional circuit or sensor module tailored for data acquisition and vehicle telemetry applications."
     },
     {
       "name": "Assetto Corsa",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
+      "date": "29th Aug",
+      "time": "2nd Half",
       "venue": "EE112",
       "detail": "Experience the thrill of driving our very own Formula Student electric car in the virtual realm. Hop into our custom Assetto Corsa simulator setup, test vehicle dynamics on track, and set the fastest lap time against your peers"
     }

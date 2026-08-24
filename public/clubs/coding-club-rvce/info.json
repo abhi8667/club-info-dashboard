@@ -17,32 +17,32 @@
   ],
   "events": [
     {
-      "name": "The Human Neural Network",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
+      "name": "The S.H.I.E.L.D. Protocol",
+      "date": "29th Aug",
+      "time": "2nd Half",
       "venue": "Civil Seminar Hall",
-      "detail": "Turn 70 students into a living neural network and experience how information flows through layers to make predictions. Watch the network learn from its mistakes through forward propagation, backpropagation, and weight updates—without writing a single line of code."
+      "detail": "Step into the Marvel Universe and put your hacking skills to the test in an action-packed CTF (Capture The Flag) challenge ! Uncover hidden secrets, crack mysterious messages, exploit AI, and piece together the clues to complete your mission across the Marvel Universe!"
+    },
+    {
+      "name": "The Human Neural Network",
+      "date": "29th Aug",
+      "time": "2nd Half",
+      "venue": "Civil Seminar Hall",
+      "detail": "What if you could become an AI? Step into a living neural network where every person becomes a neuron, every decision becomes a signal, and every mistake teaches the network something new. Work together, make the right connections, and watch an entire room learn, predict, and evolve in real time. You’re not watching the AI. You are the AI."
     },
     {
       "name": "Black Box Bazaar",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
+      "date": "29th Aug",
+      "time": "2nd Half",
       "venue": "Civil Seminar Hall",
-      "detail": "Decode hidden functions from input-output clues, then buy, sell, trade, or bluff your way to the top. A fast-paced marketplace that turns pattern recognition, algorithmic thinking, and strategy into a competitive game."
-    },
-    {
-      "name": "Lethal Dose of Tokens (CTF)",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
-      "venue": "Civil Seminar Hall",
-      "detail": "Capture the Flag Event - Players infiltrate a deliberately vulnerable code repository, uncovering hidden secrets by exploiting prompt injection and poor security practices. Navigate the repo, manipulate the AI, and extract what you're not supposed to see in this AI-powered cybersecurity challenge."
+      "detail": "DECODE. TRADE. REVEAL.  Every card hides a secret. Crack the pattern, trade your edge, and bluff your way to the top. Solve the mystery or sell the lie. In this bazaar, your brain is your currency."
     },
     {
       "name": "The Predictive Engine",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
+      "date": "29th Aug",
+      "time": "2nd Half",
       "venue": "Civil Seminar Hall",
-      "detail": "Transform 70+ students into an ensemble learning system that analyzes clues, makes confidence-weighted predictions, and learns from every mistake. Teams compete to build the most accurate predictive model while experiencing ensemble learning, adaptive weighting, and real-time model updates."
+      "detail": "An ensemble learning model, run live on humans: the room is the model, each cluster is a weak learner, and every round updates who the engine trusts. You are not watching a demo — you are the live model, trained in public on one volunteer’s digital crumbs."
     }
   ],
   "division": "Computer Science, Software & AI",

@@ -10,7 +10,7 @@
   "lead": "Student Lead",
   "email": "Lakshana Jeevanandan  - 8939361051",
   "instagram": "@tedxrvce_bengaluru",
-  "venue": "The Reel Room",
+  "venue": "Reel Room",
   "images": [
     "/clubs/tedxrvce/images/2.jpeg",
     "/clubs/tedxrvce/images/team-pic.jpeg"
@@ -18,30 +18,30 @@
   "events": [
     {
       "name": "Color Fusion Challenge (or) Hue & Create",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
-      "venue": "The Reel Room",
+      "date": "28th Aug",
+      "time": "1st Half",
+      "venue": "Reel Room",
       "detail": "This activity combines colour accuracy with creative thinking. Participants must first recreate randomly generated target colours using a digital colour picker. The colours they successfully match become the only colours they can use to complete a creative circle illustration challenge."
     },
     {
       "name": "Ad-Absurdum",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
-      "venue": "The Reel Room",
+      "date": "28th Aug",
+      "time": "1st Half",
+      "venue": "Reel Room",
       "detail": "Students will be made into teams of 2–3, and they will be asked to sell an unsellable product (for example, a broken umbrella or an empty pen). Once that’s done, the teams will be asked to make a reel on their product as an advertisement."
     },
     {
       "name": "Headline & Emoji Challenge",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
-      "venue": "The Reel Room",
+      "date": "28th Aug",
+      "time": "1st Half",
+      "venue": "Reel Room",
       "detail": "Participants guess a movie from emojis displayed on a laptop and then create a creative newspaper headline for it. The activity encourages teamwork and creativity, requiring only a laptop, paper, and pens."
     },
     {
       "name": "Pictogram Puzzle & Guess the Imposter",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
-      "venue": "The Reel Room",
+      "date": "28th Aug",
+      "time": "1st Half",
+      "venue": "Reel Room",
       "detail": "Participants are given images representing themes of previous TEDx events and asked to guess them in a fun Pictionary-style game. Following that, in “Guess the Imposter,” participants are shown titles or headlines of absurd TED talks, with one being fake, and must identify the imposter."
     }
   ],

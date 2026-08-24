@@ -8,43 +8,14 @@
   "accent": "#84551e",
   "symbol": "K",
   "lead": "Student Lead",
-  "email": "contact@ks.rvce.edu.in",
+  "email": "@kannadasangharvce",
   "instagram": "@kannadasangharvce",
-  "venue": "CS Ground",
+  "venue": "No Event",
   "images": [
     "/clubs/kannada-sangha/images/4.png",
     "/clubs/kannada-sangha/images/5.png"
   ],
-  "events": [
-    {
-      "name": "Kannada Habba",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
-      "venue": "CS Ground",
-      "detail": ""
-    },
-    {
-      "name": "Drums",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
-      "venue": "CS Ground",
-      "detail": ""
-    },
-    {
-      "name": "Sports Tournaments",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
-      "venue": "CS Ground",
-      "detail": ""
-    },
-    {
-      "name": "Social Activites",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
-      "venue": "CS Ground",
-      "detail": ""
-    }
-  ],
+  "events": [],
   "division": "Regional, Social Service & Youth Leadership",
   "logo": "/clubs/kannada-sangha/logo.png"
 }

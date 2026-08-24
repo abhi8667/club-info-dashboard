@@ -3,14 +3,14 @@
   "name": "Team Vyoma",
   "shortName": "TV",
   "category": "Technical",
-  "description": "We are the aeromodelling club of Rvce. We research and build RC planes.We predominantly participate in huge completions like iit Bombay, itt Chennai,JSS mysore etc.",
+  "description": "We are the Aeromodelling Club of RV College of Engineering, dedicated to researching, designing, building, and flying high-performance RC aircraft. We work across aerodynamics, structures, propulsion, electronics, and flight systems, turning engineering concepts into real, functional aircraft. We actively participate in major national-level aeromodelling competitions at institutions such as IIT Bombay, IIT Madras, JSS Mysuru, and other leading engineering colleges, constantly challenging ourselves to develop more advanced, efficient, and high-performance aircraft. Through every project and competition, we aim to push our technical capabilities, innovate with new designs and technologies, and establish ourselves as one of the leading student aeromodelling teams in the country.",
   "color": "#d6eff3",
   "accent": "#256a75",
   "symbol": "V",
   "lead": "Student Lead",
   "email": "Saranya -9972235841 Rishit-9148169291",
   "instagram": "@teamvyomaoffial",
-  "venue": "AS002",
+  "venue": "BT Seminar Hall",
   "images": [
     "/clubs/team-vyoma/images/whatsapp-image-2026-08-13-at-23-46-25-1.jpeg",
     "/clubs/team-vyoma/images/whatsapp-image-2026-08-13-at-23-46-25-2.jpeg"
@@ -18,33 +18,33 @@
   "events": [
     {
       "name": "Build, Balance & Fly",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
-      "venue": "AS002",
+      "date": "29th Aug",
+      "time": "2nd Half",
+      "venue": "BT Seminar Hall",
       "detail": "Participants will design and manufacture an RC aircraft while applying principles of aerodynamics, structures, propulsion and flight control. The challenge is to transform their design into a functional aircraft capable of successful flight."
     },
     {
       "name": "Know Your Skies: Aviation Quiz and debate challenge",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
-      "venue": "AS002",
+      "date": "29th Aug",
+      "time": "2nd Half",
+      "venue": "BT Seminar Hall",
       "detail": "A fast-paced quiz and debate that tests participants’ knowledge of aircraft, aviation history, aerospace technology, flight systems and famous aviation milestones. Participants will compete through multiple rounds that challenge their knowledge, memory and quick thinking."
     },
     {
-      "name": "Take the Controls: Flight Simulator Challenge",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
-      "venue": "AS002",
-      "detail": "Participants will operate a flight simulator and experience realistic aircraft operations, navigation, take-off, flight and landing scenarios. Their performance will be evaluated based on precision, decision-making, situational awareness and flying skills."
+      "name": "Flight Detective: Black Box Investigation",
+      "date": "29th Aug",
+      "time": "2nd Half",
+      "venue": "BT Seminar Hall",
+      "detail": "Think you can solve an aviation mystery? 🕵️‍♂️✈️ Step into the shoes of a flight investigator and uncover what really happened during a simulated aircraft incident. Decode black box data, analyse flight parameters, connect the clues, and piece together the events leading up to the crash. With unexpected twists, technical challenges, and plenty of detective work, Flight Detective is where aviation meets mystery — and your job is to find the truth before the evidence takes you in the wrong direction!experience realistic aircraft operations, navigation, take-off, flight and landing scenarios. Their performance will be evaluated based on precision, decision-making, situational awareness and flying skills."
     },
     {
-      "name": "Flight Detective: Black Box Investigation",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
-      "venue": "AS002",
-      "detail": "Participants will investigate a simulated aircraft accident by analysing black-box data, flight parameters, cockpit information and available evidence. They must reconstruct the sequence of events, identify the probable cause and present their investigation findings."
+      "name": "Take the Controls: Flight Simulator Challenge",
+      "date": "29th Aug",
+      "time": "2nd Half",
+      "venue": "BT Seminar Hall",
+      "detail": "Participants will operate a flight simulator and ."
     }
   ],
   "division": "Space, Drone & Aerospace",
-  "logo": "/clubs/team-vyoma/vyomalogo-1.jpeg"
+  "logo": "/clubs/team-vyoma/vyoma-logo.jpg"
 }

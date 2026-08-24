@@ -10,7 +10,7 @@
   "lead": "Student Lead",
   "email": "teamkrushi@rvce.edu.in",
   "instagram": "@teamkrushi",
-  "venue": "EE Classroom",
+  "venue": "ECE Seminar Hall",
   "images": [
     "/clubs/team-krushi/images/3.jpg",
     "/clubs/team-krushi/images/5.jpg"
@@ -18,33 +18,33 @@
   "events": [
     {
       "name": "Krushi Kickstart  :  (Ideathon)",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
-      "venue": "EE Classroom",
+      "date": "29th Aug",
+      "time": "1st Half",
+      "venue": "ECE Seminar Hall",
       "detail": "What if your random idea could solve a real farming problem? Step into a fast-paced challenge where you'll brainstorm, build, and pitch innovative solutions—even if you've never done it before. No experience needed, just curiosity!"
     },
     {
       "name": "Tractor Unlocked (Tractor Workshop)",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
-      "venue": "EE Classroom",
+      "date": "29th Aug",
+      "time": "1st Half",
+      "venue": "ECE Seminar Hall",
       "detail": "Ever wondered what's hidden beneath the hood of a tractor? Get hands-on with the machine that powers agriculture and discover how engineering meets farming in the real world."
     },
     {
       "name": "Pitch. Build. Disrupt. (Agri Startup Pitch)",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
-      "venue": "EE Classroom",
+      "date": "29th Aug",
+      "time": "1st Half",
+      "venue": "ECE Seminar Hall",
       "detail": "Imagine you're the founder of the next big agritech startup. Can you convince investors in just a few minutes? Turn bold ideas into business pitches and experience the startup world firsthand."
     },
     {
       "name": "Tractor Unlocked (Tractor Workshop)",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
-      "venue": "EE Classroom",
+      "date": "29th Aug",
+      "time": "1st Half",
+      "venue": "ECE Seminar Hall",
       "detail": "Ever wondered what's hidden beneath the hood of a tractor? Get hands-on with the machine that powers agriculture and discover how engineering meets farming in the real world."
     }
   ],
-  "division": "Astronomy & Interdisciplinary Engineering",
+  "division": "Industry Connect and Interdisciplinary Engineering",
   "logo": "/clubs/team-krushi/krushi-logo-2.png"
 }

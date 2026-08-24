@@ -9,8 +9,8 @@
   "symbol": "F",
   "lead": "Student Lead",
   "email": "Shrirang Pai - 91334 3947, Dheeraj Aradhya - 74112 20016",
-  "instagram": "@f6.3photography.rvce",
-  "venue": "ETE Seminar Hall",
+  "instagram": "f6.3photography.rvce",
+  "venue": "DTH",
   "images": [
     "/clubs/f-6-3-photography/images/img-1942.jpg",
     "/clubs/f-6-3-photography/images/utsarga.jpg"
@@ -18,30 +18,30 @@
   "events": [
     {
       "name": "Blindfold Click Challenge",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
-      "venue": "ETE Seminar Hall",
+      "date": "29th Aug",
+      "time": "2nd Half",
+      "venue": "DTH",
       "detail": "Participants work in teams of 2–4. One member is blindfolded and acts as the photographer, while the rest guide them verbally to frame and capture the shot. The most creative (or funniest!) photos win."
     },
     {
-      "name": "Photography Treasure Hunt",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
-      "venue": "ETE Seminar Hall",
-      "detail": "Travel across different campus locations solving photography-based challenges. At each stop, you'll complete a specific photo task (like framing, reflections, or depth of field), upload your picture, and receive the clue to the next location. The first team to complete all challenges accurately wins."
+      "name": "Campus Photo Story Challenge",
+      "date": "29th Aug",
+      "time": "2nd Half",
+      "venue": "DTH",
+      "detail": "Explore the campus and capture 5 photos that together tell a story or follow a theme. It's a fun way to combine photography with creativity and visual storytelling."
     },
     {
-      "name": "Edit It Your Way",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
-      "venue": "ETE Seminar Hall",
-      "detail": "We'll provide the same photo to everyone, and your task is to edit it in your own unique style using your phone or any editing app. Show off your creativity through colors, mood, and storytelling."
+      "name": "Blindfold Click Challenge",
+      "date": "29th Aug",
+      "time": "2nd Half",
+      "venue": "DTH",
+      "detail": "Participants work in teams of 2–4. One member is blindfolded and acts as the photographer, while the rest guide them verbally to frame and capture the shot. The most creative (or funniest!) photos win."
     },
     {
       "name": "Campus Photo Story Challenge",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
-      "venue": "ETE Seminar Hall",
+      "date": "29th Aug",
+      "time": "2nd Half",
+      "venue": "DTH",
       "detail": "Explore the campus and capture 5 photos that together tell a story or follow a theme. It's a fun way to combine photography with creativity and visual storytelling."
     }
   ],

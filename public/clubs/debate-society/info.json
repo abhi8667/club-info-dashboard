@@ -10,7 +10,7 @@
   "lead": "Student Lead",
   "email": "Sri Vishnu PV - +91 9740934681 Diya Manu - +91 96329 20021",
   "instagram": "@rvcedebsoc",
-  "venue": "Reel Room, 4th Floor, New Library",
+  "venue": "Reel Room",
   "images": [
     "/clubs/debate-society/images/whatsapp-image-2026-08-11-at-5-08-50-pm-1.jpeg",
     "/clubs/debate-society/images/whatsapp-image-2026-08-11-at-5-08-50-pm.jpeg"
@@ -18,30 +18,30 @@
   "events": [
     {
       "name": "The Great Debatsby",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
-      "venue": "Reel Room, 4th Floor, New Library",
+      "date": "29th Aug",
+      "time": "1st Half",
+      "venue": "Reel Room",
       "detail": "A fiery 2v2 British Parliamentary debate with sharp speeches, rebuttals and a flow that spans politics, ethics, science and culture."
     },
     {
       "name": "Catch Me If You Can",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
-      "venue": "Reel Room, 4th Floor, New Library",
+      "date": "29th Aug",
+      "time": "1st Half",
+      "venue": "Reel Room",
       "detail": "A 4 player mystery debate where one player does not know the motion.  They must figure out the motion with context clues before they get voted out."
     },
     {
       "name": "Knives Out",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
-      "venue": "Reel Room, 4th Floor, New Library",
+      "date": "29th Aug",
+      "time": "1st Half",
+      "venue": "Reel Room",
       "detail": "Judges take a hard stance on real-world issues, and it’s on you to argue, persuade and flip their position."
     },
     {
       "name": "Devil’s Advocate",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
-      "venue": "Reel Room, 4th Floor, New Library",
+      "date": "29th Aug",
+      "time": "1st Half",
+      "venue": "Reel Room",
       "detail": "Given a motion and stance, you prep fast, dive in, and survive the chaos, adaptability wins the day."
     }
   ],

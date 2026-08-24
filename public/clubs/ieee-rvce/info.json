@@ -10,7 +10,7 @@
   "lead": "Student Lead",
   "email": "ieeervce@rvce.edu.in",
   "instagram": "@ieee_rvce",
-  "venue": "CSE - CRB - 001",
+  "venue": "CS CRB 001",
   "images": [
     "/clubs/ieee-rvce/images/csitss-2025-1.jpeg",
     "/clubs/ieee-rvce/images/img-0821.jpg"
@@ -18,30 +18,30 @@
   "events": [
     {
       "name": "CompSoc Connect",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
-      "venue": "CSE - CRB - 001",
+      "date": "29th Aug",
+      "time": "1st Half",
+      "venue": "CS CRB 001",
       "detail": "A 60-minute interactive session that begins with engaging Mentimeter polls and quizzes to understand their interests and spark curiosity. We then showcase the society’s key initiatives, including Hack4SOC, Prompt-a-thon, technical sessions and workshops. Finally, juniors form teams of four and are given realistic constraints such as budget, audience, and time to design their own technical event. Three teams are randomly selected to pitch their ideas, followed by audience voting. The session concludes by encouraging juniors to join, contribute, and eventually lead future IEEE CS initiatives."
     },
     {
       "name": "CompSoc Connect",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
-      "venue": "CSE - CRB - 001",
+      "date": "29th Aug",
+      "time": "1st Half",
+      "venue": "CS CRB 001",
       "detail": "A 60-minute interactive session that begins with engaging Mentimeter polls and quizzes to understand their interests and spark curiosity. We then showcase the society’s key initiatives, including Hack4SOC, Prompt-a-thon, technical sessions and workshops. Finally, juniors form teams of four and are given realistic constraints such as budget, audience, and time to design their own technical event. Three teams are randomly selected to pitch their ideas, followed by audience voting. The session concludes by encouraging juniors to join, contribute, and eventually lead future IEEE CS initiatives."
     },
     {
       "name": "Climate Escape Room",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
-      "venue": "CSE - CRB - 001",
+      "date": "29th Aug",
+      "time": "1st Half",
+      "venue": "CS CRB 001",
       "detail": "A smartphone-based, story-driven puzzle challenge where participants must save a city facing catastrophic flooding in 2040. Teams solve progressively difficult challenges using rainfall maps, satellite imagery, elevation data, and tide charts to unlock clues. Along the way, they experience how remote sensing, geospatial analysis, and environmental data support disaster prediction and decision-making."
     },
     {
       "name": "Powering the Future – Introduction to IEEE PES RVCE",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
-      "venue": "CSE - CRB - 001",
+      "date": "29th Aug",
+      "time": "1st Half",
+      "venue": "CS CRB 001",
       "detail": "This session serves as the official induction for freshers into the IEEE PES RVCE chapter. It is structured into two main segments: a brief introduction to the society’s goals, events, and membership benefits, followed by a technical demonstration. The technical showcase aims to expose new students to practical electrical engineering by walking them through relevant projects and essential design/simulation software, including MATLAB and KiCad."
     }
   ],

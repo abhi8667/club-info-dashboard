@@ -10,7 +10,7 @@
   "lead": "Student Lead",
   "email": "Adithya - 8660251694, Nithyasree - 9632361789",
   "instagram": "@rvquizcorp",
-  "venue": "ISE Classroom",
+  "venue": "Chemical Seminar Hall",
   "images": [
     "/clubs/quizcorp/images/1000099216.png",
     "/clubs/quizcorp/images/1000099217.png"
@@ -18,30 +18,30 @@
   "events": [
     {
       "name": "India Quiz",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
-      "venue": "ISE Classroom",
+      "date": "28th Aug",
+      "time": "1st Half",
+      "venue": "Chemical Seminar Hall",
       "detail": "A quiz on the rich culture, history and heritage of our nation."
     },
     {
       "name": "Literature and Entertainment Quiz",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
-      "venue": "ISE Classroom",
+      "date": "28th Aug",
+      "time": "1st Half",
+      "venue": "Chemical Seminar Hall",
       "detail": "A quiz on movies, music, literature and the world of entertainment."
     },
     {
       "name": "Sports Quiz",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
-      "venue": "ISE Classroom",
+      "date": "28th Aug",
+      "time": "1st Half",
+      "venue": "Chemical Seminar Hall",
       "detail": "A quiz on quite literally every sport on earth."
     },
     {
       "name": "Science Business Technology Quiz",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
-      "venue": "ISE Classroom",
+      "date": "28th Aug",
+      "time": "1st Half",
+      "venue": "Chemical Seminar Hall",
       "detail": "A quiz on the world of science, business and technology"
     }
   ],

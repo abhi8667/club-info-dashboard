@@ -10,7 +10,7 @@
   "lead": "Student Lead",
   "email": "Sachin NSS President  +91 91108 85768, NEHA NSS President +91 96866 88957",
   "instagram": "@nss_rvce_",
-  "venue": "ECE Seminar Hall",
+  "venue": "Civil Seminar Hall",
   "images": [
     "/clubs/nss-rvce/images/image.jpeg",
     "/clubs/nss-rvce/images/screenshot-2025-08-19-000823.jpeg"
@@ -18,30 +18,30 @@
   "events": [
     {
       "name": "🎨 Scribble",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
-      "venue": "ECE Seminar Hall",
+      "date": "29th Aug",
+      "time": "1st Half",
+      "venue": "Civil Seminar Hall",
       "detail": "Draw it, don't say it! Participants sketch NSS-themed words while their team races to guess the answer."
     },
     {
       "name": "🎭 Reverse Charades",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
-      "venue": "ECE Seminar Hall",
+      "date": "29th Aug",
+      "time": "1st Half",
+      "venue": "Civil Seminar Hall",
       "detail": "Only one person guesses while the entire team acts out the given NSS-related activity or situation."
     },
     {
       "name": "🧩 Community Puzzle",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
-      "venue": "ECE Seminar Hall",
+      "date": "29th Aug",
+      "time": "1st Half",
+      "venue": "Civil Seminar Hall",
       "detail": "Work together to assemble a jumbled NSS message, logo, or social awareness poster before other teams."
     },
     {
       "name": "🕵️ Imposter",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
-      "venue": "ECE Seminar Hall",
+      "date": "29th Aug",
+      "time": "1st Half",
+      "venue": "Civil Seminar Hall",
       "detail": "Everyone receives the same NSS-related word except one player. Discuss, observe, and identify the imposter before time runs out."
     }
   ],

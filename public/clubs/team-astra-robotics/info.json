@@ -18,29 +18,29 @@
   "events": [
     {
       "name": "ROS2 Intro and Rover Simulation on RViz",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
+      "date": "29th Aug",
+      "time": "2nd Half",
       "venue": "MCA Seminar Hall",
       "detail": "Get to learn ROS2, the backbone of modern robotics, by visualizing a rover's sensors, movement, and navigation in RViz. See how real robots \"think\" and move, right from your screen."
     },
     {
       "name": "Gazebo Simulations: ARES, HAL and Mbot",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
+      "date": "29th Aug",
+      "time": "2nd Half",
       "venue": "MCA Seminar Hall",
       "detail": "Step into realistic robot simulations powered by Gazebo's physics engine. Drive and navigate our very own bots — HAL, Mbot, and ARES — autonomously through simulated environments and experience robotics come to life."
     },
     {
       "name": "TinkerCAD",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
+      "date": "29th Aug",
+      "time": "2nd Half",
       "venue": "MCA Seminar Hall",
       "detail": "Design and simulate Arduino-based electronic circuits virtually before bringing them to life in hardware. A perfect first step into the world of embedded systems and electronics."
     },
     {
       "name": "Robotic Arm Challenge",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
+      "date": "29th Aug",
+      "time": "2nd Half",
       "venue": "MCA Seminar Hall",
       "detail": "Take control of a robotic arm and put your precision to the test in an exciting pick-and-place challenge. Program it, move it, and master the art of robotic manipulation."
     }

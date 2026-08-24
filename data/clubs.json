@@ -18,11 +18,11 @@
     ],
     "events": [
       {
-        "name": "Accelerate Club RVCE Orientation",
-        "date": "Aug 28",
-        "time": "TBD",
-        "venue": "TBD",
-        "detail": "Introduction to our club activities and roadmap for the year."
+        "name": "Established in 2022, the Accelerate Club is the premier computing club of RVCE's Computer Science & Engineering Department. Founded with a vision to create a dynamic platform for aspiring technologists, we have rapidly evolved into a catalyst for innovation and learning in the ever-expanding digital landscape.",
+        "date": "29th Aug",
+        "time": "1st Half",
+        "venue": "Chemical Seminar Hall",
+        "detail": ""
       }
     ],
     "division": "Computer Science, Software & AI",
@@ -40,39 +40,39 @@
     "lead": "Student Lead",
     "email": "Gauri Dhanakshirur (+91 8861492072) and Kartik Shekhar (+91 9113906099)",
     "instagram": "@acm.rvce",
-    "venue": "BT Seminar Hall (BioTech Department Seminar Hall)",
+    "venue": "ECE Seminar Hall",
     "images": [
       "/clubs/acm-rvce/images/gbm.jpg",
       "/clubs/acm-rvce/images/hackathon.jpg"
     ],
     "events": [
       {
-        "name": "Reverse Research Engineering",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "BT Seminar Hall (BioTech Department Seminar Hall)",
-        "detail": "An event that gamifies academic writing by challenging teams to decode computer science papers, either inventing an abstract based solely on a descriptive title or engineering a professional title from a redacted abstract. Guided by structural clue sheets and evaluated against the actual published papers, students strip away the intimidation of research while learning how cutting-edge technology is structurally presented."
+        "name": "Binary Blitz",
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "ECE Seminar Hall",
+        "detail": "A high-octane tech trivia race covering modern tech trends, pop culture computing, and rapid-fire fundamentals. Test your speed and digital savvy to dominate the hall leaderboard."
       },
       {
-        "name": "ByteStorm – CS Ideathon",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "BT Seminar Hall (BioTech Department Seminar Hall)",
-        "detail": "Teams will be given a set of technology-related keywords and must brainstorm an innovative idea around them. Like Shark Tank, participants will pitch their concept to a panel of judges—no coding or prototypes required, just creativity, logic, and a compelling vision."
+        "name": "Stack Overthrow",
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "ECE Seminar Hall",
+        "detail": "A battle of logic, systems, and code intuition tackling quirky outputs, algorithmic riddles, and engineering trivia. Perfect for minds that love debugging under pressure."
       },
       {
-        "name": "Tech-Trap: The Tech-Bluff Tournament",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "BT Seminar Hall (BioTech Department Seminar Hall)",
-        "detail": "The event challenges teams to construct a plausible technical paragraph using a given set of terms while intentionally concealing a logical or structural engineering fallacy. Presenting teams attempt to deliver their pitch with absolute confidence, while competing audience members act as rigorous code-reviewers racing to spot the hidden trap and claim the points."
+        "name": "Glyph Hunt",
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "ECE Seminar Hall",
+        "detail": "A sharp visual challenge spotlighting the icons powering the tech universe, from mainstream tech giants to essential developer frameworks. Spot the subtle marks that define the industry’s biggest brands."
       },
       {
-        "name": "Tech Time Capsule",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "BT Seminar Hall (BioTech Department Seminar Hall)",
-        "detail": "Travel through time by stepping into a randomly assigned era of computing, from the early days of personal computers to a futuristic AI-powered world. Teams must analyze the technological landscape of their timeline and pitch an innovative solution that fits its possibilities and limitations."
+        "name": "Pixel Parse",
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "ECE Seminar Hall",
+        "detail": "A fast-paced visual decoder where distorted, abstracted, and heavily cropped tech logos test your attention to detail. Race against the clock to reconstruct and identify the missing brand identities."
       }
     ],
     "division": "Computer Science, Software & AI",
@@ -98,29 +98,29 @@
     "events": [
       {
         "name": "A Day with Alaap — Live & Interactive Music | Session 1",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
+        "date": "28th Aug",
+        "time": "1st Half",
         "venue": "Civil Seminar Hall",
         "detail": "Alaap will present two live band performances, interspersed by music quizzes with questions unique to this slot. The session will also include an interactive musical activity inspired by the improvisational performances of artists such as Jacob Collier and Bobby McFerrin, where the audience gets to participate in creating music."
       },
       {
         "name": "A Day with Alaap — Live & Interactive Music | Session 2",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
+        "date": "28th Aug",
+        "time": "1st Half",
         "venue": "Civil Seminar Hall",
         "detail": "Alaap will present two live band performances, interspersed by music quizzes with questions unique to this slot. The session will also include an interactive musical activity inspired by the improvisational performances of artists such as Jacob Collier and Bobby McFerrin, where the audience gets to participate in creating music."
       },
       {
         "name": "A Day with Alaap — Live & Interactive Music | Session 3",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
+        "date": "28th Aug",
+        "time": "1st Half",
         "venue": "Civil Seminar Hall",
         "detail": "Alaap will present two live band performances, interspersed by music quizzes with questions unique to this slot. The session will also include an interactive musical activity inspired by the improvisational performances of artists such as Jacob Collier and Bobby McFerrin, where the audience gets to participate in creating music."
       },
       {
         "name": "A Day with Alaap — Live & Interactive Music | Session 4",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
+        "date": "28th Aug",
+        "time": "1st Half",
         "venue": "Civil Seminar Hall",
         "detail": "Alaap will present two live band performances, interspersed by music quizzes with questions unique to this slot. The session will also include an interactive musical activity inspired by the improvisational performances of artists such as Jacob Collier and Bobby McFerrin, where the audience gets to participate in creating music."
       }
@@ -140,7 +140,7 @@
     "lead": "Student Lead",
     "email": "9019535410",
     "instagram": "@ashwa_racing",
-    "venue": "Civil Straight and request to put up stalls for other activities we have planned",
+    "venue": "Civil Straight Road",
     "images": [
       "/clubs/ashwa-racing/images/1000316609.jpg",
       "/clubs/ashwa-racing/images/1000316610.jpg"
@@ -148,30 +148,30 @@
     "events": [
       {
         "name": "Prototype Showcase",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "Civil Straight and request to put up stalls for other activities we have planned",
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "Civil Straight Road",
         "detail": "Running the car infront of the civil straight in a controlled environment while following all safety protocols."
       },
       {
         "name": "Workshop tour",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "Civil Straight and request to put up stalls for other activities we have planned",
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "Civil Straight Road",
         "detail": "Display of our projects and an interactive session and a general tour of the Ashwa Racing workshop"
       },
       {
         "name": "Pit-stop challenge",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "Civil Straight and request to put up stalls for other activities we have planned",
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "Civil Straight Road",
         "detail": "Group of students compete with each other to swap the tyres of the car the quickest."
       },
       {
         "name": "Reflex Rampage",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "Civil Straight and request to put up stalls for other activities we have planned",
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "Civil Straight Road",
         "detail": "Compete with other students for the quickest reaction time challenge"
       }
     ],
@@ -198,31 +198,31 @@
     "events": [
       {
         "name": "CARV-Hindi Showcase",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
+        "date": "29th Aug",
+        "time": "2nd Half",
         "venue": "BT Quadrangle",
-        "detail": "A short showcase performance by CARV Hindi, experience the energy and expression of street play through a glimpse of what CARV Hindi does on stage."
+        "detail": "Experience the energy and expression of street play through a glimpse of what CARV Hindi does on stage, followed by fun activities where you can step up, get creative, and showcase your own talents!"
       },
       {
         "name": "Improv",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
+        "date": "29th Aug",
+        "time": "2nd Half",
         "venue": "BT Quadrangle",
         "detail": "An interactive improv session where you take the stage and create scenes, characters, and stories on the spot. No scripts, no rehearsals, just spontaneity, creativity, and a lot of fun."
       },
       {
         "name": "Mad Ads",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
+        "date": "29th Aug",
+        "time": "2nd Half",
         "venue": "BT Quadrangle",
         "detail": "A fun and chaotic activity where you’ll create and perform your own hilarious advertisements on the spot. Think crazy products, catchy slogans, and over-the-top acting."
       },
       {
         "name": "Music & Jamming",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
+        "date": "29th Aug",
+        "time": "2nd Half",
         "venue": "BT Quadrangle",
-        "detail": "A relaxed, open jamming session where music takes the lead. Bring your instruments, your voice, or just your vibe, and come together to create something spontaneous and fun."
+        "detail": "A fun, laid-back singing session where there’s no stage, no pressure, and no rules. Just come together, pick your favourite songs, sing along, and enjoy some music, laughter, and good vibes with everyone."
       }
     ],
     "division": "Cultural, Dramatics & Music",
@@ -247,32 +247,32 @@
     ],
     "events": [
       {
-        "name": "The Human Neural Network",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
+        "name": "The S.H.I.E.L.D. Protocol",
+        "date": "29th Aug",
+        "time": "2nd Half",
         "venue": "Civil Seminar Hall",
-        "detail": "Turn 70 students into a living neural network and experience how information flows through layers to make predictions. Watch the network learn from its mistakes through forward propagation, backpropagation, and weight updates—without writing a single line of code."
+        "detail": "Step into the Marvel Universe and put your hacking skills to the test in an action-packed CTF (Capture The Flag) challenge ! Uncover hidden secrets, crack mysterious messages, exploit AI, and piece together the clues to complete your mission across the Marvel Universe!"
+      },
+      {
+        "name": "The Human Neural Network",
+        "date": "29th Aug",
+        "time": "2nd Half",
+        "venue": "Civil Seminar Hall",
+        "detail": "What if you could become an AI? Step into a living neural network where every person becomes a neuron, every decision becomes a signal, and every mistake teaches the network something new. Work together, make the right connections, and watch an entire room learn, predict, and evolve in real time. You’re not watching the AI. You are the AI."
       },
       {
         "name": "Black Box Bazaar",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
+        "date": "29th Aug",
+        "time": "2nd Half",
         "venue": "Civil Seminar Hall",
-        "detail": "Decode hidden functions from input-output clues, then buy, sell, trade, or bluff your way to the top. A fast-paced marketplace that turns pattern recognition, algorithmic thinking, and strategy into a competitive game."
-      },
-      {
-        "name": "Lethal Dose of Tokens (CTF)",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "Civil Seminar Hall",
-        "detail": "Capture the Flag Event - Players infiltrate a deliberately vulnerable code repository, uncovering hidden secrets by exploiting prompt injection and poor security practices. Navigate the repo, manipulate the AI, and extract what you're not supposed to see in this AI-powered cybersecurity challenge."
+        "detail": "DECODE. TRADE. REVEAL.  Every card hides a secret. Crack the pattern, trade your edge, and bluff your way to the top. Solve the mystery or sell the lie. In this bazaar, your brain is your currency."
       },
       {
         "name": "The Predictive Engine",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
+        "date": "29th Aug",
+        "time": "2nd Half",
         "venue": "Civil Seminar Hall",
-        "detail": "Transform 70+ students into an ensemble learning system that analyzes clues, makes confidence-weighted predictions, and learns from every mistake. Teams compete to build the most accurate predictive model while experiencing ensemble learning, adaptive weighting, and real-time model updates."
+        "detail": "An ensemble learning model, run live on humans: the room is the model, each cluster is a weak learner, and every round updates who the engine trusts. You are not watching a demo — you are the live model, trained in public on one volunteer’s digital crumbs."
       }
     ],
     "division": "Computer Science, Software & AI",
@@ -290,7 +290,7 @@
     "lead": "Student Lead",
     "email": "Sri Vishnu PV - +91 9740934681 Diya Manu - +91 96329 20021",
     "instagram": "@rvcedebsoc",
-    "venue": "Reel Room, 4th Floor, New Library",
+    "venue": "Reel Room",
     "images": [
       "/clubs/debate-society/images/whatsapp-image-2026-08-11-at-5-08-50-pm-1.jpeg",
       "/clubs/debate-society/images/whatsapp-image-2026-08-11-at-5-08-50-pm.jpeg"
@@ -298,30 +298,30 @@
     "events": [
       {
         "name": "The Great Debatsby",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "Reel Room, 4th Floor, New Library",
+        "date": "29th Aug",
+        "time": "1st Half",
+        "venue": "Reel Room",
         "detail": "A fiery 2v2 British Parliamentary debate with sharp speeches, rebuttals and a flow that spans politics, ethics, science and culture."
       },
       {
         "name": "Catch Me If You Can",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "Reel Room, 4th Floor, New Library",
+        "date": "29th Aug",
+        "time": "1st Half",
+        "venue": "Reel Room",
         "detail": "A 4 player mystery debate where one player does not know the motion.  They must figure out the motion with context clues before they get voted out."
       },
       {
         "name": "Knives Out",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "Reel Room, 4th Floor, New Library",
+        "date": "29th Aug",
+        "time": "1st Half",
+        "venue": "Reel Room",
         "detail": "Judges take a hard stance on real-world issues, and it’s on you to argue, persuade and flip their position."
       },
       {
         "name": "Devil’s Advocate",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "Reel Room, 4th Floor, New Library",
+        "date": "29th Aug",
+        "time": "1st Half",
+        "venue": "Reel Room",
         "detail": "Given a motion and stance, you prep fast, dive in, and survive the chaos, adaptability wins the day."
       }
     ],
@@ -348,35 +348,35 @@
     "events": [
       {
         "name": "Fund my Failure",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
+        "date": "29th Aug",
+        "time": "1st Half",
         "venue": "MCA Seminar Hall",
         "detail": "An interactive session encouraging students to embrace failure, learn from setbacks, and transform failed ideas into stronger, more fundable startup pitches."
       },
       {
         "name": "Ecell’s got latent",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
+        "date": "29th Aug",
+        "time": "1st Half",
         "venue": "MCA Seminar Hall",
         "detail": "An engaging pitch challenge where students receive surprise startup ideas, brainstorm under time constraints, and present their concepts while testing creativity, pitching skills, and self-awareness. Where the students have to score their pitches priorly, and they win if the score matches with the judges."
       },
       {
         "name": "Startup 101",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
+        "date": "29th Aug",
+        "time": "1st Half",
         "venue": "MCA Seminar Hall",
         "detail": "A beginner-friendly crash course introducing freshers to entrepreneurship, startup opportunities, challenges, campus support systems, and essential startup terminology."
       },
       {
         "name": "Startup Trivia",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
+        "date": "29th Aug",
+        "time": "1st Half",
         "venue": "MCA Seminar Hall",
         "detail": "A fast-paced quiz that puts your startup IQ to the test. Questions span founders, funding, business models and innovation — designed to challenge your business instincts while keeping the energy high. Beat the clock, and have fun doing it."
       }
     ],
     "division": "Entrepreneurship & Innovation",
-    "logo": "/clubs/ecell/copy-of-ecell-blk.png"
+    "logo": "/clubs/ecell/ecell-logo.jpeg"
   },
   {
     "id": "evoke",
@@ -390,7 +390,7 @@
     "lead": "Student Lead",
     "email": "8003622469- Prachi Singh, 7975422397- Arnav Gowda",
     "instagram": "@evoke_rvce",
-    "venue": "ETE seminar hall",
+    "venue": "ETE Seminar Hall",
     "images": [
       "/clubs/evoke/images/9718fa07-fb6a-4249-9bb0-51b30ce115e3.jpeg",
       "/clubs/evoke/images/img-6749.jpeg"
@@ -398,30 +398,30 @@
     "events": [
       {
         "name": "Design Dash",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "ETE seminar hall",
+        "date": "29th Aug",
+        "time": "1st Half",
+        "venue": "ETE Seminar Hall",
         "detail": "Unleash your inner designer in 15 minutes Turn thrifted chaos into a fashion queen! Race the clock with surprise themes, Create fierce looks and rule the scene AND CLAIM THE TITLE OF “STYLIST OF THE DAY"
       },
       {
         "name": "Lights, camera and fashion",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "ETE seminar hall",
+        "date": "29th Aug",
+        "time": "1st Half",
+        "venue": "ETE Seminar Hall",
         "detail": "Think you’ve got the OOTD game on point? This is your moment to shine! In this fun & interactive contest, freshers will create their own “Outfit of the Day” reel using nothing but their creativity, confidence, and unique style. Whether it’s quirky, minimal, or bold – we want to see YOU bring your personality to life on screen. Submit your reel through the link/QR at the venue and get a chance to be featured on Evoke’s official Instagram page as the ultimate  “style icon of the day!’"
       },
       {
         "name": "Walk the talk Runway: 101",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "ETE seminar hall",
+        "date": "29th Aug",
+        "time": "1st Half",
+        "venue": "ETE Seminar Hall",
         "detail": "Always wanted to try a runway walk? Here’s your chance!  Our models will show you how it’s done and help you practice your walk, poses, and confidence on stage.  Girls can bring heels if they want – it’s the perfect time to try them out! Come join us and let your modeling dreams come true with Team Evoke"
       },
       {
         "name": "Style in motion",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "ETE seminar hall",
+        "date": "29th Aug",
+        "time": "1st Half",
+        "venue": "ETE Seminar Hall",
         "detail": "Get ready to bring the energy on stage! In this event, juniors will team up to create their own quick choreography and show off their style on the runway.  Your seniors will kick things off with a performance, and then it’s your turn to shine  Let your creativity flow and own the spotlight with Team Evoke."
       }
     ],
@@ -439,8 +439,8 @@
     "symbol": "F",
     "lead": "Student Lead",
     "email": "Shrirang Pai - 91334 3947, Dheeraj Aradhya - 74112 20016",
-    "instagram": "@f6.3photography.rvce",
-    "venue": "ETE Seminar Hall",
+    "instagram": "f6.3photography.rvce",
+    "venue": "DTH",
     "images": [
       "/clubs/f-6-3-photography/images/img-1942.jpg",
       "/clubs/f-6-3-photography/images/utsarga.jpg"
@@ -448,30 +448,30 @@
     "events": [
       {
         "name": "Blindfold Click Challenge",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "ETE Seminar Hall",
+        "date": "29th Aug",
+        "time": "2nd Half",
+        "venue": "DTH",
         "detail": "Participants work in teams of 2–4. One member is blindfolded and acts as the photographer, while the rest guide them verbally to frame and capture the shot. The most creative (or funniest!) photos win."
       },
       {
-        "name": "Photography Treasure Hunt",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "ETE Seminar Hall",
-        "detail": "Travel across different campus locations solving photography-based challenges. At each stop, you'll complete a specific photo task (like framing, reflections, or depth of field), upload your picture, and receive the clue to the next location. The first team to complete all challenges accurately wins."
+        "name": "Campus Photo Story Challenge",
+        "date": "29th Aug",
+        "time": "2nd Half",
+        "venue": "DTH",
+        "detail": "Explore the campus and capture 5 photos that together tell a story or follow a theme. It's a fun way to combine photography with creativity and visual storytelling."
       },
       {
-        "name": "Edit It Your Way",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "ETE Seminar Hall",
-        "detail": "We'll provide the same photo to everyone, and your task is to edit it in your own unique style using your phone or any editing app. Show off your creativity through colors, mood, and storytelling."
+        "name": "Blindfold Click Challenge",
+        "date": "29th Aug",
+        "time": "2nd Half",
+        "venue": "DTH",
+        "detail": "Participants work in teams of 2–4. One member is blindfolded and acts as the photographer, while the rest guide them verbally to frame and capture the shot. The most creative (or funniest!) photos win."
       },
       {
         "name": "Campus Photo Story Challenge",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "ETE Seminar Hall",
+        "date": "29th Aug",
+        "time": "2nd Half",
+        "venue": "DTH",
         "detail": "Explore the campus and capture 5 photos that together tell a story or follow a theme. It's a fun way to combine photography with creativity and visual storytelling."
       }
     ],
@@ -490,7 +490,7 @@
     "lead": "Student Lead",
     "email": "+91 7349096003",
     "instagram": "@gdg_rvce",
-    "venue": "ISE Seminar Hall",
+    "venue": "MCA Seminar Hall",
     "images": [
       "/clubs/gdg-rvce/images/gdg-pic-1.jpeg",
       "/clubs/gdg-rvce/images/gdg-pic-2.jpeg"
@@ -498,30 +498,30 @@
     "events": [
       {
         "name": "Beat Gemini: The Turing Challenge",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "ISE Seminar Hall",
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "MCA Seminar Hall",
         "detail": "An event inspired by the Turing Test where participants compete to identify whether the content they're seeing was created by a human or by Gemini. Through multiple rounds, participants experience AI capabilities while learning about both its strengths and limitations."
       },
       {
         "name": "Open Source Odyssey",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "ISE Seminar Hall",
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "MCA Seminar Hall",
         "detail": "A puzzle trail where participants solve a series of challenges inspired by real open-source workflows. Each waypoint unlocks the next, offering a fun introduction to collaboration, problem-solving, and open source skills."
       },
       {
         "name": "Google Arsenal: Bid & Build",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "ISE Seminar Hall",
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "MCA Seminar Hall",
         "detail": "An interactive strategy challenge where teams bid with a fixed budget to acquire Google developer tools before building and pitching a solution using only what they win. Through fast-paced rounds, participants explore the capabilities of Google's developer ecosystem."
       },
       {
         "name": "Under the Floodlights",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "ISE Seminar Hall",
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "MCA Seminar Hall",
         "detail": "A World Cup-inspired competition where participants alternate between describing and recreating hidden images using Gemini, testing their communication, creativity, and AI skills"
       }
     ],
@@ -548,29 +548,29 @@
     "events": [
       {
         "name": "Waves in Action: The Amateur Radio Showcase",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
+        "date": "29th Aug",
+        "time": "1st Half",
         "venue": "BT Quadrangle",
         "detail": "Get up close and personal with real-world wireless hardware! In this hands-on session, you’ll explore various antennas and radio equipment, discover how they transmit signals across distances, and see the science of radio communication live in action."
       },
       {
         "name": "Operation: Lost Signal",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
+        "date": "29th Aug",
+        "time": "1st Half",
         "venue": "BT Quadrangle",
         "detail": "In this team-based challenge, you’ll navigate multiple stations, crack amateur radio puzzles—from decoding Morse code and faint signals to mastering callsigns—and hunt down authorization tokens to unlock the final codeword."
       },
       {
         "name": "Waves in Action: The Amateur Radio Showcase",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
+        "date": "29th Aug",
+        "time": "1st Half",
         "venue": "BT Quadrangle",
         "detail": "Get up close and personal with real-world wireless hardware! In this hands-on session, you’ll explore various antennas and radio equipment, discover how they transmit signals across distances, and see the science of radio communication live in action."
       },
       {
         "name": "Operation: Lost Signal",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
+        "date": "29th Aug",
+        "time": "1st Half",
         "venue": "BT Quadrangle",
         "detail": "In this team-based challenge, you’ll navigate multiple stations, crack amateur radio puzzles—from decoding Morse code and faint signals to mastering callsigns—and hunt down authorization tokens to unlock the final codeword."
       }
@@ -590,7 +590,7 @@
     "lead": "Student Lead",
     "email": "ieeervce@rvce.edu.in",
     "instagram": "@ieee_rvce",
-    "venue": "CSE - CRB - 001",
+    "venue": "CS CRB 001",
     "images": [
       "/clubs/ieee-rvce/images/csitss-2025-1.jpeg",
       "/clubs/ieee-rvce/images/img-0821.jpg"
@@ -598,30 +598,30 @@
     "events": [
       {
         "name": "CompSoc Connect",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "CSE - CRB - 001",
+        "date": "29th Aug",
+        "time": "1st Half",
+        "venue": "CS CRB 001",
         "detail": "A 60-minute interactive session that begins with engaging Mentimeter polls and quizzes to understand their interests and spark curiosity. We then showcase the society’s key initiatives, including Hack4SOC, Prompt-a-thon, technical sessions and workshops. Finally, juniors form teams of four and are given realistic constraints such as budget, audience, and time to design their own technical event. Three teams are randomly selected to pitch their ideas, followed by audience voting. The session concludes by encouraging juniors to join, contribute, and eventually lead future IEEE CS initiatives."
       },
       {
         "name": "CompSoc Connect",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "CSE - CRB - 001",
+        "date": "29th Aug",
+        "time": "1st Half",
+        "venue": "CS CRB 001",
         "detail": "A 60-minute interactive session that begins with engaging Mentimeter polls and quizzes to understand their interests and spark curiosity. We then showcase the society’s key initiatives, including Hack4SOC, Prompt-a-thon, technical sessions and workshops. Finally, juniors form teams of four and are given realistic constraints such as budget, audience, and time to design their own technical event. Three teams are randomly selected to pitch their ideas, followed by audience voting. The session concludes by encouraging juniors to join, contribute, and eventually lead future IEEE CS initiatives."
       },
       {
         "name": "Climate Escape Room",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "CSE - CRB - 001",
+        "date": "29th Aug",
+        "time": "1st Half",
+        "venue": "CS CRB 001",
         "detail": "A smartphone-based, story-driven puzzle challenge where participants must save a city facing catastrophic flooding in 2040. Teams solve progressively difficult challenges using rainfall maps, satellite imagery, elevation data, and tide charts to unlock clues. Along the way, they experience how remote sensing, geospatial analysis, and environmental data support disaster prediction and decision-making."
       },
       {
         "name": "Powering the Future – Introduction to IEEE PES RVCE",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "CSE - CRB - 001",
+        "date": "29th Aug",
+        "time": "1st Half",
+        "venue": "CS CRB 001",
         "detail": "This session serves as the official induction for freshers into the IEEE PES RVCE chapter. It is structured into two main segments: a brief introduction to the society’s goals, events, and membership benefits, followed by a technical demonstration. The technical showcase aims to expose new students to practical electrical engineering by walking them through relevant projects and essential design/simulation software, including MATLAB and KiCad."
       }
     ],
@@ -640,7 +640,7 @@
     "lead": "Student Lead",
     "email": "Prasanna Naik - 9380092279 , Megha - +91 99028 01304",
     "instagram": "@kannadacarv",
-    "venue": "Bio tech seminar hall",
+    "venue": "BT Seminar Hall",
     "images": [
       "/clubs/kannada-carv/images/1000374744.png",
       "/clubs/kannada-carv/images/1000374748.png"
@@ -648,30 +648,30 @@
     "events": [
       {
         "name": "​🎭 Mad Ads",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "Bio tech seminar hall",
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "BT Seminar Hall",
         "detail": "Pitching products with a punchline! Watch our creative minds blend brilliant marketing strategies with instant, unscripted comedy. It’s hilarious, smart, and hands-down the most entertaining sales pitch you’ll ever see."
       },
       {
         "name": "Video Showcase",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "Bio tech seminar hall",
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "BT Seminar Hall",
         "detail": "Take a trip down memory lane. Grab a seat and check out this exclusive visual showcase of our club's past masterpieces, boldest projects, and proudest achievements. See what we're all about!"
       },
       {
         "name": "​🎤 Open Mic: Jam Session",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "Bio tech seminar hall",
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "BT Seminar Hall",
         "detail": "Grab the mic or just vibe with the crowd! This is a laid-back, open-floor jamming session featuring theatrical hits, soulful folklore, and everything in between. Whether you're a seasoned singer or just want to sing along, the floor is open—come blend in!"
       },
       {
         "name": "Interactive Improv",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "Bio tech seminar hall",
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "BT Seminar Hall",
         "detail": "Zero acting experience? No problem! Jump into the madness where the topics are instant, the scenarios change constantly, and the laughter never stops. It’s wild, highly interactive, unpredictable, and guarantees unlimited fun for everyone involved."
       }
     ],
@@ -688,43 +688,14 @@
     "accent": "#84551e",
     "symbol": "K",
     "lead": "Student Lead",
-    "email": "contact@ks.rvce.edu.in",
+    "email": "@kannadasangharvce",
     "instagram": "@kannadasangharvce",
-    "venue": "CS Ground",
+    "venue": "No Event",
     "images": [
       "/clubs/kannada-sangha/images/4.png",
       "/clubs/kannada-sangha/images/5.png"
     ],
-    "events": [
-      {
-        "name": "Kannada Habba",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "CS Ground",
-        "detail": ""
-      },
-      {
-        "name": "Drums",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "CS Ground",
-        "detail": ""
-      },
-      {
-        "name": "Sports Tournaments",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "CS Ground",
-        "detail": ""
-      },
-      {
-        "name": "Social Activites",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "CS Ground",
-        "detail": ""
-      }
-    ],
+    "events": [],
     "division": "Regional, Social Service & Youth Leadership",
     "logo": "/clubs/kannada-sangha/logo.png"
   },
@@ -740,7 +711,7 @@
     "lead": "Student Lead",
     "email": "Sachin NSS President  +91 91108 85768, NEHA NSS President +91 96866 88957",
     "instagram": "@nss_rvce_",
-    "venue": "ECE Seminar Hall",
+    "venue": "Civil Seminar Hall",
     "images": [
       "/clubs/nss-rvce/images/image.jpeg",
       "/clubs/nss-rvce/images/screenshot-2025-08-19-000823.jpeg"
@@ -748,30 +719,30 @@
     "events": [
       {
         "name": "🎨 Scribble",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "ECE Seminar Hall",
+        "date": "29th Aug",
+        "time": "1st Half",
+        "venue": "Civil Seminar Hall",
         "detail": "Draw it, don't say it! Participants sketch NSS-themed words while their team races to guess the answer."
       },
       {
         "name": "🎭 Reverse Charades",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "ECE Seminar Hall",
+        "date": "29th Aug",
+        "time": "1st Half",
+        "venue": "Civil Seminar Hall",
         "detail": "Only one person guesses while the entire team acts out the given NSS-related activity or situation."
       },
       {
         "name": "🧩 Community Puzzle",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "ECE Seminar Hall",
+        "date": "29th Aug",
+        "time": "1st Half",
+        "venue": "Civil Seminar Hall",
         "detail": "Work together to assemble a jumbled NSS message, logo, or social awareness poster before other teams."
       },
       {
         "name": "🕵️ Imposter",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "ECE Seminar Hall",
+        "date": "29th Aug",
+        "time": "1st Half",
+        "venue": "Civil Seminar Hall",
         "detail": "Everyone receives the same NSS-related word except one player. Discuss, observe, and identify the imposter before time runs out."
       }
     ],
@@ -798,29 +769,29 @@
     "events": [
       {
         "name": "Drone Assembly/Disassembly",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
+        "date": "29th Aug",
+        "time": "1st Half",
         "venue": "AS002",
         "detail": "Get hands-on with drone hardware by assembling and disassembling a quadcopter. Learn the purpose of key components such as the flight controller, ESCs, motors, propellers, and battery while testing your speed, precision, and technical understanding."
       },
       {
         "name": "Piloting",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
+        "date": "29th Aug",
+        "time": "1st Half",
         "venue": "AS002",
         "detail": "Experience the thrill of flying a drone through a realistic flight simulator. Navigate checkpoints, avoid obstacles, and master basic flight controls in a safe virtual environment that introduces the fundamentals of drone piloting."
       },
       {
         "name": "Drone Escape Room",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
+        "date": "29th Aug",
+        "time": "1st Half",
         "venue": "AS002",
         "detail": "Work as a team to solve a series of drone-themed puzzles and challenges before time runs out. Decode clues, identify components, complete mini assembly tasks, and overcome interactive obstacles to unlock your way to the final mission"
       },
       {
         "name": "Drone Passport",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
+        "date": "29th Aug",
+        "time": "1st Half",
         "venue": "AS002",
         "detail": "Embark on a drone exploration journey by collecting stamps from a variety of interactive stations. From quizzes and simulator flights to FPV demonstrations, computer vision showcases, and hands-on activities, each station offers a unique glimpse into the world of drones and UAV technology."
       }
@@ -840,7 +811,7 @@
     "lead": "Student Lead",
     "email": "Suchir D - 8762463439 Nireeksha - 6361354198",
     "instagram": "@anoraniya_rvce",
-    "venue": "Chemical Engineering Seminar Hall",
+    "venue": "Chemical Seminar Hall",
     "images": [
       "/clubs/quantum-club-rvce/images/screenshot-2026-08-17-113419.png",
       "/clubs/quantum-club-rvce/images/screenshot-2026-08-17-113434.png"
@@ -848,30 +819,30 @@
     "events": [
       {
         "name": "Technical showcase",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "Chemical Engineering Seminar Hall",
+        "date": "29th Aug",
+        "time": "2nd Half",
+        "venue": "Chemical Seminar Hall",
         "detail": "An interactive showcase of innovative student projects, working prototypes, research initiatives, and technical achievements. Participants will get an opportunity to explore real engineering and scientific applications through demonstrations, exhibits, and discussions with the teams behind the projects. The showcase will highlight interdisciplinary work across quantum technology, electronics, robotics, materials science, AI, and scientific instrumentation."
       },
       {
         "name": "Interactive Science & Quantum Experiment",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "Chemical Engineering Seminar Hall",
+        "date": "29th Aug",
+        "time": "2nd Half",
+        "venue": "Chemical Seminar Hall",
         "detail": "A hands-on science and quantum experience designed to make complex scientific concepts engaging and accessible. Participants will take part in thought experiments, scientific riddles, interactive demonstrations, and hands-on challenges exploring the fascinating possibilities of the quantum world. Participants will earn points through challenges and compete on a leaderboard, encouraging curiosity, problem-solving, and scientific thinking."
       },
       {
         "name": "Laser Communication Challenge",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "Chemical Engineering Seminar Hall",
+        "date": "29th Aug",
+        "time": "2nd Half",
+        "venue": "Chemical Seminar Hall",
         "detail": "An interactive optical communication challenge where participants use a laser-based communication system to transmit and decode messages. Inspired by Morse code, participants will learn how information can be encoded into light signals and attempt to decode hidden messages using an optical communication setup. The activity combines physics, communication technology, and problem-solving in a fun competitive format."
       },
       {
         "name": "Escape Quantum Lab",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "Chemical Engineering Seminar Hall",
+        "date": "29th Aug",
+        "time": "2nd Half",
+        "venue": "Chemical Seminar Hall",
         "detail": "A 30-minute immersive scientific escape-room challenge. An experiment in the Quantum Lab has gone wrong, and participants must work as a team to restore the system and unlock the final solution before time runs out. Teams will solve a series of scientific puzzles, decode clues, perform experimental challenges, and apply concepts from physics and quantum science to progress through the lab. The activity combines teamwork, logical reasoning, experimentation, and time-based problem-solving."
       }
     ],
@@ -890,7 +861,7 @@
     "lead": "Student Lead",
     "email": "Adithya - 8660251694, Nithyasree - 9632361789",
     "instagram": "@rvquizcorp",
-    "venue": "ISE Classroom",
+    "venue": "Chemical Seminar Hall",
     "images": [
       "/clubs/quizcorp/images/1000099216.png",
       "/clubs/quizcorp/images/1000099217.png"
@@ -898,30 +869,30 @@
     "events": [
       {
         "name": "India Quiz",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "ISE Classroom",
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "Chemical Seminar Hall",
         "detail": "A quiz on the rich culture, history and heritage of our nation."
       },
       {
         "name": "Literature and Entertainment Quiz",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "ISE Classroom",
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "Chemical Seminar Hall",
         "detail": "A quiz on movies, music, literature and the world of entertainment."
       },
       {
         "name": "Sports Quiz",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "ISE Classroom",
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "Chemical Seminar Hall",
         "detail": "A quiz on quite literally every sport on earth."
       },
       {
         "name": "Science Business Technology Quiz",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "ISE Classroom",
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "Chemical Seminar Hall",
         "detail": "A quiz on the world of science, business and technology"
       }
     ],
@@ -940,7 +911,7 @@
     "lead": "Student Lead",
     "email": "Salman Zaheer Abdi(General Secretary)-8882666796",
     "instagram": "@rvceraag",
-    "venue": "CH-104(Chemical Department)",
+    "venue": "Chemical Dept Classroom",
     "images": [
       "/clubs/raag/images/whatsapp-image-2026-08-12-at-11-22-35-pm.jpeg",
       "/clubs/raag/images/whatsapp-image-2026-08-12-at-11-22-36-pm.jpeg"
@@ -948,30 +919,30 @@
     "events": [
       {
         "name": "ICE BREAKER GAMES- LAUGH. CONNECT. REPEAT.",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "CH-104(Chemical Department)",
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "Chemical Dept Classroom",
         "detail": "KICK THINGS OFF WITH LAUGHTER AND CHAOS! FUN, QUIRKY GAMES TO HELP YOU VIBE WITH YOUR BATCHMATES AND MAKE INSTANT CONNECTIONS-NO AWKWARD INTROS, JUST PURE FUN."
       },
       {
         "name": "ENDLESS JUGGLE - DON'T DROP IT!",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "CH-104(Chemical Department)",
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "Chemical Dept Classroom",
         "detail": "THINK YOU'VE GOT BALANCE AND FOCUS? TIME TO PROVE IT! KEEP THE BAT, BALL, AND FOOTBALL GOING ENDLESSLY-DROP IT, AND YOU'RE OUT. SIMPLE? WAIT TILL YOU TRY IT."
       },
       {
         "name": "ASK SENIORS ANYTHING - NO FILTER ALL ANSWERS",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "CH-104(Chemical Department)",
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "Chemical Dept Classroom",
         "detail": "YOUR CHANCE TO SPILL THOSE BURNING QUESTIONS-ANONYMOUSLY! FROM COLLEGE HACKS TO UNTOLD STORIES, OUR SENIORS ARE HERE TO ANSWER IT ALL, STRAIGHT AND UNFILTERED."
       },
       {
         "name": "RAAG PRESENTS OPEN MIC-YOUR STAGE. YOUR VIBE.",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "CH-104(Chemical Department)",
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "Chemical Dept Classroom",
         "detail": "THE SPOTLIGHT'S YOURS-SING, RAP, RECITE. OR JUST GRAB THE MIC AND VIBE. WHETHER YOU'RE PERFORMING OR CHEERING, IT'S GOING TO BE AN EVENING OF RAW TALENT AND PURE ENERGY."
       }
     ],
@@ -998,29 +969,29 @@
     "events": [
       {
         "name": "Meet, Mingle and Guess",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
+        "date": "29th Aug",
+        "time": "2nd Half",
         "venue": "ECE Seminar Hall",
         "detail": "An interactive icebreaker where participants receive a mystery word and interact with others to identify it. They can converse with one person only for 30 seconds with Yes/No/Maybe questions only, encouraging them to meet more people. With Rotaract-themed words included, the activity introduces freshers to the club’s values of communication, networking, teamwork, and leadership."
       },
       {
         "name": "Agent X - Rotaract Edition",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
+        "date": "29th Aug",
+        "time": "2nd Half",
         "venue": "ECE Seminar Hall",
         "detail": "A strategy-based social deduction game where teams work together to complete a common mission while one hidden Traitor secretly tries to mislead them. Participants must observe behaviour, communicate, discuss, and identify the Traitor through voting. The game promotes teamwork, critical thinking, leadership, trust, and effective communication in an engaging setting."
       },
       {
         "name": "Task Card Chaos - Complete, Connect & Conquer",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
+        "date": "29th Aug",
+        "time": "2nd Half",
         "venue": "ECE Seminar Hall",
         "detail": "A high-energy interactive activity where participants draw random task cards featuring fun challenges, icebreakers, mini-games, and creative missions. Participants earn points by completing as many tasks as possible within the given time. The activity encourages confidence, creativity, communication, and networking while giving freshers an engaging introduction to Rotaract."
       },
       {
         "name": "Rotaract Unplugged",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
+        "date": "29th Aug",
+        "time": "2nd Half",
         "venue": "ECE Seminar Hall",
         "detail": "Curious about Rotaract? Wondering what the club is all about, what you can learn, and where you can make a difference? Join us for an open Q&A session where you can ask questions, hear real experiences, and get a closer look at life in Rotaract."
       }
@@ -1040,7 +1011,7 @@
     "lead": "Student Lead",
     "email": "7259224222- Nidhi, 9632361789-Nithyasree",
     "instagram": "@rvce_wic_insidercircle",
-    "venue": "ISE 110",
+    "venue": "ISE Seminar Hall",
     "images": [
       "/clubs/rvce-women-in-cloud-insider-circle/images/photo-2024-11-21-08-53-58-1.jpeg",
       "/clubs/rvce-women-in-cloud-insider-circle/images/photo-2025-04-16-16-29-03-1.jpeg"
@@ -1048,30 +1019,30 @@
     "events": [
       {
         "name": "Networking Nexus",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "ISE 110",
+        "date": "29th Aug",
+        "time": "1st Half",
+        "venue": "ISE Seminar Hall",
         "detail": "An interactive session on building a strong professional network, with a focus on effective LinkedIn profiles, personal branding, meaningful connections, and leveraging LinkedIn for career and internship opportunities."
       },
       {
         "name": "Introduction to Cloud and Internships",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "ISE 110",
+        "date": "29th Aug",
+        "time": "1st Half",
+        "venue": "ISE Seminar Hall",
         "detail": "An introductory session on cloud computing, its industry applications, and how students can explore internship opportunities in the cloud domain."
       },
       {
         "name": "Vision 2030- From Freshman to Final Year",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "ISE 110",
+        "date": "29th Aug",
+        "time": "1st Half",
+        "venue": "ISE Seminar Hall",
         "detail": "A guidance session helping students plan their academic and professional journey from freshman year to final year, with a focus on skills, opportunities, and career growth."
       },
       {
         "name": "From Pen to Publish",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "ISE 110",
+        "date": "29th Aug",
+        "time": "1st Half",
+        "venue": "ISE Seminar Hall",
         "detail": "A session introducing students to the research and publication process, covering how to develop ideas, write research papers, and successfully publish them."
       }
     ],
@@ -1082,7 +1053,7 @@
     "id": "sattva",
     "name": "Sattva",
     "shortName": "SAT",
-    "category": "Technical",
+    "category": "Non-Technical",
     "description": "\"Every artist was first an amateur.\" — Ralph Waldo Emerson\n\nThat's exactly what our art club is built on. It's not just a place to make art, it's a place to figure yourself out while doing it. We're split into two sides, visual arts and liberal arts, but honestly the lines blur all the time because that's the whole point: everyone's welcome to try a bit of everything. What we love most is the people. We've got some seriously talented folks in here, but more than that, we've built a safe, creative space where people actually open up through poems, through conversations, through just sitting together and creating something. It shows up in our group chats and in quiet moments at the park just as much as it does in our art. If you're someone who wants to create, explore who you are a little more, and be around people who get it, come find us. We'd love to have you.\nCREATED TO CREATE!",
     "color": "#d9ebe3",
     "accent": "#3d6d5a",
@@ -1090,7 +1061,7 @@
     "lead": "Student Lead",
     "email": "7499149574 (Sanika K) 9741255433 (Pranet V)",
     "instagram": "@sattva.rvce",
-    "venue": "BT217 Classroom",
+    "venue": "ET Seminar Hall",
     "images": [
       "/clubs/sattva/images/20251206-123338.jpg",
       "/clubs/sattva/images/img-20251206-wa0051-1.jpg"
@@ -1098,30 +1069,30 @@
     "events": [
       {
         "name": "Pictorial Chinese Whisper",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "BT217 Classroom",
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "ET Seminar Hall",
         "detail": "Instead of having people pass a long expression, we let them pass a picture via each person drawing."
       },
       {
         "name": "Starter pack",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "BT217 Classroom",
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "ET Seminar Hall",
         "detail": "We have a standard template that everyone fills it with their own unique elements"
       },
       {
         "name": "Back where we started",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "BT217 Classroom",
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "ET Seminar Hall",
         "detail": "Write a pice or story or poem where the first and last lines are the same"
       },
       {
         "name": "Dream Author",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "BT217 Classroom",
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "ET Seminar Hall",
         "detail": "Write the summary of your dream novel or book if you were a famous author"
       }
     ],
@@ -1139,8 +1110,8 @@
     "symbol": "S",
     "lead": "Student Lead",
     "email": "1. Kavin Krishnan C  9513344481 kavinkrishnanc.cs24@rvce.edu.in  2. A S S S Koundinya  8686251633  assskoundinya.cs24@rvce.edu.in",
-    "instagram": "@spark_rvce",
-    "venue": "CE 205 : Department of Civil Engineering",
+    "instagram": "spark_rvce",
+    "venue": "CE 205",
     "images": [
       "/clubs/spark-the-iucee-student-chapter/images/iasf-1.jpeg",
       "/clubs/spark-the-iucee-student-chapter/images/mun-1.jpg"
@@ -1148,31 +1119,31 @@
     "events": [
       {
         "name": "Mission: Impossible? – Build. Adapt. Pitch.",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "CE 205 : Department of Civil Engineering",
-        "detail": "“Every twist changes the game.”  Mission: Impossible? is a 2-hour innovation challenge where teams build a startup from randomly assigned problems, technologies, audiences, revenue models, and features. As the challenge progresses, teams must engineer their solution, adapt to unexpected constraints, tackle an ethical dilemma, and finally pitch their startup in a randomly assigned creative format.  Event Flow  * Team Formation – 10 min: Participants are randomly grouped into teams of 4–5. * Round 1: Startup DNA – 20 min: Teams draw random startup elements and create a logically connected business idea. * Round 2: Engineering Buildathon – 25 min: Teams receive random hardware/component cards and integrate every assigned component into their solution. * Round 3: The Twist – 15 min: A surprise constraint forces teams to redesign and adapt their solution. * Round 4: Ethics Override – 10 min: Teams face a real-world ethical dilemma, make a decision, and justify their approach. * Round 5: Final Pitch – 40 min: Teams present their final solution through a randomly assigned format such as Shark Tank, skit, advertisement, news report, customer testimonial, or Human Machine.  AI can be used throughout the event for brainstorming, research, visualisation, UI mockups, posters, and system diagrams.  Judges will also randomly question individual team members after each pitch to evaluate understanding, adaptability, and equal participation."
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "CE 205",
+        "detail": "Think you can turn chaos into a startup? Pick random problems, technologies, audiences, revenue models, and wildcards, then connect the dots and build an idea that actually works.  But it doesn’t stop there. Test your memory, adapt to new constraints, create your poster, and pitch your startup in a gallery-style showdown.  Random chits. Unexpected twists. One winning idea. Can you build the impossible?."
       },
       {
         "name": "Digital Launchpad Masterclass: LinkedIn, College Email Benefits & Leveraging AI",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "CE 205 : Department of Civil Engineering",
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "CE 205",
         "detail": "Build a professional LinkedIn profile, unlock exclusive software and learning benefits through your college email ID, and learn to leverage AI tools for research, productivity, and academic workflows. This hands-on session equips you with practical skills to enhance your digital presence and work smarter throughout your college journey."
       },
       {
         "name": "Stations of an Innovator",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "CE 205 : Department of Civil Engineering",
-        "detail": "Experience the Journey from Idea to Impact  Duration: 2 Hours  Concept: “Stations of an Innovator” is an interactive showcase designed to give participants a glimpse into the journey of an innovator. Instead of simply displaying our club’s activities, visitors actively experience the different stages involved in identifying problems, generating ideas, building solutions, communicating them effectively, and understanding the impact of innovation. Participants will spend approximately 15–20 minutes at each station before moving to the next.  Station 1: Idea Ignition (15–20 minutes)  Participants will be presented with a real-world or campus-based problem. Working individually or in small groups, they will brainstorm innovative solutions and present their ideas to the station mentors. The objective is to encourage creative thinking and problem-solving.  Materials Required:  * Problem statement cards * Pens * A4 sheets * Timer  Station 2: Prototype Playground (15–20 minutes)  Participants will build a simple prototype using everyday materials such as paper cups, straws, ice cream sticks, tape, and rubber bands. The challenge is to transform an idea into a tangible model within the given time.  Materials Required:  * Paper cups * Straws * Ice cream sticks * Masking tape * Rubber bands * String * Scissors  Station 3: Pitch Arena (15–20 minutes)  Participants will deliver a short startup-style pitch explaining their solution, its impact, target users, and why it is unique. Volunteers will play the role of judges and ask questions, simulating a real innovation or entrepreneurship pitch.  Materials Required:  * Timer * Score sheets * Whiteboard (optional)  Station 4: Impact Wall (15–20 minutes)  Participants will reflect on the experience by writing down a real-world problem they believe should be solved or an innovation they wish existed. These ideas will be displayed on the “Impact Wall,” creating a collective vision of future innovations.  Materials Required:  * Sticky notes * Chart paper or display board * Markers * Tape  Station 5: Club Showcase (15–20 minutes)  The final station introduces visitors to our club’s activities and achievements. It will feature project displays, research initiatives, industry visits, workshops, competitions, social impact initiatives, and entrepreneurship opportunities. Visitors can interact with club members, ask questions, and register their interest in joining the club.  Display Includes:  * Club banner * Event photographs * Research and innovation projects * Awards and achievements * Posters * Membership QR code"
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "CE 205",
+        "detail": "Stations of an Innovator is an interactive experience where participants get to explore the complete journey of an innovator - from identifying a problem to creating a solution and understanding its impact. Through five engaging stations, participants will brainstorm innovative ideas, build simple prototypes using everyday materials, pitch their solutions like a startup, share their thoughts on future innovations through an Impact Wall, and finally explore the club’s projects, achievements, research, events, and opportunities. The experience is designed to make innovation interactive, creative, and hands-on, rather than just something to observe."
       },
       {
         "name": "Decode.exe",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "CE 205 : Department of Civil Engineering",
-        "detail": "Several decoding stations set up in one room. Clues at each station resolve to numbers, which add up to determine the final winning prize. First team to crack all clues wins.  Tests: Logic, ciphers, aptitude Duration: 1 – 1.5 hrs  Station 1: Death Registry Puzzle Teams get a list of 10–12 death entries (name, age, occupation, cause, place, date). Spotting the anomaly reveals a number tied to that entry — the clue.  Station 2: Mystery.exe (2 Levels) Level 1: A custom letter↔️number chart converts a word into numbers, then a sequence of operations (per color block) transforms it into a final number. Level 2: 24 true/false statements → convert to 1s and 0s → 24-bit binary string → split into three 8-bit blocks → convert each to decimal → map numbers to a location.  Station 3: TBD Still deciding between astronomy-based or tech-based questions."
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "CE 205",
+        "detail": "Two decoding stations, each filled with clues leading to hidden numbers. Crack both challenges, combine your answers, and uncover the final winning key. First team to solve them all wins!  Station 1: Two ancient ledgers hold countless stories—but hidden within them is something that doesn’t belong. Can you uncover the anomalies and reveal the truth? Station 2: A mysterious deep-space log holds hidden patterns, strange transmissions, and secrets waiting to be uncovered. Can you decode the unknown and discover what the expedition left behind?"
       }
     ],
     "division": "Industry Connect and Interdisciplinary Engineering",
@@ -1190,7 +1161,7 @@
     "lead": "Student Lead",
     "email": "7349636522",
     "instagram": "@teamantarikshofficial",
-    "venue": "AS001",
+    "venue": "ETE Seminar Hall",
     "images": [
       "/clubs/team-antariksh/images/ta-2024-mingos-banner-long-190x65cm-orange-1.png",
       "/clubs/team-antariksh/images/whatsapp-image-2026-02-01-at-12-31-46-pm.jpeg"
@@ -1198,30 +1169,30 @@
     "events": [
       {
         "name": "Payload Quest: Mission Challenge",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "AS001",
+        "date": "29th Aug",
+        "time": "2nd Half",
+        "venue": "ETE Seminar Hall",
         "detail": "Teams will be presented with a mission scenario involving multiple constraints and challenges. They must analyse the situation, make design decisions, and develop a payload or mission solution that meets the given requirements within the allotted time."
       },
       {
         "name": "The Egg Drop",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "AS001",
+        "date": "29th Aug",
+        "time": "2nd Half",
+        "venue": "ETE Seminar Hall",
         "detail": "Teams will be provided with limited materials such as popsicle sticks, tape, glue, and cotton. Their objective is to design and build a protective structure that safely houses an egg and prevents it from cracking when dropped from a height of 2–3 metres."
       },
       {
         "name": "Auction Call",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "AS001",
+        "date": "29th Aug",
+        "time": "2nd Half",
+        "venue": "ETE Seminar Hall",
         "detail": "Each team will be given a fixed budget and a specific mission objective. Teams will participate in an auction to acquire the components and materials required for their mission, after which they will develop and present their final mission plan. The most effective solution considering mission performance, resource utilisation, and budget efficiency will be declared the winner."
       },
       {
         "name": "Payload Quest: Mission Challenge",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
-        "venue": "AS001",
+        "date": "29th Aug",
+        "time": "2nd Half",
+        "venue": "ETE Seminar Hall",
         "detail": "Teams will be presented with a mission scenario involving multiple constraints and challenges. They must analyse the situation, make design decisions, and develop a payload or mission solution that meets the given requirements within the allotted time."
       }
     ],
@@ -1248,29 +1219,29 @@
     "events": [
       {
         "name": "ROS2 Intro and Rover Simulation on RViz",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
+        "date": "29th Aug",
+        "time": "2nd Half",
         "venue": "MCA Seminar Hall",
         "detail": "Get to learn ROS2, the backbone of modern robotics, by visualizing a rover's sensors, movement, and navigation in RViz. See how real robots \"think\" and move, right from your screen."
       },
       {
         "name": "Gazebo Simulations: ARES, HAL and Mbot",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
+        "date": "29th Aug",
+        "time": "2nd Half",
         "venue": "MCA Seminar Hall",
         "detail": "Step into realistic robot simulations powered by Gazebo's physics engine. Drive and navigate our very own bots — HAL, Mbot, and ARES — autonomously through simulated environments and experience robotics come to life."
       },
       {
         "name": "TinkerCAD",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
+        "date": "29th Aug",
+        "time": "2nd Half",
         "venue": "MCA Seminar Hall",
         "detail": "Design and simulate Arduino-based electronic circuits virtually before bringing them to life in hardware. A perfect first step into the world of embedded systems and electronics."
       },
       {
         "name": "Robotic Arm Challenge",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
+        "date": "29th Aug",
+        "time": "2nd Half",
         "venue": "MCA Seminar Hall",
         "detail": "Take control of a robotic arm and put your precision to the test in an exciting pick-and-place challenge. Program it, move it, and master the art of robotic manipulation."
       }
@@ -1298,29 +1269,29 @@
     "events": [
       {
         "name": "Auction",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
+        "date": "29th Aug",
+        "time": "2nd Half",
         "venue": "EE112",
         "detail": "Test your strategic thinking and financial management in our high-stakes Auction challenge. Teams receive a virtual budget to bid on critical formula student components, balancing performance, reliability, and cost-efficiency to build the ultimate competitive racecar package under pressure, and tight constraints."
       },
       {
         "name": "Egress",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
+        "date": "29th Aug",
+        "time": "2nd Half",
         "venue": "EE112",
         "detail": "Safety and speed are paramount in motorsport. The Egress test challenges participants to execute a standard driver emergency evacuation from our electric formula car as quickly as possible, demonstrating composure, physical agility, and strict adherence to competition safety regulations."
       },
       {
         "name": "ARDUINO MINI PROJECT",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
+        "date": "29th Aug",
+        "time": "2nd Half",
         "venue": "EE112",
         "detail": "Dive into the world of onboard electronics and embedded systems. In this hands-on Arduino Mini Project, participants will wire, program, and troubleshoot a functional circuit or sensor module tailored for data acquisition and vehicle telemetry applications."
       },
       {
         "name": "Assetto Corsa",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
+        "date": "29th Aug",
+        "time": "2nd Half",
         "venue": "EE112",
         "detail": "Experience the thrill of driving our very own Formula Student electric car in the virtual realm. Hop into our custom Assetto Corsa simulator setup, test vehicle dynamics on track, and set the fastest lap time against your peers"
       }
@@ -1340,7 +1311,7 @@
     "lead": "Student Lead",
     "email": "7483225964/ 7975828533",
     "instagram": "@team.dhi",
-    "venue": "ISE Seminar Hall",
+    "venue": "No Event",
     "images": [
       "/clubs/team-dhi/images/img-20260524-wa0060-1.jpg",
       "/clubs/team-dhi/images/img-20260524-wa0067-1.jpg"
@@ -1348,23 +1319,23 @@
     "events": [
       {
         "name": "Prompt Wars",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "ISE Seminar Hall",
+        "date": "Aug 28/29",
+        "time": "Showcase",
+        "venue": "No Event",
         "detail": "Teams compete to solve increasingly difficult challenges using only prompts under strict constraints like word limits, banned keywords, or zero follow-up attempts. Participants learn prompt engineering, context management, and the limitations of LLMs."
       },
       {
         "name": "The Human Neural Network",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "ISE Seminar Hall",
+        "date": "Aug 28/29",
+        "time": "Showcase",
+        "venue": "No Event",
         "detail": "A zero-code game, where the audience are turned into a living, breathing AI brain! Freshers will be divided into Input, Hidden, and Output layers to pass, filter, and process secret data. They'll experience firsthand how a neural network learns from its mistakes, adapts, and makes decisions - all through a chaotic, fast-paced race against the clock. No coding required, just pure logic and teamwork!"
       },
       {
         "name": "Copilot",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "ISE Seminar Hall",
+        "date": "Aug 28/29",
+        "time": "Showcase",
+        "venue": "No Event",
         "detail": "A practical introduction showing freshers how artificial intelligence isn't a shortcut, but a mandatory power tool for learning, debugging, and solving complex problems in modern engineering."
       }
     ],
@@ -1376,7 +1347,7 @@
     "name": "Team dhRuVa",
     "shortName": "DR",
     "category": "Technical",
-    "description": "dhRuVa is the astrophysics club at RV College of Engineering. What began as a quest to explore the secrets of the universe is now a growing team of amateur astrophysics enthusiasts. We at dhRuVa host stargazing events, astrophysics-related coding competitions and engage in discussions on latest observations made by the astrophysics community all over the globe. We share our understanding through informative videos, blogs and journals. We constantly try to keep up with the happenings of the universe through telescopes, radio telescopes and analysis. Join us on our journey to unravel the stars.",
+    "description": "dhRuVa is the astrophysics club at RV College of Engineering. What began as a quest to explore the secrets of the universe is now a growing team of amateur astrophysics enthusiasts. We constantly try to keep up with the happenings of the universe through our in-house telescopes and radio antennae while hosting stargazing events, astrophysics-related coding competitions, and podcasts featuring celebrated scientists from ICTS to engage the student community. Beyond events and observation, our research has been presented at international and national conferences like GLEX and YATI. Join us on our journey to unravel the stars.",
     "color": "#e3dcff",
     "accent": "#554590",
     "symbol": "D",
@@ -1391,29 +1362,29 @@
     "events": [
       {
         "name": "Cosmic Mystery",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
+        "date": "28th Aug",
+        "time": "1st Half",
         "venue": "DTH",
         "detail": "A series of space-themed puzzles where teams collaborate to uncover clues. The clues combine to solve one final overarching mystery."
       },
       {
         "name": "Cosmic Mystery",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
+        "date": "28th Aug",
+        "time": "1st Half",
         "venue": "DTH",
         "detail": "A series of space-themed puzzles where teams collaborate to uncover clues. The clues combine to solve one final overarching mystery."
       },
       {
         "name": "Cosmic Mystery",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
+        "date": "28th Aug",
+        "time": "1st Half",
         "venue": "DTH",
         "detail": "A series of space-themed puzzles where teams collaborate to uncover clues. The clues combine to solve one final overarching mystery."
       },
       {
         "name": "Cosmic Mystery",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
+        "date": "28th Aug",
+        "time": "1st Half",
         "venue": "DTH",
         "detail": "A series of space-themed puzzles where teams collaborate to uncover clues. The clues combine to solve one final overarching mystery."
       }
@@ -1441,29 +1412,29 @@
     "events": [
       {
         "name": "Technical Showcase",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
+        "date": "29th Aug",
+        "time": "1st Half",
         "venue": "DTH",
         "detail": "Explore our club's innovative projects, prototypes, and technical achievements."
       },
       {
         "name": "ElectriQuiz",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
+        "date": "29th Aug",
+        "time": "1st Half",
         "venue": "DTH",
         "detail": "A quick and interactive quiz that explores the world of electric vehicles, renewable energy, and sustainable transportation."
       },
       {
         "name": "Circuit Challenge",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
+        "date": "29th Aug",
+        "time": "1st Half",
         "venue": "DTH",
         "detail": "Solve simple circuit puzzles by connecting components correctly before the timer runs out."
       },
       {
         "name": "Mobility Innovators",
-        "date": "Aug 28",
-        "time": "Showcase Day 1",
+        "date": "29th Aug",
+        "time": "1st Half",
         "venue": "DTH",
         "detail": "Receive a real-world transportation problem and work in teams to design the most practical and creative solution within a limited time."
       }
@@ -1491,31 +1462,31 @@
     "events": [
       {
         "name": "Meet the Machine",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
+        "date": "29th Aug",
+        "time": "2nd Half",
         "venue": "BT217 Classroom",
-        "detail": "Before anything else, come see what we actually build. This session is a walkthrough of Team Helios Racing and GT27, our current eBAJA vehicle - the systems that go into it, the subsystems the team is divided into, and what it actually takes to get a car onto the track. Consider it your first look under the hood of the club: no jargon overload, just a straight introduction to who we are, what we're building, and where you'd fit in."
+        "detail": "Before anything else, come see what we actually build. This session is a walkthrough of Team Helios Racing and GT27, our current eBAJA vehicle - the systems that go into it, the subsystems the team is divided into, and what it actually takes to get a car onto the track. Consider it your first look under the hood of the club."
       },
       {
         "name": "The Helios Trails",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
+        "date": "29th Aug",
+        "time": "2nd Half",
         "venue": "BT217 Classroom",
-        "detail": "This activity is a fast-paced, Squid Game-inspired engineering relay race where teams of 5 to 6 compete to solve four technical challenges in the shortest time. To build teamwork and strategy, members must navigate the course in the shortest time possible and strategically delegate exactly one specialist to tackle each puzzle."
+        "detail": "This activity is a fast-paced, Squid Game-inspired engineering relay race where teams of 4-5 compete to solve four technical challenges in the shortest time. To build teamwork and strategy, members must navigate the course in the shortest time possible and strategically delegate exactly one specialist to tackle each puzzle."
       },
       {
         "name": "Assembly Line",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
+        "date": "29th Aug",
+        "time": "2nd Half",
         "venue": "BT217 Classroom",
-        "detail": "This high-speed, pit-crew style challenge tests teamwork, precision, and technical efficiency as teams split up to race against the clock. While one half of the team races to mount and secure the tires onto the chassis, the other half takes on the intricate task of assembling the gearbox. The team that demonstrates the best coordination and clocks the absolute fastest combined assembly time takes the win"
+        "detail": "This high-speed, pit-crew style challenge tests teamwork, precision, and technical efficiency as teams split up to race against the clock. While one half of the team races to mount and secure the tires onto the chassis, the other half takes on the intricate task of assembling the gearbox. The team that demonstrates the best coordination and clocks the absolute fastest combined assembly time takes the win."
       },
       {
         "name": "Baja Beyond Borders",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
+        "date": "29th Aug",
+        "time": "2nd Half",
         "venue": "BT217 Classroom",
-        "detail": "Teams are given a random challenge card with a unique environment or mission. They have 2–3 minutes to brainstorm how they would redesign the Helios Baja car to survive that scenario. Afterward, each team gives a 1-minute pitch explaining their design."
+        "detail": "Teams are given a random challenge card with a unique environment or mission. They have 10-15 minutes to brainstorm how they would redesign the Helios Baja car to survive that scenario. Afterward, each team gives a 5 minute pitch explaining their design"
       }
     ],
     "division": "Racing & Automotive",
@@ -1533,7 +1504,7 @@
     "lead": "Student Lead",
     "email": "teamkrushi@rvce.edu.in",
     "instagram": "@teamkrushi",
-    "venue": "EE Classroom",
+    "venue": "ECE Seminar Hall",
     "images": [
       "/clubs/team-krushi/images/3.jpg",
       "/clubs/team-krushi/images/5.jpg"
@@ -1541,34 +1512,34 @@
     "events": [
       {
         "name": "Krushi Kickstart  :  (Ideathon)",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "EE Classroom",
+        "date": "29th Aug",
+        "time": "1st Half",
+        "venue": "ECE Seminar Hall",
         "detail": "What if your random idea could solve a real farming problem? Step into a fast-paced challenge where you'll brainstorm, build, and pitch innovative solutions—even if you've never done it before. No experience needed, just curiosity!"
       },
       {
         "name": "Tractor Unlocked (Tractor Workshop)",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "EE Classroom",
+        "date": "29th Aug",
+        "time": "1st Half",
+        "venue": "ECE Seminar Hall",
         "detail": "Ever wondered what's hidden beneath the hood of a tractor? Get hands-on with the machine that powers agriculture and discover how engineering meets farming in the real world."
       },
       {
         "name": "Pitch. Build. Disrupt. (Agri Startup Pitch)",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "EE Classroom",
+        "date": "29th Aug",
+        "time": "1st Half",
+        "venue": "ECE Seminar Hall",
         "detail": "Imagine you're the founder of the next big agritech startup. Can you convince investors in just a few minutes? Turn bold ideas into business pitches and experience the startup world firsthand."
       },
       {
         "name": "Tractor Unlocked (Tractor Workshop)",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "EE Classroom",
+        "date": "29th Aug",
+        "time": "1st Half",
+        "venue": "ECE Seminar Hall",
         "detail": "Ever wondered what's hidden beneath the hood of a tractor? Get hands-on with the machine that powers agriculture and discover how engineering meets farming in the real world."
       }
     ],
-    "division": "Astronomy & Interdisciplinary Engineering",
+    "division": "Industry Connect and Interdisciplinary Engineering",
     "logo": "/clubs/team-krushi/krushi-logo-2.png"
   },
   {
@@ -1576,14 +1547,14 @@
     "name": "Team Vyoma",
     "shortName": "TV",
     "category": "Technical",
-    "description": "We are the aeromodelling club of Rvce. We research and build RC planes.We predominantly participate in huge completions like iit Bombay, itt Chennai,JSS mysore etc.",
+    "description": "We are the Aeromodelling Club of RV College of Engineering, dedicated to researching, designing, building, and flying high-performance RC aircraft. We work across aerodynamics, structures, propulsion, electronics, and flight systems, turning engineering concepts into real, functional aircraft. We actively participate in major national-level aeromodelling competitions at institutions such as IIT Bombay, IIT Madras, JSS Mysuru, and other leading engineering colleges, constantly challenging ourselves to develop more advanced, efficient, and high-performance aircraft. Through every project and competition, we aim to push our technical capabilities, innovate with new designs and technologies, and establish ourselves as one of the leading student aeromodelling teams in the country.",
     "color": "#d6eff3",
     "accent": "#256a75",
     "symbol": "V",
     "lead": "Student Lead",
     "email": "Saranya -9972235841 Rishit-9148169291",
     "instagram": "@teamvyomaoffial",
-    "venue": "AS002",
+    "venue": "BT Seminar Hall",
     "images": [
       "/clubs/team-vyoma/images/whatsapp-image-2026-08-13-at-23-46-25-1.jpeg",
       "/clubs/team-vyoma/images/whatsapp-image-2026-08-13-at-23-46-25-2.jpeg"
@@ -1591,35 +1562,35 @@
     "events": [
       {
         "name": "Build, Balance & Fly",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "AS002",
+        "date": "29th Aug",
+        "time": "2nd Half",
+        "venue": "BT Seminar Hall",
         "detail": "Participants will design and manufacture an RC aircraft while applying principles of aerodynamics, structures, propulsion and flight control. The challenge is to transform their design into a functional aircraft capable of successful flight."
       },
       {
         "name": "Know Your Skies: Aviation Quiz and debate challenge",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "AS002",
+        "date": "29th Aug",
+        "time": "2nd Half",
+        "venue": "BT Seminar Hall",
         "detail": "A fast-paced quiz and debate that tests participants’ knowledge of aircraft, aviation history, aerospace technology, flight systems and famous aviation milestones. Participants will compete through multiple rounds that challenge their knowledge, memory and quick thinking."
       },
       {
-        "name": "Take the Controls: Flight Simulator Challenge",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "AS002",
-        "detail": "Participants will operate a flight simulator and experience realistic aircraft operations, navigation, take-off, flight and landing scenarios. Their performance will be evaluated based on precision, decision-making, situational awareness and flying skills."
+        "name": "Flight Detective: Black Box Investigation",
+        "date": "29th Aug",
+        "time": "2nd Half",
+        "venue": "BT Seminar Hall",
+        "detail": "Think you can solve an aviation mystery? 🕵️‍♂️✈️ Step into the shoes of a flight investigator and uncover what really happened during a simulated aircraft incident. Decode black box data, analyse flight parameters, connect the clues, and piece together the events leading up to the crash. With unexpected twists, technical challenges, and plenty of detective work, Flight Detective is where aviation meets mystery — and your job is to find the truth before the evidence takes you in the wrong direction!experience realistic aircraft operations, navigation, take-off, flight and landing scenarios. Their performance will be evaluated based on precision, decision-making, situational awareness and flying skills."
       },
       {
-        "name": "Flight Detective: Black Box Investigation",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "AS002",
-        "detail": "Participants will investigate a simulated aircraft accident by analysing black-box data, flight parameters, cockpit information and available evidence. They must reconstruct the sequence of events, identify the probable cause and present their investigation findings."
+        "name": "Take the Controls: Flight Simulator Challenge",
+        "date": "29th Aug",
+        "time": "2nd Half",
+        "venue": "BT Seminar Hall",
+        "detail": "Participants will operate a flight simulator and ."
       }
     ],
     "division": "Space, Drone & Aerospace",
-    "logo": "/clubs/team-vyoma/vyomalogo-1.jpeg"
+    "logo": "/clubs/team-vyoma/vyoma-logo.jpg"
   },
   {
     "id": "tedxrvce",
@@ -1633,7 +1604,7 @@
     "lead": "Student Lead",
     "email": "Lakshana Jeevanandan  - 8939361051",
     "instagram": "@tedxrvce_bengaluru",
-    "venue": "The Reel Room",
+    "venue": "Reel Room",
     "images": [
       "/clubs/tedxrvce/images/2.jpeg",
       "/clubs/tedxrvce/images/team-pic.jpeg"
@@ -1641,30 +1612,30 @@
     "events": [
       {
         "name": "Color Fusion Challenge (or) Hue & Create",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "The Reel Room",
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "Reel Room",
         "detail": "This activity combines colour accuracy with creative thinking. Participants must first recreate randomly generated target colours using a digital colour picker. The colours they successfully match become the only colours they can use to complete a creative circle illustration challenge."
       },
       {
         "name": "Ad-Absurdum",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "The Reel Room",
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "Reel Room",
         "detail": "Students will be made into teams of 2–3, and they will be asked to sell an unsellable product (for example, a broken umbrella or an empty pen). Once that’s done, the teams will be asked to make a reel on their product as an advertisement."
       },
       {
         "name": "Headline & Emoji Challenge",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "The Reel Room",
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "Reel Room",
         "detail": "Participants guess a movie from emojis displayed on a laptop and then create a creative newspaper headline for it. The activity encourages teamwork and creativity, requiring only a laptop, paper, and pens."
       },
       {
         "name": "Pictogram Puzzle & Guess the Imposter",
-        "date": "Aug 29",
-        "time": "Showcase Day 2",
-        "venue": "The Reel Room",
+        "date": "28th Aug",
+        "time": "1st Half",
+        "venue": "Reel Room",
         "detail": "Participants are given images representing themes of previous TEDx events and asked to guess them in a fun Pictionary-style game. Following that, in “Guess the Imposter,” participants are shown titles or headlines of absurd TED talks, with one being fake, and must identify the imposter."
       }
     ],

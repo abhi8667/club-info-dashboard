@@ -14,6 +14,31 @@ def convert_drive_url(url):
         return f"https://lh3.googleusercontent.com/d/{file_id}"
     return url
 
+def parse_date_and_time(day_raw):
+    if not day_raw or day_raw.lower() == 'no event':
+        return 'Aug 28/29', 'Showcase'
+    day_lower = day_raw.lower()
+    if '28' in day_lower:
+        date_str = '28th Aug'
+    elif '29' in day_lower:
+        date_str = '29th Aug'
+    elif day_raw == '1':
+        date_str = '28th Aug'
+    elif day_raw == '2':
+        date_str = '29th Aug'
+    else:
+        date_str = day_raw.split('-')[0].strip() if '-' in day_raw else day_raw
+
+    if '1st' in day_lower or 'first' in day_lower:
+        time_str = '1st Half'
+    elif '2nd' in day_lower or 'second' in day_lower:
+        time_str = '2nd Half'
+    elif '-' in day_raw:
+        time_str = day_raw.split('-')[1].strip()
+    else:
+        time_str = 'Showcase'
+    return date_str, time_str
+
 # Comprehensive mapping dictionary from CSV "Club Name" to clubs.json "id"
 EXPLICIT_MAP = {
     'team helios racing': 'team-helios-racing',
@@ -106,26 +131,26 @@ def main():
             category_raw = row[5].strip() if len(row) > 5 else ''
             venue_raw = row[6].strip() if len(row) > 6 else ''
             day_raw = row[7].strip() if len(row) > 7 else ''
-            desc_raw = row[8].strip() if len(row) > 8 else ''
+            desc_raw = row[9].strip() if len(row) > 9 else ''
             
             events = []
             for slot in range(4):
-                idx_name = 9 + slot * 2
-                idx_desc = 10 + slot * 2
+                idx_name = 10 + slot * 2
+                idx_desc = 11 + slot * 2
                 if len(row) > idx_name and row[idx_name].strip():
                     ename = row[idx_name].strip()
                     edesc = row[idx_desc].strip() if len(row) > idx_desc else ''
-                    date_str = 'Aug 28' if day_raw == '1' else ('Aug 29' if day_raw == '2' else 'Aug 28/29')
+                    date_str, time_str = parse_date_and_time(day_raw)
                     events.append({
                         'name': ename,
                         'date': date_str,
-                        'time': 'Showcase Day ' + day_raw if day_raw else 'Induction Day',
+                        'time': time_str,
                         'venue': venue_raw,
                         'detail': edesc
                     })
                     
-            insta_raw = row[17].strip() if len(row) > 17 else ''
-            contact_raw = row[18].strip() if len(row) > 18 else ''
+            insta_raw = row[18].strip() if len(row) > 18 else ''
+            contact_raw = row[19].strip() if len(row) > 19 else ''
             
             # Find matching club ID
             norm_key = name.lower().strip()

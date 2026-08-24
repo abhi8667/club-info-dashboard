@@ -10,39 +10,39 @@
   "lead": "Student Lead",
   "email": "Gauri Dhanakshirur (+91 8861492072) and Kartik Shekhar (+91 9113906099)",
   "instagram": "@acm.rvce",
-  "venue": "BT Seminar Hall (BioTech Department Seminar Hall)",
+  "venue": "ECE Seminar Hall",
   "images": [
     "/clubs/acm-rvce/images/gbm.jpg",
     "/clubs/acm-rvce/images/hackathon.jpg"
   ],
   "events": [
     {
-      "name": "Reverse Research Engineering",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
-      "venue": "BT Seminar Hall (BioTech Department Seminar Hall)",
-      "detail": "An event that gamifies academic writing by challenging teams to decode computer science papers, either inventing an abstract based solely on a descriptive title or engineering a professional title from a redacted abstract. Guided by structural clue sheets and evaluated against the actual published papers, students strip away the intimidation of research while learning how cutting-edge technology is structurally presented."
+      "name": "Binary Blitz",
+      "date": "28th Aug",
+      "time": "1st Half",
+      "venue": "ECE Seminar Hall",
+      "detail": "A high-octane tech trivia race covering modern tech trends, pop culture computing, and rapid-fire fundamentals. Test your speed and digital savvy to dominate the hall leaderboard."
     },
     {
-      "name": "ByteStorm – CS Ideathon",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
-      "venue": "BT Seminar Hall (BioTech Department Seminar Hall)",
-      "detail": "Teams will be given a set of technology-related keywords and must brainstorm an innovative idea around them. Like Shark Tank, participants will pitch their concept to a panel of judges—no coding or prototypes required, just creativity, logic, and a compelling vision."
+      "name": "Stack Overthrow",
+      "date": "28th Aug",
+      "time": "1st Half",
+      "venue": "ECE Seminar Hall",
+      "detail": "A battle of logic, systems, and code intuition tackling quirky outputs, algorithmic riddles, and engineering trivia. Perfect for minds that love debugging under pressure."
     },
     {
-      "name": "Tech-Trap: The Tech-Bluff Tournament",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
-      "venue": "BT Seminar Hall (BioTech Department Seminar Hall)",
-      "detail": "The event challenges teams to construct a plausible technical paragraph using a given set of terms while intentionally concealing a logical or structural engineering fallacy. Presenting teams attempt to deliver their pitch with absolute confidence, while competing audience members act as rigorous code-reviewers racing to spot the hidden trap and claim the points."
+      "name": "Glyph Hunt",
+      "date": "28th Aug",
+      "time": "1st Half",
+      "venue": "ECE Seminar Hall",
+      "detail": "A sharp visual challenge spotlighting the icons powering the tech universe, from mainstream tech giants to essential developer frameworks. Spot the subtle marks that define the industry’s biggest brands."
     },
     {
-      "name": "Tech Time Capsule",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
-      "venue": "BT Seminar Hall (BioTech Department Seminar Hall)",
-      "detail": "Travel through time by stepping into a randomly assigned era of computing, from the early days of personal computers to a futuristic AI-powered world. Teams must analyze the technological landscape of their timeline and pitch an innovative solution that fits its possibilities and limitations."
+      "name": "Pixel Parse",
+      "date": "28th Aug",
+      "time": "1st Half",
+      "venue": "ECE Seminar Hall",
+      "detail": "A fast-paced visual decoder where distorted, abstracted, and heavily cropped tech logos test your attention to detail. Race against the clock to reconstruct and identify the missing brand identities."
     }
   ],
   "division": "Computer Science, Software & AI",

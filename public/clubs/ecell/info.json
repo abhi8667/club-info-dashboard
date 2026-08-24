@@ -18,33 +18,33 @@
   "events": [
     {
       "name": "Fund my Failure",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
+      "date": "29th Aug",
+      "time": "1st Half",
       "venue": "MCA Seminar Hall",
       "detail": "An interactive session encouraging students to embrace failure, learn from setbacks, and transform failed ideas into stronger, more fundable startup pitches."
     },
     {
       "name": "Ecell’s got latent",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
+      "date": "29th Aug",
+      "time": "1st Half",
       "venue": "MCA Seminar Hall",
       "detail": "An engaging pitch challenge where students receive surprise startup ideas, brainstorm under time constraints, and present their concepts while testing creativity, pitching skills, and self-awareness. Where the students have to score their pitches priorly, and they win if the score matches with the judges."
     },
     {
       "name": "Startup 101",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
+      "date": "29th Aug",
+      "time": "1st Half",
       "venue": "MCA Seminar Hall",
       "detail": "A beginner-friendly crash course introducing freshers to entrepreneurship, startup opportunities, challenges, campus support systems, and essential startup terminology."
     },
     {
       "name": "Startup Trivia",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
+      "date": "29th Aug",
+      "time": "1st Half",
       "venue": "MCA Seminar Hall",
       "detail": "A fast-paced quiz that puts your startup IQ to the test. Questions span founders, funding, business models and innovation — designed to challenge your business instincts while keeping the energy high. Beat the clock, and have fun doing it."
     }
   ],
   "division": "Entrepreneurship & Innovation",
-  "logo": "/clubs/ecell/copy-of-ecell-blk.png"
+  "logo": "/clubs/ecell/ecell-logo.jpeg"
 }

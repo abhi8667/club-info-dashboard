@@ -10,7 +10,7 @@
   "lead": "Student Lead",
   "email": "9019535410",
   "instagram": "@ashwa_racing",
-  "venue": "Civil Straight and request to put up stalls for other activities we have planned",
+  "venue": "Civil Straight Road",
   "images": [
     "/clubs/ashwa-racing/images/1000316609.jpg",
     "/clubs/ashwa-racing/images/1000316610.jpg"
@@ -18,30 +18,30 @@
   "events": [
     {
       "name": "Prototype Showcase",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
-      "venue": "Civil Straight and request to put up stalls for other activities we have planned",
+      "date": "28th Aug",
+      "time": "1st Half",
+      "venue": "Civil Straight Road",
       "detail": "Running the car infront of the civil straight in a controlled environment while following all safety protocols."
     },
     {
       "name": "Workshop tour",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
-      "venue": "Civil Straight and request to put up stalls for other activities we have planned",
+      "date": "28th Aug",
+      "time": "1st Half",
+      "venue": "Civil Straight Road",
       "detail": "Display of our projects and an interactive session and a general tour of the Ashwa Racing workshop"
     },
     {
       "name": "Pit-stop challenge",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
-      "venue": "Civil Straight and request to put up stalls for other activities we have planned",
+      "date": "28th Aug",
+      "time": "1st Half",
+      "venue": "Civil Straight Road",
       "detail": "Group of students compete with each other to swap the tyres of the car the quickest."
     },
     {
       "name": "Reflex Rampage",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
-      "venue": "Civil Straight and request to put up stalls for other activities we have planned",
+      "date": "28th Aug",
+      "time": "1st Half",
+      "venue": "Civil Straight Road",
       "detail": "Compete with other students for the quickest reaction time challenge"
     }
   ],

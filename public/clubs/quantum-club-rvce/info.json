@@ -10,7 +10,7 @@
   "lead": "Student Lead",
   "email": "Suchir D - 8762463439 Nireeksha - 6361354198",
   "instagram": "@anoraniya_rvce",
-  "venue": "Chemical Engineering Seminar Hall",
+  "venue": "Chemical Seminar Hall",
   "images": [
     "/clubs/quantum-club-rvce/images/screenshot-2026-08-17-113419.png",
     "/clubs/quantum-club-rvce/images/screenshot-2026-08-17-113434.png"
@@ -18,30 +18,30 @@
   "events": [
     {
       "name": "Technical showcase",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
-      "venue": "Chemical Engineering Seminar Hall",
+      "date": "29th Aug",
+      "time": "2nd Half",
+      "venue": "Chemical Seminar Hall",
       "detail": "An interactive showcase of innovative student projects, working prototypes, research initiatives, and technical achievements. Participants will get an opportunity to explore real engineering and scientific applications through demonstrations, exhibits, and discussions with the teams behind the projects. The showcase will highlight interdisciplinary work across quantum technology, electronics, robotics, materials science, AI, and scientific instrumentation."
     },
     {
       "name": "Interactive Science & Quantum Experiment",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
-      "venue": "Chemical Engineering Seminar Hall",
+      "date": "29th Aug",
+      "time": "2nd Half",
+      "venue": "Chemical Seminar Hall",
       "detail": "A hands-on science and quantum experience designed to make complex scientific concepts engaging and accessible. Participants will take part in thought experiments, scientific riddles, interactive demonstrations, and hands-on challenges exploring the fascinating possibilities of the quantum world. Participants will earn points through challenges and compete on a leaderboard, encouraging curiosity, problem-solving, and scientific thinking."
     },
     {
       "name": "Laser Communication Challenge",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
-      "venue": "Chemical Engineering Seminar Hall",
+      "date": "29th Aug",
+      "time": "2nd Half",
+      "venue": "Chemical Seminar Hall",
       "detail": "An interactive optical communication challenge where participants use a laser-based communication system to transmit and decode messages. Inspired by Morse code, participants will learn how information can be encoded into light signals and attempt to decode hidden messages using an optical communication setup. The activity combines physics, communication technology, and problem-solving in a fun competitive format."
     },
     {
       "name": "Escape Quantum Lab",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
-      "venue": "Chemical Engineering Seminar Hall",
+      "date": "29th Aug",
+      "time": "2nd Half",
+      "venue": "Chemical Seminar Hall",
       "detail": "A 30-minute immersive scientific escape-room challenge. An experiment in the Quantum Lab has gone wrong, and participants must work as a team to restore the system and unlock the final solution before time runs out. Teams will solve a series of scientific puzzles, decode clues, perform experimental challenges, and apply concepts from physics and quantum science to progress through the lab. The activity combines teamwork, logical reasoning, experimentation, and time-based problem-solving."
     }
   ],

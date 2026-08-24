@@ -18,31 +18,31 @@
   "events": [
     {
       "name": "Meet the Machine",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
+      "date": "29th Aug",
+      "time": "2nd Half",
       "venue": "BT217 Classroom",
-      "detail": "Before anything else, come see what we actually build. This session is a walkthrough of Team Helios Racing and GT27, our current eBAJA vehicle - the systems that go into it, the subsystems the team is divided into, and what it actually takes to get a car onto the track. Consider it your first look under the hood of the club: no jargon overload, just a straight introduction to who we are, what we're building, and where you'd fit in."
+      "detail": "Before anything else, come see what we actually build. This session is a walkthrough of Team Helios Racing and GT27, our current eBAJA vehicle - the systems that go into it, the subsystems the team is divided into, and what it actually takes to get a car onto the track. Consider it your first look under the hood of the club."
     },
     {
       "name": "The Helios Trails",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
+      "date": "29th Aug",
+      "time": "2nd Half",
       "venue": "BT217 Classroom",
-      "detail": "This activity is a fast-paced, Squid Game-inspired engineering relay race where teams of 5 to 6 compete to solve four technical challenges in the shortest time. To build teamwork and strategy, members must navigate the course in the shortest time possible and strategically delegate exactly one specialist to tackle each puzzle."
+      "detail": "This activity is a fast-paced, Squid Game-inspired engineering relay race where teams of 4-5 compete to solve four technical challenges in the shortest time. To build teamwork and strategy, members must navigate the course in the shortest time possible and strategically delegate exactly one specialist to tackle each puzzle."
     },
     {
       "name": "Assembly Line",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
+      "date": "29th Aug",
+      "time": "2nd Half",
       "venue": "BT217 Classroom",
-      "detail": "This high-speed, pit-crew style challenge tests teamwork, precision, and technical efficiency as teams split up to race against the clock. While one half of the team races to mount and secure the tires onto the chassis, the other half takes on the intricate task of assembling the gearbox. The team that demonstrates the best coordination and clocks the absolute fastest combined assembly time takes the win"
+      "detail": "This high-speed, pit-crew style challenge tests teamwork, precision, and technical efficiency as teams split up to race against the clock. While one half of the team races to mount and secure the tires onto the chassis, the other half takes on the intricate task of assembling the gearbox. The team that demonstrates the best coordination and clocks the absolute fastest combined assembly time takes the win."
     },
     {
       "name": "Baja Beyond Borders",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
+      "date": "29th Aug",
+      "time": "2nd Half",
       "venue": "BT217 Classroom",
-      "detail": "Teams are given a random challenge card with a unique environment or mission. They have 2–3 minutes to brainstorm how they would redesign the Helios Baja car to survive that scenario. Afterward, each team gives a 1-minute pitch explaining their design."
+      "detail": "Teams are given a random challenge card with a unique environment or mission. They have 10-15 minutes to brainstorm how they would redesign the Helios Baja car to survive that scenario. Afterward, each team gives a 5 minute pitch explaining their design"
     }
   ],
   "division": "Racing & Automotive",

@@ -2,7 +2,7 @@
   "id": "sattva",
   "name": "Sattva",
   "shortName": "SAT",
-  "category": "Technical",
+  "category": "Non-Technical",
   "description": "\"Every artist was first an amateur.\" — Ralph Waldo Emerson\n\nThat's exactly what our art club is built on. It's not just a place to make art, it's a place to figure yourself out while doing it. We're split into two sides, visual arts and liberal arts, but honestly the lines blur all the time because that's the whole point: everyone's welcome to try a bit of everything. What we love most is the people. We've got some seriously talented folks in here, but more than that, we've built a safe, creative space where people actually open up through poems, through conversations, through just sitting together and creating something. It shows up in our group chats and in quiet moments at the park just as much as it does in our art. If you're someone who wants to create, explore who you are a little more, and be around people who get it, come find us. We'd love to have you.\nCREATED TO CREATE!",
   "color": "#d9ebe3",
   "accent": "#3d6d5a",
@@ -10,7 +10,7 @@
   "lead": "Student Lead",
   "email": "7499149574 (Sanika K) 9741255433 (Pranet V)",
   "instagram": "@sattva.rvce",
-  "venue": "BT217 Classroom",
+  "venue": "ET Seminar Hall",
   "images": [
     "/clubs/sattva/images/20251206-123338.jpg",
     "/clubs/sattva/images/img-20251206-wa0051-1.jpg"
@@ -18,30 +18,30 @@
   "events": [
     {
       "name": "Pictorial Chinese Whisper",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
-      "venue": "BT217 Classroom",
+      "date": "28th Aug",
+      "time": "1st Half",
+      "venue": "ET Seminar Hall",
       "detail": "Instead of having people pass a long expression, we let them pass a picture via each person drawing."
     },
     {
       "name": "Starter pack",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
-      "venue": "BT217 Classroom",
+      "date": "28th Aug",
+      "time": "1st Half",
+      "venue": "ET Seminar Hall",
       "detail": "We have a standard template that everyone fills it with their own unique elements"
     },
     {
       "name": "Back where we started",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
-      "venue": "BT217 Classroom",
+      "date": "28th Aug",
+      "time": "1st Half",
+      "venue": "ET Seminar Hall",
       "detail": "Write a pice or story or poem where the first and last lines are the same"
     },
     {
       "name": "Dream Author",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
-      "venue": "BT217 Classroom",
+      "date": "28th Aug",
+      "time": "1st Half",
+      "venue": "ET Seminar Hall",
       "detail": "Write the summary of your dream novel or book if you were a famous author"
     }
   ],

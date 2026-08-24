@@ -10,7 +10,7 @@
   "lead": "Student Lead",
   "email": "7259224222- Nidhi, 9632361789-Nithyasree",
   "instagram": "@rvce_wic_insidercircle",
-  "venue": "ISE 110",
+  "venue": "ISE Seminar Hall",
   "images": [
     "/clubs/rvce-women-in-cloud-insider-circle/images/photo-2024-11-21-08-53-58-1.jpeg",
     "/clubs/rvce-women-in-cloud-insider-circle/images/photo-2025-04-16-16-29-03-1.jpeg"
@@ -18,30 +18,30 @@
   "events": [
     {
       "name": "Networking Nexus",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
-      "venue": "ISE 110",
+      "date": "29th Aug",
+      "time": "1st Half",
+      "venue": "ISE Seminar Hall",
       "detail": "An interactive session on building a strong professional network, with a focus on effective LinkedIn profiles, personal branding, meaningful connections, and leveraging LinkedIn for career and internship opportunities."
     },
     {
       "name": "Introduction to Cloud and Internships",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
-      "venue": "ISE 110",
+      "date": "29th Aug",
+      "time": "1st Half",
+      "venue": "ISE Seminar Hall",
       "detail": "An introductory session on cloud computing, its industry applications, and how students can explore internship opportunities in the cloud domain."
     },
     {
       "name": "Vision 2030- From Freshman to Final Year",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
-      "venue": "ISE 110",
+      "date": "29th Aug",
+      "time": "1st Half",
+      "venue": "ISE Seminar Hall",
       "detail": "A guidance session helping students plan their academic and professional journey from freshman year to final year, with a focus on skills, opportunities, and career growth."
     },
     {
       "name": "From Pen to Publish",
-      "date": "Aug 28",
-      "time": "Showcase Day 1",
-      "venue": "ISE 110",
+      "date": "29th Aug",
+      "time": "1st Half",
+      "venue": "ISE Seminar Hall",
       "detail": "A session introducing students to the research and publication process, covering how to develop ideas, write research papers, and successfully publish them."
     }
   ],

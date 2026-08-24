@@ -10,7 +10,7 @@
   "lead": "Student Lead",
   "email": "7483225964/ 7975828533",
   "instagram": "@team.dhi",
-  "venue": "ISE Seminar Hall",
+  "venue": "No Event",
   "images": [
     "/clubs/team-dhi/images/img-20260524-wa0060-1.jpg",
     "/clubs/team-dhi/images/img-20260524-wa0067-1.jpg"
@@ -18,23 +18,23 @@
   "events": [
     {
       "name": "Prompt Wars",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
-      "venue": "ISE Seminar Hall",
+      "date": "Aug 28/29",
+      "time": "Showcase",
+      "venue": "No Event",
       "detail": "Teams compete to solve increasingly difficult challenges using only prompts under strict constraints like word limits, banned keywords, or zero follow-up attempts. Participants learn prompt engineering, context management, and the limitations of LLMs."
     },
     {
       "name": "The Human Neural Network",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
-      "venue": "ISE Seminar Hall",
+      "date": "Aug 28/29",
+      "time": "Showcase",
+      "venue": "No Event",
       "detail": "A zero-code game, where the audience are turned into a living, breathing AI brain! Freshers will be divided into Input, Hidden, and Output layers to pass, filter, and process secret data. They'll experience firsthand how a neural network learns from its mistakes, adapts, and makes decisions - all through a chaotic, fast-paced race against the clock. No coding required, just pure logic and teamwork!"
     },
     {
       "name": "Copilot",
-      "date": "Aug 29",
-      "time": "Showcase Day 2",
-      "venue": "ISE Seminar Hall",
+      "date": "Aug 28/29",
+      "time": "Showcase",
+      "venue": "No Event",
       "detail": "A practical introduction showing freshers how artificial intelligence isn't a shortcut, but a mandatory power tool for learning, debugging, and solving complex problems in modern engineering."
     }
   ],
