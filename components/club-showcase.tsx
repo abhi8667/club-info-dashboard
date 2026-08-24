@@ -122,6 +122,11 @@ export const DIVISION_META: { [key: string]: DivisionMeta } = {
 
 function ClubMark({ club, large = false }: { club: Club; large?: boolean }) {
   const [hasError, setHasError] = useState(false)
+
+  useEffect(() => {
+    setHasError(false)
+  }, [club.logo, club.id])
+
   const showLogo = club.logo && !hasError
 
   return (
@@ -136,6 +141,7 @@ function ClubMark({ club, large = false }: { club: Club; large?: boolean }) {
     >
       {showLogo ? (
         <img 
+          key={club.logo}
           src={club.logo} 
           alt={`${club.shortName} logo`} 
           onError={() => setHasError(true)}
