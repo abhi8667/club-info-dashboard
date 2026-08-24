@@ -12,7 +12,10 @@
   "email": "Vishal- 7204414960, Sharanya-7892047564",
   "instagram": "@carv_english",
   "venue": "ISE Seminar Hall",
-  "images": [],
+  "images": [
+    "/clubs/carv-english/images/carv-showcase-1.jpeg",
+    "/clubs/carv-english/images/carv-showcase-2.jpeg"
+  ],
   "events": [
     {
       "name": "Theater Play Showcase",
@@ -42,5 +45,6 @@
       "venue": "ISE Seminar Hall",
       "detail": "Theater based quizzes and interactive games."
     }
-  ]
+  ],
+  "logo": "/clubs/carv-english/logo.jpeg"
 }

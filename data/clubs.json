@@ -192,7 +192,10 @@
     "email": "Vishal- 7204414960, Sharanya-7892047564",
     "instagram": "@carv_english",
     "venue": "ISE Seminar Hall",
-    "images": [],
+    "images": [
+      "/clubs/carv-english/images/carv-showcase-1.jpeg",
+      "/clubs/carv-english/images/carv-showcase-2.jpeg"
+    ],
     "events": [
       {
         "name": "Theater Play Showcase",
@@ -222,7 +225,8 @@
         "venue": "ISE Seminar Hall",
         "detail": "Theater based quizzes and interactive games."
       }
-    ]
+    ],
+    "logo": "/clubs/carv-english/logo.jpeg"
   },
   {
     "id": "carv-hindi",
@@ -789,10 +793,8 @@
     "instagram": "@ncc_rvce",
     "venue": "No Event",
     "images": [
-      "https://lh3.googleusercontent.com/d/1ql2BIVWzpBTNsuNxC2x3DaAAHRWiGL0Z",
-      "https://lh3.googleusercontent.com/d/1i97Rxsxa4mg8ZMwVw78rlKW5vyXsbu4d",
-      "https://lh3.googleusercontent.com/d/1pscaEDnYh_nMT2Z3Iinm-JbsGgIEn9u_",
-      "https://lh3.googleusercontent.com/d/1vXKImd4i8CUh3SfOrkIx-ute8NmOtJw7"
+      "/clubs/ncc-rvce/images/NCC1.jpeg",
+      "/clubs/ncc-rvce/images/NCC2.jpeg"
     ],
     "events": [
       {
@@ -824,7 +826,7 @@
         "detail": "No Event"
       }
     ],
-    "logo": "https://lh3.googleusercontent.com/d/18ZU-Ii7dvF4-tFgEDomHj3tUCvLsrD65"
+    "logo": "/clubs/ncc-rvce/logo.png"
   },
   {
     "id": "nss-rvce",
